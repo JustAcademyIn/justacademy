@@ -30,7 +30,7 @@ There are many options available today for learning Java, but the best course wo
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                     
-[Best Java Training Institute In Mumbai](https://www.linkedin.com/pulse/best-java-training-institute-mumbai-justacademy-sunnyvale-84dne?trackingId=fnnTgZd%2Ffxo8zO%2BVtFgRLA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B84%2Br3TF5Sai5zePv40hxgg%3D%3D)
+[Best Java Training Institute In Mumbai](https://www.linkedin.com/pulse/best-java-training-institute-mumbai-justacademy-sunnyvale-84dne?trackingId=fnnTgZd%2Ffxo8zO%2BVtFgRLA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B84%2Br3TF5Sai5zePv40hxgg%3D%3D) \n
 [Microsoft Azure Cloud Pc](https://www.linkedin.com/pulse/microsoft-azure-cloud-pc-justacademy-delhi-zfzxc?trackingId=I34yuSIwXB7ze0MJyIRmxg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bk8IJzSQ1SgaTocSNLknCMQ%3D%3D)
 [Html Developer Course](https://medium.com/@mahi3106/html-developer-course-a71423c6da7f)
 [Photoshop 2021 Essential Training The Basics](https://medium.com/@namusn/photoshop-2021-essential-training-the-basics-66ff8634d132)
