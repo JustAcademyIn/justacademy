@@ -30,15 +30,15 @@ Software testing courses fees can vary greatly depending on factors such as the 
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Java Training Institutes In Bangalore Near Marathahalli](https://www.linkedin.com/pulse/java-training-institutes-bangalore-near-marathahalli-42q3f?trackingId=ZTA3W4nKwHRUFHEot50tig%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BonfNNyQQRXKvud4lFfnrRQ%3D%3D)
+[Top 15 Software Testing Institutes In Pune](https://www.linkedin.com/pulse/top-15-software-testing-institutes-pune-justacademy-san-jose-kzorf?trackingId=2hPcv6n%2B%2BxTR7ZCEXeslpw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BNvzTf3fnQO%2BVBqBGA8b0%2Bw%3D%3D)
 
-[Cloud Computing Free Online Courses](https://www.linkedin.com/pulse/cloud-computing-free-online-courses-justacademy-boston-ebxdc?trackingId=paAOMjx3O7i%2BomnsQUfSjQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BkPVrWTfFTkmAnpxdswF1RA%3D%3D)
+[Creation App](https://www.linkedin.com/pulse/creation-app-justacademy-ahmedabad-49ere?trackingId=xWOQjg67BoRo34bfrAQ7DA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BaDgp3xTAQPe9zxsqrS35EA%3D%3D)
 
-[Full Stack Developer Course Tutorial](https://medium.com/@akanshapatil/full-stack-developer-course-tutorial-2222453d6cf2)
+[Best Html Css Javascript Course Online](https://medium.com/@akanshapatil/best-html-css-javascript-course-online-8c8cf09aa43e)
 
-[Developing Android Apps With Kotlin Udacity](https://medium.com/@shivamja27/developing-android-apps-with-kotlin-udacity-318dc6a26932)
+[Java Training Institute In New Delhi](https://medium.com/@negishivu99/java-training-institute-in-new-delhi-ca37e4da39c6)
 
-[Learn Press](https://justacademyin.github.io/Articles/Learn-Press)
+[Entry Level Full Stack Developer](https://justacademyin.github.io/Articles/Entry-Level-Full-Stack-Developer)
 
-[Full Stack Javascript Tutorial](https://justacademyin.github.io/Articles/Full-Stack-Javascript-Tutorial)
+[Software Testing Institute](https://justacademyin.github.io/justacademy/Software-Testing-Institute)
 

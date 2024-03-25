@@ -30,15 +30,15 @@ Full Stack Java Developer Course Free is a comprehensive training program that e
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Mean In Coding](https://www.linkedin.com/pulse/mean-coding-justacademy-chennai-xsgve?trackingId=n6%2B%2Bd6Uq30lvJkySj53xMg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BY%2BEec76oRFK6%2FI%2F%2BB9X%2Fdw%3D%3D)
+[Pmp Certification Mumbai](https://www.linkedin.com/pulse/pmp-certification-mumbai-justacademy-kolkata-cpbre?trackingId=h5GrMBOWgQIJHCP656J3pw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bk9oA%2BVOQTPioabiM45wXSA%3D%3D)
 
-[Flutter Full Course Free](https://www.linkedin.com/pulse/flutter-full-course-free-justacademy-beangaluru-uyyxc/)
+[Sap Sd Module Course Content](https://www.linkedin.com/pulse/sap-sd-module-course-content-justacademy-chandigarh-uwute?trackingId=OBLMVA7Pgw8v1kjw7Wq8KA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BXEu5pmfJRhGyaD1FCv74Lw%3D%3D)
 
-[Adobe Photoshop Elements Training Courses](https://medium.com/@surajvaishnav5015/adobe-photoshop-elements-training-courses-f50d6ddcea22)
+[Java Tutor](https://medium.com/@ranepooja/java-tutor-d94edf8aa1f9)
 
-[Best Web Development Course Reddit](https://medium.com/@abhidnya.1068/best-web-development-course-reddit-7912e2b76886)
+[Full Form Of Python](https://medium.com/@ranemanish460/full-form-of-python-d2a42f324c91)
 
-[Online Marketing Kurser](https://justacademyin.github.io/Articles/Online-Marketing-Kurser)
+[Flutter Install](https://justacademyin.github.io/Articles/Flutter-Install)
 
-[Angular Developer](https://justacademyin.github.io/Articles/Angular-Developer)
+[Javascript Full Stack Tutorial](https://justacademyin.github.io/Articles/Javascript-Full-Stack-Tutorial)
 

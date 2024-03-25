@@ -30,15 +30,15 @@ The best software testing institute in Bangalore offers comprehensive and advanc
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Advanced Java Training Institute In Delhi](https://www.linkedin.com/pulse/advanced-java-training-institute-delhi-w4z2e?trackingId=m2Cmrfcoa7pBrTEH4HxITQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B8iJAXExGSpWzkSgodJb9Bg%3D%3D)
+[Android Development Kotlin Course](https://www.linkedin.com/pulse/android-development-kotlin-course-justacademy-mumbai-9vyqf/)
 
-[Online Software Testing Courses](https://www.linkedin.com/pulse/online-software-testing-courses-justacademy-ahmedabad-d5lze?trackingId=ZSuDlsSTOOH3C5ftnvp2TQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BBLvwE5WSQ1yNRcYM20AJ%2Fw%3D%3D)
+[Kotlin Android Certification](https://www.linkedin.com/pulse/kotlin-android-certification-justacademy-jvfgf/)
 
-[Free Photoshop Training](https://medium.com/@namusn/free-photoshop-training-77e0f30a46a5)
+[Figma Careers](https://medium.com/@prempja40/figma-careers-872f65f2a3f0)
 
-[Advanced Abap Programming For Sap](https://medium.com/@abhidnya.1068/advanced-abap-programming-for-sap-821b50faaa78)
+[Best Flutter Online Course](https://medium.com/@prempja40/best-flutter-online-course-7f868cb40bb3)
 
-[Full Stack App Developer](https://justacademyin.github.io/Articles/Full-Stack-App-Developer)
+[Web Stack Developer](https://justacademyin.github.io/Articles/Web-Stack-Developer)
 
-[Digital Marketing Institutes](https://justacademyin.github.io/Articles/Digital-Marketing-Institutes)
+[Java Course In Madurai](https://justacademyin.github.io/justacademy/Java-Course-In-Madurai)
 

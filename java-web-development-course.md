@@ -30,15 +30,15 @@ Java Web Development is a course that focuses on developing web applications usi
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Automation Software Testing Course](https://www.linkedin.com/pulse/automation-software-testing-course-justacademy-thane-ggfyc?trackingId=lsCwE4QKoOwpzogjVfQPvA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B8x4oZRFoSmO4CZ5ThOfedg%3D%3D)
+[Best Java Training Institute In Bhubaneswar](https://www.linkedin.com/pulse/best-java-training-institute-bhubaneswar-nuehe?trackingId=%2FlRkVTgWdTtxrLksG5hVEA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Buc3eZLF6QYysxJ31cjrhRA%3D%3D)
 
-[Pmp Certification Eligibility](https://www.linkedin.com/pulse/pmp-certification-eligibility-justacademy-mumbai-3yhvc?trackingId=kIfFX1XE3sQNeL6VQzuKtw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_showcase_admin%3BQONBiiZYS52%2BUVT4s6K24g%3D%3D)
+[React Js Tutorial In Hindi](https://www.linkedin.com/pulse/react-js-tutorial-hindi-justacademy-brisbane-evore?trackingId=wZ1p8w%2B%2FlGtD8acKaPh2Tg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B5cPDORNwQlqWF%2BECY5%2Fsgw%3D%3D)
 
-[Tutorialspoint Java](https://medium.com/@namusn/tutorialspoint-java-98ce36b7a79a)
+[Best Way To Learn Abap](https://medium.com/@prempja40/best-way-to-learn-abap-d05a9f838129)
 
-[Photoshop Learning Course Free](https://medium.com/@negishivu99/photoshop-learning-course-free-a0819a0178b5)
+[Azure Elasticsearch Tutorial](https://medium.com/@kumarishimmi99/azure-elasticsearch-tutorial-6b7c8f27d525)
 
-[SAP MM Training](https://justacademyin.github.io/Articles/SAP-MM-Training)
+[SAP MM Online Training](https://justacademyin.github.io/Articles/SAP-MM-Online-Training)
 
-[Html Course Udemy](https://justacademyin.github.io/Articles/Html-Course-Udemy)
+[Best Course To Learn Javascript](https://justacademyin.github.io/Articles/Best-Course-To-Learn-Javascript)
 

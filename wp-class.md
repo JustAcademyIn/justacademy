@@ -26,15 +26,15 @@ The WP Class is a versatile and powerful tool in WordPress that allows developer
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Flutter Development Course Free](https://www.linkedin.com/pulse/flutter-development-course-free-justacademy-beangaluru-arhzc/)
+[Php Certification Free](https://www.linkedin.com/pulse/php-certification-free-justacademy-berlin-mmx2e?trackingId=Y7GzCklTFKd3ZdshToWz7A%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BWtIq9U3gRByMpXlbn9mh%2Bw%3D%3D)
 
-[Android App Development Tutorial Free](https://www.linkedin.com/pulse/android-app-development-tutorial-free-justacademy-beangaluru-0ovbc/)
+[Android Developer Full Course](https://www.linkedin.com/pulse/android-developer-full-course-justacademy-pune-fncvf/)
 
-[Full Stack Software Development Course](https://medium.com/@prempja40/full-stack-software-development-course-5351819cdde2)
+[Azure Iot Tutorial](https://medium.com/@mistersumit961/azure-iot-tutorial-e06fecb4d9ca)
 
-[Pmp Or Capm](https://medium.com/@kamblerajas684/pmp-or-capm-6477d9dc40c2)
+[Best Software Testing Certification](https://medium.com/@surajvaishnav5015/best-software-testing-certification-3a8d39b28d72)
 
-[Full Stack Javascript Developer](https://justacademyin.github.io/Articles/Full-Stack-Javascript-Developer)
+[Best Course To Learn Java](https://justacademyin.github.io/justacademy/Best-Course-To-Learn-Java)
 
-[Angular Front End Developer](https://justacademyin.github.io/Articles/Angular-Front-End-Developer)
+[Road Map Full Stack Developer](https://justacademyin.github.io/Articles/Road-Map-Full-Stack-Developer)
 

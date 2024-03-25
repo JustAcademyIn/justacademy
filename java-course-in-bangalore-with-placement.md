@@ -29,15 +29,15 @@ Java courses in Bangalore with placement are designed to train students in all a
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Flutter Framework Tutorial](https://www.linkedin.com/pulse/flutter-framework-tutorial-justacademy-delhi-msgbc/)
+[Android Developer Course Free](https://www.linkedin.com/pulse/android-developer-course-free-justacademy-kolkata-ovxrc/)
 
-[S4 Hana Finance Certification](https://www.linkedin.com/pulse/s4-hana-finance-certification-software-training-sunnyvale-x9zpc/)
+[Intro Course](https://www.linkedin.com/pulse/intro-course-justacademy-berlin-60mne?trackingId=th8GEKnHkh5lhauGPfKclg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B2Ab1xX3KS6Grq8yqy2i6kQ%3D%3D)
 
-[Adobe Photoshop Training Course For Beginners](https://medium.com/@mahi3106/adobe-photoshop-training-course-for-beginners-03d62c256d9b)
+[Python Full Stack Developer Course](https://medium.com/@surajvaishnav5015/python-full-stack-developer-course-df2b08a27da6)
 
-[Best Pmp Exam Prep](https://medium.com/@AkashSingh2052/best-pmp-exam-prep-025be1c969dd)
+[Best Selenium With Java Online Training Institute In Hyderabad](https://medium.com/@roneet705/best-selenium-with-java-online-training-institute-in-hyderabad-6770d0904208)
 
-[Best Course To Learn Javascript](https://justacademyin.github.io/Articles/Best-Course-To-Learn-Javascript)
+[Java Language Course Fees](https://justacademyin.github.io/justacademy/Java-Language-Course-Fees)
 
-[SAP MM Course Syllabus](https://justacademyin.github.io/Articles/SAP-MM-Course-Syllabus)
+[Online Java Courses With Certificate Of Completion](https://justacademyin.github.io/justacademy/Online-Java-Courses-With-Certificate-Of-Completion)
 

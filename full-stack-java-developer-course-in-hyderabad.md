@@ -30,15 +30,15 @@ Full Stack Java Developer Course in Hyderabad is a comprehensive training progra
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Modules In React Js](https://www.linkedin.com/pulse/modules-react-js-justacademy-houston-gqhdf?trackingId=ZD9SxhhflOgEdhoY6zmnnw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B5RzDF0CIQxuDMHcL3MgYhA%3D%3D)
+[Best Seo Courses London](https://www.linkedin.com/pulse/best-seo-courses-london-justacademy-portland-ffv2f?trackingId=LFOFuLPbpyf9r923f2S0eQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B4wvQoxRzQS6F4YizGcy96A%3D%3D)
 
-[Freecodecamp Php Course](https://www.linkedin.com/pulse/freecodecamp-php-course-justacademy-mumbai-jr91c?trackingId=UE%2BP69UCaWtobWphm7LweQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_showcase_admin%3BrO72kZqIQGOMCosqCkrMnA%3D%3D)
+[SAP Mm Course Details](https://www.linkedin.com/pulse/sap-mm-course-details-justacademy-beangaluru-xbbvf/)
 
-[Azure Cloud Tutorial](https://medium.com/@negishivu99/azure-cloud-tutorial-4d4854439990)
+[Figma To Wordpress](https://medium.com/@mahi3106/figma-to-wordpress-101ce7aab4aa)
 
-[Azure Synapse Tutorial](https://medium.com/@ranepooja/azure-synapse-tutorial-2c4c068968ad)
+[Pmp Learner Kit](https://medium.com/@prempja40/pmp-learner-kit-9f7ef6da392f)
 
-[Full Stack Engineer](https://justacademyin.github.io/Articles/Full-Stack-Engineer)
+[Angular Developer Skills](https://justacademyin.github.io/Articles/Angular-Developer-Skills)
 
-[Learn Mern Stack](https://justacademyin.github.io/Articles/Learn-Mern-Stack)
+[SAP MM Online Course](https://justacademyin.github.io/Articles/SAP-MM-Online-Course)
 

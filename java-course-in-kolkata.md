@@ -30,15 +30,15 @@ Java Course in Kolkata is a comprehensive training program that equips students 
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Php Developer Course Online Free](https://www.linkedin.com/pulse/php-developer-course-online-free-software-training-sunnyvale-jfmvc?trackingId=QocKSMaDAZn%2FnMnS6qxR3w%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bps8c9B%2FKRMCWHgOgNCOx7w%3D%3D)
+[Java Training Institutes In Uk](https://www.linkedin.com/pulse/java-training-institutes-uk-justacademy-birmingham-m7fsf?trackingId=TQOLvd8WYM3UW%2BhfJ6DmIg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bc4oWIBxNQ3mB3696rH77hw%3D%3D)
 
-[Android Programming With Kotlin For Beginners](https://www.linkedin.com/pulse/android-programming-kotlin-beginners-justacademy-beangaluru-rixqc/)
+[Java Training Institute](https://www.linkedin.com/pulse/java-training-institute-software-training-sunnyvale-3z3me?trackingId=yaI%2B89ShqgolqsD5F3GFiQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BPMbi7PJsSrOfOFf5jCv3gg%3D%3D)
 
-[Free Photoshop Certificate Course](https://medium.com/@AkashSingh2052/free-photoshop-certificate-course-642d601e8120)
+[Java Certification Training Institutes In Hyderabad](https://medium.com/@ranemanish460/java-certification-training-institutes-in-hyderabad-4bae35e837cd)
 
-[Python Course Free With Certificate](https://medium.com/@surajvaishnav5015/python-course-free-with-certificate-7fbe66de7e83)
+[Programming Language Classes Near Me](https://medium.com/@sagarawat89/programming-language-classes-near-me-80e13dad6285)
 
-[SAP MM Training In Gurgaon](https://justacademyin.github.io/Articles/SAP-MM-Training-In-Gurgaon)
+[Best Course For Javascript](https://justacademyin.github.io/Articles/Best-Course-For-Javascript)
 
-[Best Free Javascript Course](https://justacademyin.github.io/Articles/Best-Free-Javascript-Course)
+[Java W3](https://justacademyin.github.io/Articles/Java-W3)
 

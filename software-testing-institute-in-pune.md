@@ -30,15 +30,15 @@ Software Testing Institute in Pune provides specialized training and certificati
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Pmp Course In Chennai](https://www.linkedin.com/pulse/pmp-course-chennai-justacademy-mumbai-rqboc?trackingId=acGaceYc6%2ByJNA12tvR15w%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_showcase_admin%3B4hzOhjOyRsS4BMzXWRzbRw%3D%3D)
+[Java Training Institute In Thanjavur](https://www.linkedin.com/pulse/java-training-institute-thanjavur-justacademy-bay-area-fvvxe?trackingId=Peg2KuDe7QENmn2WaJ5xng%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BHcd7BaCMQFaWbBih5QcMnA%3D%3D)
 
-[Best Software Testing Institute In Bangalore](https://www.linkedin.com/pulse/best-software-testing-institute-bangalore-justacademy-sunnyvale-h7oqc/)
+[Asp Net Basic Programs](https://www.linkedin.com/pulse/asp-net-basic-programs-justacademy-boston-6jpyc?trackingId=8aF1iXZSIShlBbaUNqo2BA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BA1nZ1nP9T4epQeiwVmNY3A%3D%3D)
 
-[Free Pmp Courses](https://medium.com/@justacademytraining/free-pmp-courses-5711596c6dbc)
+[Complete Photoshop Course](https://medium.com/@kumarishimmi99/complete-photoshop-course-f4c00f1a6993)
 
-[Python Bootcamp](https://medium.com/@surajvaishnav5015/python-bootcamp-837d1107d738)
+[Advanced Flutter Tutorial](https://medium.com/@pzade254/advanced-flutter-tutorial-3fa81cbd866c)
 
-[Full Stack Developer Bootcamp Free](https://justacademyin.github.io/Articles/Full-Stack-Developer-Bootcamp-Free)
+[SAP MM Course Duration](https://justacademyin.github.io/Articles/SAP-MM-Course-Duration)
 
-[SAP MM Training Institute In Delhi](https://justacademyin.github.io/Articles/SAP-MM-Training-Institute-In-Delhi)
+[Master Js](https://justacademyin.github.io/Articles/Master-Js)
 

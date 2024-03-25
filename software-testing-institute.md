@@ -28,15 +28,15 @@ Software Testing Institute is an educational institute that is dedicated to prov
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[React Js Important Concepts](https://www.linkedin.com/pulse/react-js-important-concepts-justacademy-chicago-koxof?trackingId=%2F1%2FgL%2BHaw%2BFLTGOxmRhGnA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BXfdKLa%2BZRG%2B541nAJnPQxg%3D%3D)
+[Best Java Training Institutes In Hyderabad With 100 Placement](https://www.linkedin.com/pulse/best-java-training-institutes-hyderabad-100-placement-udine?trackingId=vMs9AGaib6MeAxxmAQ2sSA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BxzhODhyIS1OF3GFeJJCsZw%3D%3D)
 
-[Amazon Aws Tutorial](https://www.linkedin.com/pulse/amazon-aws-tutorial-justacademy-kolkata-njuae?trackingId=gqvT%2F4EXrq9OcHPZmUaqnA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BQDIjHgscSv%2BfE53RTIlzCA%3D%3D)
+[Mern Full Stack](https://www.linkedin.com/pulse/mern-full-stack-justacademy-boston-zjn9c/)
 
-[Java Training Institute In Pune](https://medium.com/@negishivu99/java-training-institute-in-pune-8b78b3ca35b5)
+[Sap Abap Learning Hub](https://medium.com/@shivamja27/sap-abap-learning-hub-1f48e2d062d6)
 
-[Kotlin Certification Course](https://medium.com/@ranepooja/kotlin-certification-course-6f472cb72867)
+[Stanford Python Course](https://medium.com/@shivamja27/stanford-python-course-565603c62127)
 
-[SAP MM Course Near Me](https://justacademyin.github.io/Articles/SAP-MM-Course-Near-Me)
+[Flutter Language](https://justacademyin.github.io/Articles/Flutter-Language)
 
-[SAP MM Module Online Course](https://justacademyin.github.io/Articles/SAP-MM-Module-Online-Course)
+[Learn Mern Stack](https://justacademyin.github.io/Articles/Learn-Mern-Stack)
 

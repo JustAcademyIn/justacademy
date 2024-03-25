@@ -40,15 +40,15 @@ Pune is one of the leading cities in India for software development and IT servi
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Automation Software Testing Course](https://www.linkedin.com/pulse/automation-software-testing-course-justacademy-thane-ggfyc?trackingId=lsCwE4QKoOwpzogjVfQPvA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B8x4oZRFoSmO4CZ5ThOfedg%3D%3D)
+[Advanced Java Institutes In Noida](https://www.linkedin.com/pulse/advanced-java-institutes-noida-justacademy-kolkata-ksnde?trackingId=of8YVxGgYg8hTPb6r1Qarw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BZ3buGVXtSt2MpOd2OMz6cQ%3D%3D)
 
-[Best Java J2ee Training Institute In Chennai](https://www.linkedin.com/pulse/best-java-j2ee-training-institute-chennai-justacademy-ylw1c?trackingId=rZyLI7qIq9yOW3m%2Fx9hB2g%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BkivWcGmHSBCkKNz13%2FsLDg%3D%3D)
+[Free Software Testing Course](https://www.linkedin.com/pulse/free-software-testing-course-justacademy-thane-vq9qc?trackingId=UTaVhuWQJTBJqipA7oxmVg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BSjJgDxHPQuqgadOjXouU%2FQ%3D%3D)
 
-[Photoshop Courses For Beginners](https://medium.com/@akanshapatil/photoshop-courses-for-beginners-29bc56df0aba)
+[Sap S 4 Hana Online Training](https://medium.com/@ranemanish460/sap-s-4-hana-online-training-8cdafcb3c0f8)
 
-[Photoshop Lightroom Course](https://medium.com/@justacademytraining/photoshop-lightroom-course-b9174323e518)
+[Pre Requisite For Python](https://medium.com/@akanshapatil/pre-requisite-for-python-e2582a4c1740)
 
-[Best Full Stack Web Dev Course](https://justacademyin.github.io/Articles/Best-Full-Stack-Web-Dev-Course)
+[Online Java Courses With Certificate Of Completion](https://justacademyin.github.io/justacademy/Online-Java-Courses-With-Certificate-Of-Completion)
 
-[SAP MM Training Institute In Faridabad](https://justacademyin.github.io/Articles/SAP-MM-Training-Institute-In-Faridabad)
+[Full Stack App Developer](https://justacademyin.github.io/Articles/Full-Stack-App-Developer)
 

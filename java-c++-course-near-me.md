@@ -30,15 +30,15 @@ Java and C++ are two popular programming languages used to develop software and 
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Best Core Java Training Institutes In Bangalore](https://www.linkedin.com/pulse/best-core-java-training-institutes-bangalore-justacademy-boston-2gnge?trackingId=Lxy6SxWF%2FUOZF4Lt0fkkGg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BC7wHxoojR%2FG%2BgYiTIGaekw%3D%3D)
+[Best Institute For Java Training In Hyderabad](https://www.linkedin.com/pulse/best-institute-java-training-hyderabad-justacademy-ahmedabad-ekwye?trackingId=urzpf1o9ECXfuZgTeEfV1g%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BBLvwE5WSQ1yNRcYM20AJ%2Fw%3D%3D)
 
-[Microsoft Azure Fundamentals Tutorial Pdf](https://www.linkedin.com/pulse/microsoft-azure-fundamentals-tutorial-pdf-justacademy-boston-3ksnc?trackingId=7A5L%2FWCMGgzz4rReXh1Tjw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BXwxjEqEYSnilOOgoWtEIiA%3D%3D)
+[Java Course In Bangalore With Placement](https://www.linkedin.com/pulse/java-course-bangalore-placement-justacademy-boston-rxd8c/)
 
-[Best Ways To Learn Java](https://medium.com/@namusn/best-ways-to-learn-java-061251c40edc)
+[Pmp Certification Free](https://medium.com/@negishivu99/pmp-certification-free-f1121dab866d)
 
-[Html Google Course](https://medium.com/@mahi3106/html-google-course-3e67181c8c4a)
+[Project Management Professional Course](https://medium.com/@AkashSingh2052/project-management-professional-course-90ea5b44185a)
 
-[Flutter For Angular Developers](https://justacademyin.github.io/Articles/Flutter-For-Angular-Developers)
+[Javascript Core](https://justacademyin.github.io/Articles/Javascript-Core)
 
-[SAP MM Training Institute In Delhi](https://justacademyin.github.io/Articles/SAP-MM-Training-Institute-In-Delhi)
+[SAP MM Module Training](https://justacademyin.github.io/Articles/SAP-MM-Module-Training)
 

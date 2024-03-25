@@ -30,15 +30,15 @@ Java course in Vizag is designed to provide an in-depth understanding of Java pr
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Laravel React Course](https://www.linkedin.com/pulse/laravel-react-course-justacademy-boston-pyfee?trackingId=u4WRWXk4fiLAhjrvoZN%2Bow%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BJZkpBKQJT0CqKHGVOkLUTQ%3D%3D)
+[Difference Between React Js And Node Js](https://www.linkedin.com/pulse/difference-between-react-js-node-justacademy-birmingham-n3h8f?trackingId=dR0kfju1HsG0khidfQ4KfA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B%2F1v6Q%2BY3Q3yYLraOs%2BoNCQ%3D%3D)
 
-[Digital Marketing Course San Diego](https://www.linkedin.com/pulse/digital-marketing-course-san-diego-justacademy-cupertino-boafc?trackingId=CBvHD3D1YII%2BW1h2r8T7gQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BzQv8YsYPTiCPDkVRvYwOog%3D%3D)
+[Software Testing Institutes In Bangalore](https://www.linkedin.com/pulse/software-testing-institutes-bangalore-justacademy-delhi-h7ndc/)
 
-[Is Pmp Certification Worth It](https://medium.com/@prempja40/is-pmp-certification-worth-it-d86cec04d775)
+[Photoshop Free Course For Beginners](https://medium.com/@justacademytraining/photoshop-free-course-for-beginners-ef1480a8302a)
 
-[Python Training Institute In Delhi](https://medium.com/@ranemanish460/python-training-institute-in-delhi-0b8ece6effd6)
+[Css In Python](https://medium.com/@mistersumit961/css-in-python-b1a954123460)
 
-[Js Tutorial](https://justacademyin.github.io/Articles/Js-Tutorial)
+[Mean Developer](https://justacademyin.github.io/Articles/Mean-Developer)
 
-[SAP MM Course Syllabus](https://justacademyin.github.io/Articles/SAP-MM-Course-Syllabus)
+[Mobile Web App Development Course](https://justacademyin.github.io/Articles/Mobile-Web-App-Development-Course)
 

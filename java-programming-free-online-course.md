@@ -30,15 +30,15 @@ Java Programming Free Online Course is an interactive and comprehensive program 
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Road Map Full Stack Developer](https://www.linkedin.com/pulse/road-map-full-stack-developer-justacademy-chennai-wdljc?trackingId=7juyouEObaay4C24zTXDBg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BjPw0ei4cQfe0InHd%2FK206Q%3D%3D)
+[React Vs Angular Which Is Easy To Learn](https://www.linkedin.com/pulse/react-vs-angular-which-easy-learn-justacademy-delhi-i7cdc?trackingId=VI%2FoEY%2FRVobjDyWMue6yLg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BwYu9zKHBRZajlu4pteaL6Q%3D%3D)
 
-[Best Coding Practices In Angular](https://www.linkedin.com/pulse/best-coding-practices-angular-justacademy-chennai-darbe?trackingId=fUgI4PtBWTEl1bohBE6JEw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BY%2BEec76oRFK6%2FI%2F%2BB9X%2Fdw%3D%3D)
+[Software Testing Course In Kochi](https://www.linkedin.com/pulse/software-testing-course-kochi-justacademy-thane-fymfc?trackingId=VsG3O%2BM3FMkz9rhJgWhLTA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BWw%2F%2F%2Fw1%2FSRCju0LBZ%2BbokA%3D%3D)
 
-[Learn Android App Development Step By Step](https://medium.com/@mistersumit961/learn-android-app-development-step-by-step-6088a9e9556d)
+[Full Stack Website Development Tutorial](https://medium.com/@shivamja27/full-stack-website-development-tutorial-3b3a17a77632)
 
-[Photoshop Learning Course](https://medium.com/@kumarishimmi99/photoshop-learning-course-397e16c96241)
+[Java Training Institute Patna Bihar](https://medium.com/@shivamja27/java-training-institute-patna-bihar-fd5ee08a9829)
 
-[Digital Marketing Fundamentals](https://justacademyin.github.io/Articles/Digital-Marketing-Fundamentals)
+[Django Vs React Vs Angular](https://justacademyin.github.io/Articles/Django-Vs-React-Vs-Angular)
 
-[Javascript Training](https://justacademyin.github.io/Articles/Javascript-Training)
+[Java Developer Course In Pune](https://justacademyin.github.io/justacademy/Java-Developer-Course-In-Pune)
 

@@ -27,15 +27,15 @@ Java C++ Course:
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Best Course To Learn Java](https://www.linkedin.com/pulse/best-course-learn-java-justacademy-hyderabad-gmvzc/)
+[React Js Full Stack](https://www.linkedin.com/pulse/react-js-full-stack-justacademy-jaipur-uahce?trackingId=Ey7%2FXnu%2FOltWvNOEjT6vRg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BzoGgv%2F2GTOq26q6ITzj9KQ%3D%3D)
 
-[Microsoft Azure Devops Training](https://www.linkedin.com/pulse/microsoft-azure-devops-training-justacademy-zcg3e?trackingId=N0jtRAEmaQ9y2jgSADekeA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BDtPVLJNkTC2k0tm5uH%2FP7w%3D%3D)
+[Java Programming Training Institutes In Bangalore](https://www.linkedin.com/pulse/java-programming-training-institutes-bangalore-fmgge?trackingId=LxWAo32VlLr9jv%2Fl0VcVSA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BihWdGtFLSGiUoHftbcLC7g%3D%3D)
 
-[Associate Android Developer Certification Preparat](https://medium.com/@namusn/associate-android-developer-certification-preparat-a6221240b5cb)
+[Getting Started With Azure Databricks](https://medium.com/@negishivu99/getting-started-with-azure-databricks-518cbd27dcb4)
 
-[Advanced Python Programming Tutorial](https://medium.com/@namusn/advanced-python-programming-tutorial-a574a88f32d9)
+[Adobe Photoshop Cc A Beginner To Advanced Photoshop Course](https://medium.com/@shivamja27/adobe-photoshop-cc-a-beginner-to-advanced-photoshop-course-d7536ca84f72)
 
-[Azure Basics For Beginners](https://justacademyin.github.io/Articles/Azure-Basics-For-Beginners)
+[Javascript Certification](https://justacademyin.github.io/Articles/Javascript-Certification)
 
-[Online Laravel Training](https://justacademyin.github.io/Articles/Online-Laravel-Training)
+[Java Course In Mysore](https://justacademyin.github.io/justacademy/Java-Course-In-Mysore)
 

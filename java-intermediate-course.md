@@ -30,15 +30,15 @@ Java Intermediate Course is designed for individuals who have basic knowledge of
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Full Stack Net Developer Course](https://www.linkedin.com/pulse/full-stack-net-developer-course-justacademy-stockport-nf7ce?trackingId=b2HC6rOYgKW4Sn6jUD9Wjw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bhrs%2FVe6MQa2w%2FxcFE4Py%2Fw%3D%3D)
+[Sap S4 Hana Training Online](https://www.linkedin.com/pulse/sap-s4-hana-training-online-justacademy-pune-rsulc/)
 
-[Top Cloud Computing Providers](https://www.linkedin.com/pulse/top-cloud-computing-providers-justacademy-mumbai-yuyyc?trackingId=VGdvQyXDYnJXLkwYzyzbxQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_showcase_admin%3BEsFdB2XdSWavw7Lqed%2FH2g%3D%3D)
+[Best Java Online Training Institutes](https://www.linkedin.com/pulse/best-java-online-training-institutes-justacademy-coimbatore-lxake?trackingId=DeoFKIfxgLmsVtNttgSdow%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BQ21fTVlsQ6eRatiOukp9mA%3D%3D)
 
-[Java Training Institutes](https://medium.com/@prempja40/java-training-institutes-75720ed9f68f)
+[Basic Html Training](https://medium.com/@prempja40/basic-html-training-4c0cf65495fd)
 
-[Full Android Development Course](https://medium.com/@mistersumit961/full-android-development-course-884f7e91e36d)
+[Training For Pmp](https://medium.com/@ranemanish460/training-for-pmp-c8415f2c64cb)
 
-[SAP MM Course In Bangalore](https://justacademyin.github.io/Articles/SAP-MM-Course-In-Bangalore)
+[Best Free Javascript Course](https://justacademyin.github.io/Articles/Best-Free-Javascript-Course)
 
-[Java Course In Vizag](https://justacademyin.github.io/Articles/Java-Course-In-Vizag)
+[SAP MM Institute Near Me](https://justacademyin.github.io/Articles/SAP-MM-Institute-Near-Me)
 

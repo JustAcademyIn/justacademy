@@ -29,15 +29,15 @@ Java Testing Course is a comprehensive training program that equips individuals 
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Java Script](https://www.linkedin.com/pulse/java-script-justacademy-coimbatore-xmrme?trackingId=F5XyU%2Ff5BPOvMMvcO6Pg8g%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3ByPDF5Pb2RH67jlf7LdyQxA%3D%3D)
+[Java Training Institutes In Rajajinagar Bangalore](https://www.linkedin.com/pulse/java-training-institutes-rajajinagar-bangalore-kw6qf?trackingId=alRTAuaw99Rcjznl9Mxzrg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B%2F1v6Q%2BY3Q3yYLraOs%2BoNCQ%3D%3D)
 
-[Php Backend Course](https://www.linkedin.com/pulse/php-backend-course-justacademy-san-jose-c0lbf?trackingId=I5pr1dTxYoUWpepV5lp5zQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BmFqei9z9R2q6luNOEZ8Z4A%3D%3D)
+[Software Training And Placement Institutes In Hyderabad](https://www.linkedin.com/pulse/software-training-placement-institutes-hyderabad-0dvqc?trackingId=L7VBnhGE0h66X3H%2B7SP4nA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BH6KMNh6EQhC0bc0MnOGqbQ%3D%3D)
 
-[Python Tutorial For Kids](https://medium.com/@prempja40/python-tutorial-for-kids-0de7326e0eb0)
+[Flutter Web App Tutorial](https://medium.com/@justacademytraining/flutter-web-app-tutorial-4c7ef2bcc028)
 
-[Html Coding Full Course](https://medium.com/@akanshapatil/html-coding-full-course-68ded6aade3d)
+[Digital Illustration Courses](https://medium.com/@mahi3106/digital-illustration-courses-efc601a700a8)
 
-[Digital Marketing Corporate Training](https://justacademyin.github.io/Articles/Digital-Marketing-Corporate-Training)
+[Full Stack Net Developer Tutorial](https://justacademyin.github.io/Articles/Full-Stack-Net-Developer-Tutorial)
 
-[SAP MM Institute Near Me](https://justacademyin.github.io/Articles/SAP-MM-Institute-Near-Me)
+[Javascript Training Courses](https://justacademyin.github.io/Articles/Javascript-Training-Courses)
 

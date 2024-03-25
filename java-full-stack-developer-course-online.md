@@ -30,15 +30,15 @@ Java Full Stack Developer Course is an online program designed to equip individu
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Android Development Free Course With Certificate](https://www.linkedin.com/pulse/android-development-free-course-certificate-justacademy-kolkata-ekj9c/)
+[Javascript Node Js](https://www.linkedin.com/pulse/javascript-node-js-justacademy-kolkata-vm7ae?trackingId=21EbvRaS%2FhUBzGr0jQeNtA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B57ggr4WVTUuBeEA%2FxPy55A%3D%3D)
 
-[Pmp Certification Cost](https://www.linkedin.com/pulse/pmp-certification-cost-justacademy-berlin-si51e?trackingId=w5LR2s%2BkbJwWOTMqoSvM%2BQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BTlJqsmxlRpm4BSTOQJNHnA%3D%3D)
+[Core Java Training Institutes In Kphb](https://www.linkedin.com/pulse/core-java-training-institutes-kphb-justacademy-berlin-byl1e?trackingId=ic5%2BQ11Jej6iMEtHui5w5w%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bjmi5U8HnRnGuyDtWTpE8KQ%3D%3D)
 
-[Performance Testing Certification Course](https://medium.com/@abhidnya.1068/performance-testing-certification-course-6ea32d47400e)
+[Android Beginner Course](https://medium.com/@akanshapatil/android-beginner-course-690234708c45)
 
-[Adobe Photoshop Cc Essentials Training Course](https://medium.com/@prempja40/adobe-photoshop-cc-essentials-training-course-11038c325531)
+[Pmp Training Cost](https://medium.com/@shivamja27/pmp-training-cost-7f7fa7d99312)
 
-[Full Stack Python Tutorial](https://justacademyin.github.io/Articles/Full-Stack-Python-Tutorial)
+[Road Map Full Stack Developer](https://justacademyin.github.io/Articles/Road-Map-Full-Stack-Developer)
 
-[SAP MM Course Details](https://justacademyin.github.io/Articles/SAP-MM-Course-Details)
+[SAP MM Module Training](https://justacademyin.github.io/Articles/SAP-MM-Module-Training)
 

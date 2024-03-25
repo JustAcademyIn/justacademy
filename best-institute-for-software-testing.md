@@ -30,15 +30,15 @@ The best institute for software testing should provide comprehensive training on
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Azure Technology Tutorial](https://www.linkedin.com/pulse/azure-technology-tutorial-justacademy-bay-area-woi9e?trackingId=kUfgtd32dYhg7iJF9QIRyw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BVfd8WVt8TwCvR4GLG%2BU4Hg%3D%3D)
+[Free Digital Marketing Bootcamp](https://www.linkedin.com/pulse/free-digital-marketing-bootcamp-justacademy-berlin-rdgbe?trackingId=pXeSE1%2BhTKBxCLxipQCihg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BWtIq9U3gRByMpXlbn9mh%2Bw%3D%3D)
 
-[SAP Mm Courses In Pune](https://www.linkedin.com/pulse/sap-mm-courses-pune-justacademy-hyderabad-9ieif/)
+[Flutter Web App Tutorial](https://www.linkedin.com/pulse/flutter-web-app-tutorial-justacademy-delhi-jcosc/)
 
-[Adobe Photoshop And Illustrator Classes Near Me](https://medium.com/@kamblerajas684/adobe-photoshop-and-illustrator-classes-near-me-175f546d5c0b)
+[Corel Draw Photoshop Course Near Me](https://medium.com/@AkashSingh2052/corel-draw-photoshop-course-near-me-6116881dea6f)
 
-[Best Java Training Institute In India](https://medium.com/@namusn/best-java-training-institute-in-india-bca0121c2b30)
+[Hana S 4](https://medium.com/@roneet705/hana-s-4-c69456dcb46b)
 
-[Java Course In Madurai](https://justacademyin.github.io/Articles/Java-Course-In-Madurai)
+[Java Full Stack Developer Online Training](https://justacademyin.github.io/Articles/Java-Full-Stack-Developer-Online-Training)
 
-[SAP MM Institute Near Me](https://justacademyin.github.io/Articles/SAP-MM-Institute-Near-Me)
+[Full Stack Agency](https://justacademyin.github.io/Articles/Full-Stack-Agency)
 

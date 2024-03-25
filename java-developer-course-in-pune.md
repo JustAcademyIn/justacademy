@@ -30,15 +30,15 @@ The Java Developer Course in Pune prepares individuals for a career in software 
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Sap S4 Hana Training](https://www.linkedin.com/pulse/sap-s4-hana-training-justacademy-kolkata-ae5fc/)
+[Sap Mm Meaning](https://www.linkedin.com/pulse/sap-mm-meaning-justacademy-ahmedabad-ftmqe?trackingId=xb9dKMUR0Ca4XzZ%2BzwVCjg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BO%2BCUjkhGSmWvdoCzc9%2FX%2FA%3D%3D)
 
-[Java Full Stack Web Development Course](https://www.linkedin.com/pulse/java-full-stack-web-development-course-justacademy-bay-area-klhdc?trackingId=hPDp6ROaKof3e1NWyUGe1Q%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BA%2BceJxOfQEyVvKB2rfxduA%3D%3D)
+[Software Testing Course Fee](https://www.linkedin.com/pulse/software-testing-course-fee-justacademy-liverpool-poe1f?trackingId=y4VTbalZ9JGPY0C0Hfb5ig%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BwUUQsYTGTZy3zMvOP%2FpbFA%3D%3D)
 
-[Sap 4hana Certification](https://medium.com/@kamblerajas684/sap-4hana-certification-94b1976f2e83)
+[Android Developer Training](https://medium.com/@prempja40/android-developer-training-89771576ed79)
 
-[Kotlin Developer Certification](https://medium.com/@namusn/kotlin-developer-certification-d9cfd46ff7f6)
+[Android For Beginners](https://medium.com/@kumarishimmi99/android-for-beginners-4b4f857489c4)
 
-[Mobile App Development Course Melbourne](https://justacademyin.github.io/Articles/Mobile-App-Development-Course-Melbourne)
+[React Js Language](https://justacademyin.github.io/Articles/React-Js-Language)
 
-[SAP MM Course Duration](https://justacademyin.github.io/Articles/SAP-MM-Course-Duration)
+[SAP MM Institute Near Me](https://justacademyin.github.io/Articles/SAP-MM-Institute-Near-Me)
 

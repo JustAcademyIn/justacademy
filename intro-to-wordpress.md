@@ -35,15 +35,15 @@ By the end of the program, students will have a working website that they can sh
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Java Training Institute In Madhapur Hyderabad](https://www.linkedin.com/pulse/java-training-institute-madhapur-hyderabad-justacademy-london-pbcff?trackingId=PGNp90oQLOdJYqPj%2FnFMCA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B8bhEAS%2F%2FQ963blIb%2F6qnpA%3D%3D)
+[Java For Kids](https://www.linkedin.com/pulse/java-kids-justacademy-lfefc/)
 
-[Azure Devops Tutorial For Beginners Pdf](https://www.linkedin.com/pulse/azure-devops-tutorial-beginners-pdf-justacademy-iojse?trackingId=RAYTE29K05XDUAvTBY6vqg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BDtPVLJNkTC2k0tm5uH%2FP7w%3D%3D)
+[Seo Courses Uk](https://www.linkedin.com/pulse/seo-courses-uk-justacademy-beangaluru-shlac?trackingId=cIIzOlrhqTlITkh2PDIA1w%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BV%2FJdwEmZTiK5hNIeM20IVA%3D%3D)
 
-[Pmp Certification Benefits](https://medium.com/@prempja40/pmp-certification-benefits-6af17514ff7c)
+[Learn To Create Apps For Android](https://medium.com/@mistersumit961/learn-to-create-apps-for-android-b9e32f61cacf)
 
-[Blazor Course 2022](https://medium.com/@AkashSingh2052/blazor-course-2022-ca6f22103e93)
+[Best Free Online Course For Android App Developmen](https://medium.com/@mahi3106/best-free-online-course-for-android-app-developmen-76e4c7729288)
 
-[D3 Javascript](https://justacademyin.github.io/Articles/D3-Javascript)
+[Digital Marketing Classes Nyc](https://justacademyin.github.io/Articles/Digital-Marketing-Classes-Nyc)
 
-[SAP MM Course In Bangalore With Placement](https://justacademyin.github.io/Articles/SAP-MM-Course-In-Bangalore-With-Placement)
+[Learn Javascript Step By Step](https://justacademyin.github.io/Articles/Learn-Javascript-Step-By-Step)
 

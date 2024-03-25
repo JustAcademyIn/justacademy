@@ -30,15 +30,15 @@ Online Java courses with certificate of completion provide individuals with a co
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Mern Stack Development](https://www.linkedin.com/pulse/mern-stack-development-justacademy-boston-cfkvc/)
+[Php Laravel Free Course](https://www.linkedin.com/pulse/php-laravel-free-course-justacademy-thane-i7r8c?trackingId=Y%2FwUSlg8FJrRZZLzZgl77g%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BSjJgDxHPQuqgadOjXouU%2FQ%3D%3D)
 
-[Html Full Course Free](https://www.linkedin.com/pulse/html-full-course-free-justacademy-dl83c?trackingId=Z1fWOQ2u0sU4ppaRh5257Q%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BI8wAi6m6RHmFDIiqUS2smQ%3D%3D)
+[Sap S 4hana](https://www.linkedin.com/pulse/sap-4hana-justacademy-afl3c/)
 
-[Scope Of Software Testing](https://medium.com/@surajvaishnav5015/scope-of-software-testing-cfb5ab297d8b)
+[Best Training Institute For Java In Coimbatore](https://medium.com/@abhidnya.1068/best-training-institute-for-java-in-coimbatore-b99be155e516)
 
-[SAP HANA](https://medium.com/@negishivu99/sap-hana-e836d44e24ef)
+[Adobe Photoshop Cs5 Training](https://medium.com/@shivamja27/adobe-photoshop-cs5-training-432b050c8a43)
 
-[SAP MM Training Institute In Hyderabad](https://justacademyin.github.io/Articles/SAP-MM-Training-Institute-In-Hyderabad)
+[Javascript Tutorial For Beginners](https://justacademyin.github.io/Articles/Javascript-Tutorial-For-Beginners)
 
-[Javascript Full Stack Tutorial](https://justacademyin.github.io/Articles/Javascript-Full-Stack-Tutorial)
+[Best Course To Learn Javascript](https://justacademyin.github.io/Articles/Best-Course-To-Learn-Javascript)
 

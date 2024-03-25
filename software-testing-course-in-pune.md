@@ -30,15 +30,15 @@ Software Testing Course in Pune is a comprehensive training program that equips 
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Microsoft Azure Cloud Technology](https://www.linkedin.com/pulse/microsoft-azure-cloud-technology-justacademy-chandigarh-hklxe?trackingId=%2BlsHG%2BVKmhKGHtszfGWfgw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B6y121Lb6Rd%2BUFuxjX43O5A%3D%3D)
+[C C++ Java Training Institutes In Bangalore](https://www.linkedin.com/pulse/c-java-training-institutes-bangalore-justacademy-ahmedabad-hfewe?trackingId=aEjJb0bw5GEJNPfo1Vz02g%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BBLvwE5WSQ1yNRcYM20AJ%2Fw%3D%3D)
 
-[Digital Marketing Fundamentals](https://www.linkedin.com/pulse/digital-marketing-fundamentals-justacademy-cupertino-1kkmc?trackingId=kv0TVWINwF3cjPer9tHlmg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BzQv8YsYPTiCPDkVRvYwOog%3D%3D)
+[Mobile App Development Courses Online Free With Certificate](https://www.linkedin.com/pulse/mobile-app-development-courses-online-free-certificate-i2qec?trackingId=Ade%2FKS3PJmftW0kG9PTTfw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BF16vFVlwTBq9N188C2SLQg%3D%3D)
 
-[Html5 Training For Beginners](https://medium.com/@ranepooja/html5-training-for-beginners-a30f7772b2b6)
+[Pmp Certification Fees](https://medium.com/@ranemanish460/pmp-certification-fees-c6a7a443e3a8)
 
-[Android Studio Flutter Tutorial](https://medium.com/@justacademytraining/android-studio-flutter-tutorial-a1a68f7138d9)
+[Flutter Course Fees](https://medium.com/@mahi3106/flutter-course-fees-895b4ed4f550)
 
-[Angular Developer Skills](https://justacademyin.github.io/Articles/Angular-Developer-Skills)
+[Software Testing Institute In Mumbai](https://justacademyin.github.io/justacademy/Software-Testing-Institute-In-Mumbai)
 
-[Best SAP MM Institute In Hyderabad](https://justacademyin.github.io/Articles/Best-SAP-MM-Institute-In-Hyderabad)
+[Software Testing Institute In Chennai](https://justacademyin.github.io/justacademy/Software-Testing-Institute-In-Chennai)
 

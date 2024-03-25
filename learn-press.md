@@ -30,15 +30,15 @@ Learn Press is an open-source learning management system designed for creating a
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Best Core Java Training Institutes In Bangalore](https://www.linkedin.com/pulse/best-core-java-training-institutes-bangalore-justacademy-boston-2gnge?trackingId=Lxy6SxWF%2FUOZF4Lt0fkkGg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BC7wHxoojR%2FG%2BgYiTIGaekw%3D%3D)
+[Best Flutter Online Course](https://www.linkedin.com/pulse/best-flutter-online-course-justacademy-beangaluru-hj2zc/)
 
-[React Basic Concepts](https://www.linkedin.com/pulse/react-basic-concepts-justacademy-jaipur-gdbxc?trackingId=o7oX87OWkyyCWf%2FwrAXnXw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BIXUBIWFOQ8%2BPAHGixoaE%2FQ%3D%3D)
+[Goals Of Cloud Computing](https://www.linkedin.com/pulse/goals-cloud-computing-software-training-sunnyvale-saw8c?trackingId=xGQSeW283ybHdQgsKWdkkg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BM5QnzWJERjun88GkJ%2BYkdw%3D%3D)
 
-[Best Java Training Institutes In Hyderabad Ameerpet](https://medium.com/@mistersumit961/best-java-training-institutes-in-hyderabad-ameerpet-67a8064a41eb)
+[Learn Full Stack Web Development Free](https://medium.com/@AkashSingh2052/learn-full-stack-web-development-free-decefe2c458e)
 
-[Python Programming Course Fees](https://medium.com/@kamblerajas684/python-programming-course-fees-4645a72a356d)
+[Pmp Or Capm Certification](https://medium.com/@mistersumit961/pmp-or-capm-certification-4e77c77887a7)
 
-[SAP MM Online Training Institutes In Hyderabad](https://justacademyin.github.io/Articles/SAP-MM-Online-Training-Institutes-In-Hyderabad)
+[Full Stack Kotlin](https://justacademyin.github.io/Articles/Full-Stack-Kotlin)
 
-[Java Full Stack Developer Online Training](https://justacademyin.github.io/Articles/Java-Full-Stack-Developer-Online-Training)
+[SAP MM Training Institute In Faridabad](https://justacademyin.github.io/Articles/SAP-MM-Training-Institute-In-Faridabad)
 

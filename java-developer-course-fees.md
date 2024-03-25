@@ -30,16 +30,15 @@ The fee for a Java Developer course can vary depending on the institution, durat
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Php Developer Training Course](https://www.linkedin.com/pulse/php-developer-training-course-justacademy-mumbai-p2s0c?trackingId=ZtsULD%2F3LyKNNJtifA3AvA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_showcase_admin%3BrO72kZqIQGOMCosqCkrMnA%3D%3D)
+[Digital Marketing Training In Uk](https://www.linkedin.com/pulse/digital-marketing-training-uk-justacademy-thane-jgzwc?trackingId=LEnmvCFhATiWMjGNf8OODg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BSjJgDxHPQuqgadOjXouU%2FQ%3D%3D)
 
-[Apple App
-Developer Training](0)
+[Java Course In Pune With Placement](https://www.linkedin.com/pulse/java-course-pune-placement-software-training-sunnyvale-axd8c/)
 
-[Adobe Photoshop Cs Training](https://medium.com/@akanshapatil/adobe-photoshop-cs-training-473be9e98bab)
+[Python Course Fees](https://medium.com/@sagarawat89/python-course-fees-50c1795b86a6)
 
-[Best Training Institutes In Hyderabad For Java](https://medium.com/@ranepooja/best-training-institutes-in-hyderabad-for-java-7e0ce4e7be4d)
+[Full Stack Bootcamp Online](https://medium.com/@mahi3106/full-stack-bootcamp-online-db9c8ce77272)
 
-[SAP MM Online Training](https://justacademyin.github.io/Articles/SAP-MM-Online-Training)
+[Stanford Mobile App Development Course](https://justacademyin.github.io/Articles/Stanford-Mobile-App-Development-Course)
 
-[Angular Vs React Vs Vue](https://justacademyin.github.io/Articles/Angular-Vs-React-Vs-Vue)
+[Full Stack Tutorialspoint](https://justacademyin.github.io/Articles/Full-Stack-Tutorialspoint)
 

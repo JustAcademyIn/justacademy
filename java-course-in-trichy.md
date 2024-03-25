@@ -30,15 +30,15 @@ Java course in Trichy is a comprehensive program that equips students with the n
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[React Js Advanced Tutorial](https://www.linkedin.com/pulse/react-js-advanced-tutorial-justacademy-chandigarh-yxbsc?trackingId=or9V%2FA3Qwr9lSTKKmEV3Fw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BKQmokhDTSBO4c3m1OKbvVA%3D%3D)
+[Flutter Institute Near Me](https://www.linkedin.com/pulse/flutter-institute-near-me-justacademy-kw86c/)
 
-[Best Java Training Institute In Ahmedabad](https://www.linkedin.com/pulse/best-java-training-institute-ahmedabad-justacademy-delhi-tnurc?trackingId=QoE0bzGZf9EfnbgtotR5bg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B3uDtMYf2QJOigjAh01Sv1g%3D%3D)
+[Php And Mysql Course](https://www.linkedin.com/pulse/php-mysql-course-justacademy-cupertino-ztlwc?trackingId=9PgUGXjAiR8VbehWd4JP5g%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BNP%2FlhOodSumKT6PSkBvdbw%3D%3D)
 
-[Html Css Online Course](https://medium.com/@kamblerajas684/html-css-online-course-cfc53dc17150)
+[Cost For Pmp](https://medium.com/@AkashSingh2052/cost-for-pmp-04d8a284848a)
 
-[Adobe Photoshop Course Certificate](https://medium.com/@ranepooja/adobe-photoshop-course-certificate-ed69516fb638)
+[Best Android Course Online](https://medium.com/@mahi3106/best-android-course-online-61d21eaafcff)
 
-[Digital Marketing Fundamentals](https://justacademyin.github.io/Articles/Digital-Marketing-Fundamentals)
+[Terraform On Azure Tutorial](https://justacademyin.github.io/Articles/Terraform-On-Azure-Tutorial)
 
-[Javascripttutor](https://justacademyin.github.io/Articles/Javascripttutor)
+[MM SAP Course](https://justacademyin.github.io/Articles/MM-SAP-Course)
 

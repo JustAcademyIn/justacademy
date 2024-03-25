@@ -30,15 +30,15 @@ Hyderabad is known to be one of the top IT hubs in India, with a thriving softwa
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Advanced Java Sample Programs](https://www.linkedin.com/pulse/advanced-java-sample-programs-justacademy-ifywc?trackingId=RdoH0M1SaXFJZ3g0TFNXDA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BKTN3ka3yQeC%2FJuvG1YVg3Q%3D%3D)
+[Just Javascript](https://www.linkedin.com/pulse/just-javascript-justacademy-ahmedabad-oyvie?trackingId=1YVrS11N2niYlwq4bDEBZQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BaDgp3xTAQPe9zxsqrS35EA%3D%3D)
 
-[Angular Vs React Easier To Learn](https://www.linkedin.com/pulse/angular-vs-react-easier-learn-justacademy-hyderabad-rkm0c?trackingId=zJbGUtjcSo%2FxfWRomcBYgg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BepomL552S36dZH34vwpA2w%3D%3D)
+[Best Software Testing Training Institute In Kochi](https://www.linkedin.com/pulse/best-software-testing-training-institute-kochi-ufrec?trackingId=%2FsLNvnQwMVp%2FAOfmkCCvow%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BV3sjVNqrQV6LT8YmMJxhFA%3D%3D)
 
-[Terraform Tutorial Azure](https://medium.com/@ranepooja/terraform-tutorial-azure-3e6dc8ea647c)
+[Advanced Flutter Tutorial](https://medium.com/@pzade254/advanced-flutter-tutorial-3fa81cbd866c)
 
-[Python Training In Calicut](https://medium.com/@AkashSingh2052/python-training-in-calicut-c86e9ea13c1b)
+[Pmp Certification Cost](https://medium.com/@ranepooja/pmp-certification-cost-f8d03a52fdad)
 
-[Mobile App Development Course Melbourne](https://justacademyin.github.io/Articles/Mobile-App-Development-Course-Melbourne)
+[Best Javascript Tutorial](https://justacademyin.github.io/Articles/Best-Javascript-Tutorial)
 
-[Django Vs React Vs Angular](https://justacademyin.github.io/Articles/Django-Vs-React-Vs-Angular)
+[Java Full Stack Developer Course In Chennai](https://justacademyin.github.io/justacademy/Java-Full-Stack-Developer-Course-In-Chennai)
 

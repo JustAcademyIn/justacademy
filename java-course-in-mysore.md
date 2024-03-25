@@ -30,15 +30,15 @@ Java course in Mysore is designed to teach students the fundamentals of Java pro
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Azure File Storage Tutorial](https://www.linkedin.com/pulse/azure-file-storage-tutorial-justacademy-bay-area-xlwge?trackingId=JL79BjAdq%2FcH8D7QXmEzIQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BVfd8WVt8TwCvR4GLG%2BU4Hg%3D%3D)
+[Angular Security Best Practices](https://www.linkedin.com/pulse/angular-security-best-practices-justacademy-bay-area-lw0ac?trackingId=Dd1aQtU5E2Rr8myeeT9fUQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BrsnEP2CeSl%2BKYnaEx50m1g%3D%3D)
 
-[Software Testing Online Course List](https://www.linkedin.com/pulse/software-testing-online-course-list-justacademy-houston-gdcff?trackingId=8Fujwxzu4udKaDVKAMfp7A%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BoeW%2FtgxJQVmhV5nxk7B2LA%3D%3D)
+[Node Js Free Certification](https://www.linkedin.com/pulse/node-js-free-certification-justacademy-bradford-q74te?trackingId=Onauqea%2BWdRixRmg6sN0ng%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bm8c8pzxIRVqjkbINsou16g%3D%3D)
 
-[Pmp Course Price](https://medium.com/@namusn/pmp-course-price-94c8ccbb846c)
+[Full Course On Html](https://medium.com/@prempja40/full-course-on-html-647a4e2886bd)
 
-[Python Training Center Near Me](https://medium.com/@AkashSingh2052/python-training-center-near-me-2456c4716d15)
+[Cost Of Pmp Certification Test](https://medium.com/@roneet705/cost-of-pmp-certification-test-c9e562596265)
 
-[React Stack](https://justacademyin.github.io/Articles/React-Stack)
+[Cost Of App Development](https://justacademyin.github.io/Articles/Cost-Of-App-Development)
 
-[Difference Between Angular Js And React Js](https://justacademyin.github.io/Articles/Difference-Between-Angular-Js-And-React-Js)
+[Java Course In Madurai](https://justacademyin.github.io/justacademy/Java-Course-In-Madurai)
 

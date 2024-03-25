@@ -30,15 +30,15 @@ Wordpress is a popular Content Management System (CMS) that allows users to crea
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Chennai Pmp Training](https://www.linkedin.com/pulse/chennai-pmp-training-justacademy-ahmedabad-qtyte?trackingId=9TcAvApmkggOb0ztEOlcCw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BsgxkE5t4R9iHWE9515x%2Fgw%3D%3D)
+[Php Free Code Camp](https://www.linkedin.com/pulse/php-free-code-camp-justacademy-chennai-1js8f?trackingId=QbJanz9UIXlN%2FmwjgRxHkg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BmbbduqyAR32m%2BKWos2V1hw%3D%3D)
 
-[Java Training Institute In Thanjavur](https://www.linkedin.com/pulse/java-training-institute-thanjavur-justacademy-bay-area-fvvxe?trackingId=Peg2KuDe7QENmn2WaJ5xng%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BHcd7BaCMQFaWbBih5QcMnA%3D%3D)
+[Full Stack Web Development With Python](https://www.linkedin.com/pulse/full-stack-web-development-python-justacademy-houston-cw1rf?trackingId=Vz7nyHoce32yrgYb1u1YQQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B5RzDF0CIQxuDMHcL3MgYhA%3D%3D)
 
-[Python Course In Bangalore Fees](https://medium.com/@roneet705/python-course-in-bangalore-fees-1723171fc462)
+[Photoshop Certificate Course Free](https://medium.com/@mistersumit961/photoshop-certificate-course-free-6d4783e78bba)
 
-[Best Free Flutter Course](https://medium.com/@prempja40/best-free-flutter-course-0367280a3848)
+[Full Stack Developer Certification Free](https://medium.com/@prempja40/full-stack-developer-certification-free-37e7c4a551d1)
 
-[The Complete Javascript Course 2023 From Zero To Expert](https://justacademyin.github.io/Articles/The-Complete-Javascript-Course-2023-From-Zero-To-Expert)
+[Angular Developer](https://justacademyin.github.io/Articles/Angular-Developer)
 
-[Javascript Language](https://justacademyin.github.io/Articles/Javascript-Language)
+[Java Programming Free Online Course](https://justacademyin.github.io/justacademy/Java-Programming-Free-Online-Course)
 

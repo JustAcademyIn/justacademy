@@ -30,15 +30,15 @@ Java Course in Madurai is an excellent opportunity for students and professional
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Top Flutter Courses](https://www.linkedin.com/pulse/top-flutter-courses-justacademy-mumbai-yybbc/)
+[Mean Stack Developer](https://www.linkedin.com/pulse/mean-stack-developer-justacademy-sunnyvale-axobc?trackingId=SlFD%2FeJMBx351CBOmsGhHw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BGORVFcjaQo64mY3NY1Wn%2Bw%3D%3D)
 
-[Sap S4 Hana Cloud Training](https://www.linkedin.com/pulse/sap-s4-hana-cloud-training-justacademy-pune-tmsoc/)
+[Pmp Course Fee](https://www.linkedin.com/pulse/pmp-course-fee-justacademy-mumbai-gijkc?trackingId=8YvaNTY4nnv4C53P8LeNQw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_showcase_admin%3B4hzOhjOyRsS4BMzXWRzbRw%3D%3D)
 
-[Sap Certified Development Specialist Abap For Sap ](https://medium.com/@negishivu99/sap-certified-development-specialist-abap-for-sap-811262a760da)
+[Abap Training](https://medium.com/@justacademytraining/abap-training-fa62ffdec1c0)
 
-[Azure Ml Tutorial](https://medium.com/@ranepooja/azure-ml-tutorial-cadf890be9e8)
+[Pre Requisite For Python](https://medium.com/@akanshapatil/pre-requisite-for-python-e2582a4c1740)
 
-[C C++ Java Python Courses](https://justacademyin.github.io/Articles/C-C++-Java-Python-Courses)
+[SAP MM Training Institute In Hyderabad](https://justacademyin.github.io/Articles/SAP-MM-Training-Institute-In-Hyderabad)
 
-[Full Stack Php Developer](https://justacademyin.github.io/Articles/Full-Stack-Php-Developer)
+[Javascript Training](https://justacademyin.github.io/Articles/Javascript-Training)
 

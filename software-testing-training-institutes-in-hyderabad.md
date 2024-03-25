@@ -30,15 +30,15 @@ Software Testing Training Institutes in Hyderabad provide comprehensive training
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Android Coding Course](https://www.linkedin.com/pulse/android-coding-course-justacademy-hyderabad-px2hf/)
+[Pmp Certification Free Online](https://www.linkedin.com/pulse/pmp-certification-free-online-software-training-sunnyvale-0xmzc?trackingId=iaafqqyi%2FIvJwqx8AK%2BKVQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BPMbi7PJsSrOfOFf5jCv3gg%3D%3D)
 
-[Java Stack](https://www.linkedin.com/pulse/java-stack-justacademy-hyderabad-rlytc/)
+[Net Web Application Development](https://www.linkedin.com/pulse/net-web-application-development-justacademy-hyderabad-ovf1c?trackingId=K3R9lmXpNwBuxxHlrj8sZQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BIgbA%2F28BQMiUW8Q%2FkWRJzw%3D%3D)
 
-[Abap Coding In S4 Hana](https://medium.com/@mistersumit961/abap-coding-in-s4-hana-2710b4999dfd)
+[Software Testing Online Course](https://medium.com/@sagarawat89/software-testing-online-course-0133c79a4519)
 
-[Java Training Institute In Indore](https://medium.com/@negishivu99/java-training-institute-in-indore-eea77c3a9690)
+[Best Java Training Institute In Jaipur](https://medium.com/@shivamja27/best-java-training-institute-in-jaipur-acc33a94f716)
 
-[Java Intermediate Course](https://justacademyin.github.io/Articles/Java-Intermediate-Course)
+[SAP MM Course Syllabus](https://justacademyin.github.io/Articles/SAP-MM-Course-Syllabus)
 
-[Javascript Training](https://justacademyin.github.io/Articles/Javascript-Training)
+[Intro To Wordpress](https://justacademyin.github.io/justacademy/Intro-To-Wordpress)
 

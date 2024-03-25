@@ -26,15 +26,15 @@ The Software Testing Institute in Mumbai is a premier educational institution th
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Simple Javascript](https://www.linkedin.com/pulse/simple-javascript-justacademy-cupertino-j9pgc?trackingId=urZ8xnxfDBmVsMzDUCEiIw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BnS5tGyG4QnikczaDjz%2F1LQ%3D%3D)
+[Javascript Online](https://www.linkedin.com/pulse/javascript-online-justacademy-delhi-5beuc?trackingId=hO0sZ6LI%2B0WWubYRLaUhnw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BwYu9zKHBRZajlu4pteaL6Q%3D%3D)
 
-[Best Software Testing Courses](https://www.linkedin.com/pulse/best-software-testing-courses-justacademy-coimbatore-pe9te?trackingId=jw9XfgNdoZo5%2FMVKk4%2Bmjg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B7mNmKz24Tx%2BfRDkV0HwLig%3D%3D)
+[Best Training Institute In Chennai For Software Testing](https://www.linkedin.com/pulse/best-training-institute-chennai-software-hlz7e?trackingId=QpJvudjpCf8VxVnMk%2F57gg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B8iJAXExGSpWzkSgodJb9Bg%3D%3D)
 
-[Learn Html Css Javascript Online](https://medium.com/@ranemanish460/learn-html-css-javascript-online-03e6281d343b)
+[Sap 4 Hana Training](https://medium.com/@surajvaishnav5015/sap-4-hana-training-d4a80ebbcf0f)
 
-[Azure Data Warehouse Tutorial](https://medium.com/@kumarishimmi99/azure-data-warehouse-tutorial-589f3b94924f)
+[Software Testing Online Course](https://medium.com/@sagarawat89/software-testing-online-course-0133c79a4519)
 
-[SAP MM Course Syllabus](https://justacademyin.github.io/Articles/SAP-MM-Course-Syllabus)
+[Free Online Html Course](https://justacademyin.github.io/Articles/Free-Online-Html-Course)
 
-[Java Course In Mysore](https://justacademyin.github.io/Articles/Java-Course-In-Mysore)
+[Mobile App Development Course Melbourne](https://justacademyin.github.io/Articles/Mobile-App-Development-Course-Melbourne)
 

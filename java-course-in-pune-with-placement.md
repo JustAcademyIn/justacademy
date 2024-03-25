@@ -30,15 +30,15 @@ Java Course in Pune with placement provides students with a comprehensive knowle
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Php Full Stack Developer Course Free Online](https://www.linkedin.com/pulse/php-full-stack-developer-course-free-online-justacademy-delhi-pionc?trackingId=jbghzuQTCqFzl1o%2BezBxAQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BXd%2B4Zk9XQtOyhr1jBDUlIA%3D%3D)
+[Pmp Certification Cost In Pune](https://www.linkedin.com/pulse/pmp-certification-cost-pune-justacademy-coimbatore-kgcfc?trackingId=yvtfRgTSNq5jz029PK2EBA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BzebO8%2FdlQdOp%2FzsKprgh%2FA%3D%3D)
 
-[Software Testing Courses In Pune](https://www.linkedin.com/pulse/software-testing-courses-pune-justacademy-lcorc?trackingId=cuP1NxZJ%2B8%2Bt47dvoxi11A%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BkivWcGmHSBCkKNz13%2FsLDg%3D%3D)
+[Software Testing Course](https://www.linkedin.com/pulse/software-testing-course-software-training-sunnyvale-fvvnc?trackingId=fyI9WZfVhM4dGC1reCYwvw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BM5QnzWJERjun88GkJ%2BYkdw%3D%3D)
 
-[Wordpress Manual](https://medium.com/@AkashSingh2052/wordpress-manual-406890454c5f)
+[Study Android App Development](https://medium.com/@kumarishimmi99/study-android-app-development-23b44ff2dca2)
 
-[Photoshop Training Online](https://medium.com/@mahi3106/photoshop-training-online-716307834fbf)
+[Figma Ux](https://medium.com/@abhidnya.1068/figma-ux-9ec706b9c4cb)
 
-[SAP MM Course Duration](https://justacademyin.github.io/Articles/SAP-MM-Course-Duration)
+[Javascript While](https://justacademyin.github.io/Articles/Javascript-While)
 
-[Flutter Install](https://justacademyin.github.io/Articles/Flutter-Install)
+[Web Stack Developer](https://justacademyin.github.io/Articles/Web-Stack-Developer)
 

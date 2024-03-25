@@ -30,15 +30,15 @@ The fees for a Java language course can vary depending on the institute or onlin
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[SAP Mm Course](https://www.linkedin.com/pulse/sap-mm-course-justacademy-beangaluru-qxjaf/)
+[Software Automation Testing Courses](https://www.linkedin.com/pulse/software-automation-testing-courses-justacademy-ahmedabad-tomse?trackingId=Lj5uLJ%2F1nsuj2IC1pWBkBQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BsgxkE5t4R9iHWE9515x%2Fgw%3D%3D)
 
-[Reactjs Developer](https://www.linkedin.com/pulse/reactjs-developer-justacademy-houston-ch62f?trackingId=Ib4FlsFXpfjyBIgAkqJ4Pw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B5RzDF0CIQxuDMHcL3MgYhA%3D%3D)
+[Career In Cloud Computing](https://www.linkedin.com/pulse/career-cloud-computing-justacademy-mumbai-l1nbc?trackingId=QUumMdrmaYOLi%2BXFMmKfRw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_showcase_admin%3BEsFdB2XdSWavw7Lqed%2FH2g%3D%3D)
 
-[Java Training Institutes In Delhi](https://medium.com/@shivamja27/java-training-institutes-in-delhi-0fbcb002b5ab)
+[SAP SAP HANA](https://medium.com/@negishivu99/sap-sap-hana-b06f7940c09a)
 
-[Software Testing Course Online Free](https://medium.com/@sagarawat89/software-testing-course-online-free-321236519ca8)
+[Hana Certification For Abap](https://medium.com/@AkashSingh2052/hana-certification-for-abap-7ab0adf68373)
 
-[Online Laravel Training](https://justacademyin.github.io/Articles/Online-Laravel-Training)
+[Angular Vs React Vs Vue](https://justacademyin.github.io/Articles/Angular-Vs-React-Vs-Vue)
 
-[SAP MM Course In Hyderabad](https://justacademyin.github.io/Articles/SAP-MM-Course-In-Hyderabad)
+[Full Stack React Tutorial](https://justacademyin.github.io/Articles/Full-Stack-React-Tutorial)
 

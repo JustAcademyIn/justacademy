@@ -30,15 +30,15 @@ A Software Testing Institute in Chennai is an educational institution that offer
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Sap Sd Course](https://www.linkedin.com/pulse/sap-sd-course-justacademy-delhi-dgaoc?trackingId=LK6ROSobBhPjF9DLYmcVtA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BXd%2B4Zk9XQtOyhr1jBDUlIA%3D%3D)
+[Sap S4 Certification](https://www.linkedin.com/pulse/sap-s4-certification-justacademy-hyderabad-mfhsc/)
 
-[Flutter Advanced Concepts](https://www.linkedin.com/pulse/flutter-advanced-concepts-justacademy-hyderabad-zmcjc/)
+[Java Course In Chennai](https://www.linkedin.com/pulse/java-course-chennai-justacademy-chandigarh-rlhze/)
 
-[Adobe Photoshop And Illustrator Classes](https://medium.com/@shivamja27/adobe-photoshop-and-illustrator-classes-446257164616)
+[Java Training Institute In India](https://medium.com/@negishivu99/java-training-institute-in-india-b4e639b26fbf)
 
-[Project Management In Uk](https://medium.com/@prempja40/project-management-in-uk-5983ecd01790)
+[Java Training Institutes In Chandigarh](https://medium.com/@shivamja27/java-training-institutes-in-chandigarh-c39486ea6359)
 
-[Learn Js](https://justacademyin.github.io/Articles/Learn-Js)
+[Java Course In Madurai](https://justacademyin.github.io/justacademy/Java-Course-In-Madurai)
 
-[Javascript Info](https://justacademyin.github.io/Articles/Javascript-Info)
+[Java Course In Vizag](https://justacademyin.github.io/justacademy/Java-Course-In-Vizag)
 

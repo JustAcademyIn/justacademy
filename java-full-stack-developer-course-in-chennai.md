@@ -33,15 +33,15 @@ Java Full Stack Developer Course in Chennai is an intensive training program des
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Advanced Java Institutes In Ameerpet](https://www.linkedin.com/pulse/advanced-java-institutes-ameerpet-software-training-mountain-view-auqbe?trackingId=CvLigQ2fuTOerouXVVZhiw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B8iJAXExGSpWzkSgodJb9Bg%3D%3D)
+[.Net Cms](https://www.linkedin.com/pulse/net-cms-justacademy-houston-bc7wf?trackingId=brUV8aRoF7w%2BEHveqMGmCw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B5RzDF0CIQxuDMHcL3MgYhA%3D%3D)
 
-[Java Training Institute New Delhi Delhi](https://www.linkedin.com/pulse/java-training-institute-new-delhi-justacademy-m1y7e?trackingId=5oJfQgPOqFbhSKDXjdTb4g%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BxUP8vDI1SK6JTwycAY2syQ%3D%3D)
+[Software Testing Courses Duration](https://www.linkedin.com/pulse/software-testing-courses-duration-justacademy-berlin-bzdse?trackingId=krogqJg2z5GqjAOwDA98PQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BTlJqsmxlRpm4BSTOQJNHnA%3D%3D)
 
-[Java Training Institute In Greater Noida](https://medium.com/@ranepooja/java-training-institute-in-greater-noida-7c83d3c98a44)
+[Android Beginner Course](https://medium.com/@akanshapatil/android-beginner-course-690234708c45)
 
-[Java Training Institute In South Delhi](https://medium.com/@roneet705/java-training-institute-in-south-delhi-960906d80142)
+[Project Management Training Courses](https://medium.com/@mahi3106/project-management-training-courses-be15ee0d980c)
 
-[Full Stack Coaching Near Me](https://justacademyin.github.io/Articles/Full-Stack-Coaching-Near-Me)
+[Java Full Stack Developer Online Training](https://justacademyin.github.io/Articles/Java-Full-Stack-Developer-Online-Training)
 
-[Microsoft Azure Fundamentals Tutorial Pdf](https://justacademyin.github.io/Articles/Microsoft-Azure-Fundamentals-Tutorial-Pdf)
+[Java Developer Course In Pune](https://justacademyin.github.io/justacademy/Java-Developer-Course-In-Pune)
 

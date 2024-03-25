@@ -32,15 +32,15 @@ By the end of this training program, students will have a strong understanding o
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Java Training Institute In Chennai Omr](https://www.linkedin.com/pulse/java-training-institute-chennai-omr-software-training-sunnyvale-i5ree?trackingId=vN9XYty21pyileLjjTldJg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BPMbi7PJsSrOfOFf5jCv3gg%3D%3D)
+[Amazon Web Services Aws Course](https://www.linkedin.com/pulse/amazon-web-services-aws-course-justacademy-ahmedabad-ofi1e?trackingId=9t%2Foy%2B2hkPHsae4BFZCJYA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BgDkJO5giR6GYKSrzSn7zAw%3D%3D)
 
-[Java Full Stack Development](https://www.linkedin.com/pulse/java-full-stack-development-justacademy-delhi-ly11f/)
+[Java Training Institutes In Bangalore Electronic City](https://www.linkedin.com/pulse/java-training-institutes-bangalore-electronic-city-1xuze?trackingId=jS%2BNJov0t1BnWvnUOiU7ZA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BEWeMkO%2BuSGSAlnCbMCSomw%3D%3D)
 
-[Full Stack Coding Course](https://medium.com/@prempja40/full-stack-coding-course-c21dfcb4e224)
+[Free Python Bootcamp](https://medium.com/@kamblerajas684/free-python-bootcamp-1dbd748dcf1a)
 
-[Project Management Classes Near Me](https://medium.com/@mahi3106/project-management-classes-near-me-ad1c01560fca)
+[Sap Hana Certification Course](https://medium.com/@ranemanish460/sap-hana-certification-course-b7047f1b599f)
 
-[Master Js](https://justacademyin.github.io/Articles/Master-Js)
+[Scoutsuite Azure Tutorial](https://justacademyin.github.io/Articles/Scoutsuite-Azure-Tutorial)
 
-[Full Stack Certification Free](https://justacademyin.github.io/Articles/Full-Stack-Certification-Free)
+[Best Course To Learn Java](https://justacademyin.github.io/justacademy/Best-Course-To-Learn-Java)
 

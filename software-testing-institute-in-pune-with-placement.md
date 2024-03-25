@@ -30,15 +30,15 @@ A software testing institute in Pune is a professional training center that prov
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Seo Training Nyc](https://www.linkedin.com/pulse/seo-training-nyc-justacademy-bradford-xmn8e?trackingId=rtV5Gh35BQIbcmXoaYpReg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bm8c8pzxIRVqjkbINsou16g%3D%3D)
+[How To Learn Java Fast](https://www.linkedin.com/pulse/how-learn-java-fast-justacademy-mumbai-auurc/)
 
-[Software Testing Course In Chinchwad](https://www.linkedin.com/pulse/software-testing-course-chinchwad-justacademy-bay-area-vfjfc?trackingId=hNRfn%2Fb82K%2FJNIiDmgyaZg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bs5%2FvGqECTA%2BmpH%2FwcWkKiQ%3D%3D)
+[Best Software Testing Institutes In Pune](https://www.linkedin.com/pulse/best-software-testing-institutes-pune-justacademy-coimbatore-tr06e?trackingId=CpmcZKiYGjOTWd5cw0bM%2FA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B7mNmKz24Tx%2BfRDkV0HwLig%3D%3D)
 
-[Html Css Learning Website](https://medium.com/@roneet705/html-css-learning-website-0a4dc6f5c8c3)
+[Best Adobe Photoshop Courses](https://medium.com/@mahi3106/best-adobe-photoshop-courses-6d4460794c99)
 
-[Best Html Learning Sites](https://medium.com/@surajvaishnav5015/best-html-learning-sites-85072558cd6d)
+[Html Coding Classes Near Me](https://medium.com/@namusn/html-coding-classes-near-me-6aabe437f62d)
 
-[Javascript Training](https://justacademyin.github.io/Articles/Javascript-Training)
+[Mean Developer](https://justacademyin.github.io/Articles/Mean-Developer)
 
-[D3 Javascript](https://justacademyin.github.io/Articles/D3-Javascript)
+[Java Course In Madurai](https://justacademyin.github.io/justacademy/Java-Course-In-Madurai)
 
