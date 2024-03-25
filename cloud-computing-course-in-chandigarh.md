@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/7V3H11Z" alt="Cloud Computing Course In Chandigarh">
+    <img src="https://i.ibb.co/FJQ9DDy/cloud-computing.webp" alt="Cloud Computing Course In Chandigarh">
   </a>
 </p>
 
