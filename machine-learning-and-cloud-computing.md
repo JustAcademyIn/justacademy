@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/7V3H11Z" alt="Machine Learning And Cloud Computing">
+    <img src="https://i.ibb.co/FJQ9DDy/cloud-computing.webp" alt="Machine Learning And Cloud Computing">
   </a>
 </p>
 
@@ -36,15 +36,15 @@ Through practical assignments and real-world projects, students will learn how t
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Free Online Pmp Certification Courses](https://www.linkedin.com/pulse/free-online-pmp-certification-courses-justacademy-mumbai-9fqxc?trackingId=VQvORVu82K4I7X7YRKRO6A%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_showcase_admin%3B4hzOhjOyRsS4BMzXWRzbRw%3D%3D)
+[Best Java Training Institute In Trichy](https://www.linkedin.com/pulse/best-java-training-institute-trichy-justacademy-liverpool-3dbtf?trackingId=Sq5oMogwv1iSm3sDeK1C0Q%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BeTOZKBOtR5Sz3gxxSDhWug%3D%3D)
 
-[Best Core Java Training Institutes In Gachibowli](https://www.linkedin.com/pulse/best-core-java-training-institutes-gachibowli-justacademy-kolkata-ds5oe?trackingId=Ew6kV18e9h91Y2GmecqHhw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bar0CqYRcTQWcPsZzz1T%2BLw%3D%3D)
+[Sap Hana Training And Placement](https://www.linkedin.com/pulse/sap-hana-training-placement-software-training-sunnyvale-asjnc/)
 
-[Az 900 Tutorial](https://medium.com/@kumarishimmi99/az-900-tutorial-d8f1c523d6a2)
+[Best Python Training In Bangalore](https://medium.com/@prempja40/best-python-training-in-bangalore-84219136f428)
 
-[Geeksforgeeks Python Course](https://medium.com/@negishivu99/geeksforgeeks-python-course-908af4853b47)
+[Learn To Be A Full Stack Developer](https://medium.com/@prempja40/learn-to-be-a-full-stack-developer-26837147cd35)
 
-[Java W3](https://justacademyin.github.io/Articles/Java-W3)
+[Live Course](https://justacademyin.github.io/justacademy/live-course)
 
-[Advance Java Full Courses](https://justacademyin.github.io/Articles/Advance-Java-Full-Courses)
+[Net Full Stack Tutorial](https://justacademyin.github.io/Articles/Net-Full-Stack-Tutorial)
 

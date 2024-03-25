@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/7V3H11Z" alt="Learn Python For Cloud Computing">
+    <img src="https://i.ibb.co/FJQ9DDy/cloud-computing.webp" alt="Learn Python For Cloud Computing">
   </a>
 </p>
 
@@ -30,15 +30,15 @@ Python is a powerful and versatile programming language that is widely used in c
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Php Backend Course](https://www.linkedin.com/pulse/php-backend-course-justacademy-san-jose-c0lbf?trackingId=I5pr1dTxYoUWpepV5lp5zQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BmFqei9z9R2q6luNOEZ8Z4A%3D%3D)
+[Software Training Institute](https://www.linkedin.com/pulse/software-training-institute-justacademy-kolkata-8fjrc?trackingId=leaM%2Bzb65crW6bUxxWNUmg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BiAa60KZ1TYi9BxLlFQwGgg%3D%3D)
 
-[iOS Development Classes Near Me](0)
+[What'S An Asp](https://www.linkedin.com/pulse/whats-asp-software-training-mountain-view-mebwe?trackingId=KaIHaIqyihgcRq52jWRMDQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BmPS%2BIVBvQs6ee2jjU4LMiw%3D%3D)
 
-[Java Training Institute In Gurgaon](https://medium.com/@kumarishimmi99/java-training-institute-in-gurgaon-6ec7b9189d96)
+[Html Javascript & Bootstrap Certification Course](https://medium.com/@mahi3106/html-javascript-bootstrap-certification-course-37340714f7a7)
 
-[Photoshop Training Courses](https://medium.com/@kumarishimmi99/photoshop-training-courses-ee15645c7558)
+[Python Intermediate Course](https://medium.com/@abhidnya.1068/python-intermediate-course-508068807098)
 
-[Software Testing Course In Trichy](https://justacademyin.github.io/justacademy/Software-Testing-Course-In-Trichy)
+[Best Software Testing Course In Bangalore](https://justacademyin.github.io/justacademy/best-software-testing-course-in-bangalore)
 
-[Data Structures And Algorithms Java Course](https://justacademyin.github.io/justacademy/Data-Structures-And-Algorithms-Java-Course)
+[Entry Level Full Stack Developer](https://justacademyin.github.io/Articles/Entry-Level-Full-Stack-Developer)
 

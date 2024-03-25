@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/7V3H11Z" alt="Cloud Computing Courses In Australia">
+    <img src="https://i.ibb.co/FJQ9DDy/cloud-computing.webp" alt="Cloud Computing Courses In Australia">
   </a>
 </p>
 ?
@@ -30,15 +30,15 @@ Cloud computing courses in Australia are designed to equip students with the ski
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Seo Course London](https://www.linkedin.com/pulse/seo-course-london-justacademy-brisbane-qwpne?trackingId=uvYwnW6uwh9M0SXqa7EcjA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B5cPDORNwQlqWF%2BECY5%2Fsgw%3D%3D)
+[Kotlin Beginner Course](https://www.linkedin.com/pulse/kotlin-beginner-course-justacademy-delhi-5m47f/)
 
-[Asp Net In Hindi](https://www.linkedin.com/pulse/asp-net-hindi-justacademy-new-york-uuzhf?trackingId=qGmVO70RVejaLBOOGAuK7Q%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BZk%2BEqLRRSPWLWPbe%2FjHbmQ%3D%3D)
+[Learn Javascript Online](https://www.linkedin.com/pulse/learn-javascript-online-justacademy-1rhic?trackingId=nrW1hGKnDko3EmqZcIQhTQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BI8wAi6m6RHmFDIiqUS2smQ%3D%3D)
 
-[Best Website To Learn Html5](https://medium.com/@namusn/best-website-to-learn-html5-5e5062844368)
+[Best Java Training Institutes In Bangalore Quora](https://medium.com/@mahi3106/best-java-training-institutes-in-bangalore-quora-a17b9eae78ef)
 
-[Associate Android Developer Certification Cost](https://medium.com/@pzade254/associate-android-developer-certification-cost-dbdad420aae8)
+[Basic Html Training](https://medium.com/@prempja40/basic-html-training-4c0cf65495fd)
 
-[Angular Developer](https://justacademyin.github.io/Articles/Angular-Developer)
+[Full Stack Developer Tutorial In Hindi](https://justacademyin.github.io/Articles/Full-Stack-Developer-Tutorial-In-Hindi)
 
 [Digital Marketing Corporate Training](https://justacademyin.github.io/Articles/Digital-Marketing-Corporate-Training)
 

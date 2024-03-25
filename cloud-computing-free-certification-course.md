@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/7V3H11Z" alt="Cloud Computing Free Certification Course">
+    <img src="https://i.ibb.co/FJQ9DDy/cloud-computing.webp" alt="Cloud Computing Free Certification Course">
   </a>
 </p>
 
@@ -30,15 +30,15 @@ Cloud computing is a technology that allows users to store, manage, and access d
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Sap 4hana Certification](https://www.linkedin.com/pulse/sap-4hana-certification-software-training-mountain-view-ryaqc/)
+[Cloud Computing For Machine Learning And Cognitive Applications](https://www.linkedin.com/pulse/cloud-computing-machine-learning-cognitive-applications-ko3ic?trackingId=vodPx9uUuWVDp9x2smxz1A%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BGwbGgk3HRUy%2BuyASxv15%2BQ%3D%3D)
 
-[Android App Development Free Course With Certifica](https://www.linkedin.com/pulse/android-app-development-free-course-certifica-justacademy-gthhc/)
+[Java Full Stack Development](https://www.linkedin.com/pulse/java-full-stack-development-justacademy-delhi-ly11f/)
 
-[Python First](https://medium.com/@ranepooja/python-first-0b7d458ee710)
+[Best Photoshop Course For Beginners](https://medium.com/@prempja40/best-photoshop-course-for-beginners-cb72a196da2a)
 
-[Project Management Courses Uk](https://medium.com/@shivamja27/project-management-courses-uk-3efdf0b4b28a)
+[Illustrator For Students](https://medium.com/@ranemanish460/illustrator-for-students-54a67ee88ff9)
 
-[Prerequisite For Software Testing Course](https://justacademyin.github.io/justacademy/Prerequisite-For-Software-Testing-Course)
+[Data Structures And Algorithms Java Course](https://justacademyin.github.io/justacademy/data-structures-and-algorithms-java-course)
 
-[Java Full Stack Developer Online Training](https://justacademyin.github.io/Articles/Java-Full-Stack-Developer-Online-Training)
+[Cloud Computing Courses In Chennai](https://justacademyin.github.io/justacademy/cloud-computing-courses-in-chennai)
 

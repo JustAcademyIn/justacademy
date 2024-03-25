@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/7V3H11Z" alt="Cloud Computing Course Fee Structure In Chennai">
+    <img src="https://i.ibb.co/FJQ9DDy/cloud-computing.webp" alt="Cloud Computing Course Fee Structure In Chennai">
   </a>
 </p>
 
@@ -30,15 +30,15 @@ Cloud Computing Course Fee Structure in Chennai varies depending on the institut
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Full Stack Agency](https://www.linkedin.com/pulse/full-stack-agency-justacademy-thane-tvd4f/)
+[Java Certification](https://www.linkedin.com/pulse/java-certification-justacademy-hyderabad-ewxzc/)
 
-[Java Training And Placement Institutes In Hyderabad](https://www.linkedin.com/pulse/java-training-placement-institutes-hyderabad-justacademy-san-jose-npebe?trackingId=ENQnYmkcGJqCBpYxImhlgQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BEWeMkO%2BuSGSAlnCbMCSomw%3D%3D)
+[Php Oop Training](https://www.linkedin.com/pulse/php-oop-training-justacademy-thane-iujjc?trackingId=xIwzFb5%2FfeRpdbT96sxAIA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BtWGDFb3%2BTIWrNJLdiT%2FfMQ%3D%3D)
 
-[Pmp Course Near Me](https://medium.com/@abhidnya.1068/pmp-course-near-me-7ae3c68282d5)
+[Adobe Photoshop Cc Advanced Training Course Free](https://medium.com/@AkashSingh2052/adobe-photoshop-cc-advanced-training-course-free-cd2a2a4a8f75)
 
-[Java Training Institute In Velachery](https://medium.com/@mahi3106/java-training-institute-in-velachery-795944aa9781)
+[Py-3](https://medium.com/@roneet705/py-3-50bba60054b8)
 
-[Full Stack Certification Free](https://justacademyin.github.io/Articles/Full-Stack-Certification-Free)
+[Full Stack Agency](https://justacademyin.github.io/Articles/Full-Stack-Agency)
 
-[Cloud Computing Courses In Chennai](https://justacademyin.github.io/justacademy/Cloud-Computing-Courses-In-Chennai)
+[Top Software Training Institute In Kerala](https://justacademyin.github.io/justacademy/top-software-training-institute-in-kerala)
 

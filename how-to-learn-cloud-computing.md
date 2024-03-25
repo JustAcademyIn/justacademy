@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/7V3H11Z" alt="How To Learn Cloud Computing">
+    <img src="https://i.ibb.co/FJQ9DDy/cloud-computing.webp" alt="How To Learn Cloud Computing">
   </a>
 </p>
 
@@ -32,15 +32,15 @@ Overall, offering a training program to students should focus on providing a com
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Pmp Course In Chennai](https://www.linkedin.com/pulse/pmp-course-chennai-justacademy-mumbai-rqboc?trackingId=acGaceYc6%2ByJNA12tvR15w%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_showcase_admin%3B4hzOhjOyRsS4BMzXWRzbRw%3D%3D)
+[.Net Front End](https://www.linkedin.com/pulse/net-front-end-justacademy-bristol-p40ee?trackingId=zEb6Cz30yDXn6LdnNFFHiw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B9IEH5La1R2e7WwLGeLcpkg%3D%3D)
 
-[Best Full Stack Web Development Course](https://www.linkedin.com/pulse/best-full-stack-web-development-course-justacademy-chennai-g82bc?trackingId=gfvHUQpVVHcubWZnL49GaQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B1CN8b2GFRWqxwCPWd5SbXw%3D%3D)
+[Best Java Training Institutes In Hyderabad With 100 Placement](https://www.linkedin.com/pulse/best-java-training-institutes-hyderabad-100-placement-udine?trackingId=vMs9AGaib6MeAxxmAQ2sSA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BxzhODhyIS1OF3GFeJJCsZw%3D%3D)
 
-[Sap Abap Course Content](https://medium.com/@akanshapatil/sap-abap-course-content-1abec590f3a2)
+[Python Training Institute](https://medium.com/@ranemanish460/python-training-institute-0808f7a5963c)
 
-[Java And Selenium Training Institutions In Bangalore](https://medium.com/@AkashSingh2052/java-and-selenium-training-institutions-in-bangalore-184abc0c19c4)
+[Core Java Training Institutes In Bangalore](https://medium.com/@justacademytraining/core-java-training-institutes-in-bangalore-28f8a412220e)
 
-[Java Full Stack Developer Online Training](https://justacademyin.github.io/Articles/Java-Full-Stack-Developer-Online-Training)
+[Cloud Computing Course In Pune Fees](https://justacademyin.github.io/justacademy/cloud-computing-course-in-pune-fees)
 
-[Java W3](https://justacademyin.github.io/Articles/Java-W3)
+[Digitalni Marketing](https://justacademyin.github.io/Articles/Digitalni-Marketing)
 

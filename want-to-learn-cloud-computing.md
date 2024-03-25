@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/7V3H11Z" alt="Want To Learn Cloud Computing">
+    <img src="https://i.ibb.co/FJQ9DDy/cloud-computing.webp" alt="Want To Learn Cloud Computing">
   </a>
 </p>
 
@@ -30,15 +30,15 @@ Cloud computing is an emerging technology that allows users to access and store 
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Top Software Testing Institute In India](https://www.linkedin.com/pulse/top-software-testing-institute-india-justacademy-manchester-zdouf?trackingId=OilkAm9Ju8XzH0QMxSyTmA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BjwbjXdoOSmefqxJib%2FbqYQ%3D%3D)
+[Oop Js](https://www.linkedin.com/pulse/oop-js-justacademy-ahmedabad-thnhe?trackingId=LlpDv%2BgKlJrPOebiS8I5uw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BaDgp3xTAQPe9zxsqrS35EA%3D%3D)
 
-[Best Way To Learn Java](https://www.linkedin.com/pulse/best-way-learn-java-justacademy-cupertino-hgxdc/)
+[Abap S4 Hana](https://www.linkedin.com/pulse/abap-s4-hana-software-training-sunnyvale-4obmc/)
 
-[Abap Hana Training](https://medium.com/@prempja40/abap-hana-training-7d606b01963f)
+[App Tutorial Flutter](https://medium.com/@prempja40/app-tutorial-flutter-99c618327f07)
 
-[Training For Pmp](https://medium.com/@ranemanish460/training-for-pmp-c8415f2c64cb)
+[Getting Started With Azure Databricks](https://medium.com/@negishivu99/getting-started-with-azure-databricks-518cbd27dcb4)
 
-[Best Software Testing Course In Bangalore](https://justacademyin.github.io/justacademy/Best-Software-Testing-Course-In-Bangalore)
+[Kotlin Full Stack](https://justacademyin.github.io/Articles/Kotlin-Full-Stack)
 
-[Software Training Institutes In Bangalore](https://justacademyin.github.io/justacademy/Software-Training-Institutes-In-Bangalore)
+[Angular Vs React Vs Vue](https://justacademyin.github.io/Articles/Angular-Vs-React-Vs-Vue)
 

@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/7V3H11Z" alt="Cloud Computing Courses In Chennai">
+    <img src="https://i.ibb.co/FJQ9DDy/cloud-computing.webp" alt="Cloud Computing Courses In Chennai">
   </a>
 </p>
 
@@ -29,15 +29,15 @@ Cloud computing courses in Chennai provide students with the necessary skills an
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Best Training Institute For Java In Kolkata](https://www.linkedin.com/pulse/best-training-institute-java-kolkata-justacademy-manchester-onmjf?trackingId=SpcriL0RFKDgyREq9LfrhQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BonfNNyQQRXKvud4lFfnrRQ%3D%3D)
+[Android Lessons](https://www.linkedin.com/pulse/android-lessons-justacademy-pune-g2gpf/)
 
-[Javascript Programming](https://www.linkedin.com/pulse/javascript-programming-justacademy-mumbai-nrg0c?trackingId=U7R20gTZ7SBlQFtxF1fTJQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_showcase_admin%3BEsFdB2XdSWavw7Lqed%2FH2g%3D%3D)
+[Java Training Institute In Kukatpally](https://www.linkedin.com/pulse/java-training-institute-kukatpally-justacademy-kolkata-nigne?trackingId=gdZoZntamShWiaC6BFWZDA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BZ3buGVXtSt2MpOd2OMz6cQ%3D%3D)
 
-[Python Courses London](https://medium.com/@kumarishimmi99/python-courses-london-54229042a6a5)
+[Online Figma](https://medium.com/@negishivu99/online-figma-58ee33735aab)
 
-[Best Java Training Institute In Mohali](https://medium.com/@mistersumit961/best-java-training-institute-in-mohali-4fb4918aed0f)
+[Python Course For Kids](https://medium.com/@abhidnya.1068/python-course-for-kids-cd5c1c12fe5b)
 
-[Online Marketing Kurser](https://justacademyin.github.io/Articles/Online-Marketing-Kurser)
+[Best Software Training Institute In Coimbatore With Placement](https://justacademyin.github.io/justacademy/best-software-training-institute-in-coimbatore-with-placement)
 
-[React Stack](https://justacademyin.github.io/Articles/React-Stack)
+[Software Testing Courses Details](https://justacademyin.github.io/justacademy/software-testing-courses-details)
 

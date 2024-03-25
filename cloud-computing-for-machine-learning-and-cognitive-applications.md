@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/7V3H11Z" alt="Cloud Computing For Machine Learning And Cognitive Applications">
+    <img src="https://i.ibb.co/FJQ9DDy/cloud-computing.webp" alt="Cloud Computing For Machine Learning And Cognitive Applications">
   </a>
 </p>
 
@@ -30,15 +30,15 @@ Cloud computing for machine learning and cognitive applications is a revolutiona
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Digital Marketing Fundamentals](https://www.linkedin.com/pulse/digital-marketing-fundamentals-justacademy-cupertino-1kkmc?trackingId=kv0TVWINwF3cjPer9tHlmg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BzQv8YsYPTiCPDkVRvYwOog%3D%3D)
+[Software Tester Course Free](https://www.linkedin.com/pulse/software-tester-course-free-justacademy-berlin-5lmde?trackingId=S%2Fd%2BYGbvkmPnCJ9x%2F2njUQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BTlJqsmxlRpm4BSTOQJNHnA%3D%3D)
 
-[Best Training Institutes For Java In Chennai](https://www.linkedin.com/pulse/best-training-institutes-java-chennai-justacademy-ahmedabad-wvyre?trackingId=SP9LwpqVgXjGGVCuq%2BvNjA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BBLvwE5WSQ1yNRcYM20AJ%2Fw%3D%3D)
+[React Js Classes Near Me](https://www.linkedin.com/pulse/react-js-classes-near-me-justacademy-mumbai-bpcvc?trackingId=vsGJWg1evDsF4LW%2B%2FxuXCg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_showcase_admin%3BEsFdB2XdSWavw7Lqed%2FH2g%3D%3D)
 
-[Adobe Illustrator 2023 Full](https://medium.com/@prempja40/adobe-illustrator-2023-full-f6c6f8cfcd19)
+[Java Training Institute In Ghaziabad](https://medium.com/@mahi3106/java-training-institute-in-ghaziabad-2e989441f16c)
 
-[Best Training Institute For Java](https://medium.com/@ranepooja/best-training-institute-for-java-4fc47bd8cc0e)
+[Android Developer Course Near Me](https://medium.com/@ranepooja/android-developer-course-near-me-ada19ceba65b)
 
-[Full Stack Agency](https://justacademyin.github.io/Articles/Full-Stack-Agency)
+[Where Can I Learn Cloud Computing](https://justacademyin.github.io/justacademy/where-can-i-learn-cloud-computing)
 
-[Scope Of Software Testing Course](https://justacademyin.github.io/justacademy/Scope-Of-Software-Testing-Course)
+[What Is SAP MM Course](https://justacademyin.github.io/Articles/What-Is-SAP-MM-Course)
 

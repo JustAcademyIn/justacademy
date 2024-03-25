@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/7V3H11Z" alt="Cloud Computing Courses In Kochi">
+    <img src="https://i.ibb.co/FJQ9DDy/cloud-computing.webp" alt="Cloud Computing Courses In Kochi">
   </a>
 </p>
 
@@ -30,15 +30,15 @@ Cloud computing courses in Kochi offer comprehensive training on various cloud c
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Kotlin Certificate](https://www.linkedin.com/pulse/kotlin-certificate-software-training-mountain-view-nf0if/)
+[Node Js Full Stack Developer](https://www.linkedin.com/pulse/node-js-full-stack-developer-justacademy-cupertino-napic/)
 
-[Diploma In Digital Marketing](https://www.linkedin.com/pulse/diploma-digital-marketing-justacademy-coventry-jmq9e?trackingId=efMDyixEU3c5sXbmePcI7w%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BvasO6SUGTP2oKUhUaDM59w%3D%3D)
+[Microsoft Azure Beginner Tutorial](https://www.linkedin.com/pulse/microsoft-azure-beginner-tutorial-justacademy-hyderabad-abyvc?trackingId=ZsqCsijC%2B%2Bows53LRva%2Bbw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BepomL552S36dZH34vwpA2w%3D%3D)
 
-[Figma Ui Design](https://medium.com/@namusn/figma-ui-design-2d62e09bce17)
+[Online Html Certification Course](https://medium.com/@prempja40/online-html-certification-course-395df031e8d4)
 
-[Python Programming Online Free Course With Certificate](https://medium.com/@prempja40/python-programming-online-free-course-with-certificate-72ae2a107c29)
+[Java Training Centre Institute In Noida](https://medium.com/@mistersumit961/java-training-centre-institute-in-noida-d953a739cc4c)
 
-[Cloud Computing Courses In Coimbatore](https://justacademyin.github.io/justacademy/Cloud-Computing-Courses-In-Coimbatore)
+[Cloud Computing Courses In Chennai](https://justacademyin.github.io/justacademy/cloud-computing-courses-in-chennai)
 
-[Data Structures And Algorithms Java Course](https://justacademyin.github.io/justacademy/Data-Structures-And-Algorithms-Java-Course)
+[Software Testing Course In Coimbatore](https://justacademyin.github.io/justacademy/software-testing-course-in-coimbatore)
 

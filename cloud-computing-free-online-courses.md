@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/7V3H11Z" alt="Cloud Computing Free Online Courses">
+    <img src="https://i.ibb.co/FJQ9DDy/cloud-computing.webp" alt="Cloud Computing Free Online Courses">
   </a>
 </p>
 
@@ -30,15 +30,15 @@ Cloud computing free online courses are educational resources that provide indiv
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Best Website For Php Learning](https://www.linkedin.com/pulse/best-website-php-learning-justacademy-kolkata-hu61e?trackingId=rEpowqWtEbJrMHCdJuFhLw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BhsQsLwqxSU64UKgNHl%2FHuA%3D%3D)
+[What Is The Best Way To Learn Cloud Computing](https://www.linkedin.com/pulse/what-best-way-learn-cloud-computing-software-training-sunnyvale-xjzkc?trackingId=8OK1IDOJnuc%2BFcB%2F2AQ5cg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bl%2F2BBmIARsmtdD8COUq0ig%3D%3D)
 
-[Java Full Stack Developer Online Training](https://www.linkedin.com/pulse/java-full-stack-developer-online-training-justacademy-kolkata-0bn0c/)
+[Learn Php Programming From Scratch](https://www.linkedin.com/pulse/learn-php-programming-from-scratch-justacademy-xn6rc?trackingId=XpUNZ3UeqYdrmkhMJCze9w%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BxUP8vDI1SK6JTwycAY2syQ%3D%3D)
 
-[Java Core Java Concepts](https://medium.com/@abhidnya.1068/java-core-java-concepts-5716af54deae)
+[Software Testing Course And Placement](https://medium.com/@surajvaishnav5015/software-testing-course-and-placement-e0287f85b47a)
 
-[Adobe Photoshop Cc Training](https://medium.com/@ranemanish460/adobe-photoshop-cc-training-4eec2bb66d40)
+[Sap Abap Course](https://medium.com/@ranemanish460/sap-abap-course-44d411f97d11)
 
-[Java Course In Mysore](https://justacademyin.github.io/justacademy/Java-Course-In-Mysore)
+[Top 10 Software Testing Institutes In Pune](https://justacademyin.github.io/justacademy/top-10-software-testing-institutes-in-pune)
 
-[Software Testing Course In Mumbai](https://justacademyin.github.io/justacademy/Software-Testing-Course-In-Mumbai)
+[Full Stack Developer Tutorial In Hindi](https://justacademyin.github.io/Articles/Full-Stack-Developer-Tutorial-In-Hindi)
 

@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/7V3H11Z" alt="Cloud Computing Courses Eligibility">
+    <img src="https://i.ibb.co/FJQ9DDy/cloud-computing.webp" alt="Cloud Computing Courses Eligibility">
   </a>
 </p>
 
@@ -30,15 +30,15 @@ Cloud Computing Courses have varied eligibility criteria, depending on the level
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Next.Js Asp.Net Core](https://www.linkedin.com/pulse/nextjs-aspnet-core-justacademy-chennai-ftilc?trackingId=Y0w2ofCtu58lJTmtfR%2BWSw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B1CN8b2GFRWqxwCPWd5SbXw%3D%3D)
+[Best Certification For Android Developer](https://www.linkedin.com/pulse/best-certification-android-developer-justacademy-tekhf/)
 
-[.Net Course](https://www.linkedin.com/pulse/net-course-justacademy-berlin-c0vhc?trackingId=486APu09KfY%2FwFzMxTM5VQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BYf0bh%2BAUR9ioxIsyYDfCpA%3D%3D)
+[Software Testing Course In Trichy](https://www.linkedin.com/pulse/software-testing-course-trichy-justacademy-cupertino-nr6ic?trackingId=BQBbMLozaKC0jxyZIo9z%2FQ%3D%3D&lipi=urn%3Ali%3Apage%3Aorganization_admin_admin_feed_index%3Babd448d8-1be1-4398-bb48-8047ae43b925)
 
-[Android App Development Free Course With Certifica](https://medium.com/@akanshapatil/android-app-development-free-course-with-certifica-0506a4d2b7b9)
+[Python Concepts](https://medium.com/@sagarawat89/python-concepts-fe1c4961db0d)
 
-[Performance Testing Certification Course](https://medium.com/@abhidnya.1068/performance-testing-certification-course-6ea32d47400e)
+[Abap Developer Course](https://medium.com/@prempja40/abap-developer-course-4e43e9a179ac)
 
-[Software Testing Full Course](https://justacademyin.github.io/justacademy/Software-Testing-Full-Course)
+[Software Testing Course In Delhi](https://justacademyin.github.io/justacademy/software-testing-course-in-delhi)
 
-[Free Software Testing Course In Bangalore](https://justacademyin.github.io/justacademy/Free-Software-Testing-Course-In-Bangalore)
+[Intro To Wordpress](https://justacademyin.github.io/justacademy/intro-to-wordpress)
 

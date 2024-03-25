@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/7V3H11Z" alt="Sql Azure In Cloud Computing">
+    <img src="https://i.ibb.co/FJQ9DDy/cloud-computing.webp" alt="Sql Azure In Cloud Computing">
   </a>
 </p>
 
@@ -31,15 +31,15 @@ This service allows users to easily store and manage large volumes of structured
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Amazon Aws Tutorial Pdf](https://www.linkedin.com/pulse/amazon-aws-tutorial-pdf-justacademy-ahmedabad-d4uke?trackingId=prRSlQh9pKhqasFrUVZ0gg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BgDkJO5giR6GYKSrzSn7zAw%3D%3D)
+[Full Stack Web Developer Program](https://www.linkedin.com/pulse/full-stack-web-developer-program-justacademy-ahmedabad-cghff/)
 
-[Javascript For Web Developers](https://www.linkedin.com/pulse/javascript-web-developers-justacademy-boston-ekluc?trackingId=zFjEncRcTKxHC2YQMSd5Hg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BXwxjEqEYSnilOOgoWtEIiA%3D%3D)
+[Aws 3 Tier Web Application Tutorial](https://www.linkedin.com/pulse/aws-3-tier-web-application-tutorial-justacademy-jaipur-opuwe?trackingId=p2on38iBAUTQEbmY%2F%2FXw5A%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bm6yRfzdhTJS77sF6jePtsg%3D%3D)
 
-[Basic Flutter Tutorial](https://medium.com/@prempja40/basic-flutter-tutorial-74bb4bb49a21)
+[Pmp Courses In Uk](https://medium.com/@mahi3106/pmp-courses-in-uk-cbd296a87d14)
 
-[Java Training Centre Institute In Noida](https://medium.com/@mistersumit961/java-training-centre-institute-in-noida-d953a739cc4c)
+[Python Bootcamp](https://medium.com/@surajvaishnav5015/python-bootcamp-837d1107d738)
 
-[Java Developer Course Fees](https://justacademyin.github.io/justacademy/Java-Developer-Course-Fees)
+[Online Laravel Training](https://justacademyin.github.io/Articles/Online-Laravel-Training)
 
-[Manual Software Testing Course](https://justacademyin.github.io/justacademy/Manual-Software-Testing-Course)
+[Software Testing Course In Mumbai With Course Fees](https://justacademyin.github.io/justacademy/software-testing-course-in-mumbai-with-course-fees)
 

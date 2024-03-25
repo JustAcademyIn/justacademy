@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/7V3H11Z" alt="Cloud Computing Classes In Pune">
+    <img src="https://i.ibb.co/FJQ9DDy/cloud-computing.webp" alt="Cloud Computing Classes In Pune">
   </a>
 </p>
 
@@ -31,15 +31,15 @@ Overall, these classes aim to equip students with the knowledge and skills requi
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Software Testing Course In Mumbai With Course Fees](https://www.linkedin.com/pulse/software-testing-course-mumbai-fees-justacademy-bay-area-yojnc?trackingId=67KShDFpWTUfaEOOtKu4NQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bs5%2FvGqECTA%2BmpH%2FwcWkKiQ%3D%3D)
+[Sap S4 Hana Abap Training](https://www.linkedin.com/pulse/sap-s4-hana-abap-training-justacademy-bay-area-wg0jc/)
 
-[Java Training Institutes In Rt Nagar Bangalore](https://www.linkedin.com/pulse/java-training-institutes-rt-nagar-bangalore-justacademy-bay-area-snvfe?trackingId=SKAF691LFQ00gTewkwse3Q%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BHcd7BaCMQFaWbBih5QcMnA%3D%3D)
+[Best Laravel Course](https://www.linkedin.com/pulse/best-laravel-course-justacademy-sunnyvale-trtac?trackingId=%2BzzD6vi9b%2BVYuLbBveCIEQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BUjFoUpg3TaeqGUVsU2Vh7w%3D%3D)
 
-[Android App Development Certification Course](https://medium.com/@justacademytraining/android-app-development-certification-course-43071dfd216b)
+[Best Online Html Course](https://medium.com/@akanshapatil/best-online-html-course-6a848d4bbe60)
 
-[About Full Stack Web Development Course](https://medium.com/@akanshapatil/about-full-stack-web-development-course-84e89c8216a7)
+[Azure Machine Learning Studio Tutorial](https://medium.com/@ranepooja/azure-machine-learning-studio-tutorial-bd1902517a4f)
 
-[Full Stack Agency](https://justacademyin.github.io/Articles/Full-Stack-Agency)
+[Digitalni Marketing](https://justacademyin.github.io/Articles/Digitalni-Marketing)
 
-[Js Ide Online](https://justacademyin.github.io/Articles/Js-Ide-Online)
+[SAP MM Online Training Institutes In Hyderabad](https://justacademyin.github.io/Articles/SAP-MM-Online-Training-Institutes-In-Hyderabad)
 

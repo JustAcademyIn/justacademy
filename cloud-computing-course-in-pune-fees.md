@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/7V3H11Z" alt="Cloud Computing Course In Pune Fees">
+    <img src="https://i.ibb.co/FJQ9DDy/cloud-computing.webp" alt="Cloud Computing Course In Pune Fees">
   </a>
 </p>
 
@@ -30,15 +30,15 @@ Cloud computing is a fast-growing technology that allows users to access and sto
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Cloud Computing In Hindi](https://www.linkedin.com/pulse/cloud-computing-hindi-justacademy-san-jose-irgpf?trackingId=CTA46T2GRWgC4JDeLGzgBw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BfImeOsNpR2eB0vaAt1OrTg%3D%3D)
+[React Js Language](https://www.linkedin.com/pulse/react-js-language-justacademy-coimbatore-lirbc?trackingId=CeR5jNoC6iBb3TyydpP0Ng%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BfmlpQlw4RxKd%2FcK9A3mwCQ%3D%3D)
 
-[Full Stack Software Development Training](https://www.linkedin.com/pulse/full-stack-software-development-training-justacademy-ahmedabad-58acc/)
+[Sap Abap On Hana Certification](https://www.linkedin.com/pulse/sap-abap-hana-certification-software-training-sunnyvale-dkvjc/)
 
-[Pmp Classes Near Me](https://medium.com/@prempja40/pmp-classes-near-me-d72d498622ed)
+[SAP ABAP On HANA Training](https://medium.com/@negishivu99/sap-abap-on-hana-training-b84a3b77628a)
 
-[Python Programming Classes Near Me](https://medium.com/@ranemanish460/python-programming-classes-near-me-dc6c6070b502)
+[Photoshop 2021 Essential Training The Basics](https://medium.com/@namusn/photoshop-2021-essential-training-the-basics-66ff8634d132)
 
-[Software Testing Institute In Pune](https://justacademyin.github.io/justacademy/Software-Testing-Institute-In-Pune)
+[Best Website To Learn Javascript](https://justacademyin.github.io/Articles/Best-Website-To-Learn-Javascript)
 
-[Software Testing Courses Fees In Pune](https://justacademyin.github.io/justacademy/Software-Testing-Courses-Fees-In-Pune)
+[Full Stack Javascript Tutorial](https://justacademyin.github.io/Articles/Full-Stack-Javascript-Tutorial)
 

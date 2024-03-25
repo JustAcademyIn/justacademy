@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/7V3H11Z" alt="Cloud Computing Course Duration And Fee">
+    <img src="https://i.ibb.co/FJQ9DDy/cloud-computing.webp" alt="Cloud Computing Course Duration And Fee">
   </a>
 </p>
 
@@ -35,15 +35,15 @@ Brief Description: A certification from a recognized institution or passing a ce
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Software Testing Automation Courses](https://www.linkedin.com/pulse/software-testing-automation-courses-justacademy-thane-prxqc?trackingId=fXcg85GeqzGYo5z272Ck2A%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B8x4oZRFoSmO4CZ5ThOfedg%3D%3D)
+[Python Mobile App Development Course](https://www.linkedin.com/pulse/python-mobile-app-development-course-justacademy-hyderabad-j7cwc?trackingId=5e%2BKlbiiOATVNhnfa%2B1hHA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BepomL552S36dZH34vwpA2w%3D%3D)
 
-[Android Development Associate](https://www.linkedin.com/pulse/android-development-associate-justacademy-sunnyvale-sitbf/)
+[Java Training Institutes In London](https://www.linkedin.com/pulse/java-training-institutes-london-justacademy-jaipur-sm1ne?trackingId=0dA%2BOb%2BiviCspOKJ30Hh5w%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BPHZ4e%2FC0SW%2BPbqGLUXrWbQ%3D%3D)
 
-[Learn How To Use Adobe Illustrator](https://medium.com/@akanshapatil/learn-how-to-use-adobe-illustrator-09767179c2b3)
+[Sap 4 Hana Certification](https://medium.com/@ranemanish460/sap-4-hana-certification-cb71d7173fd7)
 
-[Best Free Website To Learn Android App Development](https://medium.com/@roneet705/best-free-website-to-learn-android-app-development-15e3ba3ae9ce)
+[Python Certification Uk](https://medium.com/@roneet705/python-certification-uk-55e4e5a9f8e8)
 
-[SAP MM Institute Near Me](https://justacademyin.github.io/Articles/SAP-MM-Institute-Near-Me)
+[Full Stack Javascript Tutorial](https://justacademyin.github.io/Articles/Full-Stack-Javascript-Tutorial)
 
-[Full Stack Agency](https://justacademyin.github.io/Articles/Full-Stack-Agency)
+[Software Testing Course In Bangalore](https://justacademyin.github.io/justacademy/software-testing-course-in-bangalore)
 

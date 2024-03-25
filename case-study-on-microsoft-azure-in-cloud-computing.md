@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/7V3H11Z" alt="Case Study On Microsoft Azure In Cloud Computing">
+    <img src="https://i.ibb.co/FJQ9DDy/cloud-computing.webp" alt="Case Study On Microsoft Azure In Cloud Computing">
   </a>
 </p>
 
@@ -30,15 +30,15 @@ Microsoft Azure is a popular and widely used cloud computing platform that offer
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Software Training Institutes In Chennai](https://www.linkedin.com/pulse/software-training-institutes-chennai-justacademy-kolkata-afdvc?trackingId=FlOmDvLD7e1Y%2FjGBJYLC8Q%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BiAa60KZ1TYi9BxLlFQwGgg%3D%3D)
+[D3 Javascript](https://www.linkedin.com/pulse/d3-javascript-justacademy-chennai-6b2pc?trackingId=APsPz4rQ3I7NgneeYr%2FhtA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BjPw0ei4cQfe0InHd%2FK206Q%3D%3D)
 
-[Java Training Institute In Delhi Core Java Course In Delhi](https://www.linkedin.com/pulse/java-training-institute-delhi-core-course-justacademy-birmingham-wepbf?trackingId=Td%2B4zvb7vla1PfjOhcJLLQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bc4oWIBxNQ3mB3696rH77hw%3D%3D)
+[Pmp Certification Cost In Mumbai](https://www.linkedin.com/pulse/pmp-certification-cost-mumbai-software-training-mountain-view-qlnge?trackingId=oK%2FbxKWxSTRdXbJvvMqr4Q%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B8iJAXExGSpWzkSgodJb9Bg%3D%3D)
 
-[Sap Abap Developer Certification](https://medium.com/@shivamja27/sap-abap-developer-certification-c8c845a460c0)
+[Sap Abap Online Course For Beginners](https://medium.com/@ranepooja/sap-abap-online-course-for-beginners-0112488898af)
 
-[Python Institute](https://medium.com/@sagarawat89/python-institute-37a6209f828c)
+[Python Course Fees](https://medium.com/@sagarawat89/python-course-fees-50c1795b86a6)
 
-[SAP MM Training](https://justacademyin.github.io/Articles/SAP-MM-Training)
+[Js Tutorial](https://justacademyin.github.io/Articles/Js-Tutorial)
 
-[Cloud Computing Courses Chennai](https://justacademyin.github.io/justacademy/Cloud-Computing-Courses-Chennai)
+[Software Testing Institute](https://justacademyin.github.io/justacademy/software-testing-institute)
 

@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/7V3H11Z" alt="Cloud Computing Courses In Kolkata">
+    <img src="https://i.ibb.co/FJQ9DDy/cloud-computing.webp" alt="Cloud Computing Courses In Kolkata">
   </a>
 </p>
 
@@ -30,15 +30,15 @@ Cloud computing courses in Kolkata introduce students to the concepts and techno
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Java Training Institutes](https://www.linkedin.com/pulse/java-training-institutes-justacademy-chicago-yn6ee?trackingId=lM%2BAYj5Q6SnPDqBOdtMNHg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BxzhODhyIS1OF3GFeJJCsZw%3D%3D)
+[Java Training Institute New Delhi Delhi](https://www.linkedin.com/pulse/java-training-institute-new-delhi-justacademy-m1y7e?trackingId=5oJfQgPOqFbhSKDXjdTb4g%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BxUP8vDI1SK6JTwycAY2syQ%3D%3D)
 
-[What Is Sap Sd Module](https://www.linkedin.com/pulse/what-sap-sd-module-justacademy-beangaluru-utxlc?trackingId=32%2FbhhM9oTy0ughCuyMYKw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BV%2FJdwEmZTiK5hNIeM20IVA%3D%3D)
+[Android Full Stack Developer Course](https://www.linkedin.com/pulse/android-full-stack-developer-course-software-training-sunnyvale-xftcf/)
 
-[Photoshop Refresher Course](https://medium.com/@kamblerajas684/photoshop-refresher-course-8c2052cf28fa)
+[Best Java Training Institutes In Hyderabad With 100 Placement](https://medium.com/@kumarishimmi99/best-java-training-institutes-in-hyderabad-with-100-placement-926da1c387b9)
 
-[Flutter Tutorial Beginner To Advanced](https://medium.com/@AkashSingh2052/flutter-tutorial-beginner-to-advanced-f8879c1e4bc9)
+[Photoshop Learning Course](https://medium.com/@kumarishimmi99/photoshop-learning-course-397e16c96241)
 
-[Azure Basics For Beginners](https://justacademyin.github.io/Articles/Azure-Basics-For-Beginners)
+[SAP MM Consultant Course](https://justacademyin.github.io/Articles/SAP-MM-Consultant-Course)
 
-[Js Tutorial](https://justacademyin.github.io/Articles/Js-Tutorial)
+[C++ Full Stack](https://justacademyin.github.io/Articles/C++-Full-Stack)
 

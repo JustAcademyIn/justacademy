@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/7V3H11Z" alt="Where Can I Learn Cloud Computing">
+    <img src="https://i.ibb.co/FJQ9DDy/cloud-computing.webp" alt="Where Can I Learn Cloud Computing">
   </a>
 </p>
 
@@ -30,15 +30,15 @@ Cloud computing is the practice of using remote servers and networks, typically 
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Best Java Training Institute In Ahmedabad](https://www.linkedin.com/pulse/best-java-training-institute-ahmedabad-justacademy-delhi-tnurc?trackingId=QoE0bzGZf9EfnbgtotR5bg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B3uDtMYf2QJOigjAh01Sv1g%3D%3D)
+[Software Testing Courses Fees](https://www.linkedin.com/pulse/software-testing-courses-fees-justacademy-beangaluru-lfnuc?trackingId=8dA3SYdrpx3ilyuKUqcmOg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BEXRT6JxjTbqACzyYMBukQQ%3D%3D)
 
-[Java Full Stack Developer Course In Chennai](https://www.linkedin.com/pulse/java-full-stack-developer-course-chennai-justacademy-coimbatore-cctsc/)
+[Cloud Computing Institute In Delhi Ncr](https://www.linkedin.com/pulse/cloud-computing-institute-delhi-ncr-justacademy-delhi-jrh2c?trackingId=89%2F0od0CNEw9UIOxTsiyBQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BCQZL415sSKua%2B2WOwIB%2Fog%3D%3D)
 
-[Best Training Institute In Noida For Java](https://medium.com/@ranemanish460/best-training-institute-in-noida-for-java-c0f375b9dc22)
+[Android Mobile Application Development Training](https://medium.com/@pzade254/android-mobile-application-development-training-e891df5ca55e)
 
-[Pmp Course Near Me](https://medium.com/@abhidnya.1068/pmp-course-near-me-7ae3c68282d5)
+[Html Online Course With Certificate](https://medium.com/@roneet705/html-online-course-with-certificate-87f4dbad6e54)
 
-[Cloud Computing Courses In Pune](https://justacademyin.github.io/justacademy/Cloud-Computing-Courses-In-Pune)
+[Software Testing Course In Pimpri Chinchwad](https://justacademyin.github.io/justacademy/software-testing-course-in-pimpri-chinchwad)
 
-[Java Language Course Fees](https://justacademyin.github.io/justacademy/Java-Language-Course-Fees)
+[Software Testing Course Fees And Duration In Hyderabad](https://justacademyin.github.io/justacademy/software-testing-course-fees-and-duration-in-hyderabad)
 

@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/7V3H11Z" alt="Cloud Computing Courses In Pune Fees">
+    <img src="https://i.ibb.co/FJQ9DDy/cloud-computing.webp" alt="Cloud Computing Courses In Pune Fees">
   </a>
 </p>
 
@@ -30,15 +30,15 @@ Cloud computing courses in Pune have varying fees depending on the institute and
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Selenium Javascript](https://www.linkedin.com/pulse/selenium-javascript-software-training-sunnyvale-jbe3c?trackingId=hXU1bw8EK1QTviR0hjqTvw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BuOGAPcWcQnScqXWa77%2Fzaw%3D%3D)
+[Software Testing Courses In Pune](https://www.linkedin.com/pulse/software-testing-courses-pune-justacademy-lcorc?trackingId=cuP1NxZJ%2B8%2Bt47dvoxi11A%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BkivWcGmHSBCkKNz13%2FsLDg%3D%3D)
 
-[Azure Cloud Strategy](https://www.linkedin.com/pulse/azure-cloud-strategy-justacademy-delhi-brjpc?trackingId=uB591wPEfTdOGtlqtEmSUQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BiK8uaYXISG24DaU4tVx5cA%3D%3D)
+[S4 Hana Abap Coding](https://www.linkedin.com/pulse/s4-hana-abap-coding-justacademy-ahmedabad-a0doc/)
 
-[Sap Abap Training Course](https://medium.com/@roneet705/sap-abap-training-course-1c2eef3483b5)
+[Python Classes In Pune Fees](https://medium.com/@justacademytraining/python-classes-in-pune-fees-03bb5a00152b)
 
-[Best Photoshop Course For Beginners](https://medium.com/@prempja40/best-photoshop-course-for-beginners-cb72a196da2a)
+[Full Stack Development Course Near Me](https://medium.com/@mahi3106/full-stack-development-course-near-me-e823d3493255)
 
-[SAP MM Online Training Institutes In Hyderabad](https://justacademyin.github.io/Articles/SAP-MM-Online-Training-Institutes-In-Hyderabad)
+[Python Mobile App Development Course](https://justacademyin.github.io/Articles/Python-Mobile-App-Development-Course)
 
-[Stanford Mobile App Development Course](https://justacademyin.github.io/Articles/Stanford-Mobile-App-Development-Course)
+[Aws Amazon Free Courses](https://justacademyin.github.io/justacademy/aws-amazon-free-courses)
 

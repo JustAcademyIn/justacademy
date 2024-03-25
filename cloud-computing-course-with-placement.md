@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/7V3H11Z" alt="Cloud Computing Course With Placement">
+    <img src="https://i.ibb.co/FJQ9DDy/cloud-computing.webp" alt="Cloud Computing Course With Placement">
   </a>
 </p>
 
@@ -30,15 +30,15 @@ Cloud computing course with placement is a comprehensive training program that e
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Android Kotlin Tutorial For Beginners](https://www.linkedin.com/pulse/android-kotlin-tutorial-beginners-software-training-mountain-view-aktpc/)
+[Microsoft Cloud Computing Ppt](https://www.linkedin.com/pulse/microsoft-cloud-computing-ppt-justacademy-hyderabad-iwhlc?trackingId=CgRE9RwB6UsA2ALYt65kPw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B21p%2FmdWOSTyqjrKANsKvxw%3D%3D)
 
-[Top 10 Cloud Computing Institute In India](https://www.linkedin.com/pulse/top-10-cloud-computing-institute-india-justacademy-pune-9daoc?trackingId=hhkIDNybbId9RzudWmIFIQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BVDf%2FJ3L7TWm0o%2FfSLXyFIg%3D%3D)
+[Mobile App Development London](https://www.linkedin.com/pulse/mobile-app-development-london-justacademy-berlin-tfnxe?trackingId=AALni41HPH9AaJOheIt%2Fjg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B2Ab1xX3KS6Grq8yqy2i6kQ%3D%3D)
 
-[Photoshop Cc Training](https://medium.com/@namusn/photoshop-cc-training-fb7d850bac08)
+[Free Figma Course With Certificate](https://medium.com/@ranepooja/free-figma-course-with-certificate-d71b8f83cc4d)
 
-[Html5 Certification Course](https://medium.com/@surajvaishnav5015/html5-certification-course-37dfaa0f8525)
+[Uk Project Management Institute](https://medium.com/@ranepooja/uk-project-management-institute-2fa67a550f25)
 
-[Terraform On Azure Tutorial](https://justacademyin.github.io/Articles/Terraform-On-Azure-Tutorial)
+[Manual Software Testing Course](https://justacademyin.github.io/justacademy/manual-software-testing-course)
 
-[Software Testing Institute Near Me](https://justacademyin.github.io/justacademy/Software-Testing-Institute-Near-Me)
+[Java Programming Free Online Course](https://justacademyin.github.io/justacademy/java-programming-free-online-course)
 

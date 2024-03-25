@@ -30,15 +30,15 @@ Cloud computing course in Chandigarh is designed to provide individuals with the
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Java Training Institutes Near Ameerpet](https://www.linkedin.com/pulse/java-training-institutes-near-ameerpet-justacademy-bd3gc?trackingId=DnWoSnwjAu%2BwLtAjz%2F092A%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BslXtfIHrQQueVkqQdxGVFw%3D%3D)
+[Advanced Java Full Courses](https://www.linkedin.com/pulse/advanced-java-full-courses-justacademy-kolkata-8thee?trackingId=mBQVysMfAzUSJZIUxhQQ1w%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B57ggr4WVTUuBeEA%2FxPy55A%3D%3D)
 
-[Php Programming Certification](https://www.linkedin.com/pulse/php-programming-certification-justacademy-ahmedabad-mlsoe?trackingId=yLZGgcycB9g2aiHyVhSGog%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BO%2BCUjkhGSmWvdoCzc9%2FX%2FA%3D%3D)
+[Complete Android Development Course](https://www.linkedin.com/pulse/complete-android-development-course-justacademy-hyderabad-pjj1f/)
 
-[Flutter Course With Placement](https://medium.com/@mahi3106/flutter-course-with-placement-7731e92aa363)
+[Basic Photoshop Course](https://medium.com/@surajvaishnav5015/basic-photoshop-course-c277b853894e)
 
-[Free Full Stack Course](https://medium.com/@mahi3106/free-full-stack-course-4f693d9d626e)
+[Online Courses Html Css Javascript](https://medium.com/@kamblerajas684/online-courses-html-css-javascript-a66f51ec92ac)
 
-[Java Full Stack Developer Course In Chennai](https://justacademyin.github.io/justacademy/Java-Full-Stack-Developer-Course-In-Chennai)
+[Digital Marketing Corporate Training](https://justacademyin.github.io/Articles/Digital-Marketing-Corporate-Training)
 
-[Software Testing Course Duration](https://justacademyin.github.io/justacademy/Software-Testing-Course-Duration)
+[SAP MM Course](https://justacademyin.github.io/Articles/SAP-MM-Course)
 

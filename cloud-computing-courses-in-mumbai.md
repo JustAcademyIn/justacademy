@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/7V3H11Z" alt="Cloud Computing Courses In Mumbai">
+    <img src="https://i.ibb.co/FJQ9DDy/cloud-computing.webp" alt="Cloud Computing Courses In Mumbai">
   </a>
 </p>
 
@@ -34,15 +34,15 @@ Overall, these courses provide students and professionals with the necessary ski
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Full Stack Web Developer Program](https://www.linkedin.com/pulse/full-stack-web-developer-program-justacademy-ahmedabad-cghff/)
+[Cloud Computing Services Microsoft Azure](https://www.linkedin.com/pulse/cloud-computing-services-microsoft-azure-justacademy-delhi-pbu1c?trackingId=1XwlTMKICCRzQDFUDXiZJA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BiK8uaYXISG24DaU4tVx5cA%3D%3D)
 
-[Best Java Training Institute In South Delhi](https://www.linkedin.com/pulse/best-java-training-institute-south-delhi-justacademy-a8dre?trackingId=4n3sKVRvnMbbzvYARa4pFg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BxUP8vDI1SK6JTwycAY2syQ%3D%3D)
+[Kotlin Full Stack](https://www.linkedin.com/pulse/kotlin-full-stack-justacademy-bay-area-nubmc/)
 
-[Adobe Photoshop Cc Certification](https://medium.com/@negishivu99/adobe-photoshop-cc-certification-f6caa8bae7c6)
+[Android Development Course With Certificate](https://medium.com/@namusn/android-development-course-with-certificate-4378d8905072)
 
-[Html Web Design Course](https://medium.com/@kumarishimmi99/html-web-design-course-3df3592784a0)
+[Pmp Cert Worth It](https://medium.com/@kumarishimmi99/pmp-cert-worth-it-5a44065943cd)
 
-[C C++ Java Python Courses](https://justacademyin.github.io/justacademy/C-C++-Java-Python-Courses)
+[Software Testing Course In India](https://justacademyin.github.io/justacademy/software-testing-course-in-india)
 
-[Terraform On Azure Tutorial](https://justacademyin.github.io/Articles/Terraform-On-Azure-Tutorial)
+[Cloud Computing Courses In Chennai](https://justacademyin.github.io/justacademy/cloud-computing-courses-in-chennai)
 

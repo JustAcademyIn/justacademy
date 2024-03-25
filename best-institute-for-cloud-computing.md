@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/7V3H11Z" alt="Best Institute For Cloud Computing">
+    <img src="https://i.ibb.co/FJQ9DDy/cloud-computing.webp" alt="Best Institute For Cloud Computing">
   </a>
 </p>
 ?
@@ -30,15 +30,15 @@ The best institute for cloud computing offers comprehensive and up-to-date cours
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Php Laravel Training](https://www.linkedin.com/pulse/php-laravel-training-justacademy-thane-w46hc?trackingId=UUtAra0vj9W8tXQKlECRTg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BtWGDFb3%2BTIWrNJLdiT%2FfMQ%3D%3D)
+[Full Stack Javascript Tutorial](https://www.linkedin.com/pulse/full-stack-javascript-tutorial-justacademy-beangaluru-ebl4c/)
 
-[Dot Net Certification](https://www.linkedin.com/pulse/dot-net-certification-justacademy-hyderabad-2rdmc?trackingId=c5%2Bki5vTr022psI2Be12yA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BIgbA%2F28BQMiUW8Q%2FkWRJzw%3D%3D)
+[Best Software Testing Institute In Hyderabad](https://www.linkedin.com/pulse/best-software-testing-institute-hyderabad-justacademy-hyderabad-bghxc?trackingId=Rwhj3tmzUqObUzMC6JZwOA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BvVOqf8C4SxiY2jOCpJpYGg%3D%3D)
 
-[Pmp Certification Training Free](https://medium.com/@kamblerajas684/pmp-certification-training-free-08a165a5f9fe)
+[Advanced Abap Programming For Sap](https://medium.com/@abhidnya.1068/advanced-abap-programming-for-sap-821b50faaa78)
 
-[Photo Retouch Course](https://medium.com/@mistersumit961/photo-retouch-course-4ecc51a6fbf5)
+[Java Training Institute In Hadapsar](https://medium.com/@shivamja27/java-training-institute-in-hadapsar-1d5f2385b0cb)
 
-[Best Software Training Institute In Coimbatore With Placement](https://justacademyin.github.io/justacademy/Best-Software-Training-Institute-In-Coimbatore-With-Placement)
+[Prerequisite For Software Testing Course](https://justacademyin.github.io/justacademy/prerequisite-for-software-testing-course)
 
-[Become A Full Stack Web Developer](https://justacademyin.github.io/Articles/Become-A-Full-Stack-Web-Developer)
+[Amazon Aws Courses Free](https://justacademyin.github.io/justacademy/amazon-aws-courses-free)
 

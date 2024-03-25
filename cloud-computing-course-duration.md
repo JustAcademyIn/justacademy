@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/7V3H11Z" alt="Cloud Computing Course Duration">
+    <img src="https://i.ibb.co/FJQ9DDy/cloud-computing.webp" alt="Cloud Computing Course Duration">
   </a>
 </p>
 
@@ -40,15 +40,15 @@ Cloud computing course duration varies depending on the level of expertise you w
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Free Online Html Course](https://www.linkedin.com/pulse/free-online-html-course-justacademy-kolkata-hm5bc?trackingId=1Tpb3StkrKrSjB8RPODJfw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3ByyeRPWoaTYWz7zA9HEB%2FBA%3D%3D)
+[Core Java Training Institutes In Pune](https://www.linkedin.com/pulse/core-java-training-institutes-pune-justacademy-cupertino-kov7e?trackingId=vSNoHoO3HaDcVr712qnXDQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BDG20AQYaSWe2d50JwV39vA%3D%3D)
 
-[Java Training Institutes In Ambattur](https://www.linkedin.com/pulse/java-training-institutes-ambattur-software-training-sunnyvale-76h4e?trackingId=mMj7m0276vOMyCNShtinFA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BPMbi7PJsSrOfOFf5jCv3gg%3D%3D)
+[Sap S4 Hana Course](https://www.linkedin.com/pulse/sap-s4-hana-course-justacademy-beangaluru-ojzvc/)
 
-[S4HANA](https://medium.com/@kamblerajas684/s4hana-3b8bb6927191)
+[Java Training Institutes](https://medium.com/@prempja40/java-training-institutes-75720ed9f68f)
 
-[Project Management Professional Bootcamp](https://medium.com/@justacademytraining/project-management-professional-bootcamp-f3252ef26b37)
+[App Tutorial Flutter](https://medium.com/@prempja40/app-tutorial-flutter-99c618327f07)
 
-[Java Full Stack Developer Online Training](https://justacademyin.github.io/Articles/Java-Full-Stack-Developer-Online-Training)
+[Best Course To Learn Javascript](https://justacademyin.github.io/Articles/Best-Course-To-Learn-Javascript)
 
-[Full Stack Developer Bootcamp Free](https://justacademyin.github.io/Articles/Full-Stack-Developer-Bootcamp-Free)
+[Wp Class](https://justacademyin.github.io/justacademy/wp-class)
 

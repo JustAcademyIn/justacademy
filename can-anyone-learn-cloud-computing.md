@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/7V3H11Z" alt="Can Anyone Learn Cloud Computing">
+    <img src="https://i.ibb.co/FJQ9DDy/cloud-computing.webp" alt="Can Anyone Learn Cloud Computing">
   </a>
 </p>
 
@@ -30,15 +30,15 @@ Cloud computing is a technology that allows users to access and store data and a
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Best Training Institute In Bangalore For Java J2ee And Plcements](https://www.linkedin.com/pulse/best-training-institute-bangalore-java-j2ee-plcements-mfvde?trackingId=eCkF6B1hFwOvXnY%2F%2BDqzvg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BEWeMkO%2BuSGSAlnCbMCSomw%3D%3D)
+[Free Course Laravel](https://www.linkedin.com/pulse/free-course-laravel-justacademy-beangaluru-0lv1c?trackingId=DhEAbTxu2GpFX0ru9T2TZQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BBUakVGECTzaHeYDngAD9NQ%3D%3D)
 
-[Aws Online Training Course](https://www.linkedin.com/pulse/aws-online-training-course-justacademy-kolkata-0tore?trackingId=9d25P8JdMG8uFbm51sa6SA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BQDIjHgscSv%2BfE53RTIlzCA%3D%3D)
+[Azure File Storage Tutorial](https://www.linkedin.com/pulse/azure-file-storage-tutorial-justacademy-bay-area-xlwge?trackingId=JL79BjAdq%2FcH8D7QXmEzIQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BVfd8WVt8TwCvR4GLG%2BU4Hg%3D%3D)
 
-[Top Software Testing](https://medium.com/@namusn/top-software-testing-b0a78a5efbce)
+[Android Training Center](https://medium.com/@prempja40/android-training-center-4af19ba6f181)
 
-[Full Stack Development Course Near Me](https://medium.com/@mahi3106/full-stack-development-course-near-me-e823d3493255)
+[Java Training Institute Mehdipatnam](https://medium.com/@abhidnya.1068/java-training-institute-mehdipatnam-c918b607e51f)
+
+[Software Testing Course In Bhubaneswar](https://justacademyin.github.io/justacademy/software-testing-course-in-bhubaneswar)
 
 [Javascript While](https://justacademyin.github.io/Articles/Javascript-While)
-
-[Python Mobile App Development Course](https://justacademyin.github.io/Articles/Python-Mobile-App-Development-Course)
 

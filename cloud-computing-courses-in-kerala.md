@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/7V3H11Z" alt="Cloud Computing Courses In Kerala">
+    <img src="https://i.ibb.co/FJQ9DDy/cloud-computing.webp" alt="Cloud Computing Courses In Kerala">
   </a>
 </p>
 Cloud computing courses in Kerala provide an in-depth understanding of how to manage infrastructure in the cloud, including how to design, deploy, and maintain cloud-based systems. These courses cover various topics such as virtualization, serverless computing, containerization, and DevOps methodologies, providing students with the skills and knowledge needed to succeed in this rapidly growing field. With hands-on training and real-world projects, these courses prepare students for careers in cloud engineering, architecture, and management. The demand for cloud computing skills is increasing, making these courses a valuable investment for those looking to advance their careers in this exciting technology. 
@@ -28,15 +28,15 @@ Cloud computing courses in Kerala provide an in-depth understanding of how to ma
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Digital Marketing Training In Uk](https://www.linkedin.com/pulse/digital-marketing-training-uk-justacademy-thane-jgzwc?trackingId=LEnmvCFhATiWMjGNf8OODg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BSjJgDxHPQuqgadOjXouU%2FQ%3D%3D)
+[London Digital Marketing Training](https://www.linkedin.com/pulse/london-digital-marketing-training-justacademy-portland-ywg8f?trackingId=O9L46gEfxaauRsyWPQbFyA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B4wvQoxRzQS6F4YizGcy96A%3D%3D)
 
-[Software Testing Course In Trichy](https://www.linkedin.com/pulse/software-testing-course-trichy-justacademy-cupertino-nr6ic?trackingId=BQBbMLozaKC0jxyZIo9z%2FQ%3D%3D&lipi=urn%3Ali%3Apage%3Aorganization_admin_admin_feed_index%3Babd448d8-1be1-4398-bb48-8047ae43b925)
+[Best SAP Mm Institute In Hyderabad](https://www.linkedin.com/pulse/best-sap-mm-institute-hyderabad-justacademy-sunnyvale-ptcxf/)
 
-[SAP HANA Certification For Beginners](https://medium.com/@negishivu99/sap-hana-certification-for-beginners-0f03768a38d7)
+[Python Course In Bangalore Fees](https://medium.com/@roneet705/python-course-in-bangalore-fees-1723171fc462)
 
-[Java Training Institutes In Ameerpet](https://medium.com/@namusn/java-training-institutes-in-ameerpet-38292650afd8)
+[Best Free Python Course With Certificate](https://medium.com/@shivamja27/best-free-python-course-with-certificate-b443d538e2b9)
 
-[Microsoft Azure Beginner Tutorial](https://justacademyin.github.io/Articles/Microsoft-Azure-Beginner-Tutorial)
+[Software Testing Course Syllabus](https://justacademyin.github.io/justacademy/software-testing-course-syllabus)
 
-[Java Course In Madurai](https://justacademyin.github.io/justacademy/Java-Course-In-Madurai)
+[Javascript Coding For Beginners](https://justacademyin.github.io/Articles/Javascript-Coding-For-Beginners)
 

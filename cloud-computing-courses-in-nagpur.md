@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/7V3H11Z" alt="Cloud Computing Courses In Nagpur">
+    <img src="https://i.ibb.co/FJQ9DDy/cloud-computing.webp" alt="Cloud Computing Courses In Nagpur">
   </a>
 </p>
 
@@ -30,15 +30,15 @@ Cloud computing is a popular technology that offers on-demand access to a shared
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Software Testing Course In Vashi](https://www.linkedin.com/pulse/software-testing-course-vashi-justacademy-cupertino-blr5c?trackingId=sbLFwBAjMQWIHbUdgN1SZw%3D%3D&lipi=urn%3Ali%3Apage%3Aorganization_admin_admin_feed_index%3Babd448d8-1be1-4398-bb48-8047ae43b925)
+[SAP Mm Training Institute In Faridabad](https://www.linkedin.com/pulse/sap-mm-training-institute-faridabad-justacademy-sunnyvale-laxkf/)
 
-[Master Js](https://www.linkedin.com/pulse/master-js-justacademy-boston-7qhhc?trackingId=VDClxE8vvu2cI8kcWv%2F09Q%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BXwxjEqEYSnilOOgoWtEIiA%3D%3D)
+[React Js Certification Free](https://www.linkedin.com/pulse/react-js-certification-free-justacademy-ahmedabad-teoze?trackingId=HB%2BgpJHrZUsEWkiADIG%2BCQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BO%2BCUjkhGSmWvdoCzc9%2FX%2FA%3D%3D)
 
-[Pmp Training And Certification Cost](https://medium.com/@roneet705/pmp-training-and-certification-cost-c7ffda435405)
+[Sap Abap Developer Course](https://medium.com/@namusn/sap-abap-developer-course-312631aabd54)
 
-[Python Online Training In Hyderabad](https://medium.com/@prempja40/python-online-training-in-hyderabad-8f296b770af2)
+[Abap Developer Training](https://medium.com/@justacademytraining/abap-developer-training-3de0dae7eb1a)
 
-[Software Testing Course In Gujarat](https://justacademyin.github.io/justacademy/Software-Testing-Course-In-Gujarat)
+[Cloud Computing Courses In Bangalore](https://justacademyin.github.io/justacademy/cloud-computing-courses-in-bangalore)
 
-[Advanced Java Course Institute](https://justacademyin.github.io/Articles/Advanced-Java-Course-Institute)
+[Software Testing Certification Course Online In India](https://justacademyin.github.io/justacademy/software-testing-certification-course-online-in-india)
 

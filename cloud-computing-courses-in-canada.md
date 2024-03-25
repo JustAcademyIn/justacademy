@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/7V3H11Z" alt="Cloud Computing Courses In Canada">
+    <img src="https://i.ibb.co/FJQ9DDy/cloud-computing.webp" alt="Cloud Computing Courses In Canada">
   </a>
 </p>
 
@@ -30,15 +30,15 @@ Cloud computing courses in Canada offer students comprehensive training on the l
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Java Certification](https://www.linkedin.com/pulse/java-certification-justacademy-hyderabad-ewxzc/)
+[Java Training Institute Meerut](https://www.linkedin.com/pulse/java-training-institute-meerut-justacademy-boston-jb33c?trackingId=cZggjNP4siHRB2zjkxagFA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BA1nZ1nP9T4epQeiwVmNY3A%3D%3D)
 
-[Javascripttutor](https://www.linkedin.com/pulse/javascripttutor-justacademy-berlin-kqeyc?trackingId=GCuBrRWLvXnyBZAnUFHbtw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B9LRf%2B9vgRJ%2BRyqfmHudhjA%3D%3D)
+[Flutter And Firebase Tutorial](https://www.linkedin.com/pulse/flutter-firebase-tutorial-justacademy-delhi-b2v8c/)
 
-[C C++ Java Python Courses](https://medium.com/@mistersumit961/c-c-java-python-courses-f8b63eb369c0)
+[Best Project Management Courses Uk](https://medium.com/@prempja40/best-project-management-courses-uk-c8a0923f8042)
 
-[Adobe Photoshop Full Course Free](https://medium.com/@ranepooja/adobe-photoshop-full-course-free-fe2652b0549e)
+[Java Free Code Camp](https://medium.com/@mistersumit961/java-free-code-camp-8908053c978c)
 
-[Javascript Info](https://justacademyin.github.io/Articles/Javascript-Info)
+[Html Course Udemy](https://justacademyin.github.io/Articles/Html-Course-Udemy)
 
-[Software Testing Free Course Online](https://justacademyin.github.io/justacademy/Software-Testing-Free-Course-Online)
+[Azure Technology Tutorial](https://justacademyin.github.io/justacademy/azure-technology-tutorial)
 

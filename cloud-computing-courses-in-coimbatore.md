@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/7V3H11Z" alt="Cloud Computing Courses In Coimbatore">
+    <img src="https://i.ibb.co/FJQ9DDy/cloud-computing.webp" alt="Cloud Computing Courses In Coimbatore">
   </a>
 </p>
 
@@ -30,15 +30,15 @@ Cloud computing courses in Coimbatore provide students with the necessary skills
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Java And Selenium Training Institutions In Bangalore](https://www.linkedin.com/pulse/java-selenium-training-institutions-bangalore-justacademy-chicago-j9rbe?trackingId=M5yGIViB7tgr2WcMJ%2BRk1g%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BxzhODhyIS1OF3GFeJJCsZw%3D%3D)
+[Java Training Institutes In Rajasthan](https://www.linkedin.com/pulse/java-training-institutes-rajasthan-justacademy-sunnyvale-5x41c?trackingId=244ROQUpFlQMzccpbZ4euA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bw3FaZuhqQImafpQ55o%2FftQ%3D%3D)
 
-[Java Training Institute In Delhi Core Java Course In Delhi](https://www.linkedin.com/pulse/java-training-institute-delhi-core-course-justacademy-birmingham-wepbf?trackingId=Td%2B4zvb7vla1PfjOhcJLLQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bc4oWIBxNQ3mB3696rH77hw%3D%3D)
+[Free Android Studio Course](https://www.linkedin.com/pulse/free-android-studio-course-justacademy-ex7oc/)
 
-[Flutter Development Course Free](https://medium.com/@prempja40/flutter-development-course-free-456d6d1d3b99)
+[Java Training And Placement Institutes In Pune](https://medium.com/@namusn/java-training-and-placement-institutes-in-pune-4685c8270be9)
 
-[Java Training Institute In Ghaziabad](https://medium.com/@mahi3106/java-training-institute-in-ghaziabad-2e989441f16c)
+[Learn Android Studio With Java](https://medium.com/@justacademytraining/learn-android-studio-with-java-2bc8a1192346)
 
-[Django Vs React Vs Angular](https://justacademyin.github.io/Articles/Django-Vs-React-Vs-Angular)
+[Terraform On Azure Tutorial](https://justacademyin.github.io/Articles/Terraform-On-Azure-Tutorial)
 
-[Software Testing Full Course](https://justacademyin.github.io/justacademy/Software-Testing-Full-Course)
+[Mean Developer](https://justacademyin.github.io/Articles/Mean-Developer)
 

@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/7V3H11Z" alt="Best Institute For Cloud Computing In Hyderabad">
+    <img src="https://i.ibb.co/FJQ9DDy/cloud-computing.webp" alt="Best Institute For Cloud Computing In Hyderabad">
   </a>
 </p>
 
@@ -30,15 +30,15 @@ The best institute for cloud computing in Hyderabad is a highly reputable and we
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Asp.Net Certification](https://www.linkedin.com/pulse/aspnet-certification-justacademy-jaipur-pubnc?trackingId=Ov5erLZSFHTcXDmq1fYiSQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BIXUBIWFOQ8%2BPAHGixoaE%2FQ%3D%3D)
+[Is Node Js Frontend Or Backend](https://www.linkedin.com/pulse/node-js-frontend-backend-justacademy-jaipur-v80rc?trackingId=0WkC6e4xyWiPehxEWGI%2FtA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BIXUBIWFOQ8%2BPAHGixoaE%2FQ%3D%3D)
 
-[Aws Full Course Pdf](https://www.linkedin.com/pulse/aws-full-course-pdf-software-training-mountain-view-av7le?trackingId=XnEcPWUdP3li52ZEaO47TA%3D%3D&lipi=urn%3Ali%3Apage%3Aorganization_admin_admin_feed_index%3B396a4c81-0a90-47a5-ad5c-c37fd268bc2b)
+[Advanced Php And Mysql](https://www.linkedin.com/pulse/advanced-php-mysql-justacademy-houston-cwehf?trackingId=l6L%2BORkpkQb1MnH7OxnkfQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BnF3eASk8R%2BOWSu8GAkG%2FXw%3D%3D)
 
-[Java For Web Development](https://medium.com/@ranepooja/java-for-web-development-fac2ede2d10f)
+[Full Stack Developer Training Free](https://medium.com/@mahi3106/full-stack-developer-training-free-b30fe313b08c)
 
-[SAP 4HANA Cloud](https://medium.com/@kamblerajas684/sap-4hana-cloud-a84af316ac52)
+[Best Java Training Institute In Hrbr Layout](https://medium.com/@ranepooja/best-java-training-institute-in-hrbr-layout-167e359bb0cd)
 
-[Best Software Testing Institutes In Hyderabad With Placements](https://justacademyin.github.io/justacademy/Best-Software-Testing-Institutes-In-Hyderabad-With-Placements)
+[Software Testing Course List](https://justacademyin.github.io/justacademy/software-testing-course-list)
 
-[Java Full Stack Developer Course In Chennai](https://justacademyin.github.io/justacademy/Java-Full-Stack-Developer-Course-In-Chennai)
+[Html Course Udemy](https://justacademyin.github.io/Articles/Html-Course-Udemy)
 

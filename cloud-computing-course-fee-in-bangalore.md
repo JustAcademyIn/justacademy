@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/7V3H11Z" alt="Cloud Computing Course Fee In Bangalore">
+    <img src="https://i.ibb.co/FJQ9DDy/cloud-computing.webp" alt="Cloud Computing Course Fee In Bangalore">
   </a>
 </p>
 
@@ -32,15 +32,15 @@ of BTM
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Best Java Certification](https://www.linkedin.com/pulse/best-java-certification-justacademy-mumbai-p8smc/)
+[Cloud Computing Course Requirements](https://www.linkedin.com/pulse/cloud-computing-course-requirements-justacademy-mumbai-o1tsc?trackingId=ZSyj10Fc0f23WAT1YOhINw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_showcase_admin%3Bd7Lyhom7ShKzEAWk1fq2Tw%3D%3D)
 
-[Java Training Institute In Greater Noida](https://www.linkedin.com/pulse/java-training-institute-greater-noida-justacademy-jaipur-30xre?trackingId=Pn4hOSawbZL5SYAJOyhuEQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BPHZ4e%2FC0SW%2BPbqGLUXrWbQ%3D%3D)
+[Best Website To Learn Php Free](https://www.linkedin.com/pulse/best-website-learn-php-free-software-training-mountain-view-mxaof?trackingId=zJj1UMFjj0Zag7q8lr3dLg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BLLr0XlPoQRKsrZpjwzzNmQ%3D%3D)
 
-[Python Training Center Near Me](https://medium.com/@AkashSingh2052/python-training-center-near-me-2456c4716d15)
+[Sap Abap Certification Training](https://medium.com/@namusn/sap-abap-certification-training-00f93d275acb)
 
-[Java Training Institutes In Bangalore With Projects](https://medium.com/@AkashSingh2052/java-training-institutes-in-bangalore-with-projects-836fdecfab4b)
+[Best Java Training Institute In Hyderabad India](https://medium.com/@kumarishimmi99/best-java-training-institute-in-hyderabad-india-e2692d73a3c9)
 
-[Java Full Course In Hindi Free](https://justacademyin.github.io/justacademy/Java-Full-Course-In-Hindi-Free)
+[SAP MM Training Institutes In Bangalore](https://justacademyin.github.io/Articles/SAP-MM-Training-Institutes-In-Bangalore)
 
-[Software Training And Placement Institutes In Hyderabad](https://justacademyin.github.io/justacademy/Software-Training-And-Placement-Institutes-In-Hyderabad)
+[Javascript Full Stack Tutorial](https://justacademyin.github.io/Articles/Javascript-Full-Stack-Tutorial)
 

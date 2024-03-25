@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/7V3H11Z" alt="Cloud Computing Course Requirements">
+    <img src="https://i.ibb.co/FJQ9DDy/cloud-computing.webp" alt="Cloud Computing Course Requirements">
   </a>
 </p>
 
@@ -30,15 +30,15 @@ Cloud computing courses provide students with the skills and knowledge required 
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Best Software Testing Institute In Pune](https://www.linkedin.com/pulse/best-software-testing-institute-pune-justacademy-delhi-p6zpc/)
+[Best Android App Development Courses](https://www.linkedin.com/pulse/best-android-app-development-courses-justacademy-bay-area-kijmc/)
 
-[Best Software Testing Training Institute In Delhi Ncr](https://www.linkedin.com/pulse/best-software-testing-training-institute-delhi-9tqhc?trackingId=4xUimUZweCm7TnQzvtT6vg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BV3sjVNqrQV6LT8YmMJxhFA%3D%3D)
+[Pmp Certification Eligibility](https://www.linkedin.com/pulse/pmp-certification-eligibility-justacademy-mumbai-3yhvc?trackingId=kIfFX1XE3sQNeL6VQzuKtw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_showcase_admin%3BQONBiiZYS52%2BUVT4s6K24g%3D%3D)
 
-[Java Training Institute In Noida Sector 62](https://medium.com/@shivamja27/java-training-institute-in-noida-sector-62-d4c6cb932347)
+[The Complete Android N Developer Course](https://medium.com/@kumarishimmi99/the-complete-android-n-developer-course-cd53fd9258bf)
 
-[Full Stack Website Development Tutorial](https://medium.com/@shivamja27/full-stack-website-development-tutorial-3b3a17a77632)
+[Php Full Stack Developer Tutorial](https://medium.com/@shivamja27/php-full-stack-developer-tutorial-d692c130d373)
 
-[SAP MM Course Duration](https://justacademyin.github.io/Articles/SAP-MM-Course-Duration)
+[Javascript For Web Developers](https://justacademyin.github.io/Articles/Javascript-For-Web-Developers)
 
-[SAP MM Institutes In Ameerpet](https://justacademyin.github.io/Articles/SAP-MM-Institutes-In-Ameerpet)
+[Software Testing Course In Ahmedabad](https://justacademyin.github.io/justacademy/software-testing-course-in-ahmedabad)
 

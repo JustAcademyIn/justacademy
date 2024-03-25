@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/7V3H11Z" alt="Big Data And Cloud Computing Courses">
+    <img src="https://i.ibb.co/FJQ9DDy/cloud-computing.webp" alt="Big Data And Cloud Computing Courses">
   </a>
 </p>
 
@@ -26,15 +26,15 @@ Big data and cloud computing courses are designed to teach individuals about the
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Sap Mm Step By Step Process](https://www.linkedin.com/pulse/sap-mm-step-process-justacademy-thane-f959c?trackingId=XjiaE4pUBSPg8HmbLhQ%2FEw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BQUUDXGyzQlqUHLkfVC%2F2FQ%3D%3D)
+[Best Java Training Institute In Patna](https://www.linkedin.com/pulse/best-java-training-institute-patna-justacademy-portland-xknof?trackingId=GbVlzTEswrsOS3RF5D4bpg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BTqighWlRRkKZzOjpwndZdw%3D%3D)
 
-[React Js Vs Next Js](https://www.linkedin.com/pulse/react-js-vs-next-justacademy-leicester-5qpfe?trackingId=LmOqEORTaSyjvLKyaC%2B6gQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BPIc21Xd3RP6vIx4zw3ky%2FQ%3D%3D)
+[Best Java Training Institute In Chandigarh](https://www.linkedin.com/pulse/best-java-training-institute-chandigarh-justacademy-kolkata-ndn2e?trackingId=gdrUiN2lbXvkvTFviqvf8A%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bk9oA%2BVOQTPioabiM45wXSA%3D%3D)
 
-[Abap Learning Online](https://medium.com/@shivamja27/abap-learning-online-dc63a5494f74)
+[Free Photoshop Certificate Course](https://medium.com/@AkashSingh2052/free-photoshop-certificate-course-642d601e8120)
 
-[Java Training Institutes In Dilsukhnagar Hyderabad](https://medium.com/@namusn/java-training-institutes-in-dilsukhnagar-hyderabad-a78e5bd0b7b0)
+[Java Training Institute In Lucknow](https://medium.com/@roneet705/java-training-institute-in-lucknow-7f554bef50fb)
 
-[Best Software Training Institute In Chennai](https://justacademyin.github.io/justacademy/Best-Software-Training-Institute-In-Chennai)
+[Full Stack React Tutorial](https://justacademyin.github.io/Articles/Full-Stack-React-Tutorial)
 
-[Best Javascript Tutorial](https://justacademyin.github.io/Articles/Best-Javascript-Tutorial)
+[Wordpress Introduction](https://justacademyin.github.io/justacademy/wordpress-introduction)
 

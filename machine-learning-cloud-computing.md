@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/7V3H11Z" alt="Machine Learning Cloud Computing">
+    <img src="https://i.ibb.co/FJQ9DDy/cloud-computing.webp" alt="Machine Learning Cloud Computing">
   </a>
 </p>
 
@@ -26,15 +26,15 @@ Machine Learning in Cloud Computing refers to the combination of artificial inte
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[React Js Learning Path](https://www.linkedin.com/pulse/react-js-learning-path-justacademy-san-jose-brtif?trackingId=lZrTawV9zF3%2Bo%2BvaVceLzA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BfImeOsNpR2eB0vaAt1OrTg%3D%3D)
+[Java Course In Coimbatore](https://www.linkedin.com/pulse/java-course-coimbatore-justacademy-jaipur-ccnle/)
 
-[Flutter Online Coaching](https://www.linkedin.com/pulse/flutter-online-coaching-justacademy-hyderabad-dtnlc/)
+[Testing Js](https://www.linkedin.com/pulse/testing-js-justacademy-berlin-oplle?trackingId=NXNWujHrNedsq2cfj9Y66w%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bc6fFeBAPTsmTPnAO4CV7Tw%3D%3D)
 
-[Buy Pmp Certification Without Exam](https://medium.com/@justacademytraining/buy-pmp-certification-without-exam-91dc406fc17a)
+[Full Stack Developer Tutorial For Beginners](https://medium.com/@akanshapatil/full-stack-developer-tutorial-for-beginners-493bfa148187)
 
-[Best Html Css Javascript Course Online](https://medium.com/@akanshapatil/best-html-css-javascript-course-online-8c8cf09aa43e)
+[Google Html Css Course](https://medium.com/@ranepooja/google-html-css-course-23cdf1f9c769)
 
-[Mern Alternatives](https://justacademyin.github.io/Articles/Mern-Alternatives)
+[SAP MM Courses In Pune](https://justacademyin.github.io/Articles/SAP-MM-Courses-In-Pune)
 
-[Best Mean Stack Course Online](https://justacademyin.github.io/Articles/Best-Mean-Stack-Course-Online)
+[The Complete Javascript Course 2023 From Zero To Expert](https://justacademyin.github.io/Articles/The-Complete-Javascript-Course-2023-From-Zero-To-Expert)
 

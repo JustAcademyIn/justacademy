@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/7V3H11Z" alt="Cloud Computing Course With Placement In Pune">
+    <img src="https://i.ibb.co/FJQ9DDy/cloud-computing.webp" alt="Cloud Computing Course With Placement In Pune">
   </a>
 </p>
 
@@ -30,15 +30,15 @@ Cloud computing course with placement in Pune is a comprehensive training progra
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Software Testing Institute Near Me](https://www.linkedin.com/pulse/software-testing-institute-near-me-justacademy-sunnyvale-t11jc/)
+[Advantages And Disadvantages Of React Js](https://www.linkedin.com/pulse/advantages-disadvantages-react-js-justacademy-coventry-qfqze?trackingId=eRtx5Be8js75cAdmVkKuzA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BvasO6SUGTP2oKUhUaDM59w%3D%3D)
 
-[Android And Ios App Development Course](https://www.linkedin.com/pulse/android-ios-app-development-course-justacademy-hyderabad-epatc/)
+[Java Classes In Indore](https://www.linkedin.com/pulse/java-classes-indore-justacademy-chennai-ufowe/)
 
-[Photoshop Cs6 Course](https://medium.com/@kamblerajas684/photoshop-cs6-course-961392717c77)
+[Python Course Fees In Coimbatore](https://medium.com/@justacademytraining/python-course-fees-in-coimbatore-1e6a01b87f94)
 
-[Android Coding Course](https://medium.com/@kumarishimmi99/android-coding-course-e02016ed03a5)
+[Best Java Training Institutes In Ernakulam](https://medium.com/@surajvaishnav5015/best-java-training-institutes-in-ernakulam-330e9c65cd5b)
 
-[Software Testing Course In Mumbai](https://justacademyin.github.io/justacademy/Software-Testing-Course-In-Mumbai)
+[Digital Marketing Courses Hong Kong](https://justacademyin.github.io/Articles/Digital-Marketing-Courses-Hong-Kong)
 
-[Cloud Computing Course Fee In Bangalore](https://justacademyin.github.io/justacademy/Cloud-Computing-Course-Fee-In-Bangalore)
+[SAP MM Training](https://justacademyin.github.io/Articles/SAP-MM-Training)
 

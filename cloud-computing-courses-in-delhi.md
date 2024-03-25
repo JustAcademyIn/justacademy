@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/7V3H11Z" alt="Cloud Computing Courses In Delhi">
+    <img src="https://i.ibb.co/FJQ9DDy/cloud-computing.webp" alt="Cloud Computing Courses In Delhi">
   </a>
 </p>
 
@@ -33,15 +33,15 @@ in the capital
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Cloud Computing Tutorial Point](https://www.linkedin.com/pulse/cloud-computing-tutorial-point-justacademy-bay-area-zjpjc?trackingId=af1QTk9UXMcpKLGVdIkqjg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BA%2BceJxOfQEyVvKB2rfxduA%3D%3D)
+[.Net Vs Asp.Net](https://www.linkedin.com/pulse/net-vs-aspnet-justacademy-berlin-t6eyc?trackingId=zDt%2BrDd98zAeinciKijjWg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BYf0bh%2BAUR9ioxIsyYDfCpA%3D%3D)
 
-[Mastering Javascript](https://www.linkedin.com/pulse/mastering-javascript-justacademy-berlin-8pboc?trackingId=aVEK5YXDcF2j2unXNLKwmA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B9LRf%2B9vgRJ%2BRyqfmHudhjA%3D%3D)
+[Java Training Institutes In Bangalore Vijayanagar](https://www.linkedin.com/pulse/java-training-institutes-bangalore-vijayanagar-yngxe?trackingId=PDRM4dI%2FDVddtrdTx2iIEg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BBLvwE5WSQ1yNRcYM20AJ%2Fw%3D%3D)
 
-[Java Training Institute In Pune](https://medium.com/@negishivu99/java-training-institute-in-pune-8b78b3ca35b5)
+[Full Stack Mobile App Developer](https://medium.com/@namusn/full-stack-mobile-app-developer-3ec717dbbd2e)
 
-[Best Training Institute In Delhi For Java](https://medium.com/@prempja40/best-training-institute-in-delhi-for-java-be76a6e0c67b)
+[Abap On Hana Online Training](https://medium.com/@ranemanish460/abap-on-hana-online-training-2d26c520fb5d)
 
-[Software Testing Course In Chennai](https://justacademyin.github.io/justacademy/Software-Testing-Course-In-Chennai)
+[Best Software Training Institute In Chennai With Placement](https://justacademyin.github.io/justacademy/best-software-training-institute-in-chennai-with-placement)
 
-[Mobile App Development Course](https://justacademyin.github.io/Articles/Mobile-App-Development-Course)
+[Software Training Institutes In Chennai](https://justacademyin.github.io/justacademy/software-training-institutes-in-chennai)
 

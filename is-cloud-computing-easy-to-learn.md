@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/7V3H11Z" alt="Is Cloud Computing Easy To Learn">
+    <img src="https://i.ibb.co/FJQ9DDy/cloud-computing.webp" alt="Is Cloud Computing Easy To Learn">
   </a>
 </p>
 
@@ -31,15 +31,15 @@ Cloud computing is a broad term that covers a wide variety of services, making i
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Java Real Time Training Institutes In Ameerpet](https://www.linkedin.com/pulse/java-real-time-training-institutes-ameerpet-justacademy-thane-8j5we?trackingId=Wqs73QKcQkJ6zKKyATNABA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B8x4oZRFoSmO4CZ5ThOfedg%3D%3D)
+[Mobile App Development London](https://www.linkedin.com/pulse/mobile-app-development-london-justacademy-berlin-tfnxe?trackingId=AALni41HPH9AaJOheIt%2Fjg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B2Ab1xX3KS6Grq8yqy2i6kQ%3D%3D)
 
-[SAP Mm Course In Bangalore](https://www.linkedin.com/pulse/sap-mm-course-bangalore-justacademy-beangaluru-uiy0f/)
+[Associate Android Certification](https://www.linkedin.com/pulse/associate-android-certification-justacademy-bay-area-il9pf/)
 
-[Free Adobe Illustrator Training](https://medium.com/@akanshapatil/free-adobe-illustrator-training-6a7ed9874320)
+[Full Stack Developer Free Course With Certificatio](https://medium.com/@prempja40/full-stack-developer-free-course-with-certificatio-08aa2a770587)
 
-[Types Of Inheritance In Python](https://medium.com/@mahi3106/types-of-inheritance-in-python-bcaaaae549ba)
+[Illustrator Classes Online](https://medium.com/@ranepooja/illustrator-classes-online-286b251cc8ac)
 
-[Java Web Development Course](https://justacademyin.github.io/justacademy/Java-Web-Development-Course)
+[Java Developer Course Duration](https://justacademyin.github.io/justacademy/java-developer-course-duration)
 
-[Software Testing Course In Gujarat](https://justacademyin.github.io/justacademy/Software-Testing-Course-In-Gujarat)
+[Best Software Training And Placement Institutes In Bangalore](https://justacademyin.github.io/justacademy/best-software-training-and-placement-institutes-in-bangalore)
 

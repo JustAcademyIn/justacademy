@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/7V3H11Z" alt="Cloud Computing Courses In Bangalore">
+    <img src="https://i.ibb.co/FJQ9DDy/cloud-computing.webp" alt="Cloud Computing Courses In Bangalore">
   </a>
 </p>
 
@@ -30,15 +30,15 @@ Cloud Computing Courses in Bangalore focus on providing comprehensive training o
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Angular Js Is Frontend Or Backend](https://www.linkedin.com/pulse/angular-js-frontend-backend-justacademy-coimbatore-rarcc?trackingId=9jQKrXKI2yakmtP6XZWZFg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BfmlpQlw4RxKd%2FcK9A3mwCQ%3D%3D)
+[Full Stack Php Developer Course](https://www.linkedin.com/pulse/full-stack-php-developer-course-justacademy-delhi-g25lc?trackingId=vx8yJwfrBDpHsTHhXUUE%2FA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B3uDtMYf2QJOigjAh01Sv1g%3D%3D)
 
-[Java Training Institute In Noida Sector 62](https://www.linkedin.com/pulse/java-training-institute-noida-sector-62-justacademy-liverpool-sjecf?trackingId=yArj2wBVB9IOOXojsFbaCA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BwUUQsYTGTZy3zMvOP%2FpbFA%3D%3D)
+[Serverless Computing In Azure](https://www.linkedin.com/pulse/serverless-computing-azure-justacademy-pune-qsvic?trackingId=0McdlRB1GPKAXc4Zn82tYg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BgZlONmXPQ3%2BLxo6frpA8RA%3D%3D)
 
-[Is Pmp Certification Worth It](https://medium.com/@prempja40/is-pmp-certification-worth-it-d86cec04d775)
+[Figma Education](https://medium.com/@ranepooja/figma-education-804fe038cf1d)
 
-[Best Java Training Institute In Vizag](https://medium.com/@ranemanish460/best-java-training-institute-in-vizag-ed09294a5d92)
+[Interactive Html Course](https://medium.com/@shivamja27/interactive-html-course-9db5caa5ee8f)
 
-[SAP MM Training Institutes In Bangalore](https://justacademyin.github.io/Articles/SAP-MM-Training-Institutes-In-Bangalore)
+[Best Software Testing Course In Pune With Placement](https://justacademyin.github.io/justacademy/best-software-testing-course-in-pune-with-placement)
 
-[Digital Marketing Classes Nyc](https://justacademyin.github.io/Articles/Digital-Marketing-Classes-Nyc)
+[Best Software Testing Institute In Bangalore](https://justacademyin.github.io/justacademy/best-software-testing-institute-in-bangalore)
 

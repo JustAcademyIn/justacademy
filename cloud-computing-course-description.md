@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/7V3H11Z" alt="Cloud Computing Course Description">
+    <img src="https://i.ibb.co/FJQ9DDy/cloud-computing.webp" alt="Cloud Computing Course Description">
   </a>
 </p>
 
@@ -26,15 +26,15 @@ Cloud computing course is designed to provide comprehensive knowledge and skills
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Html Online Course](https://www.linkedin.com/pulse/html-online-course-justacademy-boston-6yede?trackingId=MA5LPAWma5NjM7g372XTmw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BTbY8fN%2BZSiWS3%2FqQQu1Jtw%3D%3D)
+[Php Developer Learning Path](https://www.linkedin.com/pulse/php-developer-learning-path-justacademy-chandigarh-k4gye?trackingId=%2FaVvtCXoFiahq%2Few2t2PVg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BXEu5pmfJRhGyaD1FCv74Lw%3D%3D)
 
-[Core Java And Advanced Java](https://www.linkedin.com/pulse/core-java-advanced-software-training-mountain-view-6noae?trackingId=56D4wsAfAehpVYj575Bp9A%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BRmRTtwAISLyMmFqcBdL04g%3D%3D)
+[Flutter App Tutorial For Beginners](https://www.linkedin.com/pulse/flutter-app-tutorial-beginners-justacademy-pune-0mlwc/)
 
-[Flutter Course Duration](https://medium.com/@mahi3106/flutter-course-duration-15a00c71479b)
+[Html Coding Full Course](https://medium.com/@akanshapatil/html-coding-full-course-68ded6aade3d)
 
-[Best Java Training Institute In Indore](https://medium.com/@akanshapatil/best-java-training-institute-in-indore-bf3a23f178c1)
+[Android Dev Course](https://medium.com/@shivamja27/android-dev-course-a803a085ad4c)
 
-[Java Script Classes](https://justacademyin.github.io/Articles/Java-Script-Classes)
+[Html Learning Course](https://justacademyin.github.io/Articles/Html-Learning-Course)
 
-[Full Stack Kotlin](https://justacademyin.github.io/Articles/Full-Stack-Kotlin)
+[Stack Node](https://justacademyin.github.io/Articles/Stack-Node)
 

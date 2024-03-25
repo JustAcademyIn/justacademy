@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/7V3H11Z" alt="Cloud Computing Certification Courses In Bangalore">
+    <img src="https://i.ibb.co/FJQ9DDy/cloud-computing.webp" alt="Cloud Computing Certification Courses In Bangalore">
   </a>
 </p>
 
@@ -30,15 +30,15 @@ Cloud computing certification courses in Bangalore are training programs designe
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Advanced Php Course](https://www.linkedin.com/pulse/advanced-php-course-justacademy-chennai-ulgjf?trackingId=4gNh5vqy2PIqMtSQ7LQKyw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BmbbduqyAR32m%2BKWos2V1hw%3D%3D)
+[.Net Vs Asp.Net](https://www.linkedin.com/pulse/net-vs-aspnet-justacademy-berlin-t6eyc?trackingId=zDt%2BrDd98zAeinciKijjWg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BYf0bh%2BAUR9ioxIsyYDfCpA%3D%3D)
 
-[Php Bootcamp](https://www.linkedin.com/pulse/php-bootcamp-justacademy-kolkata-q0j6e?trackingId=WZivCituUshZPZ0rS7wJZA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BhsQsLwqxSU64UKgNHl%2FHuA%3D%3D)
+[Microsoft Azure Cloud Infrastructure](https://www.linkedin.com/pulse/microsoft-azure-cloud-infrastructure-software-training-sunnyvale-j7hyc?trackingId=8eGmtg8VR7A85HQhRCXS2w%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B%2BhR3vy1dRIi%2FxP7UWLS2ww%3D%3D)
 
-[Python Programming Online Free Course With Certificate](https://medium.com/@prempja40/python-programming-online-free-course-with-certificate-72ae2a107c29)
+[Kotlin Programming Course](https://medium.com/@ranepooja/kotlin-programming-course-19252356c2a3)
 
-[Best Java Training Institutes In Thane](https://medium.com/@kumarishimmi99/best-java-training-institutes-in-thane-1f2850d32c84)
+[Best Free Online Python Course](https://medium.com/@abhidnya.1068/best-free-online-python-course-871fa0500a1f)
 
-[Javascript Tutorial](https://justacademyin.github.io/Articles/Javascript-Tutorial)
+[Digital Marketing Level 3](https://justacademyin.github.io/Articles/Digital-Marketing-Level-3)
 
-[Best Place To Learn Javascript](https://justacademyin.github.io/Articles/Best-Place-To-Learn-Javascript)
+[Manual Software Testing Course](https://justacademyin.github.io/justacademy/manual-software-testing-course)
 

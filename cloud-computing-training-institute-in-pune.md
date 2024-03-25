@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/7V3H11Z" alt="Cloud Computing Training Institute In Pune">
+    <img src="https://i.ibb.co/FJQ9DDy/cloud-computing.webp" alt="Cloud Computing Training Institute In Pune">
   </a>
 </p>
 
@@ -30,15 +30,15 @@ Cloud Computing Training Institute in Pune offers comprehensive training program
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Cloud Computing Courses In Coimbatore](https://www.linkedin.com/pulse/cloud-computing-courses-coimbatore-justacademy-boston-ngubc?trackingId=hSYmyh3iXUemOr1hf8anBQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BkPVrWTfFTkmAnpxdswF1RA%3D%3D)
+[Cloud Computing Courses Near Me](https://www.linkedin.com/pulse/cloud-computing-courses-near-me-justacademy-jaipur-jzjec?trackingId=cWVDmQxXuEeodmjej1dRTg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B%2Bj%2BWkU3wSKSQ1R70zcYAcw%3D%3D)
 
-[Best Java Training Institute](https://www.linkedin.com/pulse/best-java-training-institute-justacademy-san-jose-8uxkf?trackingId=nR%2Bu7v3tLwmP7a134rapIg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BNvzTf3fnQO%2BVBqBGA8b0%2Bw%3D%3D)
+[iOS Developer Bootcamp Online](0)
 
-[Best Java Training Institute In Delhi New Delhi Delhi](https://medium.com/@akanshapatil/best-java-training-institute-in-delhi-new-delhi-delhi-65d7a5d341d4)
+[Python Main Topics](https://medium.com/@prempja40/python-main-topics-4164ecaefe6b)
 
-[Illustration Course Online](https://medium.com/@roneet705/illustration-course-online-1169e56343d2)
+[Where To Practice Python](https://medium.com/@mahi3106/where-to-practice-python-6eacd8881695)
 
-[Full Stack Python Tutorial](https://justacademyin.github.io/Articles/Full-Stack-Python-Tutorial)
+[Best Software Training Institute In Coimbatore With Placement](https://justacademyin.github.io/justacademy/best-software-training-institute-in-coimbatore-with-placement)
 
-[Software Testing Course In Mumbai](https://justacademyin.github.io/justacademy/Software-Testing-Course-In-Mumbai)
+[Great Learning Cloud Computing](https://justacademyin.github.io/justacademy/great-learning-cloud-computing)
 

@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/7V3H11Z" alt="Cloud Computing Institute In Delhi Ncr">
+    <img src="https://i.ibb.co/FJQ9DDy/cloud-computing.webp" alt="Cloud Computing Institute In Delhi Ncr">
   </a>
 </p>
 
@@ -30,15 +30,15 @@ The Cloud Computing Institute in Delhi Ncr is an educational institution that of
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[React Js Front End Developer](https://www.linkedin.com/pulse/react-js-front-end-developer-justacademy-brisbane-xatoe?trackingId=fvmSlaNZZUPDBBzg3y4%2FfA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B5cPDORNwQlqWF%2BECY5%2Fsgw%3D%3D)
+[SAP Mm Course Near Me](https://www.linkedin.com/pulse/sap-mm-course-near-me-justacademy-hyderabad-1ot6f/)
 
-[What Is SAP Mm Course](https://www.linkedin.com/pulse/wwhat-sap-mm-course-software-training-sunnyvale-rnhhf/)
+[Asp.Net Certification](https://www.linkedin.com/pulse/aspnet-certification-justacademy-jaipur-pubnc?trackingId=Ov5erLZSFHTcXDmq1fYiSQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BIXUBIWFOQ8%2BPAHGixoaE%2FQ%3D%3D)
 
-[Sap S 4hana Course](https://medium.com/@kamblerajas684/sap-s-4hana-course-9883b75cc909)
+[Learn How To Use Figma](https://medium.com/@AkashSingh2052/learn-how-to-use-figma-a0a3408a5aa4)
 
-[Devops Azure Tutorial](https://medium.com/@negishivu99/devops-azure-tutorial-ecb76c57ab06)
+[Python Training In Pune](https://medium.com/@sagarawat89/python-training-in-pune-f9f2fd9f35a3)
 
-[Mern Alternatives](https://justacademyin.github.io/Articles/Mern-Alternatives)
+[Js Programming Language](https://justacademyin.github.io/Articles/Js-Programming-Language)
 
-[Full Stack App Developer](https://justacademyin.github.io/Articles/Full-Stack-App-Developer)
+[Cloud Computing Courses Fees In Pune](https://justacademyin.github.io/justacademy/cloud-computing-courses-fees-in-pune)
 

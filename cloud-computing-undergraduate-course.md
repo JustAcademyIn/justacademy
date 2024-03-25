@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/7V3H11Z" alt="Cloud Computing Undergraduate Course">
+    <img src="https://i.ibb.co/FJQ9DDy/cloud-computing.webp" alt="Cloud Computing Undergraduate Course">
   </a>
 </p>
 
@@ -30,15 +30,15 @@ Cloud Computing Undergraduate Course is a program designed to equip students wit
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Abap For Sap Hana 2.0](https://www.linkedin.com/pulse/abap-sap-hana-20-justacademy-thane-vjddc/)
+[Sap 4hana Cloud](https://www.linkedin.com/pulse/sap-4hana-cloud-justacademy-thane-foxzc/)
 
-[Mern Stack Full Form](https://www.linkedin.com/pulse/mern-stack-full-form-justacademy-chennai-gpeuc/)
+[Full Stack Agency](https://www.linkedin.com/pulse/full-stack-agency-justacademy-thane-tvd4f/)
 
-[Project Management Online](https://medium.com/@prempja40/project-management-online-534707dd7a0d)
+[Free Adobe Illustrator Lessons](https://medium.com/@justacademytraining/free-adobe-illustrator-lessons-bd664c91e1e0)
 
-[Adobe Wsq Photoshop Course](https://medium.com/@mistersumit961/adobe-wsq-photoshop-course-9fed831a587c)
+[Photo Shop Training](https://medium.com/@roneet705/photo-shop-training-ce6247a85abd)
 
-[Software Testing Course In Canada](https://justacademyin.github.io/justacademy/Software-Testing-Course-In-Canada)
+[Software Testing Course Syllabus](https://justacademyin.github.io/justacademy/software-testing-course-syllabus)
 
-[SAP MM Training Institute In Faridabad](https://justacademyin.github.io/Articles/SAP-MM-Training-Institute-In-Faridabad)
+[Javascript Coding For Beginners](https://justacademyin.github.io/Articles/Javascript-Coding-For-Beginners)
 

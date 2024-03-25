@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/7V3H11Z" alt="Cloud Computing Learning Path">
+    <img src="https://i.ibb.co/FJQ9DDy/cloud-computing.webp" alt="Cloud Computing Learning Path">
   </a>
 </p>
 
@@ -32,15 +32,15 @@ Overall, this learning path will equip students with the necessary knowledge and
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Aws Online Tutorial Free](https://www.linkedin.com/pulse/aws-online-tutorial-free-justacademy-chandigarh-e69pe?trackingId=FJ7PWSnadSOlGLQ4%2Bh0Cig%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B6y121Lb6Rd%2BUFuxjX43O5A%3D%3D)
+[Mobile App Development Course Montreal](https://www.linkedin.com/pulse/mobile-app-development-course-montreal-justacademy-berlin-uzlde?trackingId=P1FfCD4ug7fDFrFcB%2BYU8Q%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BeekbxeIqSPGuF7pqzpj95g%3D%3D)
 
-[Advanced Js](https://www.linkedin.com/pulse/advanced-js-software-training-sunnyvale-f9suc?trackingId=glmdU50s2UPFM5O79paO%2FQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BM5QnzWJERjun88GkJ%2BYkdw%3D%3D)
+[Android Lessons](https://www.linkedin.com/pulse/android-lessons-justacademy-pune-g2gpf/)
 
-[Python Oop Course Master Object-Oriented Programming](https://medium.com/@shivamja27/python-oop-course-master-object-oriented-programming-7ec2dec94d62)
+[Best Java Training Institutes In Bangalore Quora](https://medium.com/@mahi3106/best-java-training-institutes-in-bangalore-quora-a17b9eae78ef)
 
-[Illustration Courses](https://medium.com/@roneet705/illustration-courses-33fc5050d99e)
+[Html Css Advanced Course](https://medium.com/@roneet705/html-css-advanced-course-793b512c460e)
 
-[Full Stack Net Developer Tutorial](https://justacademyin.github.io/Articles/Full-Stack-Net-Developer-Tutorial)
+[Software Testing Course In Hyderabad Fees And Duration](https://justacademyin.github.io/justacademy/software-testing-course-in-hyderabad-fees-and-duration)
 
-[Software Testing Certification Course Online In India](https://justacademyin.github.io/justacademy/Software-Testing-Certification-Course-Online-In-India)
+[Software Testing Course In Hyderabad](https://justacademyin.github.io/justacademy/software-testing-course-in-hyderabad)
 

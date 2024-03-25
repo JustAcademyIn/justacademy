@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/7V3H11Z" alt="Cloud Computing E Learning">
+    <img src="https://i.ibb.co/FJQ9DDy/cloud-computing.webp" alt="Cloud Computing E Learning">
   </a>
 </p>
 
@@ -30,15 +30,15 @@ Cloud computing e-learning is a revolutionary way of delivering educational cont
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Sap Sd Tutorial](https://www.linkedin.com/pulse/sap-sd-tutorial-software-training-mountain-view-rulxf?trackingId=3%2F4pVYkSOjbUDEfgrvBosg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BLLr0XlPoQRKsrZpjwzzNmQ%3D%3D)
+[Core Php Course](https://www.linkedin.com/pulse/core-php-course-justacademy-ahmedabad-vgx1e?trackingId=XwW5KCIxfmCSeo6mJFUxNA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BBylBlMTlRO%2BPitwDv%2FJk0g%3D%3D)
 
-[Software Testing Institute In Pune With Placement](https://www.linkedin.com/pulse/software-testing-institute-pune-placement-justacademy-bay-area-vi7bc/)
+[Flutter Framework](https://www.linkedin.com/pulse/flutter-framework-justacademy-eh6ac?trackingId=2po1W7qqJh7peaOpWGwr9Q%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BI8wAi6m6RHmFDIiqUS2smQ%3D%3D)
 
-[Best Java Training Institutes In Visakhapatnam](https://medium.com/@akanshapatil/best-java-training-institutes-in-visakhapatnam-8b37625703e7)
+[Software Testing Training Bay Area](https://medium.com/@namusn/software-testing-training-bay-area-8353c8e95274)
 
-[Java Training Institute In Delhi](https://medium.com/@surajvaishnav5015/java-training-institute-in-delhi-ed526311c79f)
+[Best Way To Learn Flutter Reddit](https://medium.com/@akanshapatil/best-way-to-learn-flutter-reddit-da9e5284645c)
 
-[Software Testing Course In Chandigarh](https://justacademyin.github.io/justacademy/Software-Testing-Course-In-Chandigarh)
+[Full Stack Agency](https://justacademyin.github.io/Articles/Full-Stack-Agency)
 
-[Online Software Testing Course](https://justacademyin.github.io/justacademy/Online-Software-Testing-Course)
+[Cloud Aws Tutorial](https://justacademyin.github.io/justacademy/cloud-aws-tutorial)
 

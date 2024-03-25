@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/7V3H11Z" alt="Top 10 Cloud Computing Training Institute In Bangalore">
+    <img src="https://i.ibb.co/FJQ9DDy/cloud-computing.webp" alt="Top 10 Cloud Computing Training Institute In Bangalore">
   </a>
 </p>
 
@@ -40,15 +40,15 @@ There are numerous cloud computing training institutes in Bangalore to choose fr
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Online Java Training Institutes In Hyderabad](https://www.linkedin.com/pulse/online-java-training-institutes-hyderabad-justacademy-san-jose-dkzae/)
+[Android Certification Course Online Free](https://www.linkedin.com/pulse/android-certification-course-online-free-prajwal-kumbar-h-m-nr0gc/)
 
-[.Net Backend](https://www.linkedin.com/pulse/net-backend-justacademy-beangaluru-1jaic?trackingId=sbbDF0NO9JYLfkT9%2B5C1Zw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BV%2FJdwEmZTiK5hNIeM20IVA%3D%3D)
+[Full Stack Web Development Course Free With Certification](https://www.linkedin.com/pulse/full-stack-web-development-course-free-certification-ss76e?trackingId=Ssti8YA3oaOplHTyusfSnw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BZ5ESut9VQxyQx%2BjF%2F1FLaA%3D%3D)
 
-[Php Full Stack Developer Tutorial](https://medium.com/@shivamja27/php-full-stack-developer-tutorial-d692c130d373)
+[Associate Android Developer Certification Preparat](https://medium.com/@namusn/associate-android-developer-certification-preparat-a6221240b5cb)
 
-[Best Course For Html And Css](https://medium.com/@akanshapatil/best-course-for-html-and-css-5960699ec92d)
+[Project Management Training](https://medium.com/@abhidnya.1068/project-management-training-96265391f849)
 
-[Best Place To Learn Javascript](https://justacademyin.github.io/Articles/Best-Place-To-Learn-Javascript)
+[Django Vs React Vs Angular](https://justacademyin.github.io/Articles/Django-Vs-React-Vs-Angular)
 
-[Software Testing Certification Course In Mumbai](https://justacademyin.github.io/justacademy/Software-Testing-Certification-Course-In-Mumbai)
+[Cloud Computing Course In Chandigarh](https://justacademyin.github.io/justacademy/cloud-computing-course-in-chandigarh)
 

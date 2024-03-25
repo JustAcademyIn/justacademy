@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/7V3H11Z" alt="Great Learning Cloud Computing">
+    <img src="https://i.ibb.co/FJQ9DDy/cloud-computing.webp" alt="Great Learning Cloud Computing">
   </a>
 </p>
 
@@ -30,15 +30,15 @@ Great Learning Cloud Computing is a comprehensive program that equips individual
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Dot Net Course Duration And Fees](https://www.linkedin.com/pulse/dot-net-course-duration-fees-justacademy-portland-oxkff?trackingId=Hh71QNXQ2i5Bgi%2F8X1pE1Q%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B4wvQoxRzQS6F4YizGcy96A%3D%3D)
+[Advantages And Disadvantages Of React Js](https://www.linkedin.com/pulse/advantages-disadvantages-react-js-justacademy-coventry-qfqze?trackingId=eRtx5Be8js75cAdmVkKuzA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BvasO6SUGTP2oKUhUaDM59w%3D%3D)
 
-[Php Developer Training](https://www.linkedin.com/pulse/php-developer-training-software-training-sunnyvale-20vjc?trackingId=SP7h4wP2dbAmV5ZVQZtt9A%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BzThijShxRS6J0WzPkYT7Lg%3D%3D)
+[Dart Flutter Tutorial](0)
 
-[Best Sap Abap Online Training](https://medium.com/@roneet705/best-sap-abap-online-training-91f0931d65e3)
+[Full Stack Developer Certification Free](https://medium.com/@prempja40/full-stack-developer-certification-free-37e7c4a551d1)
 
-[Learn Sap Programming](https://medium.com/@kumarishimmi99/learn-sap-programming-698a8a5662a7)
+[Sql Python Course](https://medium.com/@ranepooja/sql-python-course-a096aedb52d1)
 
-[Java Course In Kolkata](https://justacademyin.github.io/justacademy/Java-Course-In-Kolkata)
+[Software Testing Course For Freshers](https://justacademyin.github.io/justacademy/software-testing-course-for-freshers)
 
-[Java Course In Mysore](https://justacademyin.github.io/justacademy/Java-Course-In-Mysore)
+[Software Testing Course In Trivandrum](https://justacademyin.github.io/justacademy/software-testing-course-in-trivandrum)
 

@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/7V3H11Z" alt="Devops And Cloud Computing Course">
+    <img src="https://i.ibb.co/FJQ9DDy/cloud-computing.webp" alt="Devops And Cloud Computing Course">
   </a>
 </p>
 
@@ -35,15 +35,15 @@ As more organizations move towards cloud-based environments, security becomes a 
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Android Dev Certification](https://www.linkedin.com/pulse/android-dev-certification-justacademy-sryof/)
+[Android App Development Course For Beginners Free](https://www.linkedin.com/pulse/android-app-development-course-beginners-free-justacademy-mumbai-qdogc/)
 
-[Professional Certificate In Coding: Full Stack Development With Mern](https://www.linkedin.com/pulse/professional-certificate-coding-full-stack-development-iwoae?trackingId=IpwO5qYvCr%2BBI5u4tsgU9w%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BzoGgv%2F2GTOq26q6ITzj9KQ%3D%3D)
+[Azure File Storage Tutorial](https://www.linkedin.com/pulse/azure-file-storage-tutorial-justacademy-bay-area-xlwge?trackingId=JL79BjAdq%2FcH8D7QXmEzIQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BVfd8WVt8TwCvR4GLG%2BU4Hg%3D%3D)
 
-[Java Training Institute In Bhubaneswar](https://medium.com/@kamblerajas684/java-training-institute-in-bhubaneswar-c211712cca1e)
+[Adobe Photoshop Free Classes](https://medium.com/@ranepooja/adobe-photoshop-free-classes-9959cc87ba3d)
 
-[Java Training Institute In Pune Hinjewadi](https://medium.com/@mahi3106/java-training-institute-in-pune-hinjewadi-9d08412df303)
+[Free Figma Courses](https://medium.com/@kumarishimmi99/free-figma-courses-422c1412730b)
 
-[Java Full Stack Developer Course In Chennai](https://justacademyin.github.io/justacademy/Java-Full-Stack-Developer-Course-In-Chennai)
+[Azure Basics For Beginners](https://justacademyin.github.io/Articles/Azure-Basics-For-Beginners)
 
-[Prerequisite For Software Testing Course](https://justacademyin.github.io/justacademy/Prerequisite-For-Software-Testing-Course)
+[Amazon Aws Tutorial](https://justacademyin.github.io/justacademy/amazon-aws-tutorial)
 

@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/7V3H11Z" alt="What Is The Best Way To Learn Cloud Computing">
+    <img src="https://i.ibb.co/FJQ9DDy/cloud-computing.webp" alt="What Is The Best Way To Learn Cloud Computing">
   </a>
 </p>
 
@@ -30,15 +30,15 @@ The best way to learn cloud computing is to have a combination of theoretical kn
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Core Java Concepts](https://www.linkedin.com/pulse/core-java-concepts-justacademy-cupertino-wwqnc/)
+[What Is Mern](https://www.linkedin.com/pulse/what-mern-justacademy-chennai-wy77e?trackingId=nAJ5rI6RCWe1BjslHH5%2F5Q%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BY%2BEec76oRFK6%2FI%2F%2BB9X%2Fdw%3D%3D)
 
-[Microsoft Azure Fundamentals Tutorial Pdf](https://www.linkedin.com/pulse/microsoft-azure-fundamentals-tutorial-pdf-justacademy-boston-3ksnc?trackingId=7A5L%2FWCMGgzz4rReXh1Tjw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BXwxjEqEYSnilOOgoWtEIiA%3D%3D)
+[Java Training Institute In Marathahalli](https://www.linkedin.com/pulse/java-training-institute-marathahalli-justacademy-chandigarh-1ka5e?trackingId=whOqpN9hghNQDHdjtM49DA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BihWdGtFLSGiUoHftbcLC7g%3D%3D)
 
-[Python Online](https://medium.com/@roneet705/python-online-87cd3bf38970)
+[Html5 Online Training](https://medium.com/@kumarishimmi99/html5-online-training-1981eeaf4926)
 
-[Kotlin Beginner Course](https://medium.com/@ranepooja/kotlin-beginner-course-d27ff9ff7edc)
+[Html Learn Website](https://medium.com/@mahi3106/html-learn-website-ad8c34d9baaf)
 
-[SAP MM Course Fees](https://justacademyin.github.io/Articles/SAP-MM-Course-Fees)
+[Best Free Javascript Course](https://justacademyin.github.io/Articles/Best-Free-Javascript-Course)
 
-[Software Training Institutes In Hyderabad With Placements](https://justacademyin.github.io/justacademy/Software-Training-Institutes-In-Hyderabad-With-Placements)
+[Software Training Institutes In Pune](https://justacademyin.github.io/justacademy/software-training-institutes-in-pune)
 

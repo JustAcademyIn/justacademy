@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/7V3H11Z" alt="Should I Learn Cloud Computing Or Data Science">
+    <img src="https://i.ibb.co/FJQ9DDy/cloud-computing.webp" alt="Should I Learn Cloud Computing Or Data Science">
   </a>
 </p>
 
@@ -30,15 +30,15 @@ Both cloud computing and data science are highly relevant and in-demand skills i
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Learn Java For Android Development Free](https://www.linkedin.com/pulse/learn-java-android-development-free-justacademy-pune-5vz0c/)
+[Python Vs Node Js Performance](https://www.linkedin.com/pulse/python-vs-node-js-performance-justacademy-las-vegas-fvoaf?trackingId=mgXTIxTIhenjr2eYVTRuLw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B72drtJzFRpOZi%2BIA7t6Uhg%3D%3D)
 
-[iOS Developer Bootcamp Online](0)
+[Java Full Stack Developer Free Course](https://www.linkedin.com/pulse/java-full-stack-developer-free-course-justacademy-vrkvc?trackingId=sGNF%2BVRBn47wIOpfZcfZ5Q%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BKTN3ka3yQeC%2FJuvG1YVg3Q%3D%3D)
 
-[Adobe Photoshop And Illustrator Classes Near Me](https://medium.com/@kamblerajas684/adobe-photoshop-and-illustrator-classes-near-me-175f546d5c0b)
+[Best Training Institutes For Java In Hyderabad](https://medium.com/@ranepooja/best-training-institutes-for-java-in-hyderabad-317fbdff48c9)
 
-[Free Full Stack Course](https://medium.com/@mahi3106/free-full-stack-course-4f693d9d626e)
+[Sap S 4hana Certification Fees](https://medium.com/@kamblerajas684/sap-s-4hana-certification-fees-7e0ba41bc69e)
 
-[Angular Vs React Vs Vue](https://justacademyin.github.io/Articles/Angular-Vs-React-Vs-Vue)
+[Full Stack Javascript Tutorial](https://justacademyin.github.io/Articles/Full-Stack-Javascript-Tutorial)
 
-[Software Testing Course In Pune](https://justacademyin.github.io/justacademy/Software-Testing-Course-In-Pune)
+[Software Testing Course Placement](https://justacademyin.github.io/justacademy/software-testing-course-placement)
 
