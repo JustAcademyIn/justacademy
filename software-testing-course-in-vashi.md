@@ -5,7 +5,6 @@
     <img src="https://justacademy.co/storage2/program_images/1704700438.webp" alt="Software Testing Course In Vashi">
   </a>
 </p>
-?
 
 Software Testing Course in Vashi is a comprehensive program that provides individuals with the necessary skills and knowledge to test software applications for quality and functionality. It covers various testing techniques, tools, and methodologies to help students understand the process of identifying and reporting bugs and ensuring a smooth and error-free user experience. The course is designed to cater to the growing demand for software testers in various industries and equips learners with the necessary skills to excel in this field. 
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
