@@ -7,20 +7,20 @@
 </p>
 
 
-Java is a popular programming language used for developing applications for different platforms including web, mobile, and desktop. The Java course in Kolkata offers comprehensive training on the fundamentals of Java programming, object-oriented concepts, and advanced topics such as data structures, multithreading, and network programming. With hands-on exercises and real-world projects, this course equips students with the skills to develop robust and scalable Java applications and prepare for a successful career in the IT industry. Trained and experienced instructors, practical training techniques, and industry-recognized certification make the Java course in Kolkata a highly reputable and valuable program for aspiring Java developers. 
-### To Download Our Brochure https://www.justacademy.co/download-brochure-for-free
+Java Course in Kolkata is a comprehensive training program that equips students with the knowledge and skills required to develop robust and secure applications using the Java programming language. The course covers topics such as core java, advanced java, servlets, JSP, Hibernate, and Spring framework, providing students with hands-on experience and practical exposure. With the demand for Java developers increasing in the IT industry, this course is a gateway to promising career opportunities.
+### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
-1) Java course in Kolkata offers comprehensive training in the most widely used programming language in the world. Java is a powerful and versatile language, and learning it opens up numerous career opportunities for students.
+1) Comprehensive training program: Java course in Kolkata offers a comprehensive training program that covers all the fundamentals of Java programming language. The course is designed to cater to the needs of beginners as well as advanced learners.
 
-2) The training program covers all the essential concepts of Java, starting from the basics of object-oriented programming to advanced topics like multi-threading, collections, and web development. This allows students to gain a strong foundation in the language and become proficient in its application.
+2) Experienced trainers: The course is taught by experienced trainers who have in-depth knowledge of Java. They provide hands-on training and real-life examples to help students understand the concepts better.
 
-3) The course is taught by experienced industry professionals who have a deep understanding of Java and its practical applications. They provide hands-on training and real-world projects to help students gain practical knowledge and skills required in the industry.
+3) Job-oriented training: The Java course in Kolkata is designed to make students job-ready. The training program includes practical assignments, projects, and workshops to equip students with the necessary skills and knowledge to excel in the industry.
 
-4) With the increasing demand for Java developers, taking a Java course in Kolkata can greatly enhance a student's employability. The course also prepares students for Java certification exams, which can further boost their career prospects.
+4) Interactive learning: The training program follows a practical approach with a mix of theory and hands-on learning. The interactive learning environment helps students to actively participate in the classes and clear their doubts instantly.
 
-5) Many training institutes in Kolkata offer Java courses with flexible schedules and affordable fees, making it accessible for students from different backgrounds. The course also includes job placement assistance, helping students kickstart their careers in the IT industry.
+5) Placement assistance: Many institutes offering Java course in Kolkata also provide placement assistance to their students. They have tie-ups with reputed companies and help students land a job in their desired field after completing the course.
 
-### Browse our course links : https://www.justacademy.co/all-courses 
+### Browse our course links : [https://www.justacademy.co/all-courses](https://www.justacademy.co/all-courses) 
 ### To Join our FREE DEMO Session - [Click Here](https://www.justacademy.co/register-for-course-demo)
 
 
@@ -29,10 +29,16 @@ Java is a popular programming language used for developing applications for diff
 ### Roshan Chaturvedi
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
-                    
-[Microsoft Azure Architecture In Cloud Computing](https://www.linkedin.com/pulse/microsoft-azure-architecture-cloud-computing-justacademy-chandigarh-9bg9e?trackingId=QzLK6HgXgAx1nekn0%2FGfkQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B6y121Lb6Rd%2BUFuxjX43O5A%3D%3D)
-[Software Training Institutes In Chennai](https://www.linkedin.com/pulse/software-training-institutes-chennai-justacademy-kolkata-afdvc?trackingId=FlOmDvLD7e1Y%2FjGBJYLC8Q%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BiAa60KZ1TYi9BxLlFQwGgg%3D%3D)
-[Sap S4 Hana Course](https://medium.com/@surajvaishnav5015/sap-s4-hana-course-e243d3d60ec5)
-[Types Of Inheritance In Python](https://medium.com/@mahi3106/types-of-inheritance-in-python-bcaaaae549ba)
-[Javascript Tutorial](https://justacademyin.github.io/Articles/Javascript-Tutorial)
-[SAP MM Training Institute In Delhi](https://justacademyin.github.io/Articles/SAP-MM-Training-Institute-In-Delhi)
+                
+[Asp Vs Asp Net](https://www.linkedin.com/pulse/asp-vs-net-justacademy-chicago-sahpf?trackingId=BjdpL47iojmdfcg3EmUjTw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BXfdKLa%2BZRG%2B541nAJnPQxg%3D%3D)
+
+[Learn Laravel From Scratch](https://www.linkedin.com/pulse/learn-laravel-from-scratch-justacademy-jaipur-jjxte?trackingId=CCDqurNGsYPMdGfnZde1kQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B6gVpALX0TnilEAnvQeHuDw%3D%3D)
+
+[Full Course Of Photoshop](https://medium.com/@negishivu99/full-course-of-photoshop-4cd6de92eef1)
+
+[Adobe Photoshop Training Course For Beginners](https://medium.com/@mahi3106/adobe-photoshop-training-course-for-beginners-03d62c256d9b)
+
+[Mobile App Development Course For Beginners](https://justacademyin.github.io/Articles/Mobile-App-Development-Course-For-Beginners)
+
+[Full Stack Certification Free](https://justacademyin.github.io/Articles/Full-Stack-Certification-Free)
+

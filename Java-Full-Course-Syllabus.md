@@ -7,21 +7,22 @@
 </p>
 
 
-The Java full course syllabus covers a wide range of topics, starting with the basics of Java programming such as data types, control statements, and arrays. It then progresses to core concepts of object-oriented programming such as encapsulation, inheritance, and polymorphism. It also covers advanced topics like exception handling, input-output operations, multithreading, and GUI programming. Additionally, students will learn about data structures and algorithms, networking, database connectivity, and web development using Java. Hands-on projects and practical exercises are also included to provide real-world experience. By the end of the course, students will have a comprehensive understanding of Java and its applications, making them proficient in creating robust and efficient Java applications. 
-
-### To Download Our Brochure https://www.justacademy.co/download-brochure-for-free
+Java is an object-oriented programming language used in web and mobile application development. The full course syllabus covers topics such as core concepts, data types, control structures, arrays, classes and objects, inheritance, exceptions, multithreading, and event handling. It also includes advanced topics like JDBC database connectivity, GUI programming, and networking, as well as the latest Java 8 features such as lambda expressions and streams. The course aims to provide a comprehensive understanding of Java and its applications, enabling students to become proficient in creating robust, scalable, and efficient Java programs.
+### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
-1) Core Java Concepts: This section covers the fundamentals of Java programming language such as variables, data types, operators, loops, arrays, classes, objects, and methods. It also includes exception handling, file handling, and basic input/output operations.
+1) Introduction to Java: This module will cover the basics of Java, its history, features, and the Java virtual machine. Students will learn how to install and set up the Java development environment and write their first "Hello World" program.
 
-2) Object-Oriented Programming: In this section, students will learn the principles of object-oriented programming (OOP) such as abstraction, encapsulation, inheritance, and polymorphism. They will also understand how to create and work with classes and objects in Java.
+2) Object-Oriented Programming (OOP) Concepts: In this module, students will learn the key concepts of object-oriented programming such as classes, objects, abstraction, encapsulation, inheritance, and polymorphism. They will also learn how to apply these concepts in Java programming.
 
-3) GUI Development: This section focuses on creating graphical user interfaces (GUI) using Java Swing and JavaFX. Students will learn how to design and develop user-friendly interfaces with components like buttons, labels, text fields, and layouts.
+3) Control Statements and Data Types: This module covers the control statements and data types in Java. Students will learn about conditional statements, looping statements, and different data types such as primitive and reference types.
 
-4) Database Connectivity: Here, students will be introduced to databases and how to connect to them using Java Database Connectivity (JDBC). They will learn how to perform various database operations like SQL queries, updates, inserts, and deletes in a Java program.
+4) Java Libraries and APIs: Students will learn how to work with different Java libraries and APIs such as the Collection framework, networking, and multithreading. They will understand the importance of using libraries and how to leverage them in their code.
 
-5) Advanced Java Concepts: This section covers more advanced topics such as multithreading, networking, and generics. Students will also gain knowledge about popular Java frameworks like Spring, Hibernate, and Maven, which are extensively used in real-world applications. They will also have the opportunity to work on hands-on projects to apply their learnings.
+5) GUI Programming: This module covers the basics of GUI programming using Java Swing. Students will learn how to design and develop graphical user interfaces, handle user events, and work with swing components to create interactive applications.
 
-### Browse our course links : https://www.justacademy.co/all-courses 
+By the end of this training program, students will have a strong understanding of the Java programming language and its fundamentals. They will be able to write programs using OOP concepts, manipulate data, work with external libraries, and develop GUI applications. This comprehensive syllabus is designed to provide a solid foundation for students to pursue a career as a Java developer or advance their current programming skills.
+
+### Browse our course links : [https://www.justacademy.co/all-courses](https://www.justacademy.co/all-courses) 
 ### To Join our FREE DEMO Session - [Click Here](https://www.justacademy.co/register-for-course-demo)
 
 
@@ -30,10 +31,16 @@ The Java full course syllabus covers a wide range of topics, starting with the b
 ### Roshan Chaturvedi
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
-                    
-[Sap Fico S4 Hana](0)
-[Free Android Course With Certificate](https://www.linkedin.com/pulse/free-android-course-certificate-justacademy-mumbai-4iwvc/)
-[Full Stack Software Development Course](https://medium.com/@prempja40/full-stack-software-development-course-5351819cdde2)
-[Python Courses London](https://medium.com/@kumarishimmi99/python-courses-london-54229042a6a5)
-[Full Stack Python Tutorial](https://justacademyin.github.io/Articles/Full-Stack-Python-Tutorial)
-[Microsoft Azure Beginner Tutorial](https://justacademyin.github.io/Articles/Microsoft-Azure-Beginner-Tutorial)
+                
+[Php Refresher Course](https://www.linkedin.com/pulse/php-refresher-course-justacademy-boston-jfyle?trackingId=9FFVtCLiCHzu2XdFp3taNQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BJZkpBKQJT0CqKHGVOkLUTQ%3D%3D)
+
+[SAP Mm Training In Marathahalli](https://www.linkedin.com/pulse/sap-mm-training-marathahalli-justacademy-kolkata-rfcjf/)
+
+[Html Css Best Course](https://medium.com/@AkashSingh2052/html-css-best-course-4fca4e17ac7e)
+
+[Figma Lessons](https://medium.com/@ranemanish460/figma-lessons-e03d7d1b63dc)
+
+[SAP MM Course Fees](https://justacademyin.github.io/Articles/SAP-MM-Course-Fees)
+
+[Java Developer Course In Pune](https://justacademyin.github.io/Articles/Java-Developer-Course-In-Pune)
+
