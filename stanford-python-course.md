@@ -5,6 +5,7 @@
     <img src="https://justacademy.co/storage2/course_image/1709713400_course_image.webp" alt="Stanford Python Course">
   </a>
 </p>
+##Stanford Python Course
 The Stanford Python course, officially known as "Programming Methodology" (CS106A), is a popular introductory computer science class taught at Stanford University. This course is designed to teach students the basics of programming using Python, focusing on fundamental concepts such as variables, data structures, algorithms, and object-oriented programming. Although the specific programming language used for instruction may vary or evolve over time, the course's emphasis on problem-solving skills, logical thinking, and software design principles remains constant. It is typically aimed at students with little to no prior programming experience, providing a strong foundation not only for further computer science studies but also for computational thinking applicable in many disciplines. The lectures, assignments, and materials for the course are often made available online, allowing a global audience to benefit from Stanford's educational resources.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -48,15 +49,15 @@ Enrolling in the Stanford Python course offers a comprehensive pathway to master
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Sap Hana Developer Certification](https://www.linkedin.com/pulse/sap-hana-developer-certification-software-training-sunnyvale-jkxuc/)
+[Sap Hana Course Online](https://www.linkedin.com/pulse/sap-hana-course-online-justacademy-beangaluru-sw2sc/)
 
-[Cloud Computing In Hindi](https://www.linkedin.com/pulse/cloud-computing-hindi-justacademy-san-jose-irgpf?trackingId=CTA46T2GRWgC4JDeLGzgBw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BfImeOsNpR2eB0vaAt1OrTg%3D%3D)
+[Difference Between .Net And Asp.Net Core](https://www.linkedin.com/pulse/difference-between-net-aspnet-core-justacademy-chennai-qstoc?trackingId=ohinTJz2ZPLSlXi5q11mrw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B1CN8b2GFRWqxwCPWd5SbXw%3D%3D)
 
-[Project Management Course Near Me](https://medium.com/@mistersumit961/project-management-course-near-me-b1b93827bd8c)
+[Flutter App Development Course Free](https://medium.com/@prempja40/flutter-app-development-course-free-ad94808db5bf)
 
-[Android Programming Course](https://medium.com/@shivamja27/android-programming-course-d09076d333a3)
+[Azure Devops Tutorial Step By Step](https://medium.com/@ranepooja/azure-devops-tutorial-step-by-step-69340f548dfa)
 
-[Photoshop Illustrator Indesign Course](https://justacademyin.github.io/justacademy/photoshop-illustrator-indesign-course)
+[Learn Kotlin Android Development](https://justacademyin.github.io/justacademy/learn-kotlin-android-development)
 
-[Flutter Language](https://justacademyin.github.io/Articles/Flutter-Language)
+[Aws Full Course Pdf](https://justacademyin.github.io/justacademy/aws-full-course-pdf)
 

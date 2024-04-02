@@ -5,6 +5,8 @@
     <img src="https://justacademy.co/storage2/course_image/1709713400_course_image.webp" alt="Css In Python">
   </a>
 </p>
+##Css In Python
+
 CSS, or Cascading Style Sheets, is primarily associated with web development for styling HTML elements, and it doesn't have a direct role in Python development. However, when Python is used in web development, particularly in web frameworks like Flask or Django, CSS is used alongside HTML templates to style the web pages served by Python applications. Similarly, in contexts where Python may be used for generating web content dynamically or for web scraping, understanding how CSS interacts with HTML elements becomes important. Python libraries such as BeautifulSoup can parse and interact with the HTML/CSS of a webpage, but CSS itself is not written in Python; rather, it's a separate language that works alongside HTML to define the visual presentation of web pages.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -44,15 +46,15 @@ The integration of CSS knowledge into a Python training program is indispensable
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Best Java Training Institute In Jaipur](https://www.linkedin.com/pulse/best-java-training-institute-jaipur-justacademy-san-jose-e6sxe?trackingId=hvqfC75DzGpmOoKXpNACJg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BEWeMkO%2BuSGSAlnCbMCSomw%3D%3D)
+[Difference Between Cloud Computing And Grid Computing](https://www.linkedin.com/pulse/difference-between-cloud-computing-grid-justacademy-hyderabad-qrrec?trackingId=HWX%2Bv%2FnfiNxkw7W3fSx5Qg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BIgbA%2F28BQMiUW8Q%2FkWRJzw%3D%3D)
 
-[Learn Ml With Python](https://www.linkedin.com/pulse/learn-ml-python-justacademy-coventry-abf4e?trackingId=iJ3ZJOtMjXxvofZw%2Bs%2FFZQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BJZ1BlOL5QLWznvJO1ReiaA%3D%3D)
+[Java Training Institutes In Vijayawada](https://www.linkedin.com/pulse/java-training-institutes-vijayawada-software-training-sunnyvale-ao1je?trackingId=%2FOGyzoyQJXL0mlQdogEEUQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BPMbi7PJsSrOfOFf5jCv3gg%3D%3D)
 
-[Java Training Institutes In Dilsukhnagar](https://medium.com/@mistersumit961/java-training-institutes-in-dilsukhnagar-86a8ea154ad8)
+[Flutter Full Course Free](https://medium.com/@prempja40/flutter-full-course-free-43114f87e9c8)
 
-[Sap Sd Tutorial](https://medium.com/@abhidnya.1068/sap-sd-tutorial-65fca5740689)
+[Best Java Training Institutes In Vijayawada](https://medium.com/@justacademytraining/best-java-training-institutes-in-vijayawada-617a5e8a7081)
 
-[Angular Full Stack Developer](https://justacademyin.github.io/justacademy/angular-full-stack-developer)
+[Php Programming Course Online Free](https://justacademyin.github.io/justacademy/php-programming-course-online-free)
 
-[Full Stack Developer Certification Free](https://justacademyin.github.io/justacademy/full-stack-developer-certification-free)
+[Best Course To Learn Php](https://justacademyin.github.io/justacademy/best-course-to-learn-php)
 

@@ -5,6 +5,7 @@
     <img src="https://justacademy.co/storage2/program_images/1704700438.webp" alt="Manual Testing Free Course With Certificate">
   </a>
 </p>
+##Manual Testing Free Course With Certificate
 Manual testing is a process in which software testers manually operate a system to identify bugs or errors, without the aid of automated testing tools. A free course on manual testing, culminating in a certificate, is designed to equip learners with foundational knowledge and practical skills in software quality assurance techniques. Such a course typically covers the basics of the testing lifecycle, including test planning, design, execution, defect tracking, and reporting. It aims at fostering an understanding of various testing types, like functional, integration, system, and user acceptance testing. The inclusion of real-world scenarios and hands-on exercises enhances learning, helping students to apply theoretical knowledge to practical situations. Upon successful completion, the course often grants a certificate, acknowledging the learner’s proficiency in manual testing principles and techniques, bolstering their professional credentials in the field of software quality assurance.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -44,15 +45,15 @@ Throughout the training program, interactive sessions, quizzes, and feedback mec
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Asp Net 4](https://www.linkedin.com/pulse/asp-net-4-justacademy-chandigarh-3zcjc?trackingId=wYyAvoJXNIQjBktbE1V%2FMA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BKQmokhDTSBO4c3m1OKbvVA%3D%3D)
+[Best Software Testing Course Institute In Bangalore](https://www.linkedin.com/pulse/best-software-testing-course-institute-bangalore-dm9ae?trackingId=L8Dk1%2FK%2FDEJjbwi7b2O%2FWg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B9IEH5La1R2e7WwLGeLcpkg%3D%3D)
 
-[Cloud Computing Training Institute In Delhi Ncr](https://www.linkedin.com/pulse/cloud-computing-training-institute-delhi-ncr-justacademy-pune-vsqhc?trackingId=MHlUiYGqukMTVd7h3q%2B%2Bsw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BVDf%2FJ3L7TWm0o%2FfSLXyFIg%3D%3D)
+[Best Training Institutes For Java In Hyderabad](https://www.linkedin.com/pulse/best-training-institutes-java-hyderabad-justacademy-birmingham-qyzsf?trackingId=nb5xPYwfYKwrTTEgku8cbA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bc4oWIBxNQ3mB3696rH77hw%3D%3D)
 
-[Best Website To Learn Html Css Javascript](https://medium.com/@mistersumit961/best-website-to-learn-html-css-javascript-9fa28033e120)
+[Online Illustration Courses](https://medium.com/@namusn/online-illustration-courses-1542c7e5ece9)
 
-[Html Course Full](https://medium.com/@ranepooja/html-course-full-1e541476275d)
+[Abap Developer Training](https://medium.com/@justacademytraining/abap-developer-training-3de0dae7eb1a)
 
-[Cloud Computing Courses In Chennai](https://justacademyin.github.io/justacademy/cloud-computing-courses-in-chennai)
+[Aws Hosting Tutorial](https://justacademyin.github.io/justacademy/aws-hosting-tutorial)
 
-[Javascript For Web Developers](https://justacademyin.github.io/Articles/Javascript-For-Web-Developers)
+[Top Software Testing Certifications](https://justacademyin.github.io/justacademy/top-software-testing-certifications)
 

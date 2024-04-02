@@ -5,6 +5,7 @@
     <img src="https://justacademy.co/storage2/course_image/1709713400_course_image.webp" alt="Python Scripting Course">
   </a>
 </p>
+##Python Scripting Course
 A Python scripting course is designed to introduce learners to the fundamentals of Python programming, focusing on automating tasks, data manipulation, and the creation of simple applications. This course typically covers basic programming concepts such as variables, data types, control structures, functions, and error handling, alongside Python-specific features like list comprehensions, modules, and file I/O. Through hands-on exercises and projects, students learn to write efficient Python scripts that can automate repetitive tasks, analyze data, and interface with web services. Whether for beginners looking to dive into programming or professionals aiming to enhance their scripting capabilities, a Python scripting course is a practical step towards mastering one of the most versatile and widely-used programming languages in the tech industry today.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -46,15 +47,15 @@ Each module of this Python scripting course is designed with practical examples 
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Asp Net Core And Angular](https://www.linkedin.com/pulse/asp-net-core-angular-justacademy-cupertino-c6llc?trackingId=rGXuO8tzbLt2MnOrF%2BMUhg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BgBhGnALRQwW8mE6l8mJTTg%3D%3D)
+[Best Pmp Training In Bangalore](https://www.linkedin.com/pulse/best-pmp-training-bangalore-justacademy-hyderabad-jfbcc?trackingId=jn%2F6KOLJIrMjAZMcSvnQJQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BHOARzOn6RjSLHiGUJj0uqA%3D%3D)
 
-[Learn Swift Apple](0)
+[Android And Ios App Development Course](https://www.linkedin.com/pulse/android-ios-app-development-course-justacademy-hyderabad-epatc/)
 
-[Photoshop Illustrator Classes Near Me](https://medium.com/@mistersumit961/photoshop-illustrator-classes-near-me-e55b39eeff1c)
+[Sap Mm Sd Integration](https://medium.com/@negishivu99/sap-mm-sd-integration-91ba1119424d)
 
-[Sap Abap Training Course](https://medium.com/@roneet705/sap-abap-training-course-1c2eef3483b5)
+[Flutter Coaching Near Me](https://medium.com/@pzade254/flutter-coaching-near-me-106b40ac2e50)
 
-[SAP MM Course Fees](https://justacademyin.github.io/Articles/SAP-MM-Course-Fees)
+[Azure File Storage Tutorial](https://justacademyin.github.io/justacademy/azure-file-storage-tutorial)
 
-[Software Testing Course Best Institute](https://justacademyin.github.io/justacademy/software-testing-course-best-institute)
+[Learn Php With Laravel](https://justacademyin.github.io/justacademy/learn-php-with-laravel)
 

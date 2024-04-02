@@ -5,6 +5,7 @@
     <img src="https://justacademy.co/storage2/course_image/1709713400_course_image.webp" alt="Python Crash Course 2nd Edition">
   </a>
 </p>
+##Python Crash Course 2nd Edition
 "Python Crash Course, 2nd Edition" is an updated version of the best-selling guide for beginners to learn Python programming. Authored by Eric Matthes, this comprehensive book aims to introduce readers to the basics of Python language quickly and efficiently. It is structured in two main parts: the first part covers the basics of Python programming, including variables, simple data types, conditionals, functions, and testing; while the second part focuses on applying what you've learned through three substantial projects – a Space Invaders-inspired arcade game, data visualizations with Python's super-handy libraries, and a simple web application. Throughout the book, Matthes emphasizes practice and learning by doing, making it an ideal choice for individuals who have no prior programming experience and wish to get up to speed with the essentials of Python programming in a practical, project-based approach.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -42,15 +43,15 @@ By incorporating Python Crash Course, 2nd Edition, into your training program, y
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Cloud Computing Training In Chennai](https://www.linkedin.com/pulse/cloud-computing-training-chennai-justacademy-kolkata-ecoee?trackingId=yKgRJwoHBXmGF8dzWmpvxQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bar0CqYRcTQWcPsZzz1T%2BLw%3D%3D)
+[Html Full Course](https://www.linkedin.com/pulse/html-full-course-justacademy-chandigarh-9cl7c?trackingId=mDWDC76AIZMk71YRbIbTRw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BKQmokhDTSBO4c3m1OKbvVA%3D%3D)
 
-[Kotlin Developer Certification](https://www.linkedin.com/pulse/kotlin-developer-certification-software-training-mountain-view-tih9f/)
+[Laravel Course Online](https://www.linkedin.com/pulse/laravel-course-online-justacademy-mumbai-ukowc?trackingId=p5QYI23BdZk4TSg2LJSZbA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_showcase_admin%3BrO72kZqIQGOMCosqCkrMnA%3D%3D)
 
-[Best Free Courses For Full Stack Web Development](https://medium.com/@AkashSingh2052/best-free-courses-for-full-stack-web-development-4850085624bf)
+[Salesforce Developer In Hindi](https://medium.com/@justacademytraining/salesforce-developer-in-hindi-de025242c653)
 
-[Best Java Training Institute In Coimbatore](https://medium.com/@namusn/best-java-training-institute-in-coimbatore-9633101b5083)
+[Sap Sd Training In Bangalore](https://medium.com/@kumarishimmi99/sap-sd-training-in-bangalore-38f29b8e7cf2)
 
-[Modules In Software Testing](https://justacademyin.github.io/justacademy/modules-in-software-testing)
+[Photoshop Cc Course](https://justacademyin.github.io/justacademy/photoshop-cc-course)
 
-[Laravel Certification Course](https://justacademyin.github.io/justacademy/laravel-certification-course)
+[Full Stack Web Developer Course](https://justacademyin.github.io/justacademy/full-stack-web-developer-course)
 

@@ -5,6 +5,8 @@
     <img src="https://justacademy.co/storage2/course_image/1709713400_course_image.webp" alt="Learn Python In Hindi">
   </a>
 </p>
+##Learn Python In Hindi
+
 Learning Python in Hindi is a tremendous opportunity for Hindi-speaking individuals who aspire to dive into the world of programming. Python, known for its simplicity and readability, makes it an ideal first language for beginners, and accessing resources in one's mother tongue can significantly enhance understanding and retention. Various online platforms, educational websites, and YouTube channels offer comprehensive tutorials, courses, and documentation in Hindi. These resources cover Python's core concepts such as variables, data types, control structures, functions, and libraries, along with its application in web development, data science, artificial intelligence, and more. Learning Python in Hindi not only breaks the language barrier but also opens the gates to numerous career opportunities in the tech world, making it an advantageous pursuit for Hindi-speaking enthusiasts eager to enter the field of programming.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -48,15 +50,15 @@ This comprehensive training program, provided in Hindi, will be instrumental in 
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Best Way To Learn Android Development](https://www.linkedin.com/pulse/best-way-learn-android-development-justacademy-5uj3c/)
+[Net Training Online Free](https://www.linkedin.com/pulse/net-training-online-free-justacademy-belfast-mmzpe?trackingId=z0Ouho5RO%2FhOdVqzOOXsDQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BZ5ESut9VQxyQx%2BjF%2F1FLaA%3D%3D)
 
-[Java Training Institute In Kharadi](https://www.linkedin.com/pulse/java-training-institute-kharadi-justacademy-jaipur-behte?trackingId=J%2B6VMWaBkWDaCEk4x8B14Q%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BPHZ4e%2FC0SW%2BPbqGLUXrWbQ%3D%3D)
+[Selenium Javascript](https://www.linkedin.com/pulse/selenium-javascript-software-training-sunnyvale-jbe3c?trackingId=hXU1bw8EK1QTviR0hjqTvw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BuOGAPcWcQnScqXWa77%2Fzaw%3D%3D)
 
-[Course In Html](https://medium.com/@abhidnya.1068/course-in-html-17f64063cc77)
+[Sap Hana For Abap Developers](https://medium.com/@mistersumit961/sap-hana-for-abap-developers-fed7b8118287)
 
-[Free Full Stack Bootcamp](https://medium.com/@mahi3106/free-full-stack-bootcamp-0d62690c332f)
+[Pmp Certification San Antonio](https://medium.com/@negishivu99/pmp-certification-san-antonio-8c660ca2f328)
 
-[Free Python Bootcamp](https://justacademyin.github.io/justacademy/free-python-bootcamp)
+[Php Web Development Course](https://justacademyin.github.io/justacademy/php-web-development-course)
 
-[Advanced Java Programming](https://justacademyin.github.io/justacademy/advanced-java-programming)
+[Software Training Institutes In Chennai](https://justacademyin.github.io/justacademy/software-training-institutes-in-chennai)
 

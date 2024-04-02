@@ -5,6 +5,8 @@
     <img src="https://justacademy.co/storage2/course_image/1709713400_course_image.webp" alt="Basic Language Tutorial">
   </a>
 </p>
+##Basic Language Tutorial
+
 A basic language tutorial is a structured guide designed to introduce beginners to the fundamental concepts of a language, whether programming or spoken. It typically starts with an overview of the language's history and significance, then moves on to cover basic syntax or grammar rules, key vocabulary or commands, and simple sentence structures or coding exercises. The tutorial aims to build a solid foundation by incrementally increasing the complexity of concepts and providing plenty of examples and practice opportunities. Through a combination of reading materials, interactive exercises, and sometimes audio or video aids, the learner is equipped with the necessary tools to understand and begin using the language for simple tasks. The ultimate goal is to demystify the language, making it accessible and engaging for absolute beginners.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -50,15 +52,15 @@ Each point is designed to build upon the last, ensuring a gradual and comprehens
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[SAP Mm Module Training](https://www.linkedin.com/pulse/sap-mm-module-training-justacademy-kolkata-czylf/)
+[Cloud Computing Course Fee And Duration](https://www.linkedin.com/pulse/cloud-computing-course-fee-duration-justacademy-mumbai-rh9gc?trackingId=iNhQdX843ZyCclfUtFP0SQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_showcase_admin%3Bd7Lyhom7ShKzEAWk1fq2Tw%3D%3D)
 
-[Java J2ee Training Institutes In Marathahalli](https://www.linkedin.com/pulse/java-j2ee-training-institutes-marathahalli-justacademy-birmingham-foecf?trackingId=9ndEBKPhWWepK65iV5vzcw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bc4oWIBxNQ3mB3696rH77hw%3D%3D)
+[Learning Laravel For Beginners](https://www.linkedin.com/pulse/learning-laravel-beginners-justacademy-delhi-mqszc?trackingId=sb9kZLHpk55ggDub1sAdTA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BXd%2B4Zk9XQtOyhr1jBDUlIA%3D%3D)
 
-[Python Institute](https://medium.com/@sagarawat89/python-institute-37a6209f828c)
+[Good Java Training Institute In Bangalore](https://medium.com/@ranemanish460/good-java-training-institute-in-bangalore-e32f9a76a8b8)
 
-[Sap Sd Training In Dilsukhnagar](https://medium.com/@surajvaishnav5015/sap-sd-training-in-dilsukhnagar-db5972b21f31)
+[Illustrator Courses Online](https://medium.com/@namusn/illustrator-courses-online-91ae03b405b6)
 
-[Javascript While](https://justacademyin.github.io/Articles/Javascript-While)
+[Best Free Python Course With Certificate](https://justacademyin.github.io/justacademy/best-free-python-course-with-certificate)
 
-[Best Software Testing Course Online Free](https://justacademyin.github.io/justacademy/best-software-testing-course-online-free)
+[Javascript Free](https://justacademyin.github.io/justacademy/javascript-free)
 

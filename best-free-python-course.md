@@ -5,6 +5,7 @@
     <img src="https://justacademy.co/storage2/course_image/1709713400_course_image.webp" alt="Best Free Python Course">
   </a>
 </p>
+##Best Free Python Course
 As of my last update, one of the best free Python courses available is "Automate the Boring Stuff with Python" offered by Al Sweigart. This course, available on platforms like Udemy, focuses on teaching Python programming to beginners through practical, real-world applications, primarily aimed at automating everyday tasks. The course covers Python basics, working with Excel files, PDFs, and emails, web scraping, automating GUIs, and more, making it highly appealing for those looking to learn Python to enhance their productivity in work or everyday tasks. Al Sweigart's engaging teaching style and the course's focus on practical application over theoretical knowledge make it a standout option for beginners looking to get a robust introduction to Python without investing in costly resources.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -40,15 +41,15 @@ When selecting a course, consider the specific areas of Python you're interested
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Pmp Training](https://www.linkedin.com/pulse/pmp-training-justacademy-hyderabad-fojuc?trackingId=elmvylQ%2BXz8VJYsBgNS29w%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BHOARzOn6RjSLHiGUJj0uqA%3D%3D)
+[Software Testing Best Practices](https://www.linkedin.com/pulse/software-testing-best-practices-justacademy-coimbatore-qksie?trackingId=vxnYqhhHkgri%2BtKe%2BoEggQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B7mNmKz24Tx%2BfRDkV0HwLig%3D%3D)
 
-[Sap S 4hana Online Training](https://www.linkedin.com/pulse/sap-4hana-online-training-software-training-sunnyvale-g62xc/)
+[Best Java Training Institutes In Bangalore With Placements](https://www.linkedin.com/pulse/best-java-training-institutes-bangalore-placements-justacademy-1iz3e?trackingId=2bZ3AdNESWObHr03PgOYuQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BxUP8vDI1SK6JTwycAY2syQ%3D%3D)
 
 [Html Css Java Course](https://medium.com/@mistersumit961/html-css-java-course-efccda1e4ca1)
 
-[Sap Sd Salary In India](https://medium.com/@namusn/sap-sd-salary-in-india-fe497ab0e879)
+[Flutter Coaching Near Me](https://medium.com/@pzade254/flutter-coaching-near-me-106b40ac2e50)
 
-[Adobe Photoshop Cc Basic Photoshop Training](https://justacademyin.github.io/justacademy/adobe-photoshop-cc-basic-photoshop-training)
+[Javascripttutor](https://justacademyin.github.io/Articles/Javascripttutor)
 
-[Object Oriented Python Course](https://justacademyin.github.io/justacademy/object-oriented-python-course)
+[Python Mobile App Development Course](https://justacademyin.github.io/Articles/Python-Mobile-App-Development-Course)
 

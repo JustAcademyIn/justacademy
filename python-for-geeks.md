@@ -5,6 +5,8 @@
     <img src="https://justacademy.co/storage2/course_image/1709713400_course_image.webp" alt="Python For Geeks">
   </a>
 </p>
+##Python For Geeks
+
 Python is a highly versatile and widely-used programming language cherished by geeks and developers around the globe, particularly for its elegant syntax and readability, making it perfect for beginners and experts alike. It's a powerhouse for a myriad of applications, from web development to artificial intelligence, thanks to its extensive selection of libraries and frameworks like Django for web applications, NumPy and Pandas for data science, and TensorFlow for machine learning. Moreover, its interactive nature paired with support for procedural, object-oriented, and functional programming paradigms makes Python an ideal choice for prototyping and complex software development projects. Its active community and open-source character ensure continuous improvement and a wealth of resources and support for developers, securing Python's place as a favored tool among tech enthusiasts and professionals in the field.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -44,15 +46,15 @@ By offering a training program in Python for geeks, especially those interested 
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Fullstack Web Development](https://www.linkedin.com/pulse/fullstack-web-development-justacademy-pune-bqrcf/)
+[Software Testing Course Content](https://www.linkedin.com/pulse/software-testing-course-content-justacademy-coimbatore-mv8we?trackingId=gkWhgM7pwhUxQKZ%2B6wX27g%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BQ21fTVlsQ6eRatiOukp9mA%3D%3D)
 
-[Associate Android Developer Course](https://www.linkedin.com/pulse/associate-android-developer-course-justacademy-beangaluru-ieslf/)
+[Asp.Net Core Roadmap 2023](https://www.linkedin.com/pulse/aspnet-core-roadmap-2023-justacademy-delhi-kxlrc?trackingId=SIY2%2BPE%2B1Qb6DSIvVhsruQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B9Q82RDvqR3%2BMiM23X%2B3J5A%3D%3D)
 
-[Full Stack Developer Best Institute](https://medium.com/@ranepooja/full-stack-developer-best-institute-2be71d3d15a6)
+[Java Programming Crash Course](https://medium.com/@shivamja27/java-programming-crash-course-300003a82880)
 
-[Python Online Teaching](https://medium.com/@sagarawat89/python-online-teaching-14f03d013f9c)
+[Best Java Training Institute In Vizag](https://medium.com/@ranemanish460/best-java-training-institute-in-vizag-ed09294a5d92)
 
-[Settimeout Js](https://justacademyin.github.io/justacademy/settimeout-js)
+[Kotlin Full Stack](https://justacademyin.github.io/Articles/Kotlin-Full-Stack)
 
-[Android Development Tutorial Kotlin](https://justacademyin.github.io/justacademy/android-development-tutorial-kotlin)
+[Fees For Software Testing Course](https://justacademyin.github.io/justacademy/fees-for-software-testing-course)
 

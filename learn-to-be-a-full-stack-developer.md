@@ -5,6 +5,7 @@
     <img src="https://justacademy.co/storage2/program_images/1704700371.webp" alt="Learn To Be A Full Stack Developer">
   </a>
 </p>
+##Learn To Be A Full Stack Developer
 Becoming a full-stack developer is an ambitious journey that involves mastering both front-end and back-end technologies. Front-end development pertains to everything the user directly interacts with on a website or application, incorporating skills in HTML, CSS, and JavaScript, along with frameworks like React or Angular. On the flip side, back-end development focuses on server, database, and application logic, requiring proficiency in languages such as Python, Ruby, Java, or Node.js, and knowledge of databases like SQL and MongoDB. As a full-stack developer, one also needs to understand essential concepts of web architecture, version control systems like Git, and basic design principles to ensure a seamless, efficient, and scalable interaction between the client-facing side and the server-side of a web application. The journey is continuous and requires a commitment to learning, as technology evolves. Practical experience through projects, contributions to open-source, and staying updated with the latest industry trends are crucial steps towards becoming a proficient full-stack developer.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -50,15 +51,15 @@ By structuring the program around these points, students will gain a well-rounde
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Sales Force Developer Training](https://www.linkedin.com/pulse/sales-force-developer-training-justacademy-2qhgc?trackingId=705FfJ9HfuBWwFwVKeFzLQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B1%2Fxl0s9nR82%2ByDHotTO0eg%3D%3D)
+[Learn Php And Mysql Online Free](https://www.linkedin.com/pulse/learn-php-mysql-online-free-justacademy-beangaluru-3qhhc?trackingId=hTK3LoPGtgEg3RRfzJSjdA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BBUakVGECTzaHeYDngAD9NQ%3D%3D)
 
-[Best Free Course For Android Development](https://www.linkedin.com/pulse/best-free-course-android-development-justacademy-sunnyvale-onqwc/)
+[Java Real Time Training Institutes In Ameerpet](https://www.linkedin.com/pulse/java-real-time-training-institutes-ameerpet-justacademy-thane-8j5we?trackingId=Wqs73QKcQkJ6zKKyATNABA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B8x4oZRFoSmO4CZ5ThOfedg%3D%3D)
 
-[Sap Abap On Hana Free Training](https://medium.com/@kumarishimmi99/sap-abap-on-hana-free-training-469f7f195e46)
+[Android Development Classes Near Me](https://medium.com/@kumarishimmi99/android-development-classes-near-me-453c493ed1dd)
 
-[Java Full Stack Developer Tutorial](https://medium.com/@akanshapatil/java-full-stack-developer-tutorial-b51c7231766c)
+[Python Oop Course](https://medium.com/@shivamja27/python-oop-course-6d8279511f52)
 
-[Top 10 Software Testing Institutes In Pune](https://justacademyin.github.io/justacademy/top-10-software-testing-institutes-in-pune)
+[Html And Css Course](https://justacademyin.github.io/justacademy/html-and-css-course)
 
-[SAP MM Training Institutes In Bangalore](https://justacademyin.github.io/Articles/SAP-MM-Training-Institutes-In-Bangalore)
+[React Native Javascript](https://justacademyin.github.io/Articles/React-Native-Javascript)
 

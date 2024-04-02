@@ -5,6 +5,7 @@
     <img src="https://justacademy.co/storage2/program_images/1704700371.webp" alt="Azure Full Stack Developer">
   </a>
 </p>
+##Azure Full Stack Developer
 An Azure Full Stack Developer is a multi-skilled IT professional who is proficient in both front-end and back-end development technologies, as well as knowledgeable in Microsoft's Azure cloud services. This individual is capable of designing and implementing end-to-end solutions, which includes developing web applications, APIs, databases, and integrating cloud services and infrastructure on the Azure platform. Their expertise spans a wide range of programming languages, development frameworks, database management systems, and Azure services like Azure Functions, Azure Web Apps, Azure SQL Database, and Azure DevOps. The role requires an understanding of the entire development process, from requirements analysis and design to development, deployment, and maintenance, with a focus on leveraging Azure's cloud capabilities to enhance scalability, reliability, and performance of applications.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -50,15 +51,15 @@ This comprehensive training program is designed to equip students with the skill
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Best Institute For Cloud Computing In Bangalore](https://www.linkedin.com/pulse/best-institute-cloud-computing-bangalore-q6wlc?trackingId=ejWEM51cUfiZycXTfaRH3w%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bl%2F2BBmIARsmtdD8COUq0ig%3D%3D)
+[Php Interactive Course](https://www.linkedin.com/pulse/php-interactive-course-justacademy-beangaluru-qrkoc?trackingId=Wn00Ps%2B%2FAkcMN%2FeTsRUV8w%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BBUakVGECTzaHeYDngAD9NQ%3D%3D)
 
-[Online Degree In Digital Marketing](https://www.linkedin.com/pulse/online-degree-digital-marketing-justacademy-thane-occyc?trackingId=UxmVLHWx4ofw%2Bws7BFBzBg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BtWGDFb3%2BTIWrNJLdiT%2FfMQ%3D%3D)
+[Salesforce Training Courses Free](https://www.linkedin.com/pulse/salesforce-training-courses-free-justacademy-sunnyvale-4jxmc?trackingId=JNAY3Tr%2Bzsqu7prdgVV0OQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BNFdqqfBkQamwMdOz7MGZnA%3D%3D)
 
-[Best Java Training Institutes In Hyderabad](https://medium.com/@surajvaishnav5015/best-java-training-institutes-in-hyderabad-3d75a1dddf0f)
+[Sap Abap Training Cost](https://medium.com/@namusn/sap-abap-training-cost-d2dba0457915)
 
-[Tableau Online Tutorials](https://medium.com/@shivamja27/tableau-online-tutorials-cc9eb8564995)
+[Best Course To Learn Photoshop](https://medium.com/@mahi3106/best-course-to-learn-photoshop-b62ad87b1cfb)
 
-[Html Css And Java Script Training Institute In Bangalore](https://justacademyin.github.io/justacademy/html-css-and-java-script-training-institute-in-bangalore)
+[Free Php Classes Online](https://justacademyin.github.io/justacademy/free-php-classes-online)
 
-[Marketing Learning Center](https://justacademyin.github.io/justacademy/marketing-learning-center)
+[Angular Front End Developer Skills](https://justacademyin.github.io/justacademy/angular-front-end-developer-skills)
 

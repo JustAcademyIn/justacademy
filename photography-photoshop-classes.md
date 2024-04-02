@@ -5,6 +5,8 @@
     <img src="https://justacademy.co/storage2/course_image/1676637576_course_image.webp" alt="Photography Photoshop Classes">
   </a>
 </p>
+##Photography Photoshop Classes
+
 Photography Photoshop classes are designed to teach photographers, both amateur and professional, how to enhance and manipulate their images using Adobe Photoshop, one of the industry's leading software tools for image editing. These classes cover a wide range of skills and techniques, including basic photo corrections, retouching, color adjustment, making selections, masking, layering, and blending modes. Additionally, students learn how to use advanced editing tools to create special effects, composite images, and prepare photos for print and digital use. The curriculum is typically structured to cater to all skill levels, from beginners learning the fundamentals of digital photography and Photoshop basics to advanced users aspiring to refine their editing skills and artistic expression. By the end of the course, students are expected to have a comprehensive understanding of Photoshop's capabilities in enhancing, modifying, and transforming photographs, enabling them to bring their creative visions to life.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -50,15 +52,15 @@ Each of these points aims to prepare students comprehensively, not just in maste
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Software Testing Course In Coimbatore](https://www.linkedin.com/pulse/software-testing-course-coimbatore-justacademy-thane-h9mkc?trackingId=Li91km%2F51X6dIaDuipXGCA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BWw%2F%2F%2Fw1%2FSRCju0LBZ%2BbokA%3D%3Dhttps://www.linkedin.com/pulse/sof)
+[Cloud Computing Courses In Mumbai](https://www.linkedin.com/pulse/cloud-computing-courses-mumbai-justacademy-coimbatore-5ovhc?trackingId=kWYkKj4kJpuiEEm0UvXiuQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B2xJLL00LStCBWjG%2FybzIxQ%3D%3D)
 
-[Best Place To Learn Php](https://www.linkedin.com/pulse/best-place-learn-php-justacademy-delhi-uk9rc?trackingId=%2Fm5jOaojceADpzPGxolwGQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B3uDtMYf2QJOigjAh01Sv1g%3D%3D)
+[Advanced Machine Learning](https://www.linkedin.com/pulse/advanced-machine-learning-justacademy-bristol-iqjie?trackingId=%2B4dfWBUPE3rfX6XXiDj6%2Bw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BuQw2P2SXTeivwplSXi08Jg%3D%3D)
 
-[Photoshop Boot Camp](https://medium.com/@kumarishimmi99/photoshop-boot-camp-5f822c2cd72f)
+[Full Stack Software Developer Free Course](https://medium.com/@AkashSingh2052/full-stack-software-developer-free-course-51d919fddc1b)
 
-[Html Coding Online Course](https://medium.com/@AkashSingh2052/html-coding-online-course-69941d8f13c2)
+[Certified Software Tester](https://medium.com/@sagarawat89/certified-software-tester-d024e6136f9e)
 
-[Learn Android App Development Step By Step](https://justacademyin.github.io/justacademy/learn-android-app-development-step-by-step)
+[Best Java Training Institute In Tambaram](https://justacademyin.github.io/justacademy/best-java-training-institute-in-tambaram)
 
-[Best Course To Learn Html](https://justacademyin.github.io/justacademy/best-course-to-learn-html)
+[Node Stack](https://justacademyin.github.io/justacademy/node-stack)
 

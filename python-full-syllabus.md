@@ -5,6 +5,8 @@
     <img src="https://justacademy.co/storage2/course_image/1709713400_course_image.webp" alt="Python Full Syllabus">
   </a>
 </p>
+##Python Full Syllabus
+
 The Python programming language syllabus encompasses a comprehensive overview of programming fundamentals using Python. It starts with an introduction to Python, covering its history, features, and setting up the development environment. The syllabus progresses through basic concepts such as variables, data types, operators, and control flow statements (if-else, loops). It delves deeper into more complex topics like functions, modules, and file handling, ensuring learners understand how to structure and modularize code effectively. Data structures, such as lists, tuples, dictionaries, and sets are extensively covered, alongside advanced programming concepts including object-oriented programming (OOP) principles like classes and inheritance. Exception handling and libraries usage are also crucial components, introducing the standard library modules and the concept of creating and using packages. Towards the end, it expands into practical applications, covering areas such as web development using frameworks like Flask or Django, data analysis with libraries such as Pandas and NumPy, and an introduction to more specialized topics like machine learning with Python. The syllabus is designed to equip learners with not just programming skills in Python, but also a solid foundation in computational thinking and problem-solving strategies applicable across a wide range of technological fields.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -105,15 +107,15 @@ This syllabus is designed to offer a comprehensive training program that equips 
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Dart Programming Language Free Course](https://www.linkedin.com/pulse/dart-programming-language-free-course-justacademy-mumbai-sz3dc/)
+[Best Software Testing Training Institutes In Chennai](https://www.linkedin.com/pulse/best-software-testing-training-institutes-chennai-rxtqe?trackingId=6xED%2FSC4vxNthEngFxWQ0g%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BQ21fTVlsQ6eRatiOukp9mA%3D%3D)
 
-[Creation App](https://www.linkedin.com/pulse/creation-app-justacademy-ahmedabad-49ere?trackingId=xWOQjg67BoRo34bfrAQ7DA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BaDgp3xTAQPe9zxsqrS35EA%3D%3D)
+[Java Full Course Syllabus](https://www.linkedin.com/pulse/java-full-course-syllabus-software-training-sunnyvale-ocykc/)
 
-[Online Android Programming](https://medium.com/@kumarishimmi99/online-android-programming-d8644f34739d)
+[Free Code Camp For Java](https://medium.com/@kamblerajas684/free-code-camp-for-java-31f24bce8413)
 
-[Android Developer Training](https://medium.com/@prempja40/android-developer-training-89771576ed79)
+[Sap Sd Online Tutorial](https://medium.com/@mistersumit961/sap-sd-online-tutorial-d91ec2bceb9c)
 
-[Javascript Tutorialspoint](https://justacademyin.github.io/justacademy/javascript-tutorialspoint)
+[Best Institute For Java Full Stack Developer](https://justacademyin.github.io/justacademy/best-institute-for-java-full-stack-developer)
 
-[Cloud PC Azure](https://justacademyin.github.io/justacademy/cloud-pc-azure)
+[Best Free Javascript Course](https://justacademyin.github.io/Articles/Best-Free-Javascript-Course)
 

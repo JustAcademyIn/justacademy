@@ -5,6 +5,7 @@
     <img src="https://justacademy.co/storage2/course_image/1709713400_course_image.webp" alt="Python Course Fees">
   </a>
 </p>
+##Python Course Fees
 The cost of Python courses can vary widely depending on several factors, including the institution offering the course, the course's duration and depth, whether it's online or in-person, and the level of certification or credit provided. Generally, online courses can range from being free to several hundred dollars for more comprehensive or specialized instruction. In-person courses, especially those offered by universities or coding bootcamps, can be significantly more expensive, sometimes costing several thousand dollars. Many platforms also offer Python courses through subscription models, where you pay a monthly fee for access to a variety of courses, which can be a cost-effective option for learners interested in multiple subjects. Always, it's important to compare the content, reviews, and outcomes of the course to ensure it meets your learning goals and provides value for the cost.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -50,15 +51,15 @@ Understanding the potential costs involved can help students and educators plan 
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Top Software Testing Training Institutes In India](https://www.linkedin.com/pulse/top-software-testing-training-institutes-india-v2alc?trackingId=MgszOwyu4kA%2Bku07Sf6Q6w%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BV3sjVNqrQV6LT8YmMJxhFA%3D%3D)
+[Micro Frontend Architecture Angular](https://www.linkedin.com/pulse/micro-frontend-architecture-angular-justacademy-mumbai-zpsdc?trackingId=rbkAVVnFM%2BxED8Ozygg4Aw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_showcase_admin%3B%2Fp6Xeq9yQHuq%2BIOH7VpqxQ%3D%3D)
 
-[Learn Php From Basic](https://www.linkedin.com/pulse/learn-php-from-basic-justacademy-sunnyvale-dfqnc?trackingId=KufctRIvZs8tTHT0kRTeAg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B84%2Br3TF5Sai5zePv40hxgg%3D%3D)
+[Software Testing Course In Trivandrum](https://www.linkedin.com/pulse/software-testing-course-trivandrum-justacademy-hyderabad-wobdc?trackingId=U9VgEsI%2FQIIYwnl%2BfR7THg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BTQqAo3EXQ4e%2F8vuh2btaXQ%3D%3D)
 
-[Free Android Application Development](https://medium.com/@kumarishimmi99/free-android-application-development-bdbbe439a2ea)
+[Python Certificate](https://medium.com/@roneet705/python-certificate-cf4ff24b752c)
 
-[Sap Abap Global Certification](https://medium.com/@kamblerajas684/sap-abap-global-certification-129c86acdda6)
+[Developing Android Apps With Kotlin Udacity](https://medium.com/@shivamja27/developing-android-apps-with-kotlin-udacity-318dc6a26932)
 
-[Learn Full Stack Web Development Free](https://justacademyin.github.io/justacademy/learn-full-stack-web-development-free)
+[Azure Gpu Server](https://justacademyin.github.io/justacademy/azure-gpu-server)
 
-[Full Stack Mobile App Developer](https://justacademyin.github.io/justacademy/full-stack-mobile-app-developer)
+[Free Php Classes](https://justacademyin.github.io/justacademy/free-php-classes)
 

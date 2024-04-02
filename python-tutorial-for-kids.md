@@ -5,6 +5,8 @@
     <img src="https://justacademy.co/storage2/course_image/1709713400_course_image.webp" alt="Python Tutorial For Kids">
   </a>
 </p>
+##Python Tutorial For Kids
+
 A Python tutorial for kids is designed to introduce young learners to the world of programming in a fun and engaging way. It usually starts with the basics of Python, one of the most popular and beginner-friendly programming languages, by explaining simple concepts like variables, loops, and conditions in an easy-to-understand manner. These tutorials often use interactive platforms, games, and projects that appeal to children's creativity and curiosity, such as creating animations, building simple games, or automating small tasks. The goal is to make learning programming an enjoyable and rewarding experience, encouraging problem-solving skills, logical thinking, and creativity among young minds. Through a kid-friendly Python tutorial, children can gain a strong foundation in coding, setting the stage for further exploration in computer science and technology.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -44,15 +46,15 @@ A Python tutorial for kids is designed to introduce young learners to the world 
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Android Development Associate](https://www.linkedin.com/pulse/android-development-associate-justacademy-sunnyvale-sitbf/)
+[Javascript 101](https://www.linkedin.com/pulse/javascript-101-software-training-sunnyvale-hbi3c?trackingId=GaEdSNyTKRTIcN%2FXULOlEg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BuOGAPcWcQnScqXWa77%2Fzaw%3D%3D)
 
-[Android Studio Full Course](https://www.linkedin.com/pulse/android-studio-full-course-software-training-sunnyvale-ml7rf/)
+[Angular And Node Js](https://www.linkedin.com/pulse/angular-node-js-justacademy-coimbatore-fqqnc?trackingId=pd%2Fdz71NjpFRw5dUUvLnFA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BzebO8%2FdlQdOp%2FzsKprgh%2FA%3D%3D)
 
-[Sap Abap Course Free](https://medium.com/@roneet705/sap-abap-course-free-a5c6111e8c31)
+[Associate Android Developer Certification Cost](https://medium.com/@pzade254/associate-android-developer-certification-cost-dbdad420aae8)
 
-[Best Full Stack Developer Course Institute](https://medium.com/@justacademytraining/best-full-stack-developer-course-institute-e1df1b70941d)
+[Project Management Online](https://medium.com/@prempja40/project-management-online-534707dd7a0d)
 
-[Best Html5 Course](https://justacademyin.github.io/justacademy/best-html5-course)
+[Full Stack Php Developer](https://justacademyin.github.io/Articles/Full-Stack-Php-Developer)
 
-[Php Programming Training](https://justacademyin.github.io/justacademy/php-programming-training)
+[Azure Docker Kubernetes Tutorial](https://justacademyin.github.io/justacademy/azure-docker-kubernetes-tutorial)
 

@@ -5,6 +5,8 @@
     <img src="https://justacademy.co/storage2/course_image/1709713400_course_image.webp" alt="Where To Practice Python">
   </a>
 </p>
+##Where To Practice Python
+
 For those looking to practice Python, a variety of online platforms offer interactive exercises catering to all skill levels. Websites like LeetCode, HackerRank, and Codewars present challenges ranging from beginner to advanced, allowing users to hone their coding skills through problem-solving. Additionally, platforms such as Codecademy and Coursera provide structured courses with hands-on projects for a more guided learning experience. These resources not only offer an opportunity to practice Python in real-world scenarios but also to join a community of learners and professionals for feedback and support. Whether you're a novice seeking to learn the basics or an experienced developer looking to sharpen your skills, these platforms provide valuable resources to practice Python effectively.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -50,15 +52,15 @@ Each of these platforms offers something unique to learners, whether it's intera
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Java Training Institutes In Bangalore Koramangala](https://www.linkedin.com/pulse/java-training-institutes-bangalore-koramangala-justacademy-houston-wwfaf?trackingId=HPnf74x6K70TkPir%2BxA%2FgA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B5RzDF0CIQxuDMHcL3MgYhA%3D%3D)
+[Html And Css Online Course](https://www.linkedin.com/pulse/html-css-online-course-justacademy-boston-btspe?trackingId=SGI14hE2ksf%2FFH9m2RSZ%2Bw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BTbY8fN%2BZSiWS3%2FqQQu1Jtw%3D%3D)
 
-[Advanced Javascript Course](https://www.linkedin.com/pulse/advanced-javascript-course-justacademy-beangaluru-pjngc?trackingId=VhlOFGp%2FNhZip4UASulSJA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BnaEHpVmnQ1Kh9Nsd8yGz%2BA%3D%3D)
+[Learning Javascript For Beginners](https://www.linkedin.com/pulse/learning-javascript-beginners-justacademy-kolkata-4ukpe?trackingId=E8BEq5G3jO9U60BajSwBtA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BhsQsLwqxSU64UKgNHl%2FHuA%3D%3D)
 
-[Road Map To Learn Java](https://medium.com/@mistersumit961/road-map-to-learn-java-992348cffb2b)
+[Project Management Training Uk](https://medium.com/@kumarishimmi99/project-management-training-uk-8b8054a66bf3)
 
-[Java Training Institute In Saket Delhi](https://medium.com/@mistersumit961/java-training-institute-in-saket-delhi-d3b670b10ad2)
+[Android Development Course For Free](https://medium.com/@AkashSingh2052/android-development-course-for-free-c7bab2f4777d)
 
-[Core Php Course](https://justacademyin.github.io/justacademy/core-php-course)
+[Javascript Certifications](https://justacademyin.github.io/justacademy/javascript-certifications)
 
-[Jquery In Js](https://justacademyin.github.io/justacademy/jquery-in-js)
+[Free Digital Marketing Bootcamp](https://justacademyin.github.io/justacademy/free-digital-marketing-bootcamp)
 

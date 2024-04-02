@@ -5,6 +5,7 @@
     <img src="https://justacademy.co/storage2/course_image/1709713400_course_image.webp" alt="Best Site To Learn Python">
   </a>
 </p>
+##Best Site To Learn Python
 The best site to learn Python largely depends on one's learning style, but a frequently recommended and widely regarded platform is Codecademy. Codecademy offers interactive Python courses that cater to both beginners and experienced programmers, emphasizing hands-on learning through coding exercises. Its curriculum is designed to help learners grasp foundational concepts as well as advanced topics, making it a well-rounded choice for grasping Python. The lessons are structured to be engaging and accessible, which helps maintain motivation throughout the learning process. Furthermore, Codecademy's Python course is updated regularly to keep pace with the evolving language, ensuring learners are equipped with the latest knowledge and skills.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -40,15 +41,15 @@ Each of these platforms has its own strengths, and the best choice depends on yo
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Java Course In Bangalore](https://www.linkedin.com/pulse/java-course-bangalore-justacademy-chandigarh-9l1ie/)
+[Angular Or React For Net Developers](https://www.linkedin.com/pulse/angular-react-net-developers-justacademy-ahmedabad-dztlc?trackingId=JmSShXQUB5JS1IzJckY3Ww%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BG0jd%2Fn72TAC0suNcPZMgHQ%3D%3D)
 
-[Software Testing Course Bangalore](https://www.linkedin.com/pulse/software-testing-course-bangalore-justacademy-pune-dgo9c?trackingId=MgpSvgHwh1gqt1pICjF1hA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BURLYXo%2BCRPCij0ETJnelAQ%3D%3D)
+[Wp Class](https://www.linkedin.com/pulse/wp-class-justacademy-berlin-ylqmc/)
 
-[Free Full Stack Developer Course Online](https://medium.com/@akanshapatil/free-full-stack-developer-course-online-d9ecec3adb19)
+[Certified Software Tester](https://medium.com/@sagarawat89/certified-software-tester-d024e6136f9e)
 
-[Project Management Professional Bootcamp](https://medium.com/@justacademytraining/project-management-professional-bootcamp-f3252ef26b37)
+[Android App Development Certification Course](https://medium.com/@justacademytraining/android-app-development-certification-course-43071dfd216b)
 
-[Advanced Java Online Courses](https://justacademyin.github.io/justacademy/advanced-java-online-courses)
+[Photoshop For Photographers Course](https://justacademyin.github.io/justacademy/photoshop-for-photographers-course)
 
-[Best Java Training Institute](https://justacademyin.github.io/justacademy/best-java-training-institute)
+[Full Stack C# Developer](https://justacademyin.github.io/justacademy/full-stack-c#-developer)
 

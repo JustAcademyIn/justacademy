@@ -5,6 +5,8 @@
     <img src="https://justacademy.co/storage2/course_image/1677245426_course_image.webp" alt="Java And Core Java">
   </a>
 </p>
+##Java And Core Java
+
 Java is a high-level, class-based, object-oriented programming language designed to have as few implementation dependencies as possible. It is a general-purpose programming language that is designed to let application developers write once, run anywhere (WORA), meaning that compiled Java code can run on all platforms that support Java without the need to recompile. Core Java, on the other hand, refers to the subset of Java libraries and technologies that are used for building standard desktop applications. It serves as the foundation upon which other components of the Java ecosystem are built. Core Java encompasses fundamentals such as basic syntax, object-oriented programming (OOP) concepts, collections, exception handling, I/O streams, and networking. Core Java is typically used to refer to Java SE (Standard Edition), which provides the core functionality of the Java programming language.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -52,15 +54,15 @@ This comprehensive program is designed to provide students with a solid foundati
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Best Java Training Institutes In Hyderabad With Placements](https://www.linkedin.com/pulse/best-java-training-institutes-hyderabad-placements-plzyf?trackingId=tbPDHpXuXOFbVUsSArkZNQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BjwbjXdoOSmefqxJib%2FbqYQ%3D%3D)
+[Java Training Institutes In Dilsukhnagar](https://www.linkedin.com/pulse/java-training-institutes-dilsukhnagar-justacademy-san-jose-2stie?trackingId=ro7edhN19lZ04UPKvW9YEw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BEWeMkO%2BuSGSAlnCbMCSomw%3D%3D)
 
-[Personal Trainer Seo](https://www.linkedin.com/pulse/personal-trainer-seo-software-training-sunnyvale-r2o5c?trackingId=40mCIcNfJ9N46gRu1dO0Jg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BM5QnzWJERjun88GkJ%2BYkdw%3D%3D)
+[React Native Bootstrap](https://www.linkedin.com/pulse/react-native-bootstrap-justacademyderby-j2kfe?trackingId=PEdA7Iz0ExceuDDabAKOmQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BkRT1kc0YQHOTvx7WftmAwA%3D%3D)
 
-[Java J2ee Training Institutes In Ameerpet](https://medium.com/@prempja40/java-j2ee-training-institutes-in-ameerpet-8a9f25adcd02)
+[Advanced Flutter Tutorial](https://medium.com/@pzade254/advanced-flutter-tutorial-3fa81cbd866c)
 
-[Photoshop Composite Course](https://medium.com/@mistersumit961/photoshop-composite-course-f3527587d397)
+[Android Institute Near Me](https://medium.com/@prempja40/android-institute-near-me-7370545e54df)
 
-[Free Digital Marketing Bootcamp](https://justacademyin.github.io/justacademy/free-digital-marketing-bootcamp)
+[Professional Certificate In Coding: Full Stack Development With Mern](https://justacademyin.github.io/justacademy/professional-certificate-in-coding:-full-stack-development-with-mern)
 
-[Pcap Certification](https://justacademyin.github.io/justacademy/pcap-certification)
+[Learn To Code Javascript](https://justacademyin.github.io/Articles/Learn-To-Code-Javascript)
 

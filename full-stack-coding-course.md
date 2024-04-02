@@ -5,6 +5,7 @@
     <img src="https://justacademy.co/storage2/program_images/1704700371.webp" alt="Full Stack Coding Course">
   </a>
 </p>
+##Full Stack Coding Course
 A full stack coding course is a comprehensive training program designed to equip learners with a wide range of technical skills needed to build complete web applications, covering both front-end and back-end development. On the front end, participants learn to create the user interface and design the user experience using languages and frameworks like HTML, CSS, JavaScript, and libraries such as React or Angular. On the back end, the course delves into server, application, and database management, teaching students how to handle data, ensure security, and manage server-side logic using languages like Python, Ruby, Node.js, and databases like MySQL or MongoDB. Such courses often include learning version control with Git, deployment practices, and sometimes even auxiliary technologies like containerization with Docker and orchestration with Kubernetes. The goal is to prepare students to develop fully functional web applications from scratch and equip them with a versatile skill set that is highly sought after in the industry.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -50,15 +51,15 @@ Each of these points collectively forms a robust training program that aims to p
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Java Tutorialspoint](https://www.linkedin.com/pulse/java-tutorialspoint-justacademy-chennai-rmfre/)
+[React Js Language](https://www.linkedin.com/pulse/react-js-language-justacademy-coimbatore-lirbc?trackingId=CeR5jNoC6iBb3TyydpP0Ng%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BfmlpQlw4RxKd%2FcK9A3mwCQ%3D%3D)
 
-[Cloud Computing Learning Path](https://www.linkedin.com/pulse/cloud-computing-learning-path-justacademy-hyderabad-3icwc?trackingId=%2BZYvEthLNiQsWWNmcT%2BQ7A%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BGwbGgk3HRUy%2BuyASxv15%2BQ%3D%3D)
+[Laravel Daily Courses](https://www.linkedin.com/pulse/laravel-daily-courses-justacademy-beangaluru-sgzbc?trackingId=FkI%2B1mA8oat5R4%2F1L5p2eg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BBUakVGECTzaHeYDngAD9NQ%3D%3D)
 
-[Project Management In Uk](https://medium.com/@prempja40/project-management-in-uk-5983ecd01790)
+[Photoshop 2022 Essential Training](https://medium.com/@akanshapatil/photoshop-2022-essential-training-a6f3d2d07139)
 
-[Azure Devops Tutorial Step By Step](https://medium.com/@ranepooja/azure-devops-tutorial-step-by-step-69340f548dfa)
+[Android Mobile Application Development Training](https://medium.com/@pzade254/android-mobile-application-development-training-e891df5ca55e)
 
-[Full Stack Web Development Course Institute](https://justacademyin.github.io/justacademy/full-stack-web-development-course-institute)
+[Full Stack Developer Free Course With Certification](https://justacademyin.github.io/justacademy/full-stack-developer-free-course-with-certification)
 
-[Javascript Classes](https://justacademyin.github.io/justacademy/javascript-classes)
+[Az 900 Tutorial](https://justacademyin.github.io/justacademy/az-900-tutorial)
 

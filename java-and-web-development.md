@@ -5,6 +5,8 @@
     <img src="https://justacademy.co/storage2/course_image/1677245426_course_image.webp" alt="Java And Web Development">
   </a>
 </p>
+##Java And Web Development
+
 Java, a versatile and powerful programming language, plays a significant role in web development by enabling the creation of dynamic, scalable, and secure web applications. It operates on a write-once, run-anywhere principle, allowing developers to write code that can run on any device that supports Java, making it a popular choice for server-side technologies. In web development, Java is often employed to build large-scale, enterprise-level web applications through technologies such as JavaServer Pages (JSP), Servlets, and frameworks like Spring and Hibernate. These tools and frameworks aid in simplifying the development process, managing data effectively, and ensuring robust security features, ultimately facilitating the creation of feature-rich and high-performance websites and web applications.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -50,15 +52,15 @@ This comprehensive approach ensures not only theoretical understanding but pract
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Aws Website Hosting Tutorial](https://www.linkedin.com/pulse/aws-website-hosting-tutorial-software-training-mountain-view-1jiae?trackingId=mUsTDRN%2BB2p3PRzq73IA7Q%3D%3D&lipi=urn%3Ali%3Apage%3Aorganization_admin_admin_feed_index%3B396a4c81-0a90-47a5-ad5c-c37fd268bc2b)
+[Advanced Php Course Online Free](https://www.linkedin.com/pulse/advanced-php-course-online-free-justacademy-jaipur-bp8ae?trackingId=GuYwpleDL14bGWaiArcy%2Bw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B6gVpALX0TnilEAnvQeHuDw%3D%3D)
 
-[Cloud Computing In India](https://www.linkedin.com/pulse/cloud-computing-india-justacademy-belfast-oaine?trackingId=8R%2FtGDRgS7cC7iLAD33qrw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BZ5ESut9VQxyQx%2BjF%2F1FLaA%3D%3D)
+[Learn Php Backend](https://www.linkedin.com/pulse/learn-php-backend-justacademy-ahmedabad-gklae?trackingId=RgyvzPT7DEyEwQ1YDh34sg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BsgxkE5t4R9iHWE9515x%2Fgw%3D%3D)
 
-[Class In Photoshop](https://medium.com/@mahi3106/class-in-photoshop-3c903133f02a)
+[Java Training Institute In Madhapur Hyderabad](https://medium.com/@akanshapatil/java-training-institute-in-madhapur-hyderabad-46e591367eac)
 
-[Python Training In Bhubaneswar](https://medium.com/@AkashSingh2052/python-training-in-bhubaneswar-f753639685a9)
+[Best Way To Learn Figma](https://medium.com/@akanshapatil/best-way-to-learn-figma-75b28eaff91a)
 
-[Scrum Master Certification Vs Pmp](https://justacademyin.github.io/justacademy/scrum-master-certification-vs-pmp)
+[Software Testing Course In Noida](https://justacademyin.github.io/justacademy/software-testing-course-in-noida)
 
-[Learn Press](https://justacademyin.github.io/justacademy/learn-press)
+[Best Institute For Software Testing Course In India](https://justacademyin.github.io/justacademy/best-institute-for-software-testing-course-in-india)
 

@@ -5,6 +5,8 @@
     <img src="https://justacademy.co/storage2/course_image/1677245426_course_image.webp" alt="Java Html">
   </a>
 </p>
+##Java Html
+
 Java and HTML are distinct technologies often used together in web development to create dynamic and interactive web applications. Java, a versatile, object-oriented programming language, enables developers to write server-side applications, applets, and even Android apps. On the other hand, HTML (HyperText Markup Language) is the standard markup language for creating and structuring web pages. When Java is used in conjunction with HTML, typically through Java applets (less common today) or more prevalently through Java-based server-side technologies like JavaServer Pages (JSP) and servlets, developers can generate HTML dynamically. This integration allows for the creation of content-rich, interactive web pages where the server-side Java applications control the content, structure, and presentation of the HTML delivered to the client's browser. This powerful combination enables developers to build robust, scalable web applications that can handle complex processing while providing an engaging user experience.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -50,15 +52,15 @@ This structured approach to offering a training program on integrating Java with
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[What Is Mean Stack](https://www.linkedin.com/pulse/what-mean-stack-software-training-sunnyvale-qx1nc?trackingId=qUAl3zNKjGNQcsm70Zn7rg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bps8c9B%2FKRMCWHgOgNCOx7w%3D%3D)
+[Best Institute For SAP Mm](https://www.linkedin.com/pulse/best-instibest-institute-sap-mm-software-training-mountain-view-2ji6f/)
 
-[Azure File Storage Tutorial](https://www.linkedin.com/pulse/azure-file-storage-tutorial-justacademy-bay-area-xlwge?trackingId=JL79BjAdq%2FcH8D7QXmEzIQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BVfd8WVt8TwCvR4GLG%2BU4Hg%3D%3D)
+[Flutter Developer Course Fees](https://www.linkedin.com/pulse/flutter-developer-course-fees-justacademy-thane-7b2uc/)
 
-[Alteryx](https://medium.com/@ranemanish460/alteryx-55644cf70749)
+[Python Course Fees In Bangalore](https://medium.com/@justacademytraining/python-course-fees-in-bangalore-f873711e6a29)
 
-[Salesforce Developer In Hindi](https://medium.com/@justacademytraining/salesforce-developer-in-hindi-de025242c653)
+[Full Stack Android Development Course](https://medium.com/@ranepooja/full-stack-android-development-course-f95ce00f24ec)
 
-[SAP MM Module Training](https://justacademyin.github.io/Articles/SAP-MM-Module-Training)
+[Cloud Computing Azure Microsoft](https://justacademyin.github.io/justacademy/cloud-computing-azure-microsoft)
 
-[Php Training Courses London](https://justacademyin.github.io/justacademy/php-training-courses-london)
+[Python Price](https://justacademyin.github.io/justacademy/python-price)
 

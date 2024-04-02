@@ -5,6 +5,7 @@
     <img src="https://justacademy.co/storage2/course_image/1709713400_course_image.webp" alt="Python Crash Course Third Edition">
   </a>
 </p>
+##Python Crash Course Third Edition
 "Python Crash Course, Third Edition," authored by Eric Matthes, is an updated and meticulous guide designed for beginners aspiring to learn Python programming. This edition, reflecting the latest in Python advancements, continues to maintain its reputation for being an engaging, hands-on introduction to Python. It covers the fundamentals of programming with Python, including variables, lists, classes, and loops, before venturing into more complex topics like data visualization, file handling, and web applications development with Django. The book is structured to offer a practical approach to learning with exercises, projects, and real-world examples that equip readers with the skills to build their projects. Its layout is crafted to cater to both hobbyists and professionals looking to solidify their programming foundation, making "Python Crash Course, Third Edition" a comprehensive resource for newcomers to Python.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -52,15 +53,15 @@ Offering a training program based on the "Python Crash Course, 3rd Edition" can 
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Salesforce Administrator Classes](https://www.linkedin.com/pulse/salesforce-administrator-classes-justacademy-ejkac?trackingId=2BdfqwFNyyQNFvmWeLFgEQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B1%2Fxl0s9nR82%2ByDHotTO0eg%3D%3D)
+[SAP Mm Training In Noida](https://www.linkedin.com/pulse/sap-mm-training-noida-justacademy-bay-area-tup5f/)
 
-[Pmp Training](https://www.linkedin.com/pulse/pmp-training-justacademy-hyderabad-fojuc?trackingId=elmvylQ%2BXz8VJYsBgNS29w%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BHOARzOn6RjSLHiGUJj0uqA%3D%3D)
+[Php Advanced Oop](https://www.linkedin.com/pulse/php-advanced-oop-justacademy-7d2vc?trackingId=SuouZz4PUiA2xDhCe%2B9XHg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BxUP8vDI1SK6JTwycAY2syQ%3D%3D)
 
-[Alteryx Tableau](https://medium.com/@ranepooja/alteryx-tableau-6ed5180342f0)
+[Full Stack Developer Course Tutorial](https://medium.com/@akanshapatil/full-stack-developer-course-tutorial-2222453d6cf2)
 
-[Azure Logic Apps Tutorial](https://medium.com/@mistersumit961/azure-logic-apps-tutorial-152b93dbbcc8)
+[Illustrator Free Course](https://medium.com/@akanshapatil/illustrator-free-course-3abc168bfd57)
 
-[Java Full Stack Developer Course Online](https://justacademyin.github.io/justacademy/java-full-stack-developer-course-online)
+[Aws Web Hosting Tutorial](https://justacademyin.github.io/justacademy/aws-web-hosting-tutorial)
 
-[Free Online Android Development Course](https://justacademyin.github.io/justacademy/free-online-android-development-course)
+[Intro Course](https://justacademyin.github.io/justacademy/intro-course)
 

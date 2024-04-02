@@ -5,6 +5,8 @@
     <img src="https://justacademy.co/storage2/course_image/1709713400_course_image.webp" alt="Selenium With Python Course">
   </a>
 </p>
+##Selenium With Python Course
+
 A Selenium with Python course is designed to teach participants how to automate web browser interactions seamlessly using Selenium, a powerful tool for controlling web browsers through programs, in combination with Python, a popular and easy-to-learn programming language. This course covers fundamental concepts such as setting up Selenium with the Python programming environment, understanding web elements, learning how to locate them using different strategies, and manipulating these elements for tasks like form submission, web scraping, and browser automation for testing web applications. Participants will learn through a series of practical examples, hands-on exercises, and real-world scenarios, enabling them to develop robust automated tests for web applications, improve testing frameworks, and understand how to integrate Selenium tests into existing development workflows. The course is suitable for anyone interested in web development, testing, or automation, from beginners to experienced programmers looking to expand their skill set.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -52,15 +54,15 @@ This comprehensive course structure is designed to equip students with the knowl
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Best Site To Learn Javascript](https://www.linkedin.com/pulse/best-site-learn-javascript-justacademy-hyderabad-5rqyc?trackingId=2s0c4%2FrefOhLs%2BwwuoMbng%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BepomL552S36dZH34vwpA2w%3D%3D)
+[Php For Beginners](https://www.linkedin.com/pulse/php-beginners-justacademy-jaipur-lkrhe?trackingId=hDMkVCl%2FYXTgxxezHeB%2B4w%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B6gVpALX0TnilEAnvQeHuDw%3D%3D)
 
-[Learn Mern Stack](https://www.linkedin.com/pulse/learn-mern-stack-justacademy-beangaluru-m5boc/)
+[Azure IAAS Products](https://www.linkedin.com/pulse/azure-iaas-products-software-training-sunnyvale-itejc?trackingId=SNflJzLMTQESuBe6UuXsXw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B%2BhR3vy1dRIi%2FxP7UWLS2ww%3D%3D)
 
-[Pmp Training Requirements](https://medium.com/@mahi3106/pmp-training-requirements-3d43175e52e0)
+[Where To Practice Python](https://medium.com/@mahi3106/where-to-practice-python-6eacd8881695)
 
-[Azure Iot Hub Tutorial](https://medium.com/@mistersumit961/azure-iot-hub-tutorial-ee945f2b5f33)
+[Best Java Training Institute In Kolkata With Placement](https://medium.com/@kamblerajas684/best-java-training-institute-in-kolkata-with-placement-97b47999f208)
 
-[Js For Beginners](https://justacademyin.github.io/justacademy/js-for-beginners)
+[Software Testing Course In Bhubaneswar](https://justacademyin.github.io/justacademy/software-testing-course-in-bhubaneswar)
 
-[Software Development Certificate Programs](https://justacademyin.github.io/justacademy/software-development-certificate-programs)
+[Flutter Install](https://justacademyin.github.io/Articles/Flutter-Install)
 

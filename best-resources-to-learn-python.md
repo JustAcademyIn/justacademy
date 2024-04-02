@@ -5,6 +5,8 @@
     <img src="https://justacademy.co/storage2/course_image/1709713400_course_image.webp" alt="Best Resources To Learn Python">
   </a>
 </p>
+##Best Resources To Learn Python
+
 For those eager to learn Python, a plethora of resources are available that cater to learners of all levels, from beginners to advanced programmers. One of the best ways to start is with the comprehensive and interactive tutorials available on websites like Codecademy and Coursera, which offer extensive Python courses, including real-life projects and exercises. The official Python website also hosts a wealth of documentation, tutorials, and resources that are invaluable for learners. For a more in-depth understanding, books like "Python Crash Course" by Eric Matthes and "Automate the Boring Stuff with Python" by Al Sweigart provide step-by-step guides for beginners, blending theory with practical exercises. Video tutorials and courses on platforms like Udemy and YouTube channels, such as Corey Schafer’s Python series, offer visual and auditory learners a chance to watch coding in action, making complex concepts easier to digest. Engaging with the Python community through forums like Stack Overflow and Reddit’s r/learnpython can provide support, tips, and additional resources, making the learning process interactive and collaborative.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -46,15 +48,15 @@ Each of these resources brings something unique to the table, catering to differ
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Salesforce Admin Free Course](https://www.linkedin.com/pulse/salesforce-admin-free-course-justacademy-beangaluru-fkm6c?trackingId=YqcyaaHwf%2F%2BYZOHD8pxo8Q%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bhb2UV31rSJSFfTYND6hNBw%3D%3D)
+[Stack Node](https://www.linkedin.com/pulse/stack-node-justacademy-chandigarh-wuzfc?trackingId=bt5TsE7HaXVO8pNEtgEHcg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BGsnT7fdrREqkLqUmImc0GQ%3D%3D)
 
-[Best Pmp Certification Chennai](https://www.linkedin.com/pulse/best-pmp-certification-chennai-justacademy-beangaluru-orrzc?trackingId=L8A%2FK0IJlSBtZUsFsaF7Bw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bx8y7hAo2S%2Fe2HLe3couk6g%3D%3D)
+[Learn Android Kotlin](https://www.linkedin.com/pulse/learn-android-kotlin-software-training-mountain-view-s92pf/)
 
-[Tableau Certification Course Free](https://medium.com/@akanshapatil/tableau-certification-course-free-5157425b7330)
+[Salesforce React Js](https://medium.com/@shivamja27/salesforce-react-js-8da495059722)
 
-[Free Android Training](https://medium.com/@namusn/free-android-training-4609aecde120)
+[Python Training In Mohali](https://medium.com/@AkashSingh2052/python-training-in-mohali-218b7df40f88)
 
-[Php Free Course With Certificate](https://justacademyin.github.io/justacademy/php-free-course-with-certificate)
+[Best Website For Php Learning](https://justacademyin.github.io/justacademy/best-website-for-php-learning)
 
-[SAP MM Courses In Pune](https://justacademyin.github.io/Articles/SAP-MM-Courses-In-Pune)
+[Python Oop Course](https://justacademyin.github.io/justacademy/python-oop-course)
 

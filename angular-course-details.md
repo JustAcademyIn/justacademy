@@ -5,6 +5,8 @@
     <img src="https://justacademy.co/storage2/course_image/1676637041_course_image.webp" alt="Angular Course Details">
   </a>
 </p>
+##Angular Course Details
+
 Angular is a popular open-source web application framework led by the Angular Team at Google and by a community of individuals and corporations. An Angular course typically covers fundamental to advanced concepts of developing dynamic, modern web applications using Angular. It starts with the basics of TypeScript, the core language for Angular development, and progresses through Angular's core concepts such as components, directives, modules, services, routing, and form handling. Additionally, the course delves into more advanced topics such as RxJS for reactive programming, state management strategies, performance optimization, testing strategies with Jasmine and Protractor, and building progressive web apps (PWAs). Throughout the course, learners work on hands-on projects to apply the theoretical knowledge into practice, preparing them for real-world Angular development tasks. The course aims to equip participants with the skills needed to design and deploy sophisticated, scalable web applications efficiently.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -54,15 +56,15 @@ This angular training course is strategically designed to build a solid foundati
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Best Java Full Stack Developer Course](https://www.linkedin.com/pulse/best-java-full-stack-developer-course-justacademy-lvfgc?trackingId=3JFnV%2BVNcbIX1mjk2aU1cQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BKTN3ka3yQeC%2FJuvG1YVg3Q%3D%3D)
+[Free Online Html Course](https://www.linkedin.com/pulse/free-online-html-course-justacademy-kolkata-hm5bc?trackingId=1Tpb3StkrKrSjB8RPODJfw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3ByyeRPWoaTYWz7zA9HEB%2FBA%3D%3D)
 
-[Software Quality Testing Courses](https://www.linkedin.com/pulse/software-quality-testing-courses-justacademy-ahmedabad-sfkle?trackingId=yCjLO06YCIhYstmoaQeYdw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BBLvwE5WSQ1yNRcYM20AJ%2Fw%3D%3D)
+[Salesforce Virtual Training](https://www.linkedin.com/pulse/salesforce-virtual-training-software-training-mountain-view-wnybe?trackingId=g62xcOyQzhMx8wKkqteqWg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BbQ9qZFjkRLyS67kyvPtamg%3D%3D)
 
-[Java Programming Training Institutes In Bangalore](https://medium.com/@mistersumit961/java-programming-training-institutes-in-bangalore-1483fc6777df)
+[Best Website To Learn Photoshop](https://medium.com/@namusn/best-website-to-learn-photoshop-354ae5b515c6)
 
-[Pmp Training Requirements](https://medium.com/@mahi3106/pmp-training-requirements-3d43175e52e0)
+[Java Training Institute In Pune](https://medium.com/@negishivu99/java-training-institute-in-pune-8b78b3ca35b5)
 
-[Software Testing Courses Near Me](https://justacademyin.github.io/justacademy/software-testing-courses-near-me)
+[Javascript Full Stack Tutorial](https://justacademyin.github.io/Articles/Javascript-Full-Stack-Tutorial)
 
-[Python For Finance Course](https://justacademyin.github.io/justacademy/python-for-finance-course)
+[Angular Or React For Net Developers](https://justacademyin.github.io/justacademy/angular-or-react-for-net-developers)
 

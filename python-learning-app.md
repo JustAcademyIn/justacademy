@@ -5,6 +5,7 @@
     <img src="https://justacademy.co/storage2/course_image/1709713400_course_image.webp" alt="Python Learning App">
   </a>
 </p>
+##Python Learning App
 Python learning apps are interactive mobile or web-based applications designed to teach users how to code in Python, catering to various skill levels from beginners to more advanced learners. These apps often feature a combination of teaching methods, including step-by-step tutorials, coding challenges, quizzes, and sometimes even gamification elements to make the learning process more engaging. Users can learn the fundamentals of Python programming, such as syntax, data types, and control structures, as well as delve into more complex topics like web development, data analysis, and machine learning, depending on the app's range and depth. The goal of these apps is to provide a convenient and accessible way for individuals to learn and practice Python coding, often allowing users to write and execute code directly within the app. Many of these apps also offer community support, progress tracking, and personalized feedback to help learners stay motivated and overcome challenges as they advance through the lessons.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -46,15 +47,15 @@ A Python learning app that incorporates these features can provide a comprehensi
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Dot Net Training Online Free With Certification](https://www.linkedin.com/pulse/dot-net-training-online-free-certification-justacademy-sunnyvale-bhyjc?trackingId=vjYa%2FxWuz4GAgaZMLT5Cfg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bw3FaZuhqQImafpQ55o%2FftQ%3D%3D)
+[App Development Using Flutter Tutorial](https://www.linkedin.com/pulse/app-development-using-flutter-tutorial-justacademy-pune-leujc/)
 
-[Learning Php Mysql And Javascript](https://www.linkedin.com/pulse/learning-php-mysql-javascript-justacademy-pune-fg10c?trackingId=71WVHaGHisLWR9MZmApHkw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BRZJmynVWQvykIoY%2BYzCMXQ%3D%3D)
+[Javascript New](https://www.linkedin.com/pulse/javascript-new-software-training-mountain-view-ktkfe?trackingId=s5y4yZqQlubBEZYpkoa7hw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BRmRTtwAISLyMmFqcBdL04g%3D%3D)
 
-[Pmp Process](https://medium.com/@kumarishimmi99/pmp-process-ed4355f710e6)
+[Android Studio Full Course Free](https://medium.com/@mahi3106/android-studio-full-course-free-43b3b4da9201)
 
-[Sap Module Sd](https://medium.com/@shivamja27/sap-module-sd-7f9399b38f2e)
+[Beginner Project Management Certification](https://medium.com/@ranemanish460/beginner-project-management-certification-cd417354874d)
 
-[Azure Bicep Tutorial](https://justacademyin.github.io/justacademy/azure-bicep-tutorial)
+[Amazon Lex Tutorial](https://justacademyin.github.io/justacademy/amazon-lex-tutorial)
 
-[Devops And Cloud Computing Course](https://justacademyin.github.io/justacademy/devops-and-cloud-computing-course)
+[Full Stack Blockchain Developer](https://justacademyin.github.io/justacademy/full-stack-blockchain-developer)
 

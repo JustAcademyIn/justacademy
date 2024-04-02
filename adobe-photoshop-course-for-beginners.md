@@ -5,6 +5,8 @@
     <img src="https://justacademy.co/storage2/course_image/1676637576_course_image.webp" alt="Adobe Photoshop Course For Beginners">
   </a>
 </p>
+##Adobe Photoshop Course For Beginners
+
 An Adobe Photoshop course for beginners is designed to introduce new users to the fundamentals of Adobe Photoshop, a powerful image editing software widely used by professionals in photography, graphic design, and digital art. This course typically covers the basics of the Photoshop interface, essential tools, layers, and techniques for photo editing, manipulation, and retouching. Beginners learn through a mix of theoretical explanations and practical exercises to develop a solid understanding of the software's capabilities. By the end of the course, students are expected to be equipped with the skills needed to perform basic image editing tasks, create simple designs, and feel confident exploring more advanced features of Photoshop on their own.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -52,15 +54,15 @@ This structure provides a roadmap for a comprehensive beginner-level course in A
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Wordpress Introduction](https://www.linkedin.com/pulse/wordpress-introduction-justacademy-berlin-noa5c/)
+[Javascript Certification](https://www.linkedin.com/pulse/javascript-certification-justacademy-jaipur-16x3c?trackingId=zSE0Yhi3N53NhFB1WXdNjQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BAVJRhwTBSMSM%2FVRCHlBI2Q%3D%3D)
 
-[Java Vs Javascript](https://www.linkedin.com/pulse/java-vs-javascript-justacademy-thane-emexc/)
+[Java Training Institute In Noida Delhi Ncr Javatpoint](https://www.linkedin.com/pulse/java-training-institute-noida-delhi-ncr-javatpoint-wlxac?trackingId=1rI7sD5ceb%2B3Z8tybqyu1g%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BA1nZ1nP9T4epQeiwVmNY3A%3D%3D)
 
-[Python Course Fees In Indore](https://medium.com/@roneet705/python-course-fees-in-indore-98b01498a3a7)
+[Figma Learning](https://medium.com/@ranepooja/figma-learning-81f6fb918fee)
 
-[Python Training In Calicut](https://medium.com/@AkashSingh2052/python-training-in-calicut-c86e9ea13c1b)
+[Figma Ux Design](https://medium.com/@ranepooja/figma-ux-design-2a00db9b0153)
 
-[Short Stack Vs Full Stack](https://justacademyin.github.io/justacademy/short-stack-vs-full-stack)
+[Full Stack Development Course Online](https://justacademyin.github.io/justacademy/full-stack-development-course-online)
 
-[Best Course For Full Stack Developer](https://justacademyin.github.io/justacademy/best-course-for-full-stack-developer)
+[Cloud Computing Training Institute In Delhi Ncr](https://justacademyin.github.io/justacademy/cloud-computing-training-institute-in-delhi-ncr)
 

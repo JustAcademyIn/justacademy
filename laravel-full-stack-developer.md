@@ -5,6 +5,7 @@
     <img src="https://justacademy.co/storage2/program_images/1704700371.webp" alt="Laravel Full Stack Developer">
   </a>
 </p>
+##Laravel Full Stack Developer
 A Laravel full stack developer is a software engineer specialized in using the Laravel framework for both backend and frontend web development, thereby covering the full stack of technology layers required to create comprehensive web applications. Laravel, a robust and elegant PHP framework, facilitates developers with tools and resources to build sophisticated web applications efficiently. The full stack developer leveraging Laravel is skilled in handling all aspects of web development, from managing databases, server-side logic, and application integration (back-end) to dealing with the interface and user experience design (front-end). This professional typically has a good grasp of web technologies such as HTML, CSS, JavaScript, and PHP, along with experience in MVC architecture, ORM, and RESTful APIs, ensuring a seamless and scalable web application development process.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -56,15 +57,15 @@ This comprehensive training program will give students a solid foundation in Lar
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Digitalni Marketing](https://www.linkedin.com/pulse/digitalni-marketing-justacademy-cupertino-k7jec?trackingId=P50xn%2BSoUMai4tH1YG05%2BQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BzQv8YsYPTiCPDkVRvYwOog%3D%3D)
+[Best Java 8 Training Institutes In Bangalore](https://www.linkedin.com/pulse/best-java-8-training-institutes-bangalore-justacademy-san-jose-wmhsf?trackingId=mKPb%2FsMYe0wfFWz18kYdnQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BNvzTf3fnQO%2BVBqBGA8b0%2Bw%3D%3D)
 
-[Running Javascript](https://www.linkedin.com/pulse/running-javascript-justacademy-cupertino-aravc?trackingId=mub3ByB0PWvMG9HgxnlEEw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BnS5tGyG4QnikczaDjz%2F1LQ%3D%3D)
+[Basic Flutter Tutorial](https://www.linkedin.com/pulse/basic-flutter-tutorial-justacademy-pune-jaiic/)
 
-[Java Training Institute Mumbai Maharashtra](https://medium.com/@ranepooja/java-training-institute-mumbai-maharashtra-f051f060968e)
+[Python Language Classes Near Me](https://medium.com/@justacademytraining/python-language-classes-near-me-df28cf762114)
 
-[What Is Management Professional](https://medium.com/@prempja40/what-is-management-professional-021ab92575ba)
+[Complete Web Development Course Html Vue Js Php Mysql](https://medium.com/@ranemanish460/complete-web-development-course-html-vue-js-php-mysql-6dc2b83881be)
 
-[Best Free Php Course](https://justacademyin.github.io/justacademy/best-free-php-course)
+[Best Software Testing Institute In Delhi Ncr](https://justacademyin.github.io/justacademy/best-software-testing-institute-in-delhi-ncr)
 
-[Java Full Stack Web Development Tutorial](https://justacademyin.github.io/justacademy/java-full-stack-web-development-tutorial)
+[Best Site To Learn Html5](https://justacademyin.github.io/justacademy/best-site-to-learn-html5)
 

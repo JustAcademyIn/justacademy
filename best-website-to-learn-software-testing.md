@@ -5,6 +5,7 @@
     <img src="https://justacademy.co/storage2/program_images/1704700438.webp" alt="Best Website To Learn Software Testing">
   </a>
 </p>
+##Best Website To Learn Software Testing
 One of the best websites to learn software testing is "Guru99." This site offers a comprehensive learning experience for both beginners and advanced learners. Guru99 stands out due to its practical approach to learning, providing a wide variety of tutorials, articles, and videos on different aspects of software testing, including manual testing, automation testing, Selenium, QTP, and many more. What makes Guru99 particularly appealing is its commitment to offering free, high-quality education. The site's content is designed to be easy to understand and is updated regularly, keeping pace with the latest industry standards and technologies. Whether you're looking to understand the basics of software testing or dive into more complex topics like test management or test automation frameworks, Guru99 serves as an invaluable resource for acquiring the necessary skills and knowledge.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -49,15 +50,15 @@ These websites cater to a broad audience, from individuals starting their journe
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[React Bootstrap Tutorial](https://www.linkedin.com/pulse/react-bootstrap-tutorial-justacademy-k3oqc?trackingId=XYYIEl63fqbu9eiBQ1WuGA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BslXtfIHrQQueVkqQdxGVFw%3D%3D)
+[Android Development Training](https://www.linkedin.com/pulse/android-development-training-software-training-mountain-view-vffgf/)
 
-[Java Training Institutes In Ambattur](https://www.linkedin.com/pulse/java-training-institutes-ambattur-software-training-sunnyvale-76h4e?trackingId=mMj7m0276vOMyCNShtinFA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BPMbi7PJsSrOfOFf5jCv3gg%3D%3D)
+[Angular Dart Course](https://www.linkedin.com/pulse/angular-dart-course-justacademy-beangaluru-s2sbc?trackingId=YE3du0OwtnvzuC9nwSzpJw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BpD6q2VILS9qcBdXR1J94fw%3D%3D)
 
-[Flutter Learn Online](https://medium.com/@akanshapatil/flutter-learn-online-25ed0d008a7c)
+[Sap Sales And Distribution Module Training](https://medium.com/@ranepooja/sap-sales-and-distribution-module-training-1362086b34ff)
 
-[Photoshop Courses London](https://medium.com/@justacademytraining/photoshop-courses-london-66009f47b6fb)
+[Android Development Classes Near Me](https://medium.com/@kumarishimmi99/android-development-classes-near-me-453c493ed1dd)
 
-[Angular Js Node Js React Js](https://justacademyin.github.io/Articles/Angular-Js-Node-Js-React-Js)
+[Full Stack Python Tutorial](https://justacademyin.github.io/Articles/Full-Stack-Python-Tutorial)
 
-[Top Software Testing Course In Pune With Placement](https://justacademyin.github.io/justacademy/top-software-testing-course-in-pune-with-placement)
+[Javascript While](https://justacademyin.github.io/Articles/Javascript-While)
 

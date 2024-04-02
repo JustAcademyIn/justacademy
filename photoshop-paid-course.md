@@ -5,6 +5,8 @@
     <img src="https://justacademy.co/storage2/course_image/1676637576_course_image.webp" alt="Photoshop Paid Course">
   </a>
 </p>
+##Photoshop Paid Course
+
 Photoshop paid courses are professional education programs designed to comprehensively teach Adobe Photoshop, a leading image editing and graphic design software. These courses often range from beginner to advanced levels, covering a wide array of topics such as photo editing, retouching, color correction, compositing, and digital art creation. Paid courses usually offer a more structured learning path compared to free resources, with detailed tutorials, hands-on projects, and sometimes personal feedback from instructors. They are tailored for individuals looking to gain in-depth knowledge and skills, potentially for career advancement in fields like photography, graphic design, digital marketing, and visual arts. These courses are offered by various platforms, including Adobe’s own training services, online education platforms like Udemy and Coursera, and specialized design institutes, providing certificates upon completion to validate the learner's proficiency.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -52,15 +54,15 @@ This comprehensive approach not only equips students with the technical skills n
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Sales Force Management Training](https://www.linkedin.com/pulse/sales-force-management-training-justacademy-kolkata-cs33e?trackingId=qFCDJ%2Fb8sjCjh4pIbVLw4w%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bul7GTKO7ThmTI9oLPnZkzg%3D%3D)
+[Sap S 4 Hana Training](https://www.linkedin.com/pulse/sap-4-hana-training-software-training-mountain-view-970ic/)
 
-[Aws Training Tutorial](https://www.linkedin.com/pulse/aws-training-tutorial-software-training-mountain-view-u5nqe?trackingId=%2BUn2FjRShC2Gnh3JeHrGnQ%3D%3D&lipi=urn%3Ali%3Apage%3Aorganization_admin_admin_feed_index%3B396a4c81-0a90-47a5-ad5c-c37fd268bc2b)
+[Cloud Computing Classes In Pune](https://www.linkedin.com/pulse/cloud-computing-classes-pune-justacademy-delhi-zqovc?trackingId=0nKMMP8FFO9f3lBTWIEY%2FQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BCQZL415sSKua%2B2WOwIB%2Fog%3D%3D)
 
-[Why Is Software Testing Important](https://medium.com/@kumarishimmi99/why-is-software-testing-important-dc86dc68adf4)
+[Illustrator Guide](https://medium.com/@ranepooja/illustrator-guide-9b4b8da4d9be)
 
-[Adobe Wsq Photoshop Course](https://medium.com/@mistersumit961/adobe-wsq-photoshop-course-9fed831a587c)
+[Project Management Certification For Beginners](https://medium.com/@justacademytraining/project-management-certification-for-beginners-da852fc0ceb1)
 
-[Future Of Software Testing](https://justacademyin.github.io/justacademy/future-of-software-testing)
+[Full Stack Developer Institute Near Me](https://justacademyin.github.io/justacademy/full-stack-developer-institute-near-me)
 
-[Python Professional Certification](https://justacademyin.github.io/justacademy/python-professional-certification)
+[Complete Php Course](https://justacademyin.github.io/justacademy/complete-php-course)
 

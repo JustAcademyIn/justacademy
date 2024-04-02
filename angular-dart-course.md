@@ -5,6 +5,8 @@
     <img src="https://justacademy.co/storage2/course_image/1676637041_course_image.webp" alt="Angular Dart Course">
   </a>
 </p>
+##Angular Dart Course
+
 The AngularDart course is tailored to teach developers how to build web applications using the Angular framework specifically with the Dart programming language. Angular, known for its ability to facilitate the construction of dynamic, single-page web apps, is adapted here to work seamlessly with Dart, a modern object-oriented language developed by Google that focuses on productivity and performance. This course usually covers the fundamental concepts of Angular such as components, directives, and services, while also diving deep into Dart-specific features like strong typing, libraries, and its rich ecosystem. Through a combination of theoretical lessons and practical exercises, participants learn to create robust, efficient web applications. The course is ideal for developers looking to leverage the power of Angular with the unique capabilities of Dart, offering a comprehensive learning journey from basic structures to advanced application design and optimization techniques.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -52,15 +54,15 @@ This curriculum is designed to take students from having little or no knowledge 
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Best Training Institutes In Hyderabad For Java](https://www.linkedin.com/pulse/best-training-institutes-hyderabad-java-justacademy-san-jose-smgaf?trackingId=fvbWHGEZb7y8T6sRut5nAg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BfImeOsNpR2eB0vaAt1OrTg%3D%3D)
+[Salesforce Training India](https://www.linkedin.com/pulse/salesforce-training-india-justacademy-san-jose-ecytf?trackingId=d4gwVsEap5XAzamNrt7g4w%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BfKLFXm%2FbTECg8F%2B%2F6%2BCWqA%3D%3D)
 
-[Best Training Institute For Java In Coimbatore](https://www.linkedin.com/pulse/best-training-institute-java-coimbatore-justacademy-san-jose-qvf1e?trackingId=ezo%2Fj%2Fl4ybuWYIUaBcTVfA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BEWeMkO%2BuSGSAlnCbMCSomw%3D%3D)
+[Best Institute For Software Testing In Indore](https://www.linkedin.com/pulse/best-institute-software-testing-indore-justacademy-qzm1c?trackingId=vawgFmPGuxjcszwXOutQqg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BkivWcGmHSBCkKNz13%2FsLDg%3D%3D)
 
-[Android Application Development Training](https://medium.com/@justacademytraining/android-application-development-training-ef5af7bab6e4)
+[Learn Html Full Course](https://medium.com/@negishivu99/learn-html-full-course-0f3fd704732c)
 
-[Best Free Python Course With Certificate](https://medium.com/@shivamja27/best-free-python-course-with-certificate-b443d538e2b9)
+[Alteryx Pricing](https://medium.com/@ranepooja/alteryx-pricing-2cca589eb4f3)
 
-[Javascript Basics For Beginners](https://justacademyin.github.io/justacademy/javascript-basics-for-beginners)
+[Laravel Tdd Course](https://justacademyin.github.io/justacademy/laravel-tdd-course)
 
-[Best Places To Learn Javascript](https://justacademyin.github.io/justacademy/best-places-to-learn-javascript)
+[Python Training In Noida](https://justacademyin.github.io/justacademy/python-training-in-noida)
 

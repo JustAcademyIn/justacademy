@@ -5,6 +5,7 @@
     <img src="https://justacademy.co/storage2/program_images/1704700371.webp" alt="Php Full Stack Developer Tutorial">
   </a>
 </p>
+##Php Full Stack Developer Tutorial
 A PHP full stack developer tutorial is a comprehensive guide designed to educate learners on both front-end and back-end web development technologies, with a focus on PHP, a popular server-side scripting language. Such tutorials typically cover HTML, CSS, and JavaScript for front-end development, providing the foundational skills to create user interfaces. For the back-end, they delve into PHP and often include database management using MySQL or similar systems. These tutorials aim to equip learners with the necessary skills to build dynamic websites and applications, from managing server requests and database interactions to integrating APIs and implementing security best practices. Emphasizing hands-on projects and real-world applications, a PHP full stack developer tutorial offers a pathway to mastering web development, enabling learners to design, develop, and deploy comprehensive web solutions.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -62,15 +63,15 @@ This curriculum aims to equip students with the necessary skills to become profi
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Sap Mm](https://www.linkedin.com/pulse/sap-mm-justacademy-pune-1dtkc?trackingId=touF9OlA4U2EUR9uSRu8kA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B29WLpZO4T7eqWsLqmXNgZw%3D%3D)
+[Java For Kids](https://www.linkedin.com/pulse/java-kids-justacademy-lfefc/)
 
-[Difference Between Cloud Computing And Fog Computing](https://www.linkedin.com/pulse/difference-between-cloud-computing-fog-justacademy-liverpool-ghogf?trackingId=2eFs3ccqArxagjQhzXOXDQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BwUUQsYTGTZy3zMvOP%2FpbFA%3D%3D)
+[Cloud Computing Course With Placement In Pune](https://www.linkedin.com/pulse/cloud-computing-course-placement-pune-justacademy-thane-ro8cc?trackingId=RItkq7BWXXJS%2F61wsqrTGg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BrywBFcmPR%2Fa2AS7mF8zFDQ%3D%3D)
 
-[Illustrator Classes Near Me](https://medium.com/@akanshapatil/illustrator-classes-near-me-a15d6400a049)
+[Best Website To Learn Python](https://medium.com/@surajvaishnav5015/best-website-to-learn-python-022f82f092c7)
 
-[Python Tutor Online](https://medium.com/@ranepooja/python-tutor-online-8ec95fc01522)
+[Java Training Institute In Anna Nagar](https://medium.com/@namusn/java-training-institute-in-anna-nagar-87d4f866fef7)
 
-[Beginning Javascript](https://justacademyin.github.io/justacademy/beginning-javascript)
+[Just Javascript](https://justacademyin.github.io/justacademy/just-javascript)
 
-[Best Software Testing Classes In Pune](https://justacademyin.github.io/justacademy/best-software-testing-classes-in-pune)
+[Free Digital Marketing Bootcamp](https://justacademyin.github.io/justacademy/free-digital-marketing-bootcamp)
 

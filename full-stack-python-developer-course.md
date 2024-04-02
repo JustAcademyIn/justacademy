@@ -5,6 +5,7 @@
     <img src="https://justacademy.co/storage2/program_images/1704700371.webp" alt="Full Stack Python Developer Course">
   </a>
 </p>
+##Full Stack Python Developer Course
 A Full Stack Python Developer course is a comprehensive training program aimed at equipping learners with the complete spectrum of skills needed to build end-to-end web applications using Python as the core programming language. This course typically covers front-end technologies like HTML, CSS, and JavaScript, emphasizing Python frameworks such as Flask or Django for backend development. It also delves into database management (with tools like SQLite or PostgreSQL), version control systems (such as Git), and deployment methodologies to ensure that students gain a holistic understanding of web development processes. Furthermore, participants learn about working within virtual environments, managing dependencies with pip, and utilizing RESTful APIs for seamless frontend and backend integration. By the end of the course, they are expected to have a well-rounded skill set that enables them to design, develop, and deploy full-stack web applications independently.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -46,15 +47,15 @@ This comprehensive Full Stack Python Developer course is designed to equip stude
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Laravel 9 Course](https://www.linkedin.com/pulse/laravel-9-course-justacademy-mumbai-zrmgc?trackingId=g3zSQ3LHBFvLn15jc0CQ9g%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_showcase_admin%3BrO72kZqIQGOMCosqCkrMnA%3D%3D)
+[Software Testing Course With Job Guarantee](https://www.linkedin.com/pulse/software-testing-course-job-guarantee-justacademy-ahmedabad-gon4e?trackingId=zyr384FoclOecIqr69nFIw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BsgxkE5t4R9iHWE9515x%2Fgw%3D%3D)
 
-[Azure Distributed Computing](https://www.linkedin.com/pulse/azure-distributed-computing-justacademy-mumbai-zqzsc?trackingId=ODN4dLsfWtk7uWt0d6EYpQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_showcase_admin%3B%2Fp6Xeq9yQHuq%2BIOH7VpqxQ%3D%3D)
+[Dot Net Course Fees](https://www.linkedin.com/pulse/dot-net-course-fees-justacademy-boston-orjkc?trackingId=bjrmoecjh0hoyLu771Egjw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BA1nZ1nP9T4epQeiwVmNY3A%3D%3D)
 
-[Java Programming Syllabus](https://medium.com/@akanshapatil/java-programming-syllabus-7f733546d556)
+[Is Figma Easy To Learn](https://medium.com/@mahi3106/is-figma-easy-to-learn-7572fb0f6840)
 
-[Html Learning Course](https://medium.com/@mahi3106/html-learning-course-036eab88d30e)
+[Sap Abap Free Course](https://medium.com/@prempja40/sap-abap-free-course-5fbf9b0f2160)
 
-[Stack Learner Javascript](https://justacademyin.github.io/Articles/Stack-Learner-Javascript)
+[Full Stack Developer Online Course With Placement](https://justacademyin.github.io/justacademy/full-stack-developer-online-course-with-placement)
 
-[Simple Javascript](https://justacademyin.github.io/justacademy/simple-javascript)
+[Js Tutorial](https://justacademyin.github.io/Articles/Js-Tutorial)
 

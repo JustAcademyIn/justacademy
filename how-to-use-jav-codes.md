@@ -5,6 +5,8 @@
     <img src="https://justacademy.co/storage2/course_image/1677245426_course_image.webp" alt="How To Use Jav Codes">
   </a>
 </p>
+##How To Use Jav Codes
+
 Using Java code efficiently involves understanding its basic structure, which includes classes, methods, and statements. First, ensure you have the Java Development Kit (JDK) installed on your computer. Begin by creating a class, which acts as a blueprint for your objects, using the class keyword followed by the class name. Within this class, you can define methods, such as the main method (`public static void main(String[] args)`), which serves as the entry point for your program. Within these methods, you write statements to perform operations, like printing text to the console using `System.out.println("Your text here");`. Remember to adhere to Java's syntax rules, such as ending statements with a semicolon, and using braces `{}` to define the scope of classes and methods. Compile your code using a Java compiler (e.g., by typing `javac YourClassName.java` in your command line), and run it using the Java interpreter (e.g., `java YourClassName`). Experimenting with different Java constructs and libraries will help you grasp how to use Java codes more effectively.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -52,15 +54,15 @@ By following these steps, you can create a comprehensive and engaging training p
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Android App Development Institute](https://www.linkedin.com/pulse/android-app-development-institute-justacademy-bay-area-gyvof/)
+[Advanced Java Training Institutes In Kukatpally](https://www.linkedin.com/pulse/advanced-java-training-institutes-kukatpally-justacademy-houston-pcj8f?trackingId=fEtN243qBrEnmXEHJqXL8g%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BoeW%2FtgxJQVmhV5nxk7B2LA%3D%3D)
 
-[Microsoft Azure Operating System](https://www.linkedin.com/pulse/microsoft-azure-operating-system-justacademy-delhi-u1ytc?trackingId=ejputy0NQ6MXUynHT9jUZw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BiK8uaYXISG24DaU4tVx5cA%3D%3D)
+[What Is Java Full Stack Developer](https://www.linkedin.com/pulse/what-java-full-stack-developer-justacademy-thane-i42xc?trackingId=XwSZKgNSyHr%2FmfaC3Hyz9Q%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BtWGDFb3%2BTIWrNJLdiT%2FfMQ%3D%3D)
 
-[Html Google Course](https://medium.com/@mahi3106/html-google-course-3e67181c8c4a)
+[Sap S 4hana Course](https://medium.com/@kamblerajas684/sap-s-4hana-course-9883b75cc909)
 
-[Illustrator Online Course](https://medium.com/@roneet705/illustrator-online-course-3532407e1c04)
+[Advanced Java Programming Concepts](https://medium.com/@ranepooja/advanced-java-programming-concepts-4d60df5beb26)
 
-[Pmp Training In Mumbai](https://justacademyin.github.io/justacademy/pmp-training-in-mumbai)
+[Full Stack Web Development Course Free](https://justacademyin.github.io/justacademy/full-stack-web-development-course-free)
 
-[Full Stack Developer Remote](https://justacademyin.github.io/justacademy/full-stack-developer-remote)
+[Software Testing Course In Chinchwad](https://justacademyin.github.io/justacademy/software-testing-course-in-chinchwad)
 

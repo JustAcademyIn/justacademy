@@ -5,6 +5,8 @@
     <img src="https://justacademy.co/storage2/course_image/1676637041_course_image.webp" alt="Angular Dart">
   </a>
 </p>
+##Angular Dart
+
 AngularDart is a web application framework developed by Google, designed specifically for creating high-quality, high-performance applications in the Dart programming language. It inherits the core principles of the Angular framework, which is widely known for its powerful features in building dynamic and complex single-page applications (SPAs). AngularDart leverages Dart's features like strong typing, object orientation, and the Dart VM's optimizations to provide a streamlined development experience with efficient execution. The framework emphasizes components, directives, and services that allow developers to build scalable and maintainable web apps with rich, interactive user interfaces. AngularDart is utilized internally at Google for several significant projects and offers a cohesive ecosystem with tools and libraries for developing robust web applications.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -52,15 +54,15 @@ This comprehensive training program aims to equip students with the knowledge an
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[D3 Javascript](https://www.linkedin.com/pulse/d3-javascript-justacademy-chennai-6b2pc?trackingId=APsPz4rQ3I7NgneeYr%2FhtA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BjPw0ei4cQfe0InHd%2FK206Q%3D%3D)
+[Google Machine Learning Certification Free](https://www.linkedin.com/pulse/google-machine-learning-certification-free-justacademy-houston-ldnkf?trackingId=ozdyUmrV%2ByGdf44UqDu3vQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B7JDWY034S6um4RLOpjnAgA%3D%3D)
 
-[Sap S 4 Hana Course Fees](https://www.linkedin.com/pulse/sap-4-hana-course-fees-justacademy-sunnyvale-ufapc/)
+[Javascript Topics](https://www.linkedin.com/pulse/javascript-topics-software-training-mountain-view-p5nle?trackingId=aH4bVsCRaCk15WIGCSCryw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Buc3eZLF6QYysxJ31cjrhRA%3D%3D)
 
-[Sap Bw Abap Training](https://medium.com/@surajvaishnav5015/sap-bw-abap-training-f7a5b075c670)
+[Android App Training Institute](https://medium.com/@prempja40/android-app-training-institute-7e15a35d1fdc)
 
-[Best Institute For Full Stack Developer With Placement](https://medium.com/@justacademytraining/best-institute-for-full-stack-developer-with-placement-7c73a3eb5c3b)
+[Photoshop Accredited Courses](https://medium.com/@kumarishimmi99/photoshop-accredited-courses-4641321cb91d)
 
-[Top Software Testing Course In Pune With Placement](https://justacademyin.github.io/justacademy/top-software-testing-course-in-pune-with-placement)
+[Cloud Computing Courses Fees In Pune](https://justacademyin.github.io/justacademy/cloud-computing-courses-fees-in-pune)
 
-[Digitalni Marketing](https://justacademyin.github.io/Articles/Digitalni-Marketing)
+[Html And Css Course Free](https://justacademyin.github.io/justacademy/html-and-css-course-free)
 

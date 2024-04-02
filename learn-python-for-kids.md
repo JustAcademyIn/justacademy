@@ -5,6 +5,8 @@
     <img src="https://justacademy.co/storage2/course_image/1709713400_course_image.webp" alt="Learn Python For Kids">
   </a>
 </p>
+##Learn Python For Kids
+
 Learning Python for kids is designed to introduce young minds to programming in an engaging and accessible way. Python, known for its simplicity and readability, is an excellent first programming language for children. Through interactive lessons, games, and creative projects, kids can grasp the fundamentals of Python, including variables, loops, conditional statements, and basic data structures. The curriculum typically focuses on developing logical thinking and problem-solving skills while encouraging creativity and innovation. By working on real-life projects, such as simple games, animations, or web applications, children not only learn to code but also understand how programming can be applied in the real world. The goal is to make learning Python fun and exciting, inspiring the next generation of technology enthusiasts and innovators.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -48,15 +50,15 @@ The Learn Python for Kids Training Program is designed to be an engaging, compre
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Best Java Training Institute In Dhaka](https://www.linkedin.com/pulse/best-java-training-institute-dhaka-justacademy-chennai-zyoee?trackingId=LaO3KsYe9ismex7%2BScXMVw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BKj9O4drgTv6a%2Fs28VD3x9A%3D%3D)
+[Machine Learning Python For Beginners](https://www.linkedin.com/pulse/machine-learning-python-beginners-justacademy-bradford-ysy7e?trackingId=h59lW44zFfuW1HudFu3rag%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BU6qvup%2BkTG%2BWwu84oCWCCA%3D%3D)
 
-[Best Software Testing Training Institute In Delhi Ncr](https://www.linkedin.com/pulse/best-software-testing-training-institute-delhi-9tqhc?trackingId=4xUimUZweCm7TnQzvtT6vg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BV3sjVNqrQV6LT8YmMJxhFA%3D%3D)
+[Goals Of Cloud Computing](https://www.linkedin.com/pulse/goals-cloud-computing-software-training-sunnyvale-saw8c?trackingId=xGQSeW283ybHdQgsKWdkkg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BM5QnzWJERjun88GkJ%2BYkdw%3D%3D)
 
-[Best Java Training Institute In Tambaram](https://medium.com/@namusn/best-java-training-institute-in-tambaram-d8e5f783c512)
+[Project Management Foundations](https://medium.com/@kamblerajas684/project-management-foundations-11a3c44730c2)
 
-[Best Online Python Course With Certificate](https://medium.com/@surajvaishnav5015/best-online-python-course-with-certificate-ee3431d9d063)
+[Sap Abap Development For Hana](https://medium.com/@roneet705/sap-abap-development-for-hana-75c77596b434)
 
-[Sap Sd Training Institutes In Hyderabad](https://justacademyin.github.io/justacademy/sap-sd-training-institutes-in-hyderabad)
+[Introduction To Javascript](https://justacademyin.github.io/justacademy/introduction-to-javascript)
 
-[Php Developer Learning Path](https://justacademyin.github.io/justacademy/php-developer-learning-path)
+[C# Vs Java](https://justacademyin.github.io/justacademy/c#-vs-java)
 

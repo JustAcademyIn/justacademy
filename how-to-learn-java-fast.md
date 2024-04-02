@@ -5,6 +5,8 @@
     <img src="https://justacademy.co/storage2/course_image/1677245426_course_image.webp" alt="How To Learn Java Fast">
   </a>
 </p>
+##How To Learn Java Fast
+
 To learn Java quickly, immerse yourself in a structured and practical learning approach. Start with understanding the basics of object-oriented programming (OOP) concepts since Java is fundamentally OOP-based. Use reputable online resources or select a concise yet comprehensive Java programming book geared toward beginners to grasp syntax and core concepts. Consistently practice coding by working on small projects or problems on platforms like LeetCode or HackerRank, as hands-on experience is crucial for retention and understanding. Join forums or communities like Stack Overflow or Reddit’s learnjava to exchange knowledge and solve doubts. Lastly, set realistic goals and maintain a regular learning schedule, as consistent study and practice are key to mastering Java in a short period.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -50,15 +52,15 @@ By integrating these steps into a training program, students can learn Java effi
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Flutter Language](https://www.linkedin.com/pulse/flutter-language-justacademy-chennai-vixqc?trackingId=%2Fn6%2BRSnW%2F7d6xjJRIWqQQA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BjPw0ei4cQfe0InHd%2FK206Q%3D%3D)
+[Node Js Stack](https://www.linkedin.com/pulse/node-js-stack-justacademy-jaipur-fe0ze?trackingId=Fw5uPcCdswpGR%2FxMoflH8g%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BzoGgv%2F2GTOq26q6ITzj9KQ%3D%3D)
 
-[Flutter Developer Course Fees](https://www.linkedin.com/pulse/flutter-developer-course-fees-justacademy-thane-7b2uc/)
+[Laravel Tdd Course](https://www.linkedin.com/pulse/laravel-tdd-course-justacademy-chandigarh-m92te?trackingId=O2QVUdatrK9a1OBwIXapjw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BXEu5pmfJRhGyaD1FCv74Lw%3D%3D)
 
-[Sap S 4hana Certification Courses](https://medium.com/@ranemanish460/sap-s-4hana-certification-courses-a1ebf54294ac)
+[Python Course Fees In Hyderabad](https://medium.com/@ranemanish460/python-course-fees-in-hyderabad-44f598fca9d1)
 
-[Adobe Illustrator Classes](https://medium.com/@namusn/adobe-illustrator-classes-16bd3cd6d54a)
+[Sap S 4 Hana Online Training](https://medium.com/@ranemanish460/sap-s-4-hana-online-training-8cdafcb3c0f8)
 
-[Best Site To Learn Html5](https://justacademyin.github.io/justacademy/best-site-to-learn-html5)
+[Sap Hana Sd Training](https://justacademyin.github.io/justacademy/sap-hana-sd-training)
 
-[Software Testing Course In Nashik](https://justacademyin.github.io/justacademy/software-testing-course-in-nashik)
+[Complete Web Development Course Html Vue Js Php Mysql](https://justacademyin.github.io/justacademy/complete-web-development-course-html-vue-js-php-mysql)
 

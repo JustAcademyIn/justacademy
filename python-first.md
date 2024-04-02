@@ -5,6 +5,7 @@
     <img src="https://justacademy.co/storage2/course_image/1709713400_course_image.webp" alt="Python First">
   </a>
 </p>
+##Python First
 Python is a versatile and widely-used programming language known for its readability and straightforward syntax that mimics natural language. Created by Guido van Rossum and first released in 1991, Python supports multiple programming paradigms, including procedural, object-oriented, and functional programming. Its comprehensive standard library, dynamic type system, and automatic memory management facilitate rapid development for various applications, from web and software development to data analysis, machine learning, and scientific computing. Python’s expansive ecosystem of third-party packages, such as NumPy for numerical computations, Pandas for data manipulation, and TensorFlow for machine learning, further augment its capabilities, making it an invaluable tool for developers and researchers alike.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -58,15 +59,15 @@ Offering a Python training program entails covering these points to give student
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Pmp Certification Near Me](https://www.linkedin.com/pulse/pmp-certification-near-me-justacademy-pune-civbc?trackingId=Sae%2BBl4xpAdDqCYgaYFNRg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BGzpHiwsYRr22lJjP82PYtA%3D%3D)
+[Best Java Training Institute In Ghaziabad](https://www.linkedin.com/pulse/best-java-training-institute-ghaziabad-justacademy-boston-qfwbe?trackingId=m%2FJa%2B7d0IN%2BiPJlQE0yFyg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3ByHVlcoLQTcuBfUU9SYITnA%3D%3D)
 
-[Java Training Institutes In Pune Hadapsar](https://www.linkedin.com/pulse/java-training-institutes-pune-hadapsar-justacademy-las-vegas-qjgcf?trackingId=KLecLFadtbd88AeBQPZRDQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BSRVvZqxTRJ2BK3zMbr9wpQ%3D%3D)
+[Core Java Training Institutes In Ameerpet Hyderabad](https://www.linkedin.com/pulse/core-java-training-institutes-ameerpet-hyderabad-ovbke?trackingId=9MOTXaT%2BfEKG2NbCGxx6oQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BEWeMkO%2BuSGSAlnCbMCSomw%3D%3D)
 
-[Html5 Online Training](https://medium.com/@kumarishimmi99/html5-online-training-1981eeaf4926)
+[Semantic Html Course](https://medium.com/@namusn/semantic-html-course-1caedef86e5b)
 
-[Full Stack Web Development Course Free](https://medium.com/@prempja40/full-stack-web-development-course-free-cadc910a923f)
+[Java Full Stack Jobs](https://medium.com/@prempja40/java-full-stack-jobs-2c178cf35ac8)
 
-[Software Testing Courses For Beginners](https://justacademyin.github.io/justacademy/software-testing-courses-for-beginners)
+[Free Courses To Learn Photoshop](https://justacademyin.github.io/justacademy/free-courses-to-learn-photoshop)
 
-[Stream Classes In Java](https://justacademyin.github.io/justacademy/stream-classes-in-java)
+[Software Testing Courses For Freshers](https://justacademyin.github.io/justacademy/software-testing-courses-for-freshers)
 

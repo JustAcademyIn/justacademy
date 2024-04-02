@@ -5,6 +5,7 @@
     <img src="https://justacademy.co/storage2/program_images/1704700438.webp" alt="Top Software Testing Certifications">
   </a>
 </p>
+##Top Software Testing Certifications
 As of my last update in 2023, several top software testing certifications stand out for professionals looking to advance their careers and validate their testing expertise. The International Software Testing Qualifications Board (ISTQB) certifications are among the most recognized, offering foundational to advanced levels (CTFL, CTAL, and CTEL) that cover various aspects of software testing. Another prominent certification is the Certified Software Test Engineer (CSTE) offered by the Quality Assurance Institute (QAI), which emphasizes competence in principles of quality control in the IT profession. The Certified Software Quality Engineer (CSQE) by the American Society for Quality (ASQ) is also noteworthy, focusing on quality assurance and testing principles. Additionally, the International Institute for Software Testing (IIST) offers a comprehensive range of certifications tailored to modern testing methodologies and technologies. Each of these certifications aids testers in demonstrating their knowledge, skill set, and commitment to the field, making them highly sought after by employers in the technology sector.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -38,15 +39,15 @@ When choosing a training program for a software testing certification, it’s es
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Settimeout Javascript](https://www.linkedin.com/pulse/settimeout-javascript-justacademy-kolkata-skzre?trackingId=ohuHf5GgDg8mEaxhldM6HA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B57ggr4WVTUuBeEA%2FxPy55A%3D%3D)
+[Sap Hana Cloud Certification](https://www.linkedin.com/pulse/sap-hana-cloud-certification-software-training-sunnyvale-fjjpc/)
 
-[Java Course In Chennai](https://www.linkedin.com/pulse/java-course-chennai-justacademy-chandigarh-rlhze/)
+[Cloud Computing Services Microsoft Azure](https://www.linkedin.com/pulse/cloud-computing-services-microsoft-azure-justacademy-delhi-pbu1c?trackingId=1XwlTMKICCRzQDFUDXiZJA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BiK8uaYXISG24DaU4tVx5cA%3D%3D)
 
-[Basic Language Tutorial](https://medium.com/@prempja40/basic-language-tutorial-b5e30ea85867)
+[Photo Shop Training](https://medium.com/@roneet705/photo-shop-training-ce6247a85abd)
 
-[Flutter Basic To Advanced](https://medium.com/@AkashSingh2052/flutter-basic-to-advanced-44b5ca7033e2)
+[Python Training In Erode](https://medium.com/@AkashSingh2052/python-training-in-erode-daddfcb59411)
 
-[Best Advanced Java Training Institutes In Gurgaon](https://justacademyin.github.io/justacademy/best-advanced-java-training-institutes-in-gurgaon)
+[Learn Html Css Javascript Online](https://justacademyin.github.io/justacademy/learn-html-css-javascript-online)
 
-[Photoshop 101 Course](https://justacademyin.github.io/justacademy/photoshop-101-course)
+[Photo Shop Course](https://justacademyin.github.io/justacademy/photo-shop-course)
 

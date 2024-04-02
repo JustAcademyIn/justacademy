@@ -5,6 +5,8 @@
     <img src="https://justacademy.co/storage2/course_image/1677245426_course_image.webp" alt="Java For Geeks">
   </a>
 </p>
+##Java For Geeks
+
 Java, a powerhouse in the realm of programming languages, stands as a beacon for geeks who thrive on its versatility and efficiency. Born in the mid-90s, Java was designed with a "write once, run anywhere" (WORA) philosophy, enabling developers to create code that runs seamlessly across platforms without the need for recompilation. At its core, Java is an object-oriented language, fostering a paradigm where everything is treated as an object, thereby facilitating modular, flexible, and extensible code development. Its robust Standard Edition (Java SE) provides the foundational APIs, while the Enterprise Edition (Java EE) extends its capabilities for web and enterprise-level applications, and Java Micro Edition (Java ME) caters to the mobile and embedded device domain. Java's ecosystem is rich with powerful development tools like Eclipse and IntelliJ IDEA, comprehensive libraries, and a vast community, making it an enduring favorite among geeks for building everything from desktop software to large-scale distributed systems.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -50,15 +52,15 @@ This curriculum is designed to not only teach Java but to inspire a love for pro
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Mern Stack Full Form](https://www.linkedin.com/pulse/mern-stack-full-form-justacademy-chennai-gpeuc/)
+[Best Online Courses For Mobile App Development](https://www.linkedin.com/pulse/best-online-courses-mobile-app-development-justacademy-hyderabad-eu2gc?trackingId=Q2pj4QALwknx8WWhoKoumw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BepomL552S36dZH34vwpA2w%3D%3D)
 
-[Advanced Java Training Institute In Mumbai](https://www.linkedin.com/pulse/advanced-java-training-institute-mumbai-justacademy-pune-kvkbc?trackingId=%2BvwUNEHR56pbLLLQMtsBUg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BGzpHiwsYRr22lJjP82PYtA%3D%3D)
+[Free Android Course With Certificate](https://www.linkedin.com/pulse/free-android-course-certificate-justacademy-mumbai-4iwvc/)
 
-[Python Main Topics](https://medium.com/@prempja40/python-main-topics-4164ecaefe6b)
+[Abap Developer Training](https://medium.com/@justacademytraining/abap-developer-training-3de0dae7eb1a)
 
-[Sap Hana Training Online](https://medium.com/@surajvaishnav5015/sap-hana-training-online-0eabb2ce1188)
+[Tableau Training Near Me](https://medium.com/@prempja40/tableau-training-near-me-ec43ac5cd35e)
 
-[Best Training Institute In Delhi For Java](https://justacademyin.github.io/justacademy/best-training-institute-in-delhi-for-java)
+[Sap Bw Abap Training](https://justacademyin.github.io/justacademy/sap-bw-abap-training)
 
-[Java Testing Course](https://justacademyin.github.io/justacademy/java-testing-course)
+[Top 10 Software Testing Institutes In Pune](https://justacademyin.github.io/justacademy/top-10-software-testing-institutes-in-pune)
 

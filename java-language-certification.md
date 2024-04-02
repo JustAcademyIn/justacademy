@@ -5,6 +5,8 @@
     <img src="https://justacademy.co/storage2/course_image/1677245426_course_image.webp" alt="Java Language Certification">
   </a>
 </p>
+##Java Language Certification
+
 Java language certification typically consists of a series of exams designed to validate an individual's proficiency and expertise in using the Java programming language. Offered by various organizations, with Oracle being the most notable due to its ownership of Java, these certifications range from foundational levels, targeting beginners, to more advanced certifications for experienced Java developers. The certifications assess a candidate's ability to write, maintain, and troubleshoot Java code effectively according to industry standards and best practices. Achieving Java certification can enhance a professional's credibility, demonstrate their technical skills to employers, and potentially lead to career advancement opportunities. Each certification exam covers specific aspects of Java programming, such as Java SE (Standard Edition) for general-purpose programming, or Java EE (Enterprise Edition) for enterprise-level applications, requiring thorough preparation and understanding of the topics.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -42,15 +44,15 @@ By incorporating these elements into a Java language certification training prog
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Best Institute For Software Testing In Indore](https://www.linkedin.com/pulse/best-institute-software-testing-indore-justacademy-qzm1c?trackingId=vawgFmPGuxjcszwXOutQqg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BkivWcGmHSBCkKNz13%2FsLDg%3D%3D)
+[Scope Of Software Testing Course](https://www.linkedin.com/pulse/scope-software-testing-course-software-training-mountain-view-vp2rc?trackingId=Byln8w%2FaboiKQV4h%2F%2BQt2w%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BO6zCmHqaTSmsGbbNTRP%2FeA%3D%3D)
 
-[React Js Vs Node Js](https://www.linkedin.com/pulse/react-js-vs-node-justacademy-ahmedabad-feloe?trackingId=UUy1Z3AqJpwjyF3L7aCjxw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BO%2BCUjkhGSmWvdoCzc9%2FX%2FA%3D%3D)
+[Mean Vs Mern](https://www.linkedin.com/pulse/mean-vs-mern-justacademy-thane-eqgzc?trackingId=OOIlS4lHd2i2gcsqfNeelA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bs5%2FTwm7dQuuyZG7uExGaaQ%3D%3D)
 
-[Best Certification For Android Developer](https://medium.com/@justacademytraining/best-certification-for-android-developer-c710593d0aac)
+[Java Practice](https://medium.com/@akanshapatil/java-practice-8bee7ad829a7)
 
-[Full Stack Website Tutorial](https://medium.com/@shivamja27/full-stack-website-tutorial-714aaee9f4e3)
+[Java J2ee Training Institutes In Chennai](https://medium.com/@namusn/java-j2ee-training-institutes-in-chennai-68baab4afbd9)
 
-[Python Programming Tutor](https://justacademyin.github.io/justacademy/python-programming-tutor)
+[Full Stack C# Developer](https://justacademyin.github.io/justacademy/full-stack-c#-developer)
 
-[Running Javascript](https://justacademyin.github.io/justacademy/running-javascript)
+[Python Concepts](https://justacademyin.github.io/justacademy/python-concepts)
 

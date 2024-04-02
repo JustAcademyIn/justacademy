@@ -5,6 +5,8 @@
     <img src="https://justacademy.co/storage2/course_image/1709713400_course_image.webp" alt="Syllabus Of Python">
   </a>
 </p>
+##Syllabus Of Python
+
 The syllabus for Python programming typically encompasses an introduction to the basic concepts of programming and a comprehensive overview of Python's syntax, data types, and structures. It begins with understanding variables, expressions, and fundamental data types such as strings, lists, tuples, dictionaries, and sets. Control structures, including if-else statements, loops (while and for), and function definition and usage, are crucial parts. Students learn about object-oriented programming (OOP) concepts including classes, inheritance, and polymorphism. Advanced topics may include file handling, error and exception handling, and modules and packages for code organization. Libraries like NumPy, pandas for data analysis, and frameworks like Flask or Django for web development are often introduced. The syllabus may cover practical applications, including data manipulation, web scraping, automation, and basic data visualization, ensuring a well-rounded skill set in Python programming.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -78,15 +80,15 @@ This syllabus provides a structured pathway for learning Python, from basic to a
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Full Stack Mern](https://www.linkedin.com/pulse/full-stack-mern-justacademy-boston-3tuqc/)
+[S 4hana](https://www.linkedin.com/pulse/4hana-justacademy-delhi-vnq6c/)
 
-[Best Institute For Software Testing Course In Mumbai](https://www.linkedin.com/pulse/best-institute-software-testing-course-mumbai-justacademy-okqlc?trackingId=QjlxOWj07JF822ziaLsidg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BkivWcGmHSBCkKNz13%2FsLDg%3D%3D)
+[Java Certification Training Institutes In Vizag](https://www.linkedin.com/pulse/java-certification-training-institutes-vizag-justacademy-sunnyvale-8fwqe?trackingId=YkHGnMzj8i5ENbNb4l4ipw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B84%2Br3TF5Sai5zePv40hxgg%3D%3D)
 
-[Photoshop And Illustrator Course Near Me](https://medium.com/@shivamja27/photoshop-and-illustrator-course-near-me-fb45ae297c23)
+[Types Of Inheritance In Python](https://medium.com/@mahi3106/types-of-inheritance-in-python-bcaaaae549ba)
 
-[Full Stack Developer Tutorial](https://medium.com/@akanshapatil/full-stack-developer-tutorial-a136e6edfe6f)
+[Project Management Professional Course](https://medium.com/@AkashSingh2052/project-management-professional-course-90ea5b44185a)
 
-[Find Javascript](https://justacademyin.github.io/justacademy/find-javascript)
+[Laravel Complete Course](https://justacademyin.github.io/justacademy/laravel-complete-course)
 
-[Top Full Stack Developer Course](https://justacademyin.github.io/justacademy/top-full-stack-developer-course)
+[Java Web Development Course](https://justacademyin.github.io/justacademy/java-web-development-course)
 

@@ -5,6 +5,7 @@
     <img src="https://justacademy.co/storage2/program_images/1704700438.webp" alt="Manual Testing And Automation Testing">
   </a>
 </p>
+##Manual Testing And Automation Testing
 Manual testing and automation testing are two fundamental approaches in the software testing domain aimed at ensuring software applications function as intended. Manual testing involves human testers meticulously going through application features to identify any defects or deviations from the specified requirements, relying on their critical thinking, insights, and experience. It is especially effective in scenarios requiring visual feedback, complex exploratory testing, or when the software is in the early stages of development. Automation testing, on the other hand, uses specialized tools and scripts to execute pre-defined test cases on the application automatically, without direct human intervention. This approach enhances efficiency, accuracy, and speed, particularly for regression testing, performance testing, and other repetitive tasks. While manual testing excels in exploratory and usability aspects, automation testing is indispensable for achieving scale and consistency in testing efforts. Both methodologies complement each other and are often used together to achieve a comprehensive testing outcome.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -66,15 +67,15 @@ By understanding both manual and automation testing, students can gain a compreh
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Node Stack](https://www.linkedin.com/pulse/node-stack-justacademy-jaipur-q9sne?trackingId=hFG5ea9jtiSKu9MMUC2sPw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BzoGgv%2F2GTOq26q6ITzj9KQ%3D%3D)
+[Best Full Stack Web Development Course](https://www.linkedin.com/pulse/best-full-stack-web-development-course-justacademy-chennai-g82bc?trackingId=gfvHUQpVVHcubWZnL49GaQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B1CN8b2GFRWqxwCPWd5SbXw%3D%3D)
 
-[Full Stack Developer Remote](https://www.linkedin.com/pulse/full-stack-developer-remote-justacademy-z5owc/)
+[Automation Software Testing Course](https://www.linkedin.com/pulse/automation-software-testing-course-justacademy-thane-ggfyc?trackingId=lsCwE4QKoOwpzogjVfQPvA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B8x4oZRFoSmO4CZ5ThOfedg%3D%3D)
 
-[Free Android Studio Course](https://medium.com/@akanshapatil/free-android-studio-course-5a50a7a0a3ef)
+[Java Spring Training Institute In Pune](https://medium.com/@kumarishimmi99/java-spring-training-institute-in-pune-defcbc1a23dd)
 
-[Best Website To Learn Photoshop](https://medium.com/@namusn/best-website-to-learn-photoshop-354ae5b515c6)
+[Photoshop Free Certification Course](https://medium.com/@AkashSingh2052/photoshop-free-certification-course-e78455f2fa9b)
 
-[Best Website To Learn Software Testing](https://justacademyin.github.io/justacademy/best-website-to-learn-software-testing)
+[Amazon Aws Tutorial Pdf](https://justacademyin.github.io/justacademy/amazon-aws-tutorial-pdf)
 
-[Aws Full Course Pdf](https://justacademyin.github.io/justacademy/aws-full-course-pdf)
+[Cloud Computing Course Fee Structure In Chennai](https://justacademyin.github.io/justacademy/cloud-computing-course-fee-structure-in-chennai)
 

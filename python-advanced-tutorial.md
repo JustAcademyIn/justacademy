@@ -5,6 +5,7 @@
     <img src="https://justacademy.co/storage2/course_image/1709713400_course_image.webp" alt="Python Advanced Tutorial">
   </a>
 </p>
+##Python Advanced Tutorial
 Python's advanced tutorials delve into sophisticated topics that go beyond the basics, catering to the needs of intermediate to expert programmers looking to escalate their programming prowess. These tutorials cover a range of subjects including but not limited to advanced data structures (like trees, graphs, and heaps), algorithms (such as sorting and searching algorithms, algorithmic complexity), decorators, generators, context managers, concurrency and parallelism (with threads, asyncio, and multiprocessing), design patterns, testing (unit tests, integration tests), web development frameworks (like Django and Flask), and interacting with databases and APIs. Additionally, they explore best practices for code optimization, scalability, and security. Through real-world examples, exercises, and projects, these tutorials aim to equip learners with the skills to solve complex problems, optimize code efficiently, and build robust, scalable software applications using Python.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -50,15 +51,15 @@ These topics, enriched with practical sessions, real-world projects, and continu
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Ios App Development On Windows](https://www.linkedin.com/pulse/ios-app-development-windows-justacademy-boston-0grte?trackingId=Sc8pSWnlJcZihLgqzIPysA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BTbY8fN%2BZSiWS3%2FqQQu1Jtw%3D%3D)
+[Javatpoint Advanced Java](https://www.linkedin.com/pulse/javatpoint-advanced-java-justacademy-kolkata-wklxe?trackingId=ynzEZpttuiarEVCtD%2FFHig%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B57ggr4WVTUuBeEA%2FxPy55A%3D%3D)
 
-[Cloud Computing Training Institute In Chennai](https://www.linkedin.com/pulse/cloud-computing-training-institute-chennai-justacademy-delhi-bo34c?trackingId=lrVLLK%2FpccunQVvMH88RHw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BCQZL415sSKua%2B2WOwIB%2Fog%3D%3D)
+[Best Software Testing Training Institutes In Chennai](https://www.linkedin.com/pulse/best-software-testing-training-institutes-chennai-rxtqe?trackingId=6xED%2FSC4vxNthEngFxWQ0g%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BQ21fTVlsQ6eRatiOukp9mA%3D%3D)
 
-[Manual Testing Free Course With Certificate](https://medium.com/@abhidnya.1068/manual-testing-free-course-with-certificate-9c9e5d7c6b56)
+[Sales And Distribution Sap Module](https://medium.com/@namusn/sales-and-distribution-sap-module-f97a71103cfc)
 
-[Python For Kids Free](https://medium.com/@justacademytraining/python-for-kids-free-74326be129fe)
+[Software Quality Assurance Training](https://medium.com/@namusn/software-quality-assurance-training-422ab01ffbdf)
 
-[Sap Sd Course Fees](https://justacademyin.github.io/justacademy/sap-sd-course-fees)
+[Online Marketing Kurser](https://justacademyin.github.io/Articles/Online-Marketing-Kurser)
 
-[Javascript Pathway](https://justacademyin.github.io/justacademy/javascript-pathway)
+[Ms Cloud Computing](https://justacademyin.github.io/justacademy/ms-cloud-computing)
 

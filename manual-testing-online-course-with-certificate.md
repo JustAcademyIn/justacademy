@@ -5,6 +5,7 @@
     <img src="https://justacademy.co/storage2/program_images/1704700438.webp" alt="Manual Testing Online Course With Certificate">
   </a>
 </p>
+##Manual Testing Online Course With Certificate
 A manual testing online course with certification is designed to equip learners with the fundamental principles and techniques of software testing carried out manually, without the use of automated tools. These courses typically cover topics such as test planning, design, test case development, defect tracking, and various types of testing like system, integration, acceptance, and regression testing. The curriculum often includes hands-on projects or case studies to provide practical experience. Upon successful completion, participants receive a certificate, validating their skills and knowledge in manual testing. This certification is beneficial for individuals looking to begin or advance their career in software testing, quality assurance, or related fields, as it demonstrates proficiency to potential employers and can enhance job prospects.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -44,15 +45,15 @@ By offering a comprehensive online course with a certification in manual testing
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Sapmm](https://www.linkedin.com/pulse/sapmm-justacademy-delhi-fppjc?trackingId=xFLs7epdtI%2FuQX28a%2FGeDQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B9Q82RDvqR3%2BMiM23X%2B3J5A%3D%3D)
+[Scoutsuite Azure Tutorial](https://www.linkedin.com/pulse/scoutsuite-azure-tutorial-justacademy-chennai-qhcuc?trackingId=D%2Fdufc92H3RYtaM6NrvUww%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BjPw0ei4cQfe0InHd%2FK206Q%3D%3D)
 
-[Sap 4 Hana Certification](https://www.linkedin.com/pulse/sap-4-hana-certification-justacademy-sunnyvale-6f5bc/)
+[Free Android Kotlin Course](https://www.linkedin.com/pulse/free-android-kotlin-course-justacademy-cupertino-cqxwf/)
 
-[Html Online Course With Certificate](https://medium.com/@roneet705/html-online-course-with-certificate-87f4dbad6e54)
+[Photoshop Learning Classes Near Me](https://medium.com/@roneet705/photoshop-learning-classes-near-me-bbabfab27219)
 
-[Python Institute Certification](https://medium.com/@kamblerajas684/python-institute-certification-561f124289bf)
+[Pmp Certification Boot Camp](https://medium.com/@kumarishimmi99/pmp-certification-boot-camp-7ae86f0bf8d8)
 
-[Chennai Pmp Training](https://justacademyin.github.io/justacademy/chennai-pmp-training)
+[Object-Oriented Programming Java Course](https://justacademyin.github.io/justacademy/object-oriented-programming-java-course)
 
-[Software Manual Testing Course](https://justacademyin.github.io/justacademy/software-manual-testing-course)
+[Cloud Computing Courses In Pune](https://justacademyin.github.io/justacademy/cloud-computing-courses-in-pune)
 

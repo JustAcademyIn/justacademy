@@ -5,6 +5,7 @@
     <img src="https://justacademy.co/storage2/program_images/1704700371.webp" alt="Mean Stack Developer Tutorial">
   </a>
 </p>
+##Mean Stack Developer Tutorial
 A MEAN stack developer tutorial aims to educate learners on building and deploying full-stack applications using the MEAN stack, which includes MongoDB, Express.js, AngularJS, and Node.js. These tutorials typically start by introducing each component of the stack: MongoDB as a NoSQL database, Express.js as a backend web application framework, AngularJS as a frontend framework, and Node.js as a runtime environment for executing JavaScript on the server side. Through step-by-step guidance, learners are taught how to integrate these technologies to create dynamic and scalable web applications. The tutorials often cover essential development skills such as RESTful API development, CRUD operations, authentication, and authorization, along with best practices for structure and deployment. By the end of a MEAN stack developer tutorial, participants are expected to understand the synergy between the MEAN stack components and be capable of building their own full-stack applications from scratch.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -88,15 +89,15 @@ Each of these points should be elaborated into comprehensive modules or chapters
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Learn Javascript Fast](https://www.linkedin.com/pulse/learn-javascript-fast-justacademy-mumbai-bzwjc?trackingId=MElh97vKNpVPSIZni01FpQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_showcase_admin%3Bwznj2UNcTieGGkSiw6VF5Q%3D%3D)
+[Machine Learning In Python Course](https://www.linkedin.com/pulse/machine-learning-python-course-justacademy-stockport-dwkee?trackingId=PRX0P5QF9ZAiSYYjuo0ixw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bjjks6g4uSqSiY706oaUeMg%3D%3D)
 
-[Difference Between Full Stack And Mern Stack](https://www.linkedin.com/pulse/difference-between-full-stack-mern-justacademy-boston-4x66c/)
+[Online Learning Machine Learning](https://www.linkedin.com/pulse/online-learning-machine-justacademy-mumbai-5ssqc?trackingId=fqSnuESdAt4%2FsCTmf%2F30QA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_showcase_admin%3BJUoY9p%2BbQrqxVPWmOWmq6Q%3D%3D)
 
-[Java Training Institute In New Delhi](https://medium.com/@negishivu99/java-training-institute-in-new-delhi-ca37e4da39c6)
+[Java For Web Development](https://medium.com/@ranepooja/java-for-web-development-fac2ede2d10f)
 
-[Adobe Photoshop Cs5 Training](https://medium.com/@shivamja27/adobe-photoshop-cs5-training-432b050c8a43)
+[Python Training Center Near Me](https://medium.com/@AkashSingh2052/python-training-center-near-me-2456c4716d15)
 
-[Php Short Course](https://justacademyin.github.io/justacademy/php-short-course)
+[Html Classes Online](https://justacademyin.github.io/justacademy/html-classes-online)
 
-[Advanced Java Tutorial](https://justacademyin.github.io/justacademy/advanced-java-tutorial)
+[Full Stack Web Development Training](https://justacademyin.github.io/Articles/Full-Stack-Web-Development-Training)
 

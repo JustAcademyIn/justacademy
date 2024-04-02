@@ -5,6 +5,7 @@
     <img src="https://justacademy.co/storage2/program_images/1704700438.webp" alt="Software Quality Assurance Training">
   </a>
 </p>
+##Software Quality Assurance Training
 Software Quality Assurance (SQA) training is a process-focused educational curriculum designed to impart knowledge and skills on ensuring the quality of software products or applications. This training emphasizes the importance of preventing defects during the development process through systematic processes, methods, and tools to assure quality. It covers various aspects of software quality, including but not limited to, the fundamentals of quality assurance, software testing methodologies (such as unit, integration, system, and acceptance testing), automation tools, quality standards, and compliance. Participants learn how to design, implement, and maintain quality assurance protocols and processes that meet or exceed predefined software quality standards. The goal is to equip individuals with the competencies needed to effectively identify and solve quality-related issues, thereby improving the reliability, functionality, and user experience of software products.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -46,15 +47,15 @@ A comprehensive SQA training program equipped with these components can signific
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Node Js Python](https://www.linkedin.com/pulse/node-js-python-justacademyderby-itvhe?trackingId=tF8I2me7CUA0L2hxkNjxug%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BkRT1kc0YQHOTvx7WftmAwA%3D%3D)
+[Mern Stack Meaning](https://www.linkedin.com/pulse/mern-stack-meaning-justacademy-berlin-mmn7c/)
 
-[Best Java Training Institute In Coimbatore](https://www.linkedin.com/pulse/best-java-training-institute-coimbatore-justacademy-pune-rtwoe?trackingId=hY2VuCDiiftUrt8zu8bP4w%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BGzpHiwsYRr22lJjP82PYtA%3D%3D)
+[Abap On Hana Basics](https://www.linkedin.com/pulse/abap-hana-basics-justacademy-thane-xhezc/)
 
-[Java Full Stack Developer Skills](https://medium.com/@ranepooja/java-full-stack-developer-skills-e092f393d89d)
+[Html5 And Css3 Full Course](https://medium.com/@kamblerajas684/html5-and-css3-full-course-68c466c9d8ae)
 
-[Google Html Css Course](https://medium.com/@ranepooja/google-html-css-course-23cdf1f9c769)
+[Kotlin Boot Camp](https://medium.com/@ranepooja/kotlin-boot-camp-edc3224779e5)
 
-[Free Crash Course](https://justacademyin.github.io/justacademy/free-crash-course)
+[Full Java Course](https://justacademyin.github.io/Articles/Full-Java-Course)
 
-[Pmp Certification Training In Bangalore](https://justacademyin.github.io/justacademy/pmp-certification-training-in-bangalore)
+[Advance Java Syllabus](https://justacademyin.github.io/justacademy/advance-java-syllabus)
 

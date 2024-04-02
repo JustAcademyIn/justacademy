@@ -5,6 +5,8 @@
     <img src="https://justacademy.co/storage2/course_image/1709713400_course_image.webp" alt="Python Basic Syntax">
   </a>
 </p>
+##Python Basic Syntax
+
 Python's basic syntax is designed to be simple and readable, aiming for clear code even to those new to programming. A Python script comprises statements and expressions, using indentation rather than braces ({}) to define scopes, such as in loops or conditional blocks, making the code structure visually clear. Variable names are case-sensitive and can begin with a letter or underscore, followed by letters, numbers, or underscores. Comments are marked with a hashtag (#) for single-line comments, and triple quotes (''' or """) are used for multi-line comments, although technically they serve as multi-line strings. Python scripts typically end with a ".py" extension, and execution starts from top to bottom, except in cases where functions or classes are defined but not called. Python's simplicity in syntax encourages good programming practices and enhances code readability.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -56,15 +58,15 @@ This comprehensive overview provides a solid foundation for beginners to underst
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Java Programming Free Online Course](https://www.linkedin.com/pulse/java-programming-free-online-course-justacademy-hyderabad-k1zvc/)
+[React Js Front End Developer](https://www.linkedin.com/pulse/react-js-front-end-developer-justacademy-brisbane-xatoe?trackingId=fvmSlaNZZUPDBBzg3y4%2FfA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B5cPDORNwQlqWF%2BECY5%2Fsgw%3D%3D)
 
-[Java Language Course Fees](https://www.linkedin.com/pulse/java-language-course-fees-justacademy-thane-westc/)
+[Salesforce Free Classes](https://www.linkedin.com/pulse/salesforce-free-classes-justacademy-new-york-fm7af?trackingId=sy7c4J2TQ93KkQ4ug%2BGegw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BwtQD6Pu0R9K1Ka8Wqh4DGA%3D%3D)
 
-[Full Stack Java Developer Roadmap](https://medium.com/@abhidnya.1068/full-stack-java-developer-roadmap-430316a79e54)
+[Java Training Institute In Coimbatore](https://medium.com/@ranemanish460/java-training-institute-in-coimbatore-25a9ea8245ba)
 
-[Learn Tableau Online Free](https://medium.com/@kamblerajas684/learn-tableau-online-free-471c9fd67bd2)
+[Java Training Institute In Noida Delhi Ncr Javatpoint](https://medium.com/@prempja40/java-training-institute-in-noida-delhi-ncr-javatpoint-e11ab0f38ec0)
 
-[Php Online Course](https://justacademyin.github.io/justacademy/php-online-course)
+[Software Testing Course With Job Guarantee](https://justacademyin.github.io/justacademy/software-testing-course-with-job-guarantee)
 
-[Best Python Course For Data Analyst](https://justacademyin.github.io/justacademy/best-python-course-for-data-analyst)
+[Full Stack Javascript Developer](https://justacademyin.github.io/Articles/Full-Stack-Javascript-Developer)
 

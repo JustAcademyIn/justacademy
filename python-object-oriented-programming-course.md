@@ -5,6 +5,7 @@
     <img src="https://justacademy.co/storage2/course_image/1709713400_course_image.webp" alt="Python Object Oriented Programming Course">
   </a>
 </p>
+##Python Object Oriented Programming Course
 A Python Object-Oriented Programming (OOP) course is designed to introduce programmers to the fundamental concepts of object-oriented programming using the Python programming language. This course typically covers the basics of classes and objects, the pillar concepts of OOP such as inheritance, encapsulation, polymorphism, and abstraction, and how these concepts can be applied in Python to design clean, efficient, and reusable code. Through a mix of theoretical concepts and practical exercises, students learn to think in terms of objects and how to model real-world problems using classes, thereby enhancing their problem-solving skills and understanding of Python. This course aims to equip learners with the skills needed to implement sophisticated programming solutions and frameworks using OOP principles in Python, making them well-prepared for advanced software development projects.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -58,15 +59,15 @@ Each point in this training program is designed to build upon the previous one, 
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Difference Between Angular And Node Js](https://www.linkedin.com/pulse/difference-between-angular-node-js-justacademy-portland-l8xff?trackingId=LuAhzjEXbm2HPJuxMo7mJg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B4wvQoxRzQS6F4YizGcy96A%3D%3D)
+[Best Javascript Tutorial](https://www.linkedin.com/pulse/best-javascript-tutorial-software-training-mountain-view-u9wic?trackingId=i7xXMu3xGy%2BMNkyXRWeVow%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BZLKrYkZlRCaOOfAKGc47ew%3D%3D)
 
-[Associate Android Developer Certification Price](https://www.linkedin.com/pulse/associate-android-developer-certification-price-qt2of/)
+[Python Machine Learning Course](https://www.linkedin.com/pulse/python-machine-learning-course-justacademy-brisbane-vgxke?trackingId=yAouC3fA6JVBS4aV6fczLw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bvio13MbtTumTY%2Fh1upXELA%3D%3D)
 
-[Complete Html Css Course](https://medium.com/@ranemanish460/complete-html-css-course-623a27395e17)
+[Android Developer Classes Near Me](https://medium.com/@namusn/android-developer-classes-near-me-8278f59b72c8)
 
-[Project Management Professional Certification](https://medium.com/@namusn/project-management-professional-certification-e0cb2b1a41a5)
+[Python Classes Near Me](https://medium.com/@surajvaishnav5015/python-classes-near-me-945412ed6280)
 
-[Azure Machine Learning Designer Tutorial](https://justacademyin.github.io/justacademy/azure-machine-learning-designer-tutorial)
+[Js For Beginners](https://justacademyin.github.io/justacademy/js-for-beginners)
 
-[Javascript Tutor](https://justacademyin.github.io/justacademy/javascript-tutor)
+[Developer Javascript](https://justacademyin.github.io/justacademy/developer-javascript)
 

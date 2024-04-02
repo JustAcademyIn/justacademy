@@ -5,6 +5,7 @@
     <img src="https://justacademy.co/storage2/program_images/1704700371.webp" alt="Java Full Stack Web Development Tutorial">
   </a>
 </p>
+##Java Full Stack Web Development Tutorial
 Java full stack web development involves learning to work both on the client-side (front end) and the server-side (back end) using Java technologies and frameworks. A comprehensive tutorial in this area starts with mastering the basics of Java programming language, including understanding its syntax, data types, and object-oriented programming concepts. It progresses to front-end technologies like HTML, CSS, and JavaScript to create interactive user interfaces. For the back end, it delves into server-side development with Java frameworks such as Spring Boot, which simplifies the creation of microservices and web applications. The tutorial would also cover essential tools and concepts like Maven or Gradle for build automation, Spring Security for authentication and authorization, Database connectivity using JPA (Java Persistence API)/Hibernate, and RESTful API development for client-server communication. Alongside, learning about deployment methodologies, version control systems like Git, and containerization with Docker enhances a developer's full stack capabilities in the Java ecosystem.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -48,15 +49,15 @@ By the end of this tutorial program, students would be well-equipped to build th
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Cloud Computing Course With Placement In Pune](https://www.linkedin.com/pulse/cloud-computing-course-placement-pune-justacademy-thane-ro8cc?trackingId=RItkq7BWXXJS%2F61wsqrTGg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BrywBFcmPR%2Fa2AS7mF8zFDQ%3D%3D)
+[Chennai Java Training Institute](https://www.linkedin.com/pulse/chennai-java-training-institute-justacademy-austin-rkywf?trackingId=0RHvz2wr8ucg7cTMgSqOBg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BrhDqhIEPSEqTPBwm7X%2FbEg%3D%3D)
 
-[Meta Android Developer Certificate](https://www.linkedin.com/pulse/meta-android-developer-certificate-justacademy-m7v5f/)
+[Asp Net Simple Program](https://www.linkedin.com/pulse/asp-net-simple-program-justacademy-las-vegas-7ezjf?trackingId=kX%2Bn29CT0nNlMnyxQ7C%2Fjg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B72drtJzFRpOZi%2BIA7t6Uhg%3D%3D)
 
-[Sales And Distribution In Erp](https://medium.com/@surajvaishnav5015/sales-and-distribution-in-erp-1dee62a69dd6)
+[Learn Full Stack Web Development For Free](https://medium.com/@AkashSingh2052/learn-full-stack-web-development-for-free-8eaaee41d738)
 
-[Project Management Academy](https://medium.com/@kumarishimmi99/project-management-academy-3483bcd004c4)
+[Pmp Certification Uk](https://medium.com/@roneet705/pmp-certification-uk-49610c28a178)
 
-[Free Full Stack Course](https://justacademyin.github.io/justacademy/free-full-stack-course)
+[Php Free Certification Course](https://justacademyin.github.io/justacademy/php-free-certification-course)
 
-[Java Developer Course In Pune](https://justacademyin.github.io/justacademy/java-developer-course-in-pune)
+[Best Software Training Institute In Pune With Placement](https://justacademyin.github.io/justacademy/best-software-training-institute-in-pune-with-placement)
 

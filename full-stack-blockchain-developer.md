@@ -5,6 +5,7 @@
     <img src="https://justacademy.co/storage2/program_images/1704700371.webp" alt="Full Stack Blockchain Developer">
   </a>
 </p>
+##Full Stack Blockchain Developer
 A Full Stack Blockchain Developer is a skilled professional capable of designing and implementing decentralized applications and systems on a blockchain platform. This role encompasses a broad range of responsibilities, including the development of smart contracts, the integration of blockchain technologies with existing systems, and the creation of user interfaces for interacting with the blockchain. These developers possess a deep understanding of blockchain principles and technologies, such as consensus mechanisms, cryptographic algorithms, and decentralized storage solutions. Additionally, they are proficient in various programming languages and frameworks relevant to both front-end and back-end development, enabling them to build comprehensive, secure, and efficient blockchain solutions that cater to diverse requirements and use cases. Their expertise plays a crucial role in the innovation and deployment of distributed ledger technologies across industries, driving transparency, security, and efficiency improvements.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -50,15 +51,15 @@ This holistic program aims to not only educate students on the technicalities of
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Salesforce Course For Beginners](https://www.linkedin.com/pulse/salesforce-course-beginners-justacademy-delhi-ksocc?trackingId=rlAyK%2F6RLKPWH9J1k%2FYmAQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BhdjIu54YRU6uEj%2BNOpsrpA%3D%3D)
+[Mumbai Training Institute Java](https://www.linkedin.com/pulse/mumbai-training-institute-java-justacademy-pune-2wrte?trackingId=NYiiy8SdSE0v5Vz38KlXPg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BGzpHiwsYRr22lJjP82PYtA%3D%3D)
 
-[Full Stack Net Developer Tutorial](https://www.linkedin.com/pulse/full-stack-net-developer-tutorial-software-training-mountain-view-3gnxc/)
+[Salesforce System Administrator Training](https://www.linkedin.com/pulse/salesforce-system-administrator-training-justacademy-liverpool-3mv7f?trackingId=0jwr0MIX2HzV6Y590NS24Q%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B%2B7NXH4oxSQ2PhivsxtvsGw%3D%3D)
 
-[Python Course In Thrissur](https://medium.com/@namusn/python-course-in-thrissur-b6d659da3f52)
+[Android Certified Application Developer](https://medium.com/@namusn/android-certified-application-developer-01a1b17dfb57)
 
-[Full Stack Developer Course In Mumbai](https://medium.com/@mistersumit961/full-stack-developer-course-in-mumbai-1e8bf986e806)
+[Best Training Institute In Bangalore For Java J2ee And Plcements](https://medium.com/@justacademytraining/best-training-institute-in-bangalore-for-java-j2ee-and-plcements-d250b1f6f08e)
 
-[Wordpress Introduction](https://justacademyin.github.io/justacademy/wordpress-introduction)
+[Azure Terraform Tutorial](https://justacademyin.github.io/justacademy/azure-terraform-tutorial)
 
-[Sap Abap Global Certification](https://justacademyin.github.io/justacademy/sap-abap-global-certification)
+[Software Testing Courses For Beginners](https://justacademyin.github.io/justacademy/software-testing-courses-for-beginners)
 

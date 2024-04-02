@@ -5,6 +5,8 @@
     <img src="https://justacademy.co/storage2/course_image/1709713400_course_image.webp" alt="Python Programming Syllabus">
   </a>
 </p>
+##Python Programming Syllabus
+
 The Python programming syllabus typically includes an introduction to programming concepts using Python, a versatile and widely-used high-level programming language. It starts with the basics of Python syntax, data types, and control structures (loops, conditionals, etc.), progressing to more complex topics such as functions, modules, and file handling. Advanced sections may cover object-oriented programming principles, exception handling, and data structures (lists, tuples, dictionaries, and sets). Additionally, practical application through project work or case studies encapsulates handling databases, web development using frameworks like Flask or Django, and an introduction to data science and machine learning libraries such as NumPy, pandas, and scikit-learn. This comprehensive syllabus is designed to equip learners with a strong foundation in programming, problem-solving skills, and the ability to work on real-world Python projects.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -124,15 +126,15 @@ This syllabus covers the essentials of Python programming from the basics to mor
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Microsoft Azure Pc](https://www.linkedin.com/pulse/microsoft-azure-pc-justacademy-sunnyvale-c3iuc?trackingId=H%2Fuo4p89yF6VXh%2B2Igy48A%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BJVVM%2Fef%2BR3WBKPYq3pagGw%3D%3D)
+[Salesforce Crm Training](https://www.linkedin.com/pulse/salesforce-crm-training-justacademy-san-jose-uwhrf?trackingId=2Taa%2FQ3jlzsDmZAzK9I5ew%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BfKLFXm%2FbTECg8F%2B%2F6%2BCWqA%3D%3D)
 
-[Java Training Institute In Hyderabad](https://www.linkedin.com/pulse/java-training-institute-hyderabad-justacademy-thane-myjge?trackingId=AXgwFPhpv3BpsPD9a8yrEA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B8x4oZRFoSmO4CZ5ThOfedg%3D%3D)
+[Sap 4hana Cloud](https://www.linkedin.com/pulse/sap-4hana-cloud-justacademy-thane-foxzc/)
 
-[Abap On Hana Certification](https://medium.com/@negishivu99/abap-on-hana-certification-e69a41f8489d)
+[Azure Functions Tutorial](https://medium.com/@negishivu99/azure-functions-tutorial-6d945a7fa9c4)
 
-[Project Management Professional Meaning](https://medium.com/@prempja40/project-management-professional-meaning-4cba7e04df19)
+[Full Stack Development Course Near Me](https://medium.com/@mahi3106/full-stack-development-course-near-me-e823d3493255)
 
-[Sap Sd Classes](https://justacademyin.github.io/justacademy/sap-sd-classes)
+[Microsoft Azure Cloud Infrastructure](https://justacademyin.github.io/justacademy/microsoft-azure-cloud-infrastructure)
 
-[Java Vs Javascript](https://justacademyin.github.io/justacademy/java-vs-javascript)
+[Full Stack Mobile App Developer](https://justacademyin.github.io/justacademy/full-stack-mobile-app-developer)
 

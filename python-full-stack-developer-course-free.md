@@ -5,6 +5,7 @@
     <img src="https://justacademy.co/storage2/program_images/1704700371.webp" alt="Python Full Stack Developer Course Free">
   </a>
 </p>
+##Python Full Stack Developer Course Free
 A Python Full Stack Developer course is designed to equip learners with a comprehensive understanding of Python programming language along with necessary web development skills, covering both front-end and back-end development aspects. Such free courses often include modules on HTML, CSS, JavaScript for the front end, and Python frameworks like Django or Flask for the backend. Additionally, they cover database management, version control systems like Git, and deployment methodologies, providing a holistic approach to web development. While free programs may be found on platforms like Coursera, edX, YouTube, or through open educational resources, they aim to offer a foundational to advanced knowledge, practical coding exercises, and sometimes, project-based learning to simulate real-world web development tasks, making them ideal for beginners and intermediate learners looking to transition into full-stack web development roles using Python.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -50,15 +51,15 @@ Providing such a comprehensive free course can be an invaluable resource for stu
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Salesforce Admin Advanced](https://www.linkedin.com/pulse/salesforce-admin-advanced-justacademy-thane-bo9mc?trackingId=X3OehgF8%2BS0BAznWFXPO9w%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B5LFFxHfxSIO4W925HATEJA%3D%3D)
+[IT Software Testing Courses](https://www.linkedin.com/pulse/software-testing-courses-justacademy-kolkata-walme?trackingId=Dcb6fJJkuRzSYeVxgtVYCA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BZ3buGVXtSt2MpOd2OMz6cQ%3D%3D)
 
-[Advanced Java Skills](https://www.linkedin.com/pulse/advanced-java-skills-software-training-mountain-view-msjee?trackingId=X%2BPXzX9WWm%2Fmxiyn3otIZw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BRmRTtwAISLyMmFqcBdL04g%3D%3D)
+[Microsoft Azure Cloud Pc](https://www.linkedin.com/pulse/microsoft-azure-cloud-pc-justacademy-delhi-zfzxc?trackingId=I34yuSIwXB7ze0MJyIRmxg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bk8IJzSQ1SgaTocSNLknCMQ%3D%3D)
 
-[Adobe Photoshop Classes For Beginners](https://medium.com/@AkashSingh2052/adobe-photoshop-classes-for-beginners-1ab19917f61a)
+[Python Certification Cost](https://medium.com/@kamblerajas684/python-certification-cost-348c9798d3c9)
 
-[Adobe Photoshop Training Near Me](https://medium.com/@namusn/adobe-photoshop-training-near-me-cf7ed174951a)
+[Best Website To Learn Html Css Javascript](https://medium.com/@mistersumit961/best-website-to-learn-html-css-javascript-9fa28033e120)
 
-[Photoshop Web Design Course](https://justacademyin.github.io/justacademy/photoshop-web-design-course)
+[Full Stack Python Tutorial](https://justacademyin.github.io/Articles/Full-Stack-Python-Tutorial)
 
-[Full Stack Java Developer Course Free](https://justacademyin.github.io/justacademy/full-stack-java-developer-course-free)
+[Cloud Computing Learning Path](https://justacademyin.github.io/justacademy/cloud-computing-learning-path)
 

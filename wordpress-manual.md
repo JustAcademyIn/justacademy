@@ -5,6 +5,8 @@
     <img src="https://justacademy.co/storage2/course_image/1677245494_course_image.webp" alt="Wordpress Manual">
   </a>
 </p>
+##Wordpress Manual
+
 WordPress is a robust, open-source content management system (CMS) favored for its flexibility and user-friendly interface, enabling the creation and management of websites ranging from simple blogs to complex portals and e-commerce sites. The WordPress Manual is a comprehensive guide designed to help both beginners and advanced users to navigate through its features effectively. It covers a wide array of topics including installation, customization of themes and plugins, content creation (posts, pages), management of media, user roles and permissions, optimizing for search engines, and maintaining site security. This manual is crucial for users looking to maximize their website's potential, offering step-by-step instructions and best practices for utilizing WordPress to its fullest.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -50,15 +52,15 @@ Each of these points can be expanded into individual lessons or modules, dependi
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Javascript Not](https://www.linkedin.com/pulse/javascript-justacademy-cupertino-93iuc?trackingId=TVDxkvlpn4MMdvs%2FsimdjA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BNP%2FlhOodSumKT6PSkBvdbw%3D%3D)
+[Scoutsuite Azure Tutorial](https://www.linkedin.com/pulse/scoutsuite-azure-tutorial-justacademy-chennai-qhcuc?trackingId=D%2Fdufc92H3RYtaM6NrvUww%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BjPw0ei4cQfe0InHd%2FK206Q%3D%3D)
 
-[Microsoft Cloud Environment](https://www.linkedin.com/pulse/microsoft-cloud-environment-software-training-sunnyvale-lvvxc?trackingId=Ciu9a4tUPCdadpjl7CKlsA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B%2BhR3vy1dRIi%2FxP7UWLS2ww%3D%3D)
+[Azure Cloud Computing Basics](https://www.linkedin.com/pulse/azure-cloud-computing-basics-justacademy-thane-x2pfc?trackingId=UBVN0g%2F4SEtFxkgE8pKBJA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BzlEMqIgRRsubBoA3fmTvjQ%3D%3D)
 
-[Programming Classes Near Me](https://medium.com/@kumarishimmi99/programming-classes-near-me-9927f797f485)
+[Best Way To Learn Android Development](https://medium.com/@shivamja27/best-way-to-learn-android-development-32e0bd9a1ef2)
 
-[Python Coding Classes Near Me](https://medium.com/@justacademytraining/python-coding-classes-near-me-f04b96a0e1f8)
+[Html Essential Training Course](https://medium.com/@prempja40/html-essential-training-course-4fe9a9328113)
 
-[Components Of Python](https://justacademyin.github.io/justacademy/components-of-python)
+[Cloud Computing Courses In Delhi](https://justacademyin.github.io/justacademy/cloud-computing-courses-in-delhi)
 
-[Cloud Computing Classes In Mumbai](https://justacademyin.github.io/justacademy/cloud-computing-classes-in-mumbai)
+[Python Course Fees In Coimbatore](https://justacademyin.github.io/justacademy/python-course-fees-in-coimbatore)
 

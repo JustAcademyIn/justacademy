@@ -5,6 +5,7 @@
     <img src="https://justacademy.co/storage2/program_images/1704700438.webp" alt="Software Testing Course And Placement">
   </a>
 </p>
+##Software Testing Course And Placement
 A software testing course is a specialized training program designed to equip individuals with the knowledge, skills, and methodologies required to effectively assess the quality, functionality, and performance of software products through systematic validation and verification processes. These courses typically cover a wide array of topics such as fundamentals of software testing, test design techniques, testing tools, automation frameworks, and best practices for manual and automated testing. Upon completion, many training providers aid in placement by leveraging their industry connections, organizing job fairs, or offering career services, such as resume building and interview preparation, to help aspiring software testers secure positions in IT companies, software development firms, or quality assurance departments. The objective is to bridge the gap between theoretical learning and real-world application, thus making candidates job-ready in the highly demanding field of software testing.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -44,15 +45,15 @@ The software testing training program is designed not just to impart technical k
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Advanced Flutter Interview Questions](https://www.linkedin.com/pulse/advanced-flutter-interview-questions-justacademy-hyderabad-etysc/)
+[Edge Computing In Azure](https://www.linkedin.com/pulse/edge-computing-azure-justacademy-thane-pdeuc?trackingId=gsgBtz8UhzDHd7f3UNCi3A%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BzlEMqIgRRsubBoA3fmTvjQ%3D%3D)
 
-[Salesforce Certification Free Course](https://www.linkedin.com/pulse/salesforce-certification-free-course-justacademy-sunnyvale-mjlzc?trackingId=LtqyNMRJ%2BQgLxwcIM8Kkjg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BNFdqqfBkQamwMdOz7MGZnA%3D%3D)
+[Core Java Training Institutes In Kphb](https://www.linkedin.com/pulse/core-java-training-institutes-kphb-justacademy-berlin-byl1e?trackingId=ic5%2BQ11Jej6iMEtHui5w5w%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bjmi5U8HnRnGuyDtWTpE8KQ%3D%3D)
 
-[Best Java Training Institute In Indore](https://medium.com/@akanshapatil/best-java-training-institute-in-indore-bf3a23f178c1)
+[Tableau Certification Course](https://medium.com/@surajvaishnav5015/tableau-certification-course-f4842bcc8095)
 
-[Adobe Photoshop Cc Your Complete Beginner To Advanced Class](https://medium.com/@justacademytraining/adobe-photoshop-cc-your-complete-beginner-to-advanced-class-6ffe6ae0fc63)
+[Beginning Java](https://medium.com/@AkashSingh2052/beginning-java-f31712c9f49b)
 
-[Microsoft Windows Azure In Cloud Computing](https://justacademyin.github.io/justacademy/microsoft-windows-azure-in-cloud-computing)
+[Free Php Certification](https://justacademyin.github.io/justacademy/free-php-certification)
 
-[Laravel Training Malaysia](https://justacademyin.github.io/justacademy/laravel-training-malaysia)
+[Cloud Aws Tutorial](https://justacademyin.github.io/justacademy/cloud-aws-tutorial)
 

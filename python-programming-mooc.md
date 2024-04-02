@@ -5,6 +5,7 @@
     <img src="https://justacademy.co/storage2/course_image/1709713400_course_image.webp" alt="Python Programming Mooc">
   </a>
 </p>
+##Python Programming Mooc
 A Python programming MOOC (Massive Open Online Course) is an online educational course designed for a large number of participants to learn Python programming from scratch or enhance their existing knowledge. Python, known for its simplicity and readability, is widely used in web development, data science, artificial intelligence, and more. These MOOCs are structured to accommodate learners with diverse backgrounds, offering video lectures, interactive coding exercises, quizzes, and forums for discussion, thereby providing a comprehensive learning experience. They are typically offered by universities or educational platforms like Coursera, edX, and Udacity, often for free or at a low cost, making Python programming accessible to anyone with an internet connection, aiming to equip participants with practical programming skills and a deep understanding of Python concepts.
 
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
@@ -71,15 +72,15 @@ This Python MOOC framework is designed to take students from beginner to profici
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Microsoft Azure Operating System](https://www.linkedin.com/pulse/microsoft-azure-operating-system-justacademy-delhi-u1ytc?trackingId=ejputy0NQ6MXUynHT9jUZw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BiK8uaYXISG24DaU4tVx5cA%3D%3D)
+[Pmp Certification Mumbai](https://www.linkedin.com/pulse/pmp-certification-mumbai-justacademy-kolkata-cpbre?trackingId=h5GrMBOWgQIJHCP656J3pw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bk9oA%2BVOQTPioabiM45wXSA%3D%3D)
 
-[React Syllabus](https://www.linkedin.com/pulse/react-syllabus-justacademy-beangaluru-wb1tc?trackingId=7zI5CRre9YalKuTUyO4Ihw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BV%2FJdwEmZTiK5hNIeM20IVA%3D%3D)
+[Java Training Institute In Noida Delhi Ncr Javatpoint](https://www.linkedin.com/pulse/java-training-institute-noida-delhi-ncr-javatpoint-wlxac?trackingId=1rI7sD5ceb%2B3Z8tybqyu1g%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BA1nZ1nP9T4epQeiwVmNY3A%3D%3D)
 
-[Java Training Institute In Btm Layout](https://medium.com/@kumarishimmi99/java-training-institute-in-btm-layout-1fbcdad3a5d0)
+[Illustrator Classes Near Me](https://medium.com/@akanshapatil/illustrator-classes-near-me-a15d6400a049)
 
-[Software Testing Requirements](https://medium.com/@kumarishimmi99/software-testing-requirements-0d64c5244e53)
+[Wordpress Main Page](https://medium.com/@AkashSingh2052/wordpress-main-page-0a242a9ba689)
 
-[Online Laravel Courses](https://justacademyin.github.io/justacademy/online-laravel-courses)
+[Types Of Inheritance In Python](https://justacademyin.github.io/justacademy/types-of-inheritance-in-python)
 
-[The Complete 2021 Php Full Stack Web Developer Bootcamp](https://justacademyin.github.io/justacademy/the-complete-2021-php-full-stack-web-developer-bootcamp)
+[Python Object Oriented Programming Course](https://justacademyin.github.io/justacademy/python-object-oriented-programming-course)
 

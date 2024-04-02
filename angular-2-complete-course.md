@@ -5,6 +5,8 @@
     <img src="https://justacademy.co/storage2/course_image/1676637041_course_image.webp" alt="Angular 2 Complete Course">
   </a>
 </p>
+##Angular 2 Complete Course
+
 The Angular 2 Complete Course is an extensive training program designed for developers looking to master Angular 2, the complete rewrite of the popular AngularJS framework by Google. This course covers everything from the foundational concepts to advanced features, providing learners with a deep understanding of how to build responsive, efficient, and scalable single-page applications. It typically includes hands-on projects, practical exercises, and theoretical lessons that encompass topics such as TypeScript basics, components, directives, services, routing, HTTP access, and forms. The course aims to equip participants with the skills needed to effectively use Angular 2 for front-end development, following best practices and the latest industry standards.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -52,15 +54,15 @@ Each module is designed to be interactive, with theoretical lessons complemented
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Best Javascript Tutorial](https://www.linkedin.com/pulse/best-javascript-tutorial-software-training-mountain-view-u9wic?trackingId=i7xXMu3xGy%2BMNkyXRWeVow%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BZLKrYkZlRCaOOfAKGc47ew%3D%3D)
+[Google Ml Course](https://www.linkedin.com/pulse/google-ml-course-justacademy-manchester-gxsof?trackingId=p6W%2FCanU9QjRj59JtPj1Iw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BRPj7cFFBTbicPRo%2F8FQZQw%3D%3D)
 
-[Software Testing Course In Bangalore](https://www.linkedin.com/pulse/software-testing-course-bangalore-justacademy-mumbai-kbh8c?trackingId=bG49OLMnAGa8%2F68a%2FziqHA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_showcase_admin%3Bg4dhde8RQGS1iNfJqpjAaA%3D%3D)
+[iOS Developer Bootcamp Online](0)
 
-[Adobe Photoshop Cc Course](https://medium.com/@AkashSingh2052/adobe-photoshop-cc-course-55c8d93c21c0)
+[Python Programming In Hindi](https://medium.com/@akanshapatil/python-programming-in-hindi-f52b0562e661)
 
-[Photoshop Courses Near Me](https://medium.com/@kumarishimmi99/photoshop-courses-near-me-91e7c9314260)
+[Wordpress Php Tutorial](https://medium.com/@ranemanish460/wordpress-php-tutorial-de5c16aba612)
 
-[Programming On Amazon Aws And Microsoft Azure In Cloud Computing](https://justacademyin.github.io/justacademy/programming-on-amazon-aws-and-microsoft-azure-in-cloud-computing)
+[Photoshop Short Course](https://justacademyin.github.io/justacademy/photoshop-short-course)
 
-[Javascript Near Me](https://justacademyin.github.io/justacademy/javascript-near-me)
+[Javascript React Js](https://justacademyin.github.io/justacademy/javascript-react-js)
 

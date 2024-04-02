@@ -5,6 +5,7 @@
     <img src="https://justacademy.co/storage2/course_image/1709190408_course_image.webp" alt="SAP Mm Free Training">
   </a>
 </p>
+##SAP Mm Free Training
 SAP Material Management (MM) free training refers to complimentary educational resources, tutorials, and courses provided to individuals looking to gain or improve their understanding and skills in SAP MM without any financial cost. SAP MM is a crucial component of SAP ERP (Enterprise Resource Planning) system that deals with material and inventory management. Such free training could be available through various platforms, including online educational sites like openSAP, YouTube channels, educational blogs, and community forums. These resources aim to cover a wide range of topics from basic to advanced levels, such as procurement processes, inventory management, invoice verification, material valuation, and integration with other SAP modules. Although free training resources provide valuable knowledge, they may vary in quality, depth, and up-to-dateness, and participants may need to complement these with hands-on experience, use case scenarios, and further study to thoroughly master SAP MM functionalities.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -46,15 +47,15 @@ Offering free training in SAP MM opens many doors for students, equipping them w
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[React Native Online](https://www.linkedin.com/pulse/react-native-online-justacademyderby-mvsje?trackingId=vLog%2FYIXRSVdUwoQBebT9Q%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BkRT1kc0YQHOTvx7WftmAwA%3D%3D)
+[Aws 3 Tier Web Application Tutorial](https://www.linkedin.com/pulse/aws-3-tier-web-application-tutorial-justacademy-jaipur-opuwe?trackingId=p2on38iBAUTQEbmY%2F%2FXw5A%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bm6yRfzdhTJS77sF6jePtsg%3D%3D)
 
-[Flutter Web App Tutorial](https://www.linkedin.com/pulse/flutter-web-app-tutorial-justacademy-delhi-jcosc/)
+[Embedded Android Training](https://www.linkedin.com/pulse/embedded-android-training-justacademy-hyderabad-7p85f/)
 
-[Html Essential Training](https://medium.com/@shivamja27/html-essential-training-82d05c81bf39)
+[How To Get Pmp Certification Fast](https://medium.com/@justacademytraining/how-to-get-pmp-certification-fast-e22350c911b4)
 
-[Boolean Search String For Full Stack Java Developer](https://medium.com/@prempja40/boolean-search-string-for-full-stack-java-developer-0f9f23f0e11e)
+[Hyderabad Training Institutes For Java](https://medium.com/@roneet705/hyderabad-training-institutes-for-java-73c422e2841c)
 
-[Best Python Course For Data Analysis](https://justacademyin.github.io/justacademy/best-python-course-for-data-analysis)
+[Certified Full Stack Developer](https://justacademyin.github.io/justacademy/certified-full-stack-developer)
 
-[Photoshop Certification Class](https://justacademyin.github.io/justacademy/photoshop-certification-class)
+[Best Way To Learn Angular 2](https://justacademyin.github.io/justacademy/best-way-to-learn-angular-2)
 

@@ -5,6 +5,8 @@
     <img src="https://justacademy.co/storage2/course_image/1677245426_course_image.webp" alt="Java For Web Development">
   </a>
 </p>
+##Java For Web Development
+
 Java, a robust, object-oriented programming language, is widely utilized for web development due to its versatility, security, and scalability. In the realm of web development, Java is employed to create dynamic and interactive web applications through technologies and frameworks such as Servlets, JavaServer Pages (JSP), JavaServer Faces (JSF), and Spring. These tools allow developers to build sophisticated web applications that can run efficiently across various platforms and devices. Java's platform-independent nature—stemming from its "write once, run anywhere" (WORA) capability—ensures that Java-based web applications can be deployed on any device or server supporting the Java runtime environment. This, coupled with its strong community support and a wealth of libraries and APIs, makes Java a preferred choice for developers aiming to build secure, high-performance, and scalable web applications.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -56,15 +58,15 @@ By structuring the training program around these points, students will gain a co
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[SAP Mm Training](https://www.linkedin.com/pulse/sap-mm-training-justacademy-kolkata-elbbf/)
+[Php Coding Course](https://www.linkedin.com/pulse/php-coding-course-justacademy-49z3c?trackingId=ccek%2FY9B8CNwGnHBr3J0Vg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BWbxQ1A18RaaLg4c2WwaK8w%3D%3D)
 
-[Php Online Course Free](https://www.linkedin.com/pulse/php-online-course-free-justacademy-ahmedabad-vxnie?trackingId=%2BvBasxLDvllT%2FovGX%2FBIOQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BsgxkE5t4R9iHWE9515x%2Fgw%3D%3D)
+[Best Pmp Institute In Pune](https://www.linkedin.com/pulse/best-pmp-institute-pune-justacademy-beangaluru-n6sac?trackingId=2HeSDmk8DOdYeLBo6HHOAw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bx8y7hAo2S%2Fe2HLe3couk6g%3D%3D)
 
-[Sap S4 Certification](https://medium.com/@kamblerajas684/sap-s4-certification-a3e3d8baac7f)
+[Sap Abap On Hana Topics](https://medium.com/@mahi3106/sap-abap-on-hana-topics-407437f3e8cd)
 
-[Best Resources To Learn Python](https://medium.com/@ranemanish460/best-resources-to-learn-python-760f78170036)
+[Adobe Photoshop Cc Certification](https://medium.com/@negishivu99/adobe-photoshop-cc-certification-f6caa8bae7c6)
 
-[Social Media Marketing Pro](https://justacademyin.github.io/justacademy/social-media-marketing-pro)
+[Coaching Digital Marketing](https://justacademyin.github.io/justacademy/coaching-digital-marketing)
 
-[Cloud Computing Course Fee In Hyderabad](https://justacademyin.github.io/justacademy/cloud-computing-course-fee-in-hyderabad)
+[Azure Ml Tutorial For Beginners](https://justacademyin.github.io/justacademy/azure-ml-tutorial-for-beginners)
 

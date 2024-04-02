@@ -5,6 +5,8 @@
     <img src="https://justacademy.co/storage2/course_image/1676637576_course_image.webp" alt="Adobe Photoshop Advanced">
   </a>
 </p>
+##Adobe Photoshop Advanced
+
 Adobe Photoshop Advanced refers to the use of sophisticated features and techniques within Adobe Photoshop, a leading digital imaging software. This level encompasses working with complex selections, advanced layering techniques, manipulating images with expert precision, and utilizing adjustment layers and masks for non-destructive editing. It also includes mastering the use of smart objects for scalable graphics, advanced compositing for creating realistic scenes or artistic effects, and utilizing Photoshop's 3D capabilities to integrate 3D objects into 2D compositions. Users at this level often delve into advanced color correction, retouching techniques, and utilize automation features such as actions and scripting to streamline their workflow. Mastery of these advanced features allows users to produce professional-grade graphics, retouch photos at an expert level, and create complex digital art with fine control over the final outcome.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -46,15 +48,15 @@ Each of these topics is designed to build upon the foundational skills that stud
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Net Online Course](https://www.linkedin.com/pulse/net-online-course-justacademy-houston-mf8gf?trackingId=f2w%2F3W2YdZjCHZgLTj8a5Q%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B5RzDF0CIQxuDMHcL3MgYhA%3D%3D)
+[Python Course For Machine Learning](https://www.linkedin.com/pulse/python-course-machine-learning-justacademy-bradford-hqefe?trackingId=crWpfkdzMxdIdJ7RKUK1ZA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BU6qvup%2BkTG%2BWwu84oCWCCA%3D%3D)
 
-[Angular Developer Skills](https://www.linkedin.com/pulse/angular-developer-skills-justacademy-coimbatore-cftrc?trackingId=0dsjV9Nep1Kj%2BuPpitIyqQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BfmlpQlw4RxKd%2FcK9A3mwCQ%3D%3D)
+[Seo Training Courses Uk](https://www.linkedin.com/pulse/seo-training-courses-uk-justacademy-london-cvraf?trackingId=5cboM7XLeVnQxfA%2BvyU72A%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BosK2%2F2EMSuK0OJgUxbYcDg%3D%3D)
 
-[Best Course For Photoshop](https://medium.com/@ranemanish460/best-course-for-photoshop-18b381cb10b4)
+[Java Training Institutes In Bangalore Bommanahalli](https://medium.com/@kamblerajas684/java-training-institutes-in-bangalore-bommanahalli-31356de8a8f5)
 
-[Professional Management](https://medium.com/@ranemanish460/professional-management-1e506c25d47d)
+[Android Mobile App Development Course](https://medium.com/@kumarishimmi99/android-mobile-app-development-course-4d355163221c)
 
-[What Is Core Java](https://justacademyin.github.io/justacademy/what-is-core-java)
+[Best Java Certification](https://justacademyin.github.io/justacademy/best-java-certification)
 
-[Html Essential Training Course](https://justacademyin.github.io/justacademy/html-essential-training-course)
+[Where Can I Learn Cloud Computing](https://justacademyin.github.io/justacademy/where-can-i-learn-cloud-computing)
 

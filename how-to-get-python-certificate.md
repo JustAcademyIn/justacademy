@@ -5,6 +5,8 @@
     <img src="https://justacademy.co/storage2/course_image/1709713400_course_image.webp" alt="How To Get Python Certificate">
   </a>
 </p>
+##How To Get Python Certificate
+
 To obtain a Python certification, you typically need to enroll in a certification program offered by educational institutions, online learning platforms, or professional organizations. These programs vary in length, cost, and difficulty, catering to different experience levels from beginners to advanced programmers. Upon selecting a suitable program, you will undergo training that covers essential Python programming concepts, tools, and applications. The curriculum might include lectures, assignments, projects, and exams to assess your knowledge and skills. After completing the coursework, you will be required to pass a certification exam. Successfully passing the exam demonstrates your proficiency in Python, and you will be awarded a certificate. This certification can enhance your resume, help validate your programming skills to employers, and potentially open up new job opportunities in the field of software development, data analysis, machine learning, and more.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -52,15 +54,15 @@ Each of these steps is crucial in offering a comprehensive and effective Python 
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Top 15 Software Testing Institute In India](https://www.linkedin.com/pulse/top-15-software-testing-institute-india-justacademy-san-jose-0zo2f?trackingId=zoqVA%2FRUey3zJSunMmQqyA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BNvzTf3fnQO%2BVBqBGA8b0%2Bw%3D%3D)
+[Django Vs Node Js](https://www.linkedin.com/pulse/django-vs-node-js-justacademy-thane-ynrcc?trackingId=D0PaklaV8MCdA3LKcgmwUg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BQUUDXGyzQlqUHLkfVC%2F2FQ%3D%3D)
 
-[Learn Android Studio With Java](https://www.linkedin.com/pulse/learn-android-studio-java-justacademy-pune-8nbac/)
+[Datacamp Machine Learning](https://www.linkedin.com/pulse/datacamp-machine-learning-justacademyderby-ps8ne?trackingId=lGEbkg53UQnw8W894kBVdQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BPi8IvO9YQ5y8xQZ23yq6yg%3D%3D)
 
-[S4 Hana Abap Coding](https://medium.com/@roneet705/s4-hana-abap-coding-a310bcdfa2c4)
+[Tableau Free Tutorials](https://medium.com/@shivamja27/tableau-free-tutorials-52ff3500e04d)
 
-[Abap On Hana Basics](https://medium.com/@roneet705/abap-on-hana-basics-bf00685b5603)
+[Java Online Training Institutes In Bangalore](https://medium.com/@roneet705/java-online-training-institutes-in-bangalore-93f0926bd767)
 
-[Basic Html Training](https://justacademyin.github.io/justacademy/basic-html-training)
+[SAP MM Course In Bangalore With Placement](https://justacademyin.github.io/Articles/SAP-MM-Course-In-Bangalore-With-Placement)
 
-[Html And Css Course](https://justacademyin.github.io/justacademy/html-and-css-course)
+[Software Training Institutes In Bangalore](https://justacademyin.github.io/justacademy/software-training-institutes-in-bangalore)
 

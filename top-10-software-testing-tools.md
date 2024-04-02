@@ -5,6 +5,7 @@
     <img src="https://justacademy.co/storage2/program_images/1704700438.webp" alt="Top 10 Software Testing Tools">
   </a>
 </p>
+##Top 10 Software Testing Tools
 As of my last update in 2023, among the numerous software testing tools available in the market, the top 10 that standout include Selenium, an open-source tool for web application testing, widely praised for its flexibility and integration capabilities. QTP/UFT, offered by Micro Focus, is notable for its user-friendly visual interface and extensive feature set for automated functional and regression testing. TestComplete is a versatile tool supporting desktop, mobile, and web applications, appreciated for its robust recording and playback features. JIRA, primarily known as a project management tool, includes powerful bug tracking and agile testing functionalities. LoadRunner, also from Micro Focus, is the go-to for performance testing, enabling simulation of thousands of users to test the behavior of applications under heavy loads. Apache JMeter, an open-source tool, excels in load testing and measuring the performance of web applications. TestRail provides comprehensive test case management, offering a seamless blend of management features and insightful reporting. Ranorex is praised for its detailed reporting and compatibility across different platforms, making it ideal for GUI and automated testing. Cucumber supports behavior-driven development (BDD), enabling easier communication and collaboration between developers, QA, and non-technical stakeholders. Lastly, Postman excels in API testing, allowing developers and testers to automate and streamline testing of web APIs. These tools collectively address a wide spectrum of testing needs, from functional to performance and API testing, catering to both developers and quality assurance professionals.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -58,15 +59,15 @@ These platforms and tools offer comprehensive training programs that cater to va
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Learn Sap Hana](https://www.linkedin.com/pulse/learn-sap-hana-justacademy-hyderabad-bflsc/)
+[Pmp Certification Training In Bangalore](https://www.linkedin.com/pulse/pmp-certification-training-bangalore-justacademy-chicago-fb3zf?trackingId=WyTXJY%2Fb2dngs%2B6ybOVclA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BCp0x2GOYQ7yuHLQJq%2Fwubg%3D%3D)
 
-[Free Code Camp Php](https://www.linkedin.com/pulse/free-code-camp-php-justacademy-jaipur-q1yge?trackingId=PEfArHmh11GAO9mpcX%2B7hw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B6gVpALX0TnilEAnvQeHuDw%3D%3D)
+[S4 Hana](https://www.linkedin.com/pulse/s4-hana-justacademy-delhi-5ogcc/)
 
-[Flutter Class Advance](https://medium.com/@AkashSingh2052/flutter-class-advance-c9793bc359ee)
+[Flutter App Tutorial For Beginners](https://medium.com/@justacademytraining/flutter-app-tutorial-for-beginners-ca493c40fd2c)
 
-[Salesforce Javascript](https://medium.com/@ranepooja/salesforce-javascript-8d2347cf412b)
+[Project Management Academy](https://medium.com/@kumarishimmi99/project-management-academy-3483bcd004c4)
 
-[Java Full Stack Developer Course Syllabus](https://justacademyin.github.io/justacademy/java-full-stack-developer-course-syllabus)
+[Mean Stack Web Development](https://justacademyin.github.io/justacademy/mean-stack-web-development)
 
-[Laravel Api Course](https://justacademyin.github.io/justacademy/laravel-api-course)
+[Free Php Course With Certificate](https://justacademyin.github.io/justacademy/free-php-course-with-certificate)
 

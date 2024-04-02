@@ -5,6 +5,8 @@
     <img src="https://justacademy.co/storage2/course_image/1709713400_course_image.webp" alt="Pre Requisite For Python">
   </a>
 </p>
+##Pre Requisite For Python
+
 Before diving into Python, it's beneficial to have a grasp on some fundamental concepts, although not strictly mandatory for everyone. First and foremost, basic understanding of programming concepts like what variables, control structures (if-statements, loops), and data types are can significantly ease the learning curve. While Python is beginner-friendly and often used as an introduction to programming, familiarity with these concepts enables a smoother transition into writing more complex programs. Additionally, having a grasp of simple mathematics will be advantageous, especially when dealing with data manipulation and analysis tasks. However, the beauty of Python lies in its simplicity and readability, making it possible for individuals even with no prior programming experience to start learning and applying Python effectively with the help of numerous resources and a strong community support.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -42,15 +44,15 @@ Ensuring students meet these prerequisites before starting a Python training pro
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Best Software Training And Placement Institutes In Bangalore](https://www.linkedin.com/pulse/best-software-training-placement-institutes-bangalore-jtq0c?trackingId=sFOoFrtbKVKw4Oiu3b%2FJQg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BH6KMNh6EQhC0bc0MnOGqbQ%3D%3D)
+[Best Website For Php Learning](https://www.linkedin.com/pulse/best-website-php-learning-justacademy-kolkata-hu61e?trackingId=rEpowqWtEbJrMHCdJuFhLw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BhsQsLwqxSU64UKgNHl%2FHuA%3D%3D)
 
-[Sap Sd Course Fees](https://www.linkedin.com/pulse/sap-sd-course-fees-justacademy-houston-mguwf?trackingId=Nj0MpgaE0Ql5nUs74QBabQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BnF3eASk8R%2BOWSu8GAkG%2FXw%3D%3D)
+[Best Website To Learn Javascript](https://www.linkedin.com/pulse/best-website-learn-javascript-justacademy-chandigarh-y7n8c?trackingId=Da48PuOwjI0fnb9wDxEppg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BGsnT7fdrREqkLqUmImc0GQ%3D%3D)
 
-[Best Free Course For Android Development](https://medium.com/@mahi3106/best-free-course-for-android-development-d5240f2d9edc)
+[Sap Abap Training And Certification](https://medium.com/@namusn/sap-abap-training-and-certification-d71883376039)
 
-[Interactive Html Course](https://medium.com/@shivamja27/interactive-html-course-9db5caa5ee8f)
+[Photoshop And Illustrator Classes](https://medium.com/@namusn/photoshop-and-illustrator-classes-73428d181ec1)
 
-[Javascript Training Courses](https://justacademyin.github.io/Articles/Javascript-Training-Courses)
+[SAP MM Training Institute In Hyderabad](https://justacademyin.github.io/Articles/SAP-MM-Training-Institute-In-Hyderabad)
 
-[Modern Javascript Tutorial](https://justacademyin.github.io/justacademy/modern-javascript-tutorial)
+[Python Training Institute](https://justacademyin.github.io/justacademy/python-training-institute)
 

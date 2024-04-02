@@ -5,6 +5,7 @@
     <img src="https://justacademy.co/storage2/program_images/1704700438.webp" alt="Certifications In Software Testing">
   </a>
 </p>
+##Certifications In Software Testing
 Software testing certifications are formal credentials that verify an individual's competency and proficiency in various aspects of software testing. These certifications are offered by recognized organizations and institutions and can cover a range of topics, from fundamental principles and testing methodologies to more advanced techniques like automation and security testing. Some popular certifications in the field include ISTQB (International Software Testing Qualifications Board) certifications, which are globally recognized and come in multiple levels from Foundation to Expert, and the CSTE (Certified Software Tester) offered by QAI Global Institute. Obtaining a certification in software testing can enhance a professional's credibility, potentially opening up more career opportunities, and demonstrating a commitment to maintaining high-quality standards in software development projects.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -66,15 +67,15 @@ Offering a structured training program that includes a range of these certificat
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Java W3](https://www.linkedin.com/pulse/java-w3-justacademy-berlin-snsxc?trackingId=E%2F4AQAKSiBEb9SWvoH%2FJ%2Fw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B9LRf%2B9vgRJ%2BRyqfmHudhjA%3D%3D)
+[Top Software Testing Training Institutes In India](https://www.linkedin.com/pulse/top-software-testing-training-institutes-india-v2alc?trackingId=MgszOwyu4kA%2Bku07Sf6Q6w%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BV3sjVNqrQV6LT8YmMJxhFA%3D%3D)
 
-[Flutter Course Period](https://www.linkedin.com/pulse/flutter-course-period-justacademy-vmzvc?trackingId=IwDEVmCXONIdO5Cy%2BN1xBQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BDLQ%2B50x3S7egnKpGc2XQEw%3D%3D)
+[Node Js Vs Python](https://www.linkedin.com/pulse/node-js-vs-python-justacademy-chicago-omjsf?trackingId=1jndAOk5%2FoHu6TvOqibmNA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BXfdKLa%2BZRG%2B541nAJnPQxg%3D%3D)
 
-[Free Figma Ux Design Ui Essentials Course](https://medium.com/@justacademytraining/free-figma-ux-design-ui-essentials-course-dd34892bb2ac)
+[Sap Sd Syllabus](https://medium.com/@abhidnya.1068/sap-sd-syllabus-640bc8ec8205)
 
-[Tableau Software Learning](https://medium.com/@ranemanish460/tableau-software-learning-76101bb32b7a)
+[Full Stack Web Development Institute](https://medium.com/@justacademytraining/full-stack-web-development-institute-0204b332b93f)
 
-[Advanced Java Skills](https://justacademyin.github.io/justacademy/advanced-java-skills)
+[Software Tester Free Online Course](https://justacademyin.github.io/justacademy/software-tester-free-online-course)
 
-[Software Testing Course In Bhubaneswar](https://justacademyin.github.io/justacademy/software-testing-course-in-bhubaneswar)
+[Free Courses To Learn Photoshop](https://justacademyin.github.io/justacademy/free-courses-to-learn-photoshop)
 

@@ -5,6 +5,7 @@
     <img src="https://justacademy.co/storage2/course_image/1709713400_course_image.webp" alt="Online Python Tutor">
   </a>
 </p>
+##Online Python Tutor
 Online Python Tutor is an educational tool developed by Philip Guo that provides a visual platform for learning and teaching the Python programming language, along with several other languages like Java, C, C++, and JavaScript. It allows users, especially beginners, to write Python code in a web-based interface and visualize the execution of their code step by step. This means that as the code runs, the tool graphically illustrates what happens with variables, data structures, function calls, and other programming operations in real-time. It is particularly useful for understanding how algorithms work and debugging purposes. The platform serves as a valuable resource for students, educators, and self-learners to grasp programming concepts more intuitively.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -48,15 +49,15 @@ In summary, online Python tutoring programs can offer a highly personalized and 
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[SAP Mm Training Online Free](https://www.linkedin.com/pulse/sap-mm-training-online-free-justacademy-bay-area-lqe4f/)
+[Best Software Testing Training Institute In Noida](https://www.linkedin.com/pulse/best-software-testing-training-institute-noida-justacademy-pune-jarcc?trackingId=7LTdTdI7zzOCsVhZb8LvCg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BURLYXo%2BCRPCij0ETJnelAQ%3D%3D)
 
-[Practical Machine Learning With Python](https://www.linkedin.com/pulse/practical-machine-learning-python-justacademy-sunnyvale-dvh3c?trackingId=ATeA11%2BBD4V4%2FUp6CgT1PA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BNFdqqfBkQamwMdOz7MGZnA%3D%3D)
+[Python Programming For Machine Learning](https://www.linkedin.com/pulse/python-programming-machine-learning-justacademy-stockport-hjhee?trackingId=%2BpINTAxwXC%2FgXJ8pV6Rv6w%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bjjks6g4uSqSiY706oaUeMg%3D%3D)
 
-[Learn How To Use Adobe Illustrator](https://medium.com/@akanshapatil/learn-how-to-use-adobe-illustrator-09767179c2b3)
+[Photoshop Indesign Course](https://medium.com/@kumarishimmi99/photoshop-indesign-course-bec38f588914)
 
-[Best Lightroom Training](https://medium.com/@AkashSingh2052/best-lightroom-training-8fc19422a3c7)
+[Sap Abap Institute Near Me](https://medium.com/@negishivu99/sap-abap-institute-near-me-b62507b0bbc1)
 
-[Python Developer Certification](https://justacademyin.github.io/justacademy/python-developer-certification)
+[Java Tutorialspoint](https://justacademyin.github.io/justacademy/java-tutorialspoint)
 
-[Best Way To Learn Angular 2](https://justacademyin.github.io/justacademy/best-way-to-learn-angular-2)
+[Python Training And Certification](https://justacademyin.github.io/justacademy/python-training-and-certification)
 

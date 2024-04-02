@@ -5,6 +5,7 @@
     <img src="https://justacademy.co/storage2/program_images/1704700438.webp" alt="Difference Between Manual And Automation Testing">
   </a>
 </p>
+##Difference Between Manual And Automation Testing
 Manual testing and automation testing are two fundamental approaches in the software testing domain, aimed at identifying bugs, errors, or any inconsistencies in a software product. Manual testing involves human testers meticulously going through software applications to identify defects without the aid of automation tools. This approach allows for a nuanced understanding of the user experience but can be time-consuming and prone to human error. On the other hand, automation testing utilizes software tools and scripts to conduct tests on the software automatically. This method is efficient for repetitive tasks, can handle a large volume of tests, and provides quick feedback, but it requires upfront time and resources for setting up tests and cannot interpret results with the intuitive understanding a human tester might. Hence, while manual testing offers insight into a user's experience with more nuanced observation, automation testing excels in efficiency, consistency, and the ability to execute numerous complex test cases swiftly.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -58,15 +59,15 @@ Understanding these differences is crucial for students as they navigate the wor
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[List Of Top 10 Java Training Institutes In Bangalore](https://www.linkedin.com/pulse/list-top-10-java-training-institutes-bangalore-hfwle?trackingId=0sscWztl5CW3lrMdL9ZEyA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BDG20AQYaSWe2d50JwV39vA%3D%3D)
+[Best Software Testing Training Institutes In Marathahalli](https://www.linkedin.com/pulse/best-software-testing-training-institutes-chule?trackingId=j8LnQyraRiGjW5mJE273Xw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B8iJAXExGSpWzkSgodJb9Bg%3D%3D)
 
-[Html Online Course](https://www.linkedin.com/pulse/html-online-course-justacademy-boston-6yede?trackingId=MA5LPAWma5NjM7g372XTmw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BTbY8fN%2BZSiWS3%2FqQQu1Jtw%3D%3D)
+[Best Software Training Institute In Chennai With Placement](https://www.linkedin.com/pulse/best-software-training-institute-chennai-placement-ck1tc?trackingId=w9irY56bP4EgtZX5FV9Gcg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BH6KMNh6EQhC0bc0MnOGqbQ%3D%3D)
 
-[Best Certification For Project Management](https://medium.com/@AkashSingh2052/best-certification-for-project-management-5ba84d1991c6)
+[Sap Abap Course Online](https://medium.com/@abhidnya.1068/sap-abap-course-online-98313ab2746d)
 
-[Full Form Of Python](https://medium.com/@ranemanish460/full-form-of-python-d2a42f324c91)
+[Python Crash Course 3rd Edition](https://medium.com/@shivamja27/python-crash-course-3rd-edition-6e71a1b2099b)
 
-[Software Testing Course With Placement](https://justacademyin.github.io/justacademy/software-testing-course-with-placement)
+[Manual Software Testing Course](https://justacademyin.github.io/justacademy/manual-software-testing-course)
 
-[React Vs Angular 2020](https://justacademyin.github.io/justacademy/react-vs-angular-2020)
+[Javascript On Line](https://justacademyin.github.io/justacademy/javascript-on-line)
 

@@ -5,6 +5,8 @@
     <img src="https://justacademy.co/storage2/course_image/1709713400_course_image.webp" alt="Core Python Topics">
   </a>
 </p>
+##Core Python Topics
+
 Core Python refers to the fundamental topics and concepts that form the base of Python programming. It includes understanding the syntax and basic data types (strings, lists, dictionaries, tuples, sets), control flow tools (if statements, loops), functions, modules, and error handling. Additionally, it covers more advanced concepts like object-oriented programming (OOP) which involves classes and objects, file handling for reading and writing data, and comprehension for concise coding. Mastery of these core topics is essential for any Python developer, as they provide the foundational knowledge required to tackle more complex problems and work with libraries and frameworks that extend Python's capabilities for various applications such as web development, data analysis, machine learning, and more.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -82,15 +84,15 @@ The training program should ideally combine theoretical understanding with pract
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Learn Sap S 4 Hana](https://www.linkedin.com/pulse/learn-sap-4-hana-justacademy-pune-sktsc/)
+[Learn Php From Scratch Free](https://www.linkedin.com/pulse/learn-php-from-scratch-free-justacademy-delhi-yahjc?trackingId=4hPcRfwoYhOjFwMU3uFzBA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BXd%2B4Zk9XQtOyhr1jBDUlIA%3D%3D)
 
-[Dot Net Course Fees](https://www.linkedin.com/pulse/dot-net-course-fees-justacademy-boston-orjkc?trackingId=bjrmoecjh0hoyLu771Egjw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BA1nZ1nP9T4epQeiwVmNY3A%3D%3D)
+[Angular Course Details](https://www.linkedin.com/pulse/angular-course-details-justacademy-beangaluru-nwc3c?trackingId=uqh0%2F7uFNMyyh0wy14hdjQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BpD6q2VILS9qcBdXR1J94fw%3D%3D)
 
-[SAP S4HANA Financial Accounting Certification](https://medium.com/@negishivu99/sap-s4hana-financial-accounting-certification-3844940c60ff)
+[Best Photoshop Instructors](https://medium.com/@justacademytraining/best-photoshop-instructors-4589c3835f7a)
 
-[Fastest Way To Learn Flutter](https://medium.com/@akanshapatil/fastest-way-to-learn-flutter-262ccf209c9d)
+[Photoshop Certificate Course Free](https://medium.com/@mistersumit961/photoshop-certificate-course-free-6d4783e78bba)
 
-[Python Training Institute In Noida](https://justacademyin.github.io/justacademy/python-training-institute-in-noida)
+[Advanced Digital Marketing](https://justacademyin.github.io/justacademy/advanced-digital-marketing)
 
-[Laravel 7 Course](https://justacademyin.github.io/justacademy/laravel-7-course)
+[Advance Java Full Course](https://justacademyin.github.io/justacademy/advance-java-full-course)
 

@@ -5,6 +5,8 @@
     <img src="https://justacademy.co/storage2/course_image/1676637576_course_image.webp" alt="Full Course Of Photoshop">
   </a>
 </p>
+##Full Course Of Photoshop
+
 A full course on Adobe Photoshop comprehensively covers the in-depth functionalities of this industry-standard image editing software, designed to equip learners with the skills necessary to manipulate, enhance, and creatively alter photographs and graphics. Such a course typically spans from fundamental concepts, including understanding the user interface, layers, and basic tools, to more advanced techniques such as photo retouching, color correction, creating composite images, and digital painting. Additionally, it explores the use of filters, text, and vector graphics tools, along with professional workflow tips like non-destructive editing practices, using Photoshop plugins, and preparing images for both print and digital use. By the end of the course, students are expected to have a comprehensive understanding of Photoshop's capabilities, enabling them to tackle a wide range of graphic design and photography projects with professionalism and creativity.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -84,15 +86,15 @@ This structure aims to offer students a comprehensive, step-by-step approach to 
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Best Php Learning Website](https://www.linkedin.com/pulse/best-php-learning-website-justacademy-pune-dlpec?trackingId=YY5TvidqLnQ7lWG4XoTsYA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BURLYXo%2BCRPCij0ETJnelAQ%3D%3D)
+[Cloud Computing Classes Near Me](https://www.linkedin.com/pulse/cloud-computing-classes-near-me-justacademy-delhi-lha2c?trackingId=suIo9Gqq6lvhk9POhJnlTQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BCQZL415sSKua%2B2WOwIB%2Fog%3D%3D)
 
-[Class Asp](https://www.linkedin.com/pulse/class-asp-justacademyderby-yo3de?trackingId=PAnUBc0bsdZcCb7no74ZGQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BkRT1kc0YQHOTvx7WftmAwA%3D%3D)
+[Best Software Training Institute In Hyderabad](https://www.linkedin.com/pulse/best-software-training-institute-hyderabad-justacademy-kolkata-ufvxc?trackingId=inPxuVbcY7Bxc%2BGni0sk5w%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BiAa60KZ1TYi9BxLlFQwGgg%3D%3D)
 
-[Full Stack Developer Course Free Download](https://medium.com/@akanshapatil/full-stack-developer-course-free-download-1a4a457a3481)
+[Python Bootcamp](https://medium.com/@surajvaishnav5015/python-bootcamp-837d1107d738)
 
-[Java Training Institutes In Bangalore With 100 Placement](https://medium.com/@prempja40/java-training-institutes-in-bangalore-with-100-placement-1d34ef65b44e)
+[Project Management Classes Near Me](https://medium.com/@mahi3106/project-management-classes-near-me-ad1c01560fca)
 
-[Software Testing Course In Hyderabad Fees And Duration](https://justacademyin.github.io/justacademy/software-testing-course-in-hyderabad-fees-and-duration)
+[Stanford Python Course](https://justacademyin.github.io/justacademy/stanford-python-course)
 
-[Aws Training Tutorial](https://justacademyin.github.io/justacademy/aws-training-tutorial)
+[Full Stack Web Development Training](https://justacademyin.github.io/Articles/Full-Stack-Web-Development-Training)
 

@@ -5,6 +5,8 @@
     <img src="https://justacademy.co/storage2/course_image/1709713400_course_image.webp" alt="Python Basic Topics">
   </a>
 </p>
+##Python Basic Topics
+
 Python is a high-level, interpreted programming language known for its simplicity and readability, making it an excellent choice for beginners and experienced developers alike. Core topics in Python include variables and data types for storing information, control flow statements such as if-else and loops (for, while) to manage the flow of execution, functions for encapsulating code blocks for reusability, and data structures (lists, dictionaries, sets, and tuples) for organizing data efficiently. Python also emphasizes object-oriented programming, enabling users to create custom data models using classes and objects. Additionally, Python supports modules and packages, facilitating code modularization and reuse. With a robust standard library and a vibrant ecosystem of third-party packages, Python is versatile, being widely used in web development, data analysis, artificial intelligence, scientific computing, and more.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -54,15 +56,15 @@ This structured approach to basic Python topics will provide a comprehensive fou
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Node Full Form](https://www.linkedin.com/pulse/node-full-form-justacademy-pune-hlmrc?trackingId=OpS3x4w2h1UEWlJF4scKTA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B29WLpZO4T7eqWsLqmXNgZw%3D%3D)
+[Advanced Machine Learning Projects](https://www.linkedin.com/pulse/advanced-machine-learning-projects-justacademy-birmingham-tgwrf?trackingId=vIZKqTlJIZgtpynGeasXxw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BVLUv9mnMT2aZOSnk9lhqAw%3D%3D)
 
-[Best Software Testing Course In Pune With Placement](https://www.linkedin.com/pulse/best-software-testing-course-pune-placement-ccizc?trackingId=m7CmSgaNSlVUeqXZ0VtHYA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BO6zCmHqaTSmsGbbNTRP%2FeA%3D%3D)
+[Nw Js](https://www.linkedin.com/pulse/nw-js-justacademy-kolkata-snafe?trackingId=7XSMwB%2FxKz%2BTlt1jKzQpvw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B57ggr4WVTUuBeEA%2FxPy55A%3D%3D)
 
-[Alteryx Solution](https://medium.com/@namusn/alteryx-solution-0bc30eaf2d93)
+[Html Css Training Online](https://medium.com/@AkashSingh2052/html-css-training-online-e8e85efbf545)
 
-[Learn To Code Android Apps Free](https://medium.com/@ranepooja/learn-to-code-android-apps-free-5d95e5e94860)
+[Free Azure Devops Training](https://medium.com/@negishivu99/free-azure-devops-training-b0e088f33ad5)
 
-[Java Bootcamp Free](https://justacademyin.github.io/justacademy/java-bootcamp-free)
+[Full Java Course](https://justacademyin.github.io/Articles/Full-Java-Course)
 
-[Photoshop Training London](https://justacademyin.github.io/justacademy/photoshop-training-london)
+[Learn Object Oriented Php](https://justacademyin.github.io/justacademy/learn-object-oriented-php)
 

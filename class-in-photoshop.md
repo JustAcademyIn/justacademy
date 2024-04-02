@@ -5,6 +5,8 @@
     <img src="https://justacademy.co/storage2/course_image/1676637576_course_image.webp" alt="Class In Photoshop">
   </a>
 </p>
+##Class In Photoshop
+
 In Photoshop, the term "class" often refers to a categorization within its scripting or actions feature rather than a traditional programming or educational context. In this environment, a class would be a grouping or classification of objects, tools, or features that share common attributes or functionalities. For example, in Photoshop's scripting language, JavaScript, different elements of the application such as layers, documents, and colors may be represented as classes. Each class defines properties (attributes) and methods (functions) specific to the type of object it represents, allowing for structured and efficient manipulation of these elements through code. This concept enables users to automate tasks, customize workflows, and extend Photoshop's capabilities beyond its default settings by targeting and interacting with specific classes of objects within the application.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -52,15 +54,15 @@ Remember, the key to a successful training program in Photoshop is a balance of 
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Android Development With Kotlin Course](https://www.linkedin.com/pulse/android-development-kotlin-course-justacademy-sqmac/)
+[S 4 Hana Training](https://www.linkedin.com/pulse/4-hana-training-software-training-mountain-view-kutic/)
 
-[Best Java Training Institutes In Visakhapatnam](https://www.linkedin.com/pulse/best-java-training-institutes-visakhapatnam-justacademy-thane-lokte?trackingId=rSPAYVaAn80G%2Bqscn2hiDg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B8x4oZRFoSmO4CZ5ThOfedg%3D%3D)
+[Azure Cloud Computing Services](https://www.linkedin.com/pulse/azure-cloud-computing-services-justacademy-sunnyvale-bjfwc?trackingId=dw22YoX9JkwcbeOqbxUVjg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BJVVM%2Fef%2BR3WBKPYq3pagGw%3D%3D)
 
-[Figma To Wordpress](https://medium.com/@mahi3106/figma-to-wordpress-101ce7aab4aa)
+[Adobe Photoshop Cc Essentials Training Course Free](https://medium.com/@kumarishimmi99/adobe-photoshop-cc-essentials-training-course-free-84806d9700d9)
 
-[Alteryx Cost](https://medium.com/@prempja40/alteryx-cost-58722063ad01)
+[Python Interactive Mode Online](https://medium.com/@mahi3106/python-interactive-mode-online-c585ca0bf31e)
 
-[Full Stack Java Developer Course In Hyderabad](https://justacademyin.github.io/justacademy/full-stack-java-developer-course-in-hyderabad)
+[Professional Javascript For Web Developers](https://justacademyin.github.io/justacademy/professional-javascript-for-web-developers)
 
-[Intro Course](https://justacademyin.github.io/justacademy/intro-course)
+[Software Training Institutes In Chennai](https://justacademyin.github.io/justacademy/software-training-institutes-in-chennai)
 

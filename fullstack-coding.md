@@ -5,6 +5,7 @@
     <img src="https://justacademy.co/storage2/program_images/1704700371.webp" alt="Fullstack Coding">
   </a>
 </p>
+##Fullstack Coding
 Full-stack coding refers to the development of both the front-end (client-side) and back-end (server-side) portions of a web application or site. A full-stack developer has the skills and knowledge to create a complete, functioning web product by handling everything from the user interface and user experience design to the databases and server infrastructure. This includes proficiency in a variety of programming languages, frameworks, and technologies. For example, they might use HTML, CSS, and JavaScript for the front-end, and languages like Python, Ruby, or Java for the back-end, alongside knowledge of database systems such as MySQL or MongoDB. Full-stack coding is highly valued for its versatility, offering a comprehensive approach to web development that covers all aspects of building, deploying, and maintaining web applications.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -52,15 +53,15 @@ Offering training in these areas will provide students with a solid foundation i
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[SAP Mm Free Training](https://www.linkedin.com/pulse/sap-mm-free-training-justacademy-bay-area-kdd5f/)
+[Best Way To Learn Android Development](https://www.linkedin.com/pulse/best-way-learn-android-development-justacademy-5uj3c/)
 
-[Free Software Testing Courses](https://www.linkedin.com/pulse/free-software-testing-courses-justacademy-beangaluru-2hsuc?trackingId=JcY%2BubTHHqmCmu%2BLdx3BwQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BEXRT6JxjTbqACzyYMBukQQ%3D%3D)
+[Apps To Develop](https://www.linkedin.com/pulse/apps-develop-justacademy-ahmedabad-doqbe?trackingId=MUAUTQv0QLOGDt00DyaYZQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BaDgp3xTAQPe9zxsqrS35EA%3D%3D)
 
-[Android Learn Kotlin](https://medium.com/@shivamja27/android-learn-kotlin-81ba3f177136)
+[Flutter Advanced Tutorial Pdf](https://medium.com/@AkashSingh2052/flutter-advanced-tutorial-pdf-beb1ff21ad42)
 
-[Android Development Training Course](https://medium.com/@pzade254/android-development-training-course-005f4d0dfb3d)
+[Best Free Course For Android Development](https://medium.com/@mahi3106/best-free-course-for-android-development-d5240f2d9edc)
 
-[Software Testing Courses Details](https://justacademyin.github.io/justacademy/software-testing-courses-details)
+[Software Training And Placement Institutes In Hyderabad](https://justacademyin.github.io/justacademy/software-training-and-placement-institutes-in-hyderabad)
 
-[Adobe Photoshop Cc Training](https://justacademyin.github.io/justacademy/adobe-photoshop-cc-training)
+[Java Course In Coimbatore](https://justacademyin.github.io/justacademy/java-course-in-coimbatore)
 

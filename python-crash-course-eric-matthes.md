@@ -5,6 +5,7 @@
     <img src="https://justacademy.co/storage2/course_image/1709713400_course_image.webp" alt="Python Crash Course Eric Matthes">
   </a>
 </p>
+##Python Crash Course Eric Matthes
 "Python Crash Course" by Eric Matthes is a comprehensive introduction to the Python programming language, designed for beginners with no prior programming experience. As an immensely popular resource, this book covers the essentials of Python through a hands-on, project-based approach, encouraging learners to build projects and solve problems from the outset. Matthes explains concepts in clear, concise language, making complex ideas accessible to newcomers. The book is divided into two parts: the first covers Python programming basics, such as variables, lists, classes, and loops, while the second part focuses on applying these basics to real-world projects in areas such as web development, data visualization, and game creation. This structure not only teaches the language but also how to think like a programmer, making "Python Crash Course" an effective pathway for readers to quickly gain proficiency and confidence in Python programming.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -52,15 +53,15 @@ Using "Python Crash Course" by Eric Matthes as a core textbook for a training pr
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[React Basic Concepts](https://www.linkedin.com/pulse/react-basic-concepts-justacademy-jaipur-gdbxc?trackingId=o7oX87OWkyyCWf%2FwrAXnXw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BIXUBIWFOQ8%2BPAHGixoaE%2FQ%3D%3D)
+[Machine Learning Nodejs](https://www.linkedin.com/pulse/machine-learning-nodejs-justacademy-portland-ttlvf?trackingId=NOMo4olEIOzoLuLNN%2B4%2Bog%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bis%2Ftn4MqQ4e8qp62a5t3uQ%3D%3D)
 
-[Php Online Course Free](https://www.linkedin.com/pulse/php-online-course-free-justacademy-ahmedabad-vxnie?trackingId=%2BvBasxLDvllT%2FovGX%2FBIOQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BsgxkE5t4R9iHWE9515x%2Fgw%3D%3D)
+[Best Courses For Deep Learning](https://www.linkedin.com/pulse/best-courses-deep-learning-justacademy-bradford-3b3fe?trackingId=ltA4BDRnzghuZ8UO5luh8w%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BU6qvup%2BkTG%2BWwu84oCWCCA%3D%3D)
 
-[Best Training Institute In Bangalore For Java Glassdoor](https://medium.com/@namusn/best-training-institute-in-bangalore-for-java-glassdoor-eb21639c3bab)
+[Master Java Programming](https://medium.com/@ranemanish460/master-java-programming-4753bea47072)
 
-[Photoshop 2022 Essential Training](https://medium.com/@akanshapatil/photoshop-2022-essential-training-a6f3d2d07139)
+[Free Course For Android App Development](https://medium.com/@roneet705/free-course-for-android-app-development-27c1baf84a86)
 
-[Azure Basics For Beginners](https://justacademyin.github.io/Articles/Azure-Basics-For-Beginners)
+[Mastering Javascript](https://justacademyin.github.io/Articles/Mastering-Javascript)
 
-[Freelance Full Stack Developer](https://justacademyin.github.io/justacademy/freelance-full-stack-developer)
+[Best Software Testing Courses In Bangalore](https://justacademyin.github.io/justacademy/best-software-testing-courses-in-bangalore)
 

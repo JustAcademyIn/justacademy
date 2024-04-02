@@ -5,6 +5,7 @@
     <img src="https://justacademy.co/storage2/program_images/1704700371.webp" alt="Angular Full Stack Developer">
   </a>
 </p>
+##Angular Full Stack Developer
 An Angular Full Stack Developer is a software engineer specialized in using Angular, a popular front-end web application framework, as part of their toolkit to develop applications. Alongside Angular, which is used to create a dynamic and responsive user interface, a Full Stack Developer also has expertise in back-end technologies, databases, and sometimes server, network, and hosting environments. This role involves a comprehensive understanding of the entire web development process, from concept to deployment, and requires skills in working with RESTful services, HTML, CSS, JavaScript, and other related technologies. Angular Full Stack Developers are responsible for building and maintaining the front end of web applications while ensuring seamless integration with the server side, making them crucial in delivering a complete web application solution.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -44,15 +45,15 @@ This holistic training program is designed to equip students with the necessary 
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Salesforce Instructor Certification](https://www.linkedin.com/pulse/salesforce-instructor-certification-justacademy-chicago-umgmf?trackingId=YoPcWF1XBZVqeEZ26Oeegw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BJKbgFmdjTiWIqbluH0xCXQ%3D%3D)
+[Machine Learning In Android](https://www.linkedin.com/pulse/machine-learning-android-justacademy-bristol-wa4se?trackingId=HhMob7p%2Fino8gMlED6ZlUA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BuQw2P2SXTeivwplSXi08Jg%3D%3D)
 
-[Best Software Testing Institutes In Pune](https://www.linkedin.com/pulse/best-software-testing-institutes-pune-justacademy-coimbatore-tr06e?trackingId=CpmcZKiYGjOTWd5cw0bM%2FA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B7mNmKz24Tx%2BfRDkV0HwLig%3D%3D)
+[Salesforce Certification Free Online](https://www.linkedin.com/pulse/salesforce-certification-free-online-justacademy-mumbai-c3lrc?trackingId=aMBqVc5Lb2LbMb8vti38Ew%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_showcase_admin%3BJUoY9p%2BbQrqxVPWmOWmq6Q%3D%3D)
 
-[Sap Abap Training](https://medium.com/@kamblerajas684/sap-abap-training-bb1797a5aae3)
+[Photoshop Courses With Certificate](https://medium.com/@mistersumit961/photoshop-courses-with-certificate-c1890ca4cc9a)
 
-[Flutter Java](https://medium.com/@akanshapatil/flutter-java-5f21a66c2bc8)
+[Full Stack Developer Free Online Course](https://medium.com/@namusn/full-stack-developer-free-online-course-58d40a4caaa0)
 
-[Javascript Training Courses](https://justacademyin.github.io/Articles/Javascript-Training-Courses)
+[Fullstack Javascript](https://justacademyin.github.io/Articles/Fullstack-Javascript)
 
-[Sap Sd Training In Hyderabad](https://justacademyin.github.io/justacademy/sap-sd-training-in-hyderabad)
+[Laravel Api Course](https://justacademyin.github.io/justacademy/laravel-api-course)
 

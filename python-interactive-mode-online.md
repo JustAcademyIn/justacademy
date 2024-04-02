@@ -5,6 +5,8 @@
     <img src="https://justacademy.co/storage2/course_image/1709713400_course_image.webp" alt="Python Interactive Mode Online">
   </a>
 </p>
+##Python Interactive Mode Online
+
 Python interactive mode, also known as the Python shell or REPL (Read-Eval-Print Loop), is an invaluable tool for programmers and learners alike to experiment with Python code in real-time. In interactive mode, users can type Python code directly into a terminal or command prompt, and the Python interpreter executes the code immediately, displaying the results. This mode facilitates a hands-on learning approach, allowing users to test snippets of code, debug, and experiment with Python's vast ecosystem of libraries and functions without the need to create a complete script. Online platforms have made access to Python's interactive mode even more convenient by providing web-based interfaces where users can enter and execute Python code in their browsers without needing to install Python on their local machines. These platforms are excellent resources for practice, sharing code, and quickly testing out ideas in a Python environment.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -46,15 +48,15 @@ By structuring your training program with these points, students will get a comp
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Cloud Computing Course In Chandigarh](https://www.linkedin.com/pulse/cloud-computing-course-chandigarh-justacademy-berlin-tx3jc?trackingId=5vdkISi5pFLHuDnlYm4lzA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bv3waDY%2FCQ%2FumkrzSJz7bNQ%3D%3D)
+[Learn Python Algorithms](https://www.linkedin.com/pulse/learn-python-algorithms-justacademy-ahmedabad-8uepe?trackingId=X2AOIBjnwnH6CCG5y2N6RQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BejZbnVSUSciRC3KGqYoFiw%3D%3D)
 
-[S 4 Hana Sap](https://www.linkedin.com/pulse/4-hana-sap-justacademy-upm1c/)
+[Diploma In Digital Marketing](https://www.linkedin.com/pulse/diploma-digital-marketing-justacademy-coventry-jmq9e?trackingId=efMDyixEU3c5sXbmePcI7w%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BvasO6SUGTP2oKUhUaDM59w%3D%3D)
 
-[Tableau Training For Beginners](https://medium.com/@prempja40/tableau-training-for-beginners-3612f7ba2012)
+[Html Javascript & Bootstrap Certification Course](https://medium.com/@mahi3106/html-javascript-bootstrap-certification-course-37340714f7a7)
 
-[Java Training Institute In Noida](https://medium.com/@ranemanish460/java-training-institute-in-noida-484676fc9f5a)
+[Sap Ewm Abap Training](https://medium.com/@AkashSingh2052/sap-ewm-abap-training-7b2042b1bd32)
 
-[Digital Marketing Course Chicago](https://justacademyin.github.io/justacademy/digital-marketing-course-chicago)
+[Best Free Php Course](https://justacademyin.github.io/justacademy/best-free-php-course)
 
-[Javascript Vs Java](https://justacademyin.github.io/justacademy/javascript-vs-java)
+[Amazon Web Server Tutorial](https://justacademyin.github.io/justacademy/amazon-web-server-tutorial)
 

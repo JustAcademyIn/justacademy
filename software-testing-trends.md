@@ -5,6 +5,7 @@
     <img src="https://justacademy.co/storage2/program_images/1704700438.webp" alt="Software Testing Trends">
   </a>
 </p>
+##Software Testing Trends
 As of my last update in 2023, software testing has been rapidly evolving, driven by the need to deliver high-quality software at an unprecedented pace due to agile and DevOps practices. Key trends include the incorporation of Artificial Intelligence (AI) and Machine Learning (ML) into testing processes, enabling predictive analytics, smarter test automation, and enhanced defect tracking. The shift-left approach is becoming mainstream, embedding testing early in the development lifecycle to identify defects sooner. Continuous Testing is integral to Continuous Integration/Continuous Delivery (CI/CD) pipelines, ensuring software reliability at speed. Cloud-based testing platforms are on the rise, offering scalable, flexible testing environments. There's also a growing emphasis on security testing, given the increasing threat landscape, making it a critical part of the software development lifecycle. These trends reflect the industry's push towards more efficient, intelligent, and secure software delivery mechanisms.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -52,15 +53,15 @@ Incorporating these trends into a training program would provide students with a
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Android Training Courses](https://www.linkedin.com/pulse/android-training-courses-justacademy-mumbai-dgyuf/)
+[Salesforce Service Cloud Course](https://www.linkedin.com/pulse/salesforce-service-cloud-course-justacademy-thane-ktufc?trackingId=UOWZJKnHLrrTn3KfcA8IGA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B5LFFxHfxSIO4W925HATEJA%3D%3D)
 
-[Laravel React Course](https://www.linkedin.com/pulse/laravel-react-course-justacademy-boston-pyfee?trackingId=u4WRWXk4fiLAhjrvoZN%2Bow%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BJZkpBKQJT0CqKHGVOkLUTQ%3D%3D)
+[Advanced Java Online Course](https://www.linkedin.com/pulse/advanced-java-online-course-justacademy-ahmedabad-eup9c?trackingId=bdc1I%2FKOf5NhqaDQ4faKSg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BG0jd%2Fn72TAC0suNcPZMgHQ%3D%3D)
 
-[Best Software Testing Certification](https://medium.com/@surajvaishnav5015/best-software-testing-certification-3a8d39b28d72)
+[Sap Abap Developer Certification](https://medium.com/@shivamja27/sap-abap-developer-certification-c8c845a460c0)
 
-[Advanced Python Programming Tutorial](https://medium.com/@namusn/advanced-python-programming-tutorial-a574a88f32d9)
+[Figma Intro](https://medium.com/@negishivu99/figma-intro-5383a2362660)
 
-[Best Institute For Software Testing](https://justacademyin.github.io/justacademy/best-institute-for-software-testing)
+[What Is SAP MM Course](https://justacademyin.github.io/Articles/What-Is-SAP-MM-Course)
 
-[Online Java Courses With Certificate Of Completion](https://justacademyin.github.io/justacademy/online-java-courses-with-certificate-of-completion)
+[Full Stack Tech Stack](https://justacademyin.github.io/justacademy/full-stack-tech-stack)
 

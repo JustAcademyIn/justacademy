@@ -5,6 +5,7 @@
     <img src="https://justacademy.co/storage2/program_images/1704700371.webp" alt="Freelance Full Stack Developer">
   </a>
 </p>
+##Freelance Full Stack Developer
 A freelance full stack developer is a self-employed professional who has the expertise to handle both the front-end and back-end aspects of web development. These individuals possess a comprehensive skill set that allows them to work on the user interface, server-side functionalities, database management, and everything in between. Being freelance, they operate independently or under short-term contracts for various clients, offering flexibility and a wide range of services. This type of developer is highly sought after for their ability to oversee the entirety of a web development project, from conception to deployment, ensuring a cohesive and functional digital product without the need to hire multiple specialists.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -52,15 +53,15 @@ By following these points in your training program, students can develop the ski
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Learn To Code Javascript](https://www.linkedin.com/pulse/learn-code-javascript-software-training-mountain-view-r5ihc?trackingId=DXnlEGcWzwqTE8EeNgGfoQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BZLKrYkZlRCaOOfAKGc47ew%3D%3D)
+[Free Ai Ml Courses](https://www.linkedin.com/pulse/free-ai-ml-courses-justacademy-hyderabad-uo9hc?trackingId=8Gqv0OpxupvuTjc4%2BiFnQw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BDVbRKUgIQU%2Bm75jg%2BU5m6w%3D%3D)
 
-[Best Free Course For Android Development](https://www.linkedin.com/pulse/best-free-course-android-development-justacademy-sunnyvale-onqwc/)
+[Best Js Course](https://www.linkedin.com/pulse/best-js-course-justacademy-bradford-kgsae?trackingId=kFkmvBIa7Qas%2B613UqbVIQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BU6qvup%2BkTG%2BWwu84oCWCCA%3D%3D)
 
-[Sap Abap Free Certification](https://medium.com/@justacademytraining/sap-abap-free-certification-0e15ddb3bae9)
+[Android Development Training](https://medium.com/@shivamja27/android-development-training-2bef65949dd5)
 
-[Adobe Illustrator Cc Essentials Training Course](https://medium.com/@roneet705/adobe-illustrator-cc-essentials-training-course-7414cc39d35f)
+[Sap Abap For Beginners](https://medium.com/@shivamja27/sap-abap-for-beginners-6b1d97294496)
 
-[Cloud Computing Course With Placement In Pune](https://justacademyin.github.io/justacademy/cloud-computing-course-with-placement-in-pune)
+[Software Development Certificate Programs](https://justacademyin.github.io/justacademy/software-development-certificate-programs)
 
-[Azure Technology Tutorial](https://justacademyin.github.io/justacademy/azure-technology-tutorial)
+[Mern Meaning](https://justacademyin.github.io/justacademy/mern-meaning)
 

@@ -5,6 +5,7 @@
     <img src="https://justacademy.co/storage2/program_images/1704700438.webp" alt="Testing Course">
   </a>
 </p>
+##Testing Course
 A testing course is designed to equip individuals with the knowledge and skills necessary to carry out effective software testing. The course typically covers various aspects of testing including fundamental concepts, types of testing (such as unit testing, integration testing, system testing, and acceptance testing), test design techniques, test management, and the use of testing tools. Participants learn about the software development lifecycle and the role of testing within it, aiming to ensure the quality, reliability, and performance of software products. Through theoretical lessons and practical exercises, a testing course aims to prepare individuals for roles such as test analysts, test engineers, and quality assurance professionals, emphasizing the importance of testing in producing software that meets or exceeds stakeholders' expectations.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -44,15 +45,15 @@ These points provide a comprehensive structure for a training program aimed at e
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[React Js Full Stack](https://www.linkedin.com/pulse/react-js-full-stack-justacademy-jaipur-uahce?trackingId=Ey7%2FXnu%2FOltWvNOEjT6vRg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BzoGgv%2F2GTOq26q6ITzj9KQ%3D%3D)
+[Php Bootcamp Online](https://www.linkedin.com/pulse/php-bootcamp-online-justacademy-boston-4ozpe?trackingId=mv7MGI6mN%2BjXpM6V35B34w%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BJZkpBKQJT0CqKHGVOkLUTQ%3D%3D)
 
-[Top Flutter Courses](https://www.linkedin.com/pulse/top-flutter-courses-justacademy-mumbai-yybbc/)
+[Salesforce Training With Placement](https://www.linkedin.com/pulse/salesforce-training-placement-justacademy-mumbai-a3czc?trackingId=gGgi5oq%2FPNXuRg0aMYA6Qw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_showcase_admin%3BJUoY9p%2BbQrqxVPWmOWmq6Q%3D%3D)
 
-[Azure Devops Tutorial For Beginners Ppt](https://medium.com/@kumarishimmi99/azure-devops-tutorial-for-beginners-ppt-1d60d2d28724)
+[Kotlin Associate Android Developer Certification](https://medium.com/@justacademytraining/kotlin-associate-android-developer-certification-2ab6eaa87483)
 
-[Sap Abap Certification Training](https://medium.com/@namusn/sap-abap-certification-training-00f93d275acb)
+[Full Stack Programming Course](https://medium.com/@sagarawat89/full-stack-programming-course-0a936b65a79b)
 
-[Learn Full Stack Development Online Free](https://justacademyin.github.io/justacademy/learn-full-stack-development-online-free)
+[Python Course Fees In Indore](https://justacademyin.github.io/justacademy/python-course-fees-in-indore)
 
-[Ios App Development On Windows](https://justacademyin.github.io/justacademy/ios-app-development-on-windows)
+[Php Coding Bootcamp](https://justacademyin.github.io/justacademy/php-coding-bootcamp)
 

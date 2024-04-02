@@ -5,6 +5,8 @@
     <img src="https://justacademy.co/storage2/course_image/1709713400_course_image.webp" alt="Python Practice Websites">
   </a>
 </p>
+##Python Practice Websites
+
 Python practice websites offer an invaluable resource for both beginners and experienced developers seeking to enhance their Python programming skills. These platforms, such as LeetCode, HackerRank, Codecademy, and Exercism, provide a wide array of challenges and projects ranging from basic syntax and control structures to complex algorithms and data structures. They cater to a variety of skill levels and interests, enabling users to learn at their own pace, test their coding abilities, and receive immediate feedback on their solutions. By engaging with these communities, users can not only improve their coding proficiency but also prepare for technical interviews, connect with other learners, and build a portfolio of projects. These sites thus serve as a crucial tool for anyone looking to delve deeper into Python programming or enhance their career prospects in the tech industry.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -46,15 +48,15 @@ By engaging with these platforms, students can effectively enhance their Python 
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Html Best Course](https://www.linkedin.com/pulse/html-best-course-justacademy-boston-kleve?trackingId=fcsVOfAH1YaUZ%2BLmvPWKww%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BTbY8fN%2BZSiWS3%2FqQQu1Jtw%3D%3D)
+[Best Software Testing Course](https://www.linkedin.com/pulse/best-software-testing-course-justacademy-thane-5i3kc?trackingId=pmL4XdfZvmEzOAZXrwFRpw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BWw%2F%2F%2Fw1%2FSRCju0LBZ%2BbokA%3D%3D)
 
-[Pmp Course Duration](https://www.linkedin.com/pulse/pmp-course-duration-justacademy-mumbai-qhk8c?trackingId=TpZjs2dr7wmNLrk%2FNdpKKQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_showcase_admin%3B4hzOhjOyRsS4BMzXWRzbRw%3D%3D)
+[React Native Online](https://www.linkedin.com/pulse/react-native-online-justacademyderby-mvsje?trackingId=vLog%2FYIXRSVdUwoQBebT9Q%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BkRT1kc0YQHOTvx7WftmAwA%3D%3D)
 
-[Full Stack Web Development Course Free](https://medium.com/@prempja40/full-stack-web-development-course-free-cadc910a923f)
+[Best Course On Html And Css](https://medium.com/@mahi3106/best-course-on-html-and-css-6e482ff1bd2e)
 
-[HANA S4](https://medium.com/@kamblerajas684/hana-s4-eb955807b7d5)
+[Best Html Course For Beginners](https://medium.com/@abhidnya.1068/best-html-course-for-beginners-ed3d61adcc62)
 
-[Python Training In London](https://justacademyin.github.io/justacademy/python-training-in-london)
+[Best Website To Learn Php Free](https://justacademyin.github.io/justacademy/best-website-to-learn-php-free)
 
-[Pmp Certification Fees In India](https://justacademyin.github.io/justacademy/pmp-certification-fees-in-india)
+[Introduction To Javascript](https://justacademyin.github.io/justacademy/introduction-to-javascript)
 

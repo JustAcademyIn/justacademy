@@ -5,6 +5,7 @@
     <img src="https://justacademy.co/storage2/program_images/1704700438.webp" alt="Best Software Testing Course For Beginners">
   </a>
 </p>
+##Best Software Testing Course For Beginners
 For beginners looking to dive into the world of software testing, the "ISTQB Certified Tester Foundation Level (CTFL)" course stands out as an excellent starting point. This course provides a comprehensive introduction to the fundamentals of software testing, covering key concepts, techniques, and principles crucial for building a strong foundation in the field. It is designed to prepare participants for the ISTQB CTFL certification, a globally recognized qualification that proves an individual's understanding of the essential aspects of software testing. The curriculum typically includes topics such as test design techniques, test management, and understanding software development processes, making it ideal for those new to software testing. Combining theoretical knowledge with practical examples, the course suits a wide range of aspiring IT professionals, from developers who wish to understand testing principles to those specifically aiming for a career in software testing.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -40,15 +41,15 @@ Each of these courses equips beginners with different aspects of software testin
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Flutter Coaching Near Me](https://www.linkedin.com/pulse/flutter-coaching-near-me-justacademy-39msc/)
+[React Js Topics](https://www.linkedin.com/pulse/react-js-topics-justacademy-brisbane-fsjke?trackingId=5mcaRugbEbiwn%2BKR74MFVQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B5cPDORNwQlqWF%2BECY5%2Fsgw%3D%3D)
 
-[Oop Js](https://www.linkedin.com/pulse/oop-js-justacademy-ahmedabad-thnhe?trackingId=LlpDv%2BgKlJrPOebiS8I5uw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BaDgp3xTAQPe9zxsqrS35EA%3D%3D)
+[Sap S4 Hana Training](https://www.linkedin.com/pulse/sap-s4-hana-training-justacademy-kolkata-ae5fc/)
 
-[Flutter Basic To Advanced](https://medium.com/@AkashSingh2052/flutter-basic-to-advanced-44b5ca7033e2)
+[Alteryx For Beginners](https://medium.com/@surajvaishnav5015/alteryx-for-beginners-1f7a973833eb)
 
-[Best Full Stack Developer Course Free](https://medium.com/@ranepooja/best-full-stack-developer-course-free-ef9d89cfaeee)
+[Html Css Online Course](https://medium.com/@kamblerajas684/html-css-online-course-cfc53dc17150)
 
-[Software Testing Online Course List](https://justacademyin.github.io/justacademy/software-testing-online-course-list)
+[Wp Class](https://justacademyin.github.io/justacademy/wp-class)
 
-[Best Course To Learn Php](https://justacademyin.github.io/justacademy/best-course-to-learn-php)
+[Aws Compute Services Tutorial](https://justacademyin.github.io/justacademy/aws-compute-services-tutorial)
 

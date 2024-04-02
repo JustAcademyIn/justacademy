@@ -5,6 +5,7 @@
     <img src="https://justacademy.co/storage2/program_images/1704700438.webp" alt="Software Testing Life Cycle">
   </a>
 </p>
+##Software Testing Life Cycle
 The Software Testing Life Cycle (STLC) defines the steps involved in ensuring that software applications are thoroughly tested to identify and correct defects, ensuring quality and reliability. It starts with the Requirement Analysis phase, where test teams understand the requirements from a testing perspective. This is followed by Test Planning, involving the creation of the overall test strategy. Next, Test Case Development involves designing the test cases and preparing test data. Once the environment is set up, the Test Execution phase commences, where the designed test cases are executed, and defects are reported. During the Test Cycle Closure, the testing team prepares a summary report, reviews test cases, and evaluates the cycle's effectiveness. The STLC emphasizes systematic and consistent testing efforts to improve software quality, optimize testing processes, and minimize risks before deployment.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -38,15 +39,15 @@ To effectively teach STLC in a training program, it's crucial to incorporate pra
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Learn Js Online](https://www.linkedin.com/pulse/learn-js-online-justacademy-mumbai-so05c?trackingId=nkknCVLKQtGXYbVlDOlUTA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_showcase_admin%3Bwznj2UNcTieGGkSiw6VF5Q%3D%3D)
+[Seo Training Melbourne](https://www.linkedin.com/pulse/seo-training-melbourne-justacademy-hyderabad-ryarc?trackingId=oMdHydL6tt4H3Wypz8eAaQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BIgbA%2F28BQMiUW8Q%2FkWRJzw%3D%3D)
 
-[Learn To Code Javascript](https://www.linkedin.com/pulse/learn-code-javascript-software-training-mountain-view-r5ihc?trackingId=DXnlEGcWzwqTE8EeNgGfoQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BZLKrYkZlRCaOOfAKGc47ew%3D%3D)
+[Learn Php And Laravel](https://www.linkedin.com/pulse/learn-php-laravel-justacademy-ahmedabad-e4h3e?trackingId=WFz7hKAeVlJkbzdLInrI9A%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BBylBlMTlRO%2BPitwDv%2FJk0g%3D%3D)
 
-[Photoshop Training Center](https://medium.com/@roneet705/photoshop-training-center-9b97132a01c2)
+[Intercompany Sales In Sap Sd](https://medium.com/@akanshapatil/intercompany-sales-in-sap-sd-bd590fadea3e)
 
-[Python Training In Vizag](https://medium.com/@sagarawat89/python-training-in-vizag-ef9f39e440b5)
+[Software Testing Course Free](https://medium.com/@namusn/software-testing-course-free-da392e1ad93a)
 
-[Learn Advanced Java](https://justacademyin.github.io/justacademy/learn-advanced-java)
+[Software Training Institutes In Bangalore](https://justacademyin.github.io/justacademy/software-training-institutes-in-bangalore)
 
-[Java Real Time Training Institutes In Ameerpet](https://justacademyin.github.io/justacademy/java-real-time-training-institutes-in-ameerpet)
+[Learn Full Stack Web Development Online Free](https://justacademyin.github.io/justacademy/learn-full-stack-web-development-online-free)
 

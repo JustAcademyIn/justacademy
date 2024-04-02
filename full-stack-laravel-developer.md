@@ -5,6 +5,7 @@
     <img src="https://justacademy.co/storage2/program_images/1704700371.webp" alt="Full Stack Laravel Developer">
   </a>
 </p>
+##Full Stack Laravel Developer
 A Full Stack Laravel Developer is a skilled programmer proficient in both front-end and back-end web development, specifically within the Laravel framework, which is a popular PHP web application framework. Such developers possess a broad skill set that enables them to handle the entire spectrum of web development tasks, from designing user interfaces and managing user experiences on the front end to dealing with databases, server, API, and application logic on the back end. Their expertise in the Laravel ecosystem allows them to craft sophisticated, efficient, and secure web applications. They are well-versed in technologies like PHP (particularly Laravel), JavaScript (along with frameworks such as Vue.js or React), HTML, CSS, and are knowledgeable in database technologies like MySQL. Full Stack Laravel Developers are pivotal in the development lifecycle of a web application, ensuring a seamless, integrated approach from concept to deployment.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -50,15 +51,15 @@ A training program for aspiring Full Stack Laravel Developers would focus on bri
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Java Training Institutes In Bangalore With Projects](https://www.linkedin.com/pulse/java-training-institutes-bangalore-projects-justacademy-delhi-uzrne?trackingId=tLY64ESkySgYvfgFPiWyKA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B3uDtMYf2QJOigjAh01Sv1g%3D%3D)
+[Digital Marketing Courses Hong Kong](https://www.linkedin.com/pulse/digital-marketing-courses-hong-kong-justacademy-cupertino-ukzic?trackingId=V9hZ32fFs%2FwNVIfACqJbvw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BzQv8YsYPTiCPDkVRvYwOog%3D%3D)
 
-[Amazon Web Services Aws Course](https://www.linkedin.com/pulse/amazon-web-services-aws-course-justacademy-ahmedabad-ofi1e?trackingId=9t%2Foy%2B2hkPHsae4BFZCJYA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BgDkJO5giR6GYKSrzSn7zAw%3D%3D)
+[Software Testing Course In Nagpur](https://www.linkedin.com/pulse/software-testing-course-nagpur-justacademy-thane-cic0c?trackingId=IBIVBzkHbDWTf2waLWJ%2Bmw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BWw%2F%2F%2Fw1%2FSRCju0LBZ%2BbokA%3D%3D)
 
-[Java Training Institutes In Bangalore Bommanahalli](https://medium.com/@kamblerajas684/java-training-institutes-in-bangalore-bommanahalli-31356de8a8f5)
+[Html Css Beginner Course](https://medium.com/@namusn/html-css-beginner-course-51c094728218)
 
-[Photoshop Elements Courses Near Me](https://medium.com/@abhidnya.1068/photoshop-elements-courses-near-me-3cf1e82723f1)
+[Photo Retouching Training](https://medium.com/@kumarishimmi99/photo-retouching-training-f6dffdd1f5fe)
 
-[Developer Javascript](https://justacademyin.github.io/justacademy/developer-javascript)
+[Mern Stack Developer Course With Placement](https://justacademyin.github.io/justacademy/mern-stack-developer-course-with-placement)
 
-[Software Testing Course Online Free](https://justacademyin.github.io/justacademy/software-testing-course-online-free)
+[Cloud Computing Course Fee Structure In Chennai](https://justacademyin.github.io/justacademy/cloud-computing-course-fee-structure-in-chennai)
 

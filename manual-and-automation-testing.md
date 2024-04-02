@@ -5,6 +5,7 @@
     <img src="https://justacademy.co/storage2/program_images/1704700438.webp" alt="Manual And Automation Testing">
   </a>
 </p>
+##Manual And Automation Testing
 Manual and automation testing are essential methodologies in the software development life cycle, aimed at ensuring the quality and functionality of applications. Manual testing involves human testers meticulously going through the application to find defects by executing the test cases manually without the use of any automated tools, relying heavily on the tester's experience, insights, and intuition. It's particularly effective for exploratory, usability, and adhoc testing scenarios. On the other hand, automation testing employs specialized software tools to execute pre-scripted tests on the application automatically, significantly speeding up the testing process, ensuring consistency, and enabling the execution of repetitive tasks without human intervention. While automation improves efficiency, particularly in regression, load, and performance testing, manual testing remains invaluable for scenarios requiring human judgment, thus, in practice, a balanced integration of both approaches is often adopted to leverage their respective strengths.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -48,15 +49,15 @@ The training program can be enriched by incorporating real-life case studies, ha
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Best Free Javascript Course](https://www.linkedin.com/pulse/best-free-javascript-course-justacademy-chandigarh-ewf8c?trackingId=iik3%2BYPkWYJ7oeClQ2wZZA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BGsnT7fdrREqkLqUmImc0GQ%3D%3D)
+[Best Training Institute In Bangalore For Java](https://www.linkedin.com/pulse/best-training-institute-bangalore-java-justacademy-houston-lom9e?trackingId=R4go9P2SB83dXUv6jAlvKA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BDrK92nhdT%2BeMCX%2FTk95TlQ%3D%3D)
 
-[Pmp Course Duration In India](https://www.linkedin.com/pulse/pmp-course-duration-india-software-training-sunnyvale-en06c?trackingId=bONIlkWPgTvPozrXuNI1Xg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BzThijShxRS6J0WzPkYT7Lg%3D%3D)
+[Machine Learning And Data Analytics](https://www.linkedin.com/pulse/machine-learning-data-analytics-justacademy-portland-9qilf?trackingId=iMaFI%2BSKy%2Bum7AYh8ecc1w%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bis%2Ftn4MqQ4e8qp62a5t3uQ%3D%3D)
 
-[Difference Between Capm And Pmp](https://medium.com/@namusn/difference-between-capm-and-pmp-18ed43b071e0)
+[Free Full Stack Bootcamp](https://medium.com/@mahi3106/free-full-stack-bootcamp-0d62690c332f)
 
-[Master Data In Sap Sd](https://medium.com/@surajvaishnav5015/master-data-in-sap-sd-835d4ebe5cb8)
+[Best Web Development Course Reddit](https://medium.com/@abhidnya.1068/best-web-development-course-reddit-7912e2b76886)
 
-[Learn Mern Stack](https://justacademyin.github.io/Articles/Learn-Mern-Stack)
+[Java Script This](https://justacademyin.github.io/justacademy/java-script-this)
 
-[Software Testing Online Course List](https://justacademyin.github.io/justacademy/software-testing-online-course-list)
+[Java Course In Bangalore](https://justacademyin.github.io/justacademy/java-course-in-bangalore)
 

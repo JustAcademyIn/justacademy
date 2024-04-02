@@ -5,6 +5,7 @@
     <img src="https://justacademy.co/storage2/course_image/1709713400_course_image.webp" alt="Py-3">
   </a>
 </p>
+##Py-3
 Py-3 usually refers to Python 3, a major version of the Python programming language, succeeding Python 2. Since its introduction in 2008, Python 3 has been designed to rectify fundamental design flaws in the earlier version and to provide a clear path for future development. It emphasizes consistency and simplicity of the language, improving features such as type system (with annotations), Unicode support (strings are Unicode by default), and advanced iteration constructs. Python 3's syntax and library changes are not fully backward-compatible with Python 2, necessitating adjustments in code for migration. Over time, Python 3 has seen widespread adoption across the development community, supported by continuous enhancements and updates, making it the standard for Python programming today.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -44,15 +45,15 @@ The Py-3 training program is an excellent opportunity for students to elevate th
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Mern Certification](https://www.linkedin.com/pulse/mern-certification-justacademy-chandigarh-z6y1e/)
+[Php With Laravel Course](https://www.linkedin.com/pulse/php-laravel-course-justacademy-mumbai-hirbc?trackingId=3Csryvz89xVN2fMbrNMRYg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_showcase_admin%3BrO72kZqIQGOMCosqCkrMnA%3D%3D)
 
-[Html Course Fees In Pune](https://www.linkedin.com/pulse/html-course-fees-pune-justacademy-chennai-343ne?trackingId=EK3bfbU%2FhzQnSGAxDyFYjA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BY%2BEec76oRFK6%2FI%2F%2BB9X%2Fdw%3D%3D)
+[Best Free Website To Learn Android App Development](https://www.linkedin.com/pulse/best-free-website-learn-android-app-development-dwfuf/)
 
-[Python Oop Course](https://medium.com/@shivamja27/python-oop-course-6d8279511f52)
+[Microsoft Azure Tutorial For Beginners](https://medium.com/@kumarishimmi99/microsoft-azure-tutorial-for-beginners-f08306683862)
 
-[Full Stack Web Development Program](https://medium.com/@sagarawat89/full-stack-web-development-program-5caf3cc04da5)
+[Pmp Study Guides](https://medium.com/@kamblerajas684/pmp-study-guides-53a2c7a23425)
 
-[Photoshop Short Course](https://justacademyin.github.io/justacademy/photoshop-short-course)
+[Mern Stack Course With Placement](https://justacademyin.github.io/justacademy/mern-stack-course-with-placement)
 
-[Best Software Testing Course For Beginners](https://justacademyin.github.io/justacademy/best-software-testing-course-for-beginners)
+[Digital Marketing Nanodegree](https://justacademyin.github.io/justacademy/digital-marketing-nanodegree)
 

@@ -5,6 +5,7 @@
     <img src="https://justacademy.co/storage2/program_images/1704700438.webp" alt="Software Testing Course Online Free">
   </a>
 </p>
+##Software Testing Course Online Free
 Online software testing courses provide a convenient and cost-effective way for individuals to learn the fundamentals and advanced concepts of software testing. These courses often cover a wide range of topics, including but not limited to, the basics of testing, test management, automation tools, bug tracking, and the various testing methodologies like Agile, DevOps, and more. The availability of free courses online makes it accessible for anyone with an interest in software quality assurance to enhance their skills, whether they are beginners looking to enter the field or experienced professionals seeking to update their knowledge. Platforms such as Coursera, Udemy, and edX, along with official websites of open-source testing tools, often provide free access to comprehensive learning materials, video lectures, and community forums, thereby equipping learners with the necessary tools and knowledge to excel in software testing careers.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -52,15 +53,15 @@ These components form a comprehensive curriculum designed to equip students with
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Pmp Certification Near Me](https://www.linkedin.com/pulse/pmp-certification-near-me-justacademy-pune-civbc?trackingId=Sae%2BBl4xpAdDqCYgaYFNRg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BGzpHiwsYRr22lJjP82PYtA%3D%3D)
+[Javascript On Line](https://www.linkedin.com/pulse/javascript-line-justacademy-cupertino-jr6pc?trackingId=o1r7HoUuxJmP6P%2BC55Q6bA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BnS5tGyG4QnikczaDjz%2F1LQ%3D%3D)
 
-[Java Language Course Fees](https://www.linkedin.com/pulse/java-language-course-fees-justacademy-thane-westc/)
+[Php Programming Certification](https://www.linkedin.com/pulse/php-programming-certification-justacademy-ahmedabad-mlsoe?trackingId=yLZGgcycB9g2aiHyVhSGog%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BO%2BCUjkhGSmWvdoCzc9%2FX%2FA%3D%3D)
 
-[Advance Flutter](https://medium.com/@mahi3106/advance-flutter-6d31faebf264)
+[Free Certificate Course In Python](https://medium.com/@mahi3106/free-certificate-course-in-python-ce019d581907)
 
-[Photoshop Training For Beginners](https://medium.com/@kamblerajas684/photoshop-training-for-beginners-f42a63f7df95)
+[Python Training In Marathahalli](https://medium.com/@ranemanish460/python-training-in-marathahalli-2ae9f5ec1135)
 
-[Photoshop Training Classes](https://justacademyin.github.io/justacademy/photoshop-training-classes)
+[Java Training And Placement](https://justacademyin.github.io/justacademy/java-training-and-placement)
 
-[Learn Php Wordpress](https://justacademyin.github.io/justacademy/learn-php-wordpress)
+[Javascript For Beginners](https://justacademyin.github.io/justacademy/javascript-for-beginners)
 

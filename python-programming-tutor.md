@@ -5,6 +5,7 @@
     <img src="https://justacademy.co/storage2/course_image/1709713400_course_image.webp" alt="Python Programming Tutor">
   </a>
 </p>
+##Python Programming Tutor
 A Python programming tutor is an expert or experienced individual skilled in Python, one of the most popular and versatile programming languages today. This person typically provides personalized instruction, guidance, and support to learners at various levels, from beginners seeking to understand the basic concepts like syntax, data types, and control structures, to advanced programmers looking to delve into more complex topics such as machine learning, data analysis, web development, or automation. The tutor's role is to facilitate the learning process, making it easier for the student to grasp difficult concepts, improve coding skills, and apply Python to solve real-world problems. They may offer their services through one-on-one sessions, group classes, online platforms, or in academic institutions, using a combination of teaching materials, practical exercises, and projects tailored to the learner's goals and proficiency level.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -52,15 +53,15 @@ By choosing the right Python programming tutor, students can benefit significant
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Associate Android Developer Certification Price](https://www.linkedin.com/pulse/associate-android-developer-certification-price-qt2of/)
+[Vector Class In Java](https://www.linkedin.com/pulse/vector-class-java-justacademy-chennai-xqxre/)
 
-[Angular 8 Folder Structure Best Practices](https://www.linkedin.com/pulse/angular-8-folder-structure-best-practices-justacademy-bay-area-xuevc?trackingId=N5SRQPsgWMdHXWqjYPBgog%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BrsnEP2CeSl%2BKYnaEx50m1g%3D%3D)
+[Full Java Course](https://www.linkedin.com/pulse/full-java-course-justacademy-ahmedabad-lcaic/)
 
-[Advanced Html And Css Course](https://medium.com/@surajvaishnav5015/advanced-html-and-css-course-da69f11f0a2d)
+[Adobe Photoshop Advanced Course](https://medium.com/@shivamja27/adobe-photoshop-advanced-course-926d3e872889)
 
-[Python Programming Training Course](https://medium.com/@roneet705/python-programming-training-course-30daf0b8d12c)
+[Pd1 Salesforce](https://medium.com/@justacademytraining/pd1-salesforce-1f0715f24742)
 
-[Wordpress Introduction](https://justacademyin.github.io/justacademy/wordpress-introduction)
+[Learn Full Stack Development Free](https://justacademyin.github.io/justacademy/learn-full-stack-development-free)
 
-[Php For Beginners](https://justacademyin.github.io/justacademy/php-for-beginners)
+[The Roadmap Digital Marketing Course](https://justacademyin.github.io/justacademy/the-roadmap-digital-marketing-course)
 

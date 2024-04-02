@@ -5,6 +5,8 @@
     <img src="https://justacademy.co/storage2/course_image/1676637576_course_image.webp" alt="Learn Photoshop And Illustrator">
   </a>
 </p>
+##Learn Photoshop And Illustrator
+
 Learn Photoshop and Illustrator, two of Adobe's most popular graphic design software programs, offers an expansive creative playground for digital artists, designers, and photographers alike. Photoshop excels in photo editing, manipulation, and composite artwork, enabling users to seamlessly alter images, create complex digital paintings, or design web and app layouts. Illustrator, on the other hand, is prized for its superior vector graphic capabilities, making it the go-to tool for creating scalable logos, icons, typography, and intricate illustrations without losing quality. Mastering both applications not only enhances a designer's versatility but also widens their creative scope, enabling them to produce a broad array of stunning visual content that ranges from sleek corporate branding to vibrant digital art with precision and efficiency.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -52,15 +54,15 @@ By covering these aspects, your training program can provide a solid foundation 
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Node Js Certification](https://www.linkedin.com/pulse/node-js-certification-justacademy-liverpool-lzcwf?trackingId=pmjnfzUgKM2IAqSxfJbScg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BwUUQsYTGTZy3zMvOP%2FpbFA%3D%3D)
+[Data Science Machine Learning Course](https://www.linkedin.com/pulse/data-science-machine-learning-course-justacademy-pune-jjfpc?trackingId=fOjaT8Pm4vF6X6BTfQluQA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BdDdMc5iZRQyVFQUn28yu5g%3D%3D)
 
-[Best Institute For Software Testing In Pune](https://www.linkedin.com/pulse/best-institute-software-testing-pune-justacademy-san-jose-7k06f?trackingId=Rq3PelX5BuCjtNCyy7CDKg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BNvzTf3fnQO%2BVBqBGA8b0%2Bw%3D%3D)
+[Best Way To Learn Javascript](https://www.linkedin.com/pulse/best-way-learn-javascript-justacademy-pune-sthsc?trackingId=Iwh7rOvwRZImPHSnzk6XoA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BXS20KxDuR2OiZGdryJTcxQ%3D%3D)
 
-[Photography And Photoshop Course](https://medium.com/@prempja40/photography-and-photoshop-course-57d54e2baf38)
+[Free Android App Development Course With Certificate](https://medium.com/@mistersumit961/free-android-app-development-course-with-certifica-f1521813f2d3)
 
-[Full Stack Developer Course Eligibility](https://medium.com/@ranemanish460/full-stack-developer-course-eligibility-442e7c038381)
+[Sap Sd Module Course Content](https://medium.com/@mahi3106/sap-sd-module-course-content-8852082bfeb1)
 
-[D3 Javascript](https://justacademyin.github.io/Articles/D3-Javascript)
+[Wordpress Tutoring](https://justacademyin.github.io/justacademy/wordpress-tutoring)
 
-[Cloud Computing Courses Near Me](https://justacademyin.github.io/justacademy/cloud-computing-courses-near-me)
+[Scoutsuite Azure Tutorial](https://justacademyin.github.io/Articles/Scoutsuite-Azure-Tutorial)
 

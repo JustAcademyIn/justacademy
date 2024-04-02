@@ -5,6 +5,8 @@
     <img src="https://justacademy.co/storage2/course_image/1676637576_course_image.webp" alt="Lightroom Cc Training">
   </a>
 </p>
+##Lightroom Cc Training
+
 Adobe Lightroom CC, part of the Adobe Creative Cloud suite, is a powerful photo editing and management tool widely used by photographers and visual artists worldwide. Lightroom CC training is designed to teach users how to effectively manage their digital photo collections and perform a wide range of editing tasks to enhance their images. Training courses typically cover the fundamentals of navigating the Lightroom interface, organizing and sorting photos, adjusting exposure and color balance, cropping and retouching images, and utilizing Lightroom's various editing tools and presets. Advanced training might delve into more sophisticated editing techniques, such as working with RAW files, mastering the art of black and white photography editing, or integrating Lightroom with other Adobe applications like Photoshop for a more comprehensive workflow. These training sessions can be found in various formats — from online tutorials and webinars to hands-on workshops — catering to beginners and experienced users alike, helping them unlock the full potential of Lightroom CC.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -52,15 +54,15 @@ Offering a comprehensive training program in Lightroom CC equips students not ju
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[What Is Asp In Asp.Net](https://www.linkedin.com/pulse/what-asp-aspnet-justacademy-san-jose-mjd1f?trackingId=HtN1d0GexaEWzXsC9OFTqA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BfImeOsNpR2eB0vaAt1OrTg%3D%3D)
+[Salesforce Course Certification](https://www.linkedin.com/pulse/salesforce-course-certification-justacademy-chicago-zcckf?trackingId=GQTjUFFurqW%2F4U%2FZQeGNJQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BJKbgFmdjTiWIqbluH0xCXQ%3D%3D)
 
-[React Js Topics](https://www.linkedin.com/pulse/react-js-topics-justacademy-brisbane-fsjke?trackingId=5mcaRugbEbiwn%2BKR74MFVQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B5cPDORNwQlqWF%2BECY5%2Fsgw%3D%3D)
+[Machine Learning C++](https://www.linkedin.com/pulse/machine-learning-c-justacademy-stockport-0ar0e?trackingId=qKJFPoC8%2BlK3l9X9eKOlzg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bjjks6g4uSqSiY706oaUeMg%3D%3D)
 
-[Python Certification Uk](https://medium.com/@roneet705/python-certification-uk-55e4e5a9f8e8)
+[Salesforce Javascript Developer](https://medium.com/@surajvaishnav5015/salesforce-javascript-developer-7fea1d09a4e9)
 
-[Python Online Training In Hyderabad](https://medium.com/@prempja40/python-online-training-in-hyderabad-8f296b770af2)
+[Html Code Course](https://medium.com/@namusn/html-code-course-e918d8f5702a)
 
-[Best Website To Learn Php Free](https://justacademyin.github.io/justacademy/best-website-to-learn-php-free)
+[Best Practices In Software Testing](https://justacademyin.github.io/justacademy/best-practices-in-software-testing)
 
-[Cloud Computing Classes Near Me](https://justacademyin.github.io/justacademy/cloud-computing-classes-near-me)
+[Amazon Web Services Tutorial The Ultimate Beginners Guide Pdf](https://justacademyin.github.io/justacademy/amazon-web-services-tutorial-the-ultimate-beginners-guide-pdf)
 

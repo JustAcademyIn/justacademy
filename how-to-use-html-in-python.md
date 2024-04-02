@@ -5,6 +5,8 @@
     <img src="https://justacademy.co/storage2/course_image/1709713400_course_image.webp" alt="How To Use Html In Python">
   </a>
 </p>
+##How To Use Html In Python
+
 To use HTML in Python, specifically for web development or data parsing, you typically work with libraries that parse or generate HTML content. For web development, you might use Flask or Django, frameworks that allow you to render HTML templates by combining Python code with HTML to dynamically generate web pages. To manipulate or parse HTML content, for example, when scraping websites, you can utilize libraries like Beautiful Soup or lxml. These libraries provide functions to navigate and manipulate the HTML tree, making it easier to extract data, modify HTML, or even create HTML content from scratch. You'd start by installing the necessary library using a package manager like pip (e.g., `pip install beautifulsoup4`), and then use the library's functions in your Python code to work with HTML data.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -68,15 +70,15 @@ Each of these points can be expanded into individual lessons or modules, tailore
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Digital Marketing Level 3](https://www.linkedin.com/pulse/digital-marketing-level-3-justacademy-cupertino-sq9ec?trackingId=Rf2382LMWzYnk8R13xfeCw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BzQv8YsYPTiCPDkVRvYwOog%3D%3D)
+[Top Software Training Institute In Kerala](https://www.linkedin.com/pulse/top-software-training-institute-kerala-justacademy-chandigarh-bovkc?trackingId=O6O3eaMGT4fv%2F7%2BkPLMu5w%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BTi2FDDD5T5CPfUzvZmTgdQ%3D%3D)
 
-[Free Salesforce Administrator Training](https://www.linkedin.com/pulse/free-salesforce-administrator-training-justacademy-ahmedabad-rrppe?trackingId=26zcxO9Jnw2ikH98d80JiQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BejZbnVSUSciRC3KGqYoFiw%3D%3D)
+[Best Java Training Institutes In Vijayawada](https://www.linkedin.com/pulse/best-java-training-institutes-vijayawada-justacademy-delhi-w53ze?trackingId=ThAFZSFF1vU8Xq07lE3ewg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B3uDtMYf2QJOigjAh01Sv1g%3D%3D)
 
-[SAP Bw4HANA](https://medium.com/@kamblerajas684/sap-bw4hana-6cd95b0baf31)
+[Where To Practice Python](https://medium.com/@mahi3106/where-to-practice-python-6eacd8881695)
 
-[Full Stack Developer Certification Cost](https://medium.com/@mahi3106/full-stack-developer-certification-cost-aa5b4ec3d058)
+[Developing Android Apps With Kotlin Udacity](https://medium.com/@shivamja27/developing-android-apps-with-kotlin-udacity-318dc6a26932)
 
-[Creation App](https://justacademyin.github.io/justacademy/creation-app)
+[Azure Web Hosting Tutorial](https://justacademyin.github.io/justacademy/azure-web-hosting-tutorial)
 
-[Full Stack Development Institute](https://justacademyin.github.io/justacademy/full-stack-development-institute)
+[Bangalore Best Java Training Institute](https://justacademyin.github.io/justacademy/bangalore-best-java-training-institute)
 

@@ -5,6 +5,8 @@
     <img src="https://justacademy.co/storage2/course_image/1676637576_course_image.webp" alt="Digital Painting Photoshop Course">
   </a>
 </p>
+##Digital Painting Photoshop Course
+
 A Digital Painting Photoshop Course is an educational program designed to teach artists and enthusiasts how to leverage Adobe Photoshop, a leading digital art software, for creating digital paintings and illustrations. These courses typically cover a range of topics from the basics of navigating the Photoshop interface to more advanced techniques such as layer management, color theory, brushes and texture creation, and photo manipulation to achieve realistic or stylized digital artwork. Throughout the course, learners are often guided through step-by-step tutorials, project-based learning, and given feedback on their work, enabling them to develop their artistic skills and create a portfolio of digital paintings. The ultimate goal of such courses is to equip participants with the knowledge and skills needed to professionally execute digital paintings, whether for personal projects, commercial use, or entertainment industries like gaming and film.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -58,15 +60,15 @@ This Digital Painting Photoshop Course offers a comprehensive path from basic un
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Android Studio Certification Course](https://www.linkedin.com/pulse/android-studio-certification-course-justacademy-beangaluru-uaw8f/)
+[Hyderabad Training Institute For Java](https://www.linkedin.com/pulse/hyderabad-training-institute-java-justacademy-hyderabad-bfese?trackingId=mZ31zoJPeEhoPovtJGWZjw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BvVOqf8C4SxiY2jOCpJpYGg%3D%3D)
 
-[Mern Stack Course With Placement](https://www.linkedin.com/pulse/mern-stack-course-placement-justacademy-chandigarh-nih0e/)
+[Apple App Training](0)
 
-[Html Course Certificate](https://medium.com/@namusn/html-course-certificate-d6d15dece15d)
+[Best Java Training Institution In Hyderabad](https://medium.com/@justacademytraining/best-java-training-institution-in-hyderabad-f5eaf332d78a)
 
-[Photoshop Lightroom Training](https://medium.com/@kumarishimmi99/photoshop-lightroom-training-a1ceadeb1953)
+[Project Management Training Courses](https://medium.com/@mahi3106/project-management-training-courses-be15ee0d980c)
 
-[Software Training And Placement Institutes In Hyderabad](https://justacademyin.github.io/justacademy/software-training-and-placement-institutes-in-hyderabad)
+[Best Institutes For Software Testing](https://justacademyin.github.io/justacademy/best-institutes-for-software-testing)
 
-[Cloud Computing Courses In Bangalore](https://justacademyin.github.io/justacademy/cloud-computing-courses-in-bangalore)
+[Master Js](https://justacademyin.github.io/Articles/Master-Js)
 

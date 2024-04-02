@@ -5,6 +5,7 @@
     <img src="https://justacademy.co/storage2/course_image/1709713400_course_image.webp" alt="Python For Data Science And Machine Learning Bootcamp Course">
   </a>
 </p>
+##Python For Data Science And Machine Learning Bootcamp Course
 The Python for Data Science and Machine Learning Bootcamp course is an immersive and comprehensive online training program designed for individuals looking to gain expertise in the rapidly evolving fields of data science and machine learning using Python. This course typically covers a wide range of topics, starting from the basics of Python programming, to advanced data analysis, visualization techniques, and the implementation of machine learning algorithms. Participants learn through a mix of theoretical lessons, practical exercises, real-world case studies, and projects, which are aimed at equipping them with the skills needed to handle data-driven decision-making processes. Key areas of study include libraries like NumPy, pandas for data manipulation, Matplotlib and Seaborn for data visualization, and Scikit-Learn for applying machine learning models. Designed for both beginners and those with some programming experience, this bootcamp serves as a solid foundation for a career in data science, analytics, or machine learning.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -48,15 +49,15 @@ This bootcamp course is a gateway for students and professionals alike to enter 
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Hana Abap Tutorials](https://www.linkedin.com/pulse/hana-abap-tutorials-justacademy-delhi-m1i1c/)
+[Associate Android Developer Certification Course](https://www.linkedin.com/pulse/associate-android-developer-certification-course-0b3mf/)
 
-[Machine Learning And Web Development](https://www.linkedin.com/pulse/machine-learning-web-development-justacademy-austin-vuy5f?trackingId=1SritCeuZFpBp6cDZ6eNdw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BmA9QTMf0RKatDJxEf%2FJ3Jw%3D%3D)
+[Asp.Net Core Certification](https://www.linkedin.com/pulse/aspnet-core-certification-justacademy-stockport-leyle?trackingId=5IkXW9klaBVR%2BL310ko7Lg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bhrs%2FVe6MQa2w%2FxcFE4Py%2Fw%3D%3D)
 
-[Salesforce Marketing Cloud Developer](https://medium.com/@roneet705/salesforce-marketing-cloud-developer-5393a8018181)
+[Best Java Training Institutes In Chandigarh](https://medium.com/@ranepooja/best-java-training-institutes-in-chandigarh-aa9a09f08d41)
 
-[Best Training Institute For Java](https://medium.com/@ranepooja/best-training-institute-for-java-4fc47bd8cc0e)
+[Mern Stack Learn Code Online](https://medium.com/@namusn/mern-stack-learn-code-online-dad3c4ea11fb)
 
-[SAP MM Course Duration](https://justacademyin.github.io/Articles/SAP-MM-Course-Duration)
+[Javascript Core](https://justacademyin.github.io/Articles/Javascript-Core)
 
-[Best Html Classes Online](https://justacademyin.github.io/justacademy/best-html-classes-online)
+[Python Course For Kids](https://justacademyin.github.io/justacademy/python-course-for-kids)
 

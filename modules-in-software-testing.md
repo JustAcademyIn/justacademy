@@ -5,6 +5,7 @@
     <img src="https://justacademy.co/storage2/program_images/1704700438.webp" alt="Modules In Software Testing">
   </a>
 </p>
+##Modules In Software Testing
 Modules in software testing refer to distinct, separate units of a software application or system that can be individually tested to ensure their correctness, functionality, and reliability. These modules represent different components or features of the software, each designed to perform specific tasks or functions within the overall system. By testing these modules independently, developers and testers can isolate and identify issues or defects more efficiently before integrating them into the larger system. This modular approach, often part of unit testing or integration testing strategies, helps in enhancing the quality of the software by ensuring that each part works as intended in isolation and when combined, leading to a more stable and reliable end product.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -58,15 +59,15 @@ This modular approach ensures that every aspect of software testing is covered t
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Free Online Java Courses With Certificate Of Completion](https://www.linkedin.com/pulse/free-online-java-courses-certificate-completion-justacademy-mumbai-djilc/)
+[Java Classes Near Me](https://www.linkedin.com/pulse/java-classes-near-me-justacademy-cupertino-s020c/)
 
-[Learn Advanced Java](https://www.linkedin.com/pulse/learn-advanced-java-software-training-mountain-view-u7kze?trackingId=wPdZ46JyxmVDA1M1IFz2bA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BRmRTtwAISLyMmFqcBdL04g%3D%3D)
+[Sap Abap On Hana Topics](https://www.linkedin.com/pulse/sap-abap-hana-topics-justacademy-kolkata-jvsbc/)
 
-[Java Tutor](https://medium.com/@ranepooja/java-tutor-d94edf8aa1f9)
+[Pmp Training Cost](https://medium.com/@shivamja27/pmp-training-cost-7f7fa7d99312)
 
-[Core Java Topics](https://medium.com/@namusn/core-java-topics-4841337c1f66)
+[Azure Synapse Analytics Tutorial](https://medium.com/@negishivu99/azure-synapse-analytics-tutorial-c17837e48ffa)
 
-[Learning Php Mysql Javascript Css & Html5](https://justacademyin.github.io/justacademy/learning-php-mysql-javascript-css-&-html5)
+[Best Software Testing Institute In Noida](https://justacademyin.github.io/justacademy/best-software-testing-institute-in-noida)
 
-[Get Pmp Certification For Free](https://justacademyin.github.io/justacademy/get-pmp-certification-for-free)
+[Photo Shop Course](https://justacademyin.github.io/justacademy/photo-shop-course)
 

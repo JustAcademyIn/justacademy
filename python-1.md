@@ -5,6 +5,7 @@
     <img src="https://justacademy.co/storage2/course_image/1709713400_course_image.webp" alt="Python 1">
   </a>
 </p>
+##Python 1
 Python 1, the inaugural version of the Python programming language, marked a significant milestone in its evolution. Released in February 1991 by its inventor, Guido van Rossum, Python 1 established the core philosophy of the language—simplicity and readability. Aimed at bridging the gap between shell scripting and C programming, Python was developed as an interpreted, high-level language that emphasized code readability and allowed programmers to express concepts in fewer lines of code compared to languages like C. Python 1 introduced many features that would define its character: dynamic typing, garbage collection, basic data structures (like lists, dictionaries, and strings), modules, exceptions, and functions as first-class objects. Despite its revolutionary aspects, Python 1 was rudimentary compared to its future iterations, lacking many of the features and standard library modules that modern Python developers take for granted. However, it laid the groundwork for Python's evolution into one of the world's most popular and versatile programming languages, adaptable to everything from web development to artificial intelligence.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -58,15 +59,15 @@ This structured approach to a Python 1 training program not only equips students
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Introduction To Javascript](https://www.linkedin.com/pulse/introduction-javascript-software-training-mountain-view-xuxge?trackingId=027t%2B8NSnlRlG1Bl9PK1uQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BRmRTtwAISLyMmFqcBdL04g%3D%3D)
+[Java Training Institutes In Mehdipatnam](https://www.linkedin.com/pulse/java-training-institutes-mehdipatnam-justacademy-bristol-cxkke?trackingId=M%2FuLU54QOX%2FZXou6cUOoDg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B9IEH5La1R2e7WwLGeLcpkg%3D%3D)
 
-[Android Studio Flutter Tutorial](https://www.linkedin.com/pulse/android-studio-flutter-tutorial-justacademy-pune-vc9ec/)
+[Javascript Tutorial For Java Developers](https://www.linkedin.com/pulse/javascript-tutorial-java-developers-justacademy-chennai-c3qwc?trackingId=KqnrH4MHGQl5wnAb2v9jag%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BjPw0ei4cQfe0InHd%2FK206Q%3D%3D)
 
-[Azure Mlops Tutorial](https://medium.com/@mistersumit961/azure-mlops-tutorial-f9079d26d1c3)
+[Skills Required For Full Stack Java Developer](https://medium.com/@negishivu99/skills-required-for-full-stack-java-developer-4226a9b94a13)
 
-[Best Java Training Institute In Noida Delhi](https://medium.com/@mistersumit961/best-java-training-institute-in-noida-delhi-0916cf4d1e58)
+[Java Training Institute In Ambattur](https://medium.com/@ranepooja/java-training-institute-in-ambattur-220a2f290199)
 
-[Aws Web App Tutorial](https://justacademyin.github.io/justacademy/aws-web-app-tutorial)
+[Cloud Computing Course Fee In Hyderabad](https://justacademyin.github.io/justacademy/cloud-computing-course-fee-in-hyderabad)
 
-[Software Testing Requirements](https://justacademyin.github.io/justacademy/software-testing-requirements)
+[Java Training Institute In Madhapur Hyderabad](https://justacademyin.github.io/justacademy/java-training-institute-in-madhapur-hyderabad)
 

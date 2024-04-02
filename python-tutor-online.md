@@ -5,6 +5,7 @@
     <img src="https://justacademy.co/storage2/course_image/1709713400_course_image.webp" alt="Python Tutor Online">
   </a>
 </p>
+##Python Tutor Online
 Python Tutor, developed by Philip Guo, is an online tool designed to help individuals learn and teach programming, specifically with Python among other languages like Java, JavaScript, TypeScript, Ruby, C, and C++. This interactive platform visually illustrates how code executes in real-time, making it easier for learners to understand complex programming concepts and for instructors to explain them. It allows users to step through their code line-by-line, witnessing the changes in variable states and memory allocation throughout the execution process. By providing a clear visual representation of how code runs, Python Tutor aids in demystifying the intricacies of programming, making it an invaluable resource for beginners and educators alike in the coding community.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -46,15 +47,15 @@ By offering a blend of theoretical and practical learning, personalized support,
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Road Map Full Stack Developer](https://www.linkedin.com/pulse/road-map-full-stack-developer-justacademy-chennai-wdljc?trackingId=7juyouEObaay4C24zTXDBg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BjPw0ei4cQfe0InHd%2FK206Q%3D%3D)
+[Microsoft Machine Learning Course](https://www.linkedin.com/pulse/microsoft-machine-learning-course-justacademy-manchester-xi2uf?trackingId=r0LoQHFGiv2yQ2HYjDHM1Q%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BRPj7cFFBTbicPRo%2F8FQZQw%3D%3D)
 
-[Best Java Training Institute In Hyderabad](https://www.linkedin.com/pulse/best-java-training-institute-hyderabad-justacademy-houston-lkc1e?trackingId=XIARtb4GdJDNDqSNUL9cdw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BDrK92nhdT%2BeMCX%2FTk95TlQ%3D%3D)
+[Best Institute For Software Testing In Chennai](https://www.linkedin.com/pulse/best-institute-software-testing-chennai-justacademy-coimbatore-2ilje?trackingId=1xZh8l0jjedS9rRNk%2FrjiQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BQ21fTVlsQ6eRatiOukp9mA%3D%3D)
 
-[Photoshop 2021 Essential Training The Basics](https://medium.com/@namusn/photoshop-2021-essential-training-the-basics-66ff8634d132)
+[Project Manager Training Course](https://medium.com/@akanshapatil/project-manager-training-course-0eaa05134e16)
 
-[Css And Html Course](https://medium.com/@roneet705/css-and-html-course-769916950177)
+[Java Full Stack Developer Course Syllabus](https://medium.com/@prempja40/java-full-stack-developer-course-syllabus-5fd44aa9c7d6)
 
-[Best Training Institute To Do Software Testing Course In Chennai](https://justacademyin.github.io/justacademy/best-training-institute-to-do-software-testing-course-in-chennai)
+[Azure Kubernetes Service Tutorial](https://justacademyin.github.io/justacademy/azure-kubernetes-service-tutorial)
 
-[Php Certification Course](https://justacademyin.github.io/justacademy/php-certification-course)
+[Introduction To Java Script](https://justacademyin.github.io/justacademy/introduction-to-java-script)
 

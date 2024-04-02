@@ -5,6 +5,7 @@
     <img src="https://justacademy.co/storage2/course_image/1709713400_course_image.webp" alt="Python Crash Course 3rd Edition">
   </a>
 </p>
+##Python Crash Course 3rd Edition
 "Python Crash Course, 3rd Edition" is a comprehensive book designed to introduce beginners to the Python programming language. Authored by Eric Matthes, this edition has been updated to reflect the latest in Python programming conventions and techniques. The book starts with the basics of Python, covering fundamental concepts such as variables, lists, classes, and loops, before moving on to more advanced topics like error handling, file input/output, and data visualization. One of the book's strengths is its hands-on approach, featuring numerous exercises and projects that help readers apply what they have learned in real-world scenarios. This includes projects in web applications, game development, and data analysis, ensuring that readers gain practical skills in Python. The third edition also focuses on the newest features and standards of Python, making it a valuable resource for both new learners and those looking to update their knowledge.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -50,15 +51,15 @@ Incorporating "Python Crash Course, 3rd Edition" into a training program offers 
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Best Course To Learn Javascript](https://www.linkedin.com/pulse/best-course-learn-javascript-justacademy-chennai-a6azc?trackingId=8JkflhnSvJnZsxBzUI3XFA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BjPw0ei4cQfe0InHd%2FK206Q%3D%3D)
+[Flutter Free Tutorial](https://www.linkedin.com/pulse/flutter-free-tutorial-justacademy-mumbai-jrizc/)
 
-[Software Testing Institutes In Hyderabad](https://www.linkedin.com/pulse/software-testing-institutes-hyderabad-justacademy-delhi-pzdnc/)
+[Pmp Certification Cost In Mumbai](https://www.linkedin.com/pulse/pmp-certification-cost-mumbai-software-training-mountain-view-qlnge?trackingId=oK%2FbxKWxSTRdXbJvvMqr4Q%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B8iJAXExGSpWzkSgodJb9Bg%3D%3D)
 
-[Pmp Courses Online Free](https://medium.com/@mistersumit961/pmp-courses-online-free-f97b17d56e13)
+[Developing Android Apps With Kotlin Udacity](https://medium.com/@shivamja27/developing-android-apps-with-kotlin-udacity-318dc6a26932)
 
-[Best Java Training Institutes In Jayanagar Bangalore](https://medium.com/@shivamja27/best-java-training-institutes-in-jayanagar-bangalore-2ccaa16b1d9d)
+[Python Training And Placement](https://medium.com/@shivamja27/python-training-and-placement-5a4f837e92ad)
 
-[Mean Stack Developer](https://justacademyin.github.io/justacademy/mean-stack-developer)
+[Mobile App Development Course Montreal](https://justacademyin.github.io/justacademy/mobile-app-development-course-montreal)
 
-[Best Platform To Learn Html And Css](https://justacademyin.github.io/justacademy/best-platform-to-learn-html-and-css)
+[Software Testing Free Course Online](https://justacademyin.github.io/justacademy/software-testing-free-course-online)
 

@@ -5,6 +5,8 @@
     <img src="https://justacademy.co/storage2/course_image/1677245494_course_image.webp" alt="Wordpress Crash Course">
   </a>
 </p>
+##Wordpress Crash Course
+
 A WordPress crash course is a condensed learning path aimed at providing individuals with a rapid, yet comprehensive, understanding of WordPress, which is one of the most popular content management systems (CMS) in the world. These crash courses typically cover essential topics such as WordPress installation, theme selection and customization, plugin management, content creation (posts and pages), and often basic SEO strategies to enhance website visibility. Tailored for beginners or those looking to refresh their skills, the course empowers attendees with the knowledge and tools required to create, manage, and optimize their own WordPress websites efficiently. Through a combination of tutorials, hands-on exercises, and expert guidance, participants can quickly grasp how to use WordPress effectively for blogging, business, or personal projects.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -56,15 +58,15 @@ This crash course is designed to equip students with the skills and knowledge to
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Software Training Institutes Near Me](https://www.linkedin.com/pulse/software-training-institutes-near-me-justacademy-ahmedabad-mj5uc?trackingId=wX30MGv7t0nZIdFcn6sqag%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B3%2BtJc%2BpNTTerSF3IjNFs1w%3D%3D)
+[Mern Stack Developer](https://www.linkedin.com/pulse/mern-stack-developer-justacademy-chennai-xzoac/)
 
-[Software Testing Best Institute In Hyderabad](https://www.linkedin.com/pulse/software-testing-best-institute-hyderabad-justacademy-bradford-myq4e?trackingId=zbnqamoFkhS%2FVGbp03F%2B%2FA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BU6qvup%2BkTG%2BWwu84oCWCCA%3D%3D)
+[iOS App Development App](0)
 
-[Sap Bw4hana Training](https://medium.com/@ranemanish460/sap-bw4hana-training-3865cbfc98aa)
+[C C++ Java Python Courses](https://medium.com/@mistersumit961/c-c-java-python-courses-f8b63eb369c0)
 
-[Alteryx And Powerbi](https://medium.com/@akanshapatil/alteryx-and-powerbi-4b075f3248d6)
+[Photoshop Lightroom Course](https://medium.com/@justacademytraining/photoshop-lightroom-course-b9174323e518)
 
-[Best Software Testing Course Online Free](https://justacademyin.github.io/justacademy/best-software-testing-course-online-free)
+[Best Python Course For Data Analysis](https://justacademyin.github.io/justacademy/best-python-course-for-data-analysis)
 
-[Coaching Digital Marketing](https://justacademyin.github.io/justacademy/coaching-digital-marketing)
+[Php Full Stack Developer Tutorial](https://justacademyin.github.io/justacademy/php-full-stack-developer-tutorial)
 

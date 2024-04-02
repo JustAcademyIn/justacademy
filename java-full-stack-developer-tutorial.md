@@ -5,6 +5,7 @@
     <img src="https://justacademy.co/storage2/program_images/1704700371.webp" alt="Java Full Stack Developer Tutorial">
   </a>
 </p>
+##Java Full Stack Developer Tutorial
 A Java Full Stack Developer tutorial is designed to equip learners with a comprehensive understanding of both front-end and back-end development processes using the Java programming language. This type of tutorial typically covers a wide array of topics, including Java basics, object-oriented programming (OOP) principles, databases, and web technologies such as HTML, CSS, JavaScript, and frameworks like Spring and Hibernate. Additionally, it would delve into server-side technologies, RESTful API development, and modern tooling that supports development and deployment processes. Aimed at fostering a well-rounded skill set, such a tutorial prepares individuals to build complete and scalable web applications, from managing user interactions on the front end to processing and storing data on the back end, making them proficient Java Full Stack Developers.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -54,15 +55,15 @@ This comprehensive program aims to equip students with a deep understanding of J
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Flutter Course For Beginners](https://www.linkedin.com/pulse/flutter-course-beginners-justacademy-6z16c/)
+[Python Vs Node Js Performance](https://www.linkedin.com/pulse/python-vs-node-js-performance-justacademy-las-vegas-fvoaf?trackingId=mgXTIxTIhenjr2eYVTRuLw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B72drtJzFRpOZi%2BIA7t6Uhg%3D%3D)
 
-[Sap Mm](https://www.linkedin.com/pulse/sap-mm-justacademy-pune-1dtkc?trackingId=touF9OlA4U2EUR9uSRu8kA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B29WLpZO4T7eqWsLqmXNgZw%3D%3D)
+[Best Way To Learn Js](https://www.linkedin.com/pulse/best-way-learn-js-justacademy-cupertino-z0xtc?trackingId=IneX%2BisQwzlz27hXfGDCnw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BnS5tGyG4QnikczaDjz%2F1LQ%3D%3D)
 
-[Java Core](https://medium.com/@akanshapatil/java-core-b4c54c19d59b)
+[Azure Synapse Analytics Tutorial](https://medium.com/@negishivu99/azure-synapse-analytics-tutorial-c17837e48ffa)
 
-[Python Full Stack Training In Hyderabad](https://medium.com/@kamblerajas684/python-full-stack-training-in-hyderabad-037d1e828215)
+[Python Programming Syllabus](https://medium.com/@kamblerajas684/python-programming-syllabus-5983e3024048)
 
-[Best Core Java Training Institutes In Bangalore](https://justacademyin.github.io/justacademy/best-core-java-training-institutes-in-bangalore)
+[SAP MM Course Duration](https://justacademyin.github.io/Articles/SAP-MM-Course-Duration)
 
-[Software Manual Testing Course](https://justacademyin.github.io/justacademy/software-manual-testing-course)
+[Php Backend Course](https://justacademyin.github.io/justacademy/php-backend-course)
 

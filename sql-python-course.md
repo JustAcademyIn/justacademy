@@ -5,6 +5,7 @@
     <img src="https://justacademy.co/storage2/course_image/1709713400_course_image.webp" alt="Sql Python Course">
   </a>
 </p>
+##Sql Python Course
 A SQL and Python course typically aims to equip learners with the essential skills required to manipulate, analyze, and manage data using two of the most powerful tools in data science and database management: SQL (Structured Query Language) and Python, a versatile programming language. This type of course usually begins with the basics of SQL, teaching how to perform queries, work with multiple tables, and execute sophisticated data operations. It then progresses to Python, focusing on data structures, data manipulation using libraries like pandas, and data visualization with tools such as Matplotlib and Seaborn. By integrating SQL's database management capabilities with Python's programming prowess, particularly in handling data analysis, the course empowers students to tackle real-world data challenges efficiently. Through practical exercises and projects, learners gain hands-on experience, preparing them for careers in data analysis, data science, and related fields.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -46,15 +47,15 @@ Each of these components is designed to offer a comprehensive learning experienc
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Artificial Intelligence And Machine Learning Training](https://www.linkedin.com/pulse/artificial-intelligence-machine-learning-training-gex7e?trackingId=8TxAVR2vxBzIFjAQzBOfAg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bjjks6g4uSqSiY706oaUeMg%3D%3D)
+[Advantages And Disadvantages Of React Js](https://www.linkedin.com/pulse/advantages-disadvantages-react-js-justacademy-coventry-qfqze?trackingId=eRtx5Be8js75cAdmVkKuzA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BvasO6SUGTP2oKUhUaDM59w%3D%3D)
 
-[Best Software Testing Training Institutes In Bangalore](https://www.linkedin.com/pulse/best-software-testing-training-institutes-bangalore-h7euf?trackingId=EnlbjvtKsCuHY5N%2FH5IX3Q%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BwUUQsYTGTZy3zMvOP%2FpbFA%3D%3D)
+[Php Training Uk](https://www.linkedin.com/pulse/php-training-uk-justacademy-cupertino-zfhcc?trackingId=4giy69EvcEAkQMCA3IuaVg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BNP%2FlhOodSumKT6PSkBvdbw%3D%3D)
 
-[Wordpress Classes Near Me](https://medium.com/@kumarishimmi99/wordpress-classes-near-me-3463c2e3cf18)
+[Best Java Training Institute In Hyderabad](https://medium.com/@mistersumit961/best-java-training-institute-in-hyderabad-2a9927167e50)
 
-[Photoshop Workshop Near Me](https://medium.com/@negishivu99/photoshop-workshop-near-me-3eff3f33834a)
+[Javatpoint](https://medium.com/@ranepooja/javatpoint-802df1bd20a9)
 
-[Scope Of Software Testing Course](https://justacademyin.github.io/justacademy/scope-of-software-testing-course)
+[Javascript Free](https://justacademyin.github.io/justacademy/javascript-free)
 
-[No Js](https://justacademyin.github.io/justacademy/no-js)
+[Free Php Training](https://justacademyin.github.io/justacademy/free-php-training)
 

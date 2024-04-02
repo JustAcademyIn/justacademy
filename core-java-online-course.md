@@ -5,6 +5,8 @@
     <img src="https://justacademy.co/storage2/course_image/1677245426_course_image.webp" alt="Core Java Online Course">
   </a>
 </p>
+##Core Java Online Course
+
 A Core Java online course is designed to introduce participants to the foundational concepts of Java programming, one of the most popular and widely used programming languages in the world. This course typically covers the basics such as data types, operators, control statements, methods, arrays, and introduces object-oriented programming concepts including classes, objects, inheritance, and polymorphism. It often includes hands-on programming exercises and projects to help learners practice and apply what they've learned in real-world scenarios. Ideal for beginners with little to no programming experience, the course aims to equip students with the essential Java skills necessary to build standalone applications or kick-start a career in software development. Online delivery means that learners can progress at their own pace, access lessons from anywhere, and often have opportunities for interaction with instructors and peers for feedback and support.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -52,15 +54,15 @@ Each course might vary in how these modules are presented, the depth of coverage
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Testing Js](https://www.linkedin.com/pulse/testing-js-justacademy-berlin-oplle?trackingId=NXNWujHrNedsq2cfj9Y66w%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bc6fFeBAPTsmTPnAO4CV7Tw%3D%3D)
+[Digital Marketing Classes Nyc](https://www.linkedin.com/pulse/digital-marketing-classes-nyc-justacademy-cupertino-hulac?trackingId=NL3Duo%2F5OFcUScTPIpGkBw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BzQv8YsYPTiCPDkVRvYwOog%3D%3D)
 
-[Php Training Classes](https://www.linkedin.com/pulse/php-training-classes-justacademy-kolkata-uwfle?trackingId=Gv%2BzBR1vzhQUqc%2FkaGSozQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bk9oA%2BVOQTPioabiM45wXSA%3D%3D)
+[Java Training Institute In Kukatpally](https://www.linkedin.com/pulse/java-training-institute-kukatpally-justacademy-kolkata-nigne?trackingId=gdZoZntamShWiaC6BFWZDA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BZ3buGVXtSt2MpOd2OMz6cQ%3D%3D)
 
-[Flutter Institute Near Me](https://medium.com/@prempja40/flutter-institute-near-me-96305658b8a2)
+[Learn Figma Fast](https://medium.com/@abhidnya.1068/learn-figma-fast-cc460b03ffe5)
 
-[Sap 4hana Certification](https://medium.com/@kamblerajas684/sap-4hana-certification-94b1976f2e83)
+[Pd1 Salesforce](https://medium.com/@justacademytraining/pd1-salesforce-1f0715f24742)
 
-[Html Css Bootstrap Course](https://justacademyin.github.io/justacademy/html-css-bootstrap-course)
+[Software Testing Course And Placement](https://justacademyin.github.io/justacademy/software-testing-course-and-placement)
 
-[Serverless Aws Tutorial](https://justacademyin.github.io/justacademy/serverless-aws-tutorial)
+[Software Testing Course In Mumbai](https://justacademyin.github.io/justacademy/software-testing-course-in-mumbai)
 

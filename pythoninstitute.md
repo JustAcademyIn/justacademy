@@ -5,6 +5,7 @@
     <img src="https://justacademy.co/storage2/course_image/1709713400_course_image.webp" alt="Pythoninstitute">
   </a>
 </p>
+##Pythoninstitute
 The Python Institute, established as part of the Open Education and Development Group (OpenEDG), is dedicated to promoting Python programming language worldwide and fostering a comprehensive, international standard in Python programming education and certification. By offering a range of online courses, assessments, and professional certifications, the Python Institute aims to advance the skills of software developers, engineers, and IT professionals in Python, from basic to advanced levels. The institute's certifications, such as PCEP (Certified Entry-Level Python Programmer), PCAP (Certified Associate in Python Programming), PCPP1 and PCPP2 (Certified Professional in Python Programming), validate individuals' programming expertise, thereby aiding career advancement and contributing to the professional development of its participants. Through its efforts, the Python Institute supports the growth of a skilled and globally recognized Python programming community.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -44,15 +45,15 @@ In conclusion, the Python Institute serves as an essential resource for anyone l
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Mern Stack Developer Course With Placement](https://www.linkedin.com/pulse/mern-stack-developer-course-placement-justacademy-chandigarh-rw5be/)
+[Java Training Institute In Ambattur](https://www.linkedin.com/pulse/java-training-institute-ambattur-justacademy-manchester-u40if?trackingId=I9PzJKWmuDD5Pc7Q8TVGzA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BjwbjXdoOSmefqxJib%2FbqYQ%3D%3D)
 
-[Android Development Certification](https://www.linkedin.com/pulse/android-development-certification-justacademy-delhi-h7ifc/)
+[Best Training Institute For Java In Hyderabad](https://www.linkedin.com/pulse/best-training-institute-java-hyderabad-justacademy-kolkata-kvv7e?trackingId=994rwH075B7LdWjYQ%2BJP8A%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BZ3buGVXtSt2MpOd2OMz6cQ%3D%3D)
 
-[Learning Python For Data Science](https://medium.com/@ranepooja/learning-python-for-data-science-8d41f8bd65ac)
+[Tableau Certification Course Free](https://medium.com/@akanshapatil/tableau-certification-course-free-5157425b7330)
 
-[Project Management Professional Bootcamp](https://medium.com/@justacademytraining/project-management-professional-bootcamp-f3252ef26b37)
+[Best Java Training Institute In Thane](https://medium.com/@ranepooja/best-java-training-institute-in-thane-a01bf60b91f8)
 
-[Javascript Tutor](https://justacademyin.github.io/justacademy/javascript-tutor)
+[Javascript Classes](https://justacademyin.github.io/justacademy/javascript-classes)
 
-[Pmp Certification Cost In Hyderabad](https://justacademyin.github.io/justacademy/pmp-certification-cost-in-hyderabad)
+[Google Software Testing Course](https://justacademyin.github.io/justacademy/google-software-testing-course)
 

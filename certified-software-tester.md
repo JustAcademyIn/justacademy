@@ -5,6 +5,7 @@
     <img src="https://justacademy.co/storage2/program_images/1704700438.webp" alt="Certified Software Tester">
   </a>
 </p>
+##Certified Software Tester
 A Certified Software Tester (CST) is a professional credential offered to individuals who have demonstrated a certain level of expertise and knowledge in the field of software testing. This certification validates an individual's ability in the key areas of software testing, including planning, execution, and documentation of testing processes, understanding and applying testing methodologies, and maintaining testing artifacts. The certification is aimed at professionals who are involved in any aspect of software testing, from test analysts and test engineers to test consultants and quality assurance managers. Obtaining a CST certification typically involves passing an exam that covers various aspects of software testing standards, principles, and techniques. This certification is recognized by employers worldwide and is seen as a mark of professionalism and competence in the software testing industry.
 ### To Download Our Brochure [https://www.justacademy.co/download-brochure-for-free](https://www.justacademy.co/download-brochure-for-free)
 ### Message us for more information [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
@@ -40,15 +41,15 @@ By offering a CST training program, educational institutions or training provide
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Javascript Basic Tutorial](https://www.linkedin.com/pulse/javascript-basic-tutorial-software-training-mountain-view-sp4de?trackingId=wrO4n7J3zr884zH4zCANRA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BRmRTtwAISLyMmFqcBdL04g%3D%3D)
+[Best Java Training Institute](https://www.linkedin.com/pulse/best-java-training-institute-justacademy-san-jose-8uxkf?trackingId=nR%2Bu7v3tLwmP7a134rapIg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BNvzTf3fnQO%2BVBqBGA8b0%2Bw%3D%3D)
 
-[Learn Mern Stack](https://www.linkedin.com/pulse/learn-mern-stack-justacademy-beangaluru-m5boc/)
+[Sales Force Online Course](https://www.linkedin.com/pulse/sales-force-online-course-justacademy-london-c6l2f?trackingId=G5K7Ko91YP0kVpIUaxRq%2FA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BktV9tJs7QaWTumhj4BQ9XQ%3D%3D)
 
-[Best Website To Learn Android App Development For ](https://medium.com/@negishivu99/best-website-to-learn-android-app-development-for-e01da3200991)
+[Sap Courses Details](https://medium.com/@shivamja27/sap-courses-details-b77ba0dd72a9)
 
-[Illustrator Courses](https://medium.com/@justacademytraining/illustrator-courses-4205f1078367)
+[Online Figma](https://medium.com/@negishivu99/online-figma-58ee33735aab)
 
-[Photoshop Illustration Course](https://justacademyin.github.io/justacademy/photoshop-illustration-course)
+[Full Stack Developer Offline Course Near Me](https://justacademyin.github.io/justacademy/full-stack-developer-offline-course-near-me)
 
-[Python Course In Thrissur](https://justacademyin.github.io/justacademy/python-course-in-thrissur)
+[Road Map Of Full Stack Developer](https://justacademyin.github.io/Articles/Road-Map-Of-Full-Stack-Developer)
 
