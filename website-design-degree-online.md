@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="Website Design Degree Online">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="Website Design Degree Online">
   </a>
 </p>
 ## Website Design Degree Online
@@ -41,15 +41,15 @@ An online website design degree equips students with the skills and knowledge ne
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Pmp Certification Cost In Hyderabad](https://www.linkedin.com/pulse/pmp-certification-cost-hyderabad-justacademy-ahmedabad-fr36e?trackingId=CQYQU%2BmUKpXWR4HCWz5sFg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BsgxkE5t4R9iHWE9515x%2Fgw%3D%3D)
+[Cloud Computing Courses In Kochi](https://www.linkedin.com/pulse/cloud-computing-courses-kochi-justacademy-berlin-xxk4c?trackingId=Mx0eWwKiIbVWlhfs7yRCOw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bv3waDY%2FCQ%2FumkrzSJz7bNQ%3D%3D)
 
-[Best Software Testing Training Institute In Delhi Ncr](https://www.linkedin.com/pulse/best-software-testing-training-institute-delhi-9tqhc?trackingId=4xUimUZweCm7TnQzvtT6vg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BV3sjVNqrQV6LT8YmMJxhFA%3D%3D)
+[Best Website To Learn Laravel](https://www.linkedin.com/pulse/best-website-learn-laravel-justacademy-hyderabad-qmo2c?trackingId=d%2Bd5y9SBfJPwzyvxgIUCXA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BIabnSlYPS7K8e0EtwSHvsQ%3D%3D)
 
-[Python Training Center Near Me](https://medium.com/@AkashSingh2052/python-training-center-near-me-2456c4716d15)
+[Web development vs Android development](https://medium.com/@prempja40/web-development-vs-android-development-27b8b45707db)
 
-[Online Figma](https://medium.com/@negishivu99/online-figma-58ee33735aab)
+[Alteryx Zoominfo](https://medium.com/@namusn/alteryx-zoominfo-0cf77de2753e)
 
-[Amazon Aws Tutorial Pdf](https://justacademyin.github.io/justacademy/amazon-aws-tutorial-pdf)
+[Digital Marketing Courses in Navi Mumbai](https://justacademyin.github.io/justacademy/digital-marketing-courses-in-navi-mumbai)
 
-[Web Design Certificate](https://justacademyin.github.io/justacademy/web-design-certificate)
+[GCP Data Engineer Interview Questions](https://justacademyin.github.io/justacademy/gcp-data-engineer-interview-questions)
 

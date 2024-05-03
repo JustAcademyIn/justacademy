@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="Photoshop and Illustrator Course">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="Photoshop and Illustrator Course">
   </a>
 </p>
 ## Photoshop and Illustrator Course
@@ -41,15 +41,15 @@ The Photoshop and Illustrator course is designed to provide comprehensive traini
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Advanced Php And Mysql](https://www.linkedin.com/pulse/advanced-php-mysql-justacademy-houston-cwehf?trackingId=l6L%2BORkpkQb1MnH7OxnkfQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BnF3eASk8R%2BOWSu8GAkG%2FXw%3D%3D)
+[Digital Marketing Degree](https://www.linkedin.com/pulse/digital-marketing-degree-justacademy-hyderabad-hvfjc?trackingId=itYykeD6v%2BsZCPC8ap9IPA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BIabnSlYPS7K8e0EtwSHvsQ%3D%3D)
 
-[React Js Hoc](https://www.linkedin.com/pulse/react-js-hoc-justacademy-portland-zo1if?trackingId=KPM3xkdfwUc%2B0ofrmEhRqg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B4wvQoxRzQS6F4YizGcy96A%3D%3D)
+[S4hana Abap](https://www.linkedin.com/pulse/s4hana-abap-justacademy-hyderabad-ruy0c/)
 
-[Digital Marketing in Madurai](https://medium.com/@surajvaishnav5015/digital-marketing-in-madurai-f2440e5bceeb)
+[Javascript Html Course](https://medium.com/@surajvaishnav5015/javascript-html-course-c78337309cb2)
 
-[DevOps Course in Pune](https://medium.com/@prempja40/devops-course-in-pune-9f584eba9cab)
+[Python For Kids Free](https://medium.com/@justacademytraining/python-for-kids-free-74326be129fe)
 
-[Java Full Stack Developer Tutorial](https://justacademyin.github.io/justacademy/java-full-stack-developer-tutorial)
+[Photoshop Novasoft Adobe Course](https://justacademyin.github.io/justacademy/photoshop-novasoft-adobe-course)
 
-[Php Course Near Me](https://justacademyin.github.io/justacademy/php-course-near-me)
+[Aws Services Javatpoint](https://justacademyin.github.io/justacademy/aws-services-javatpoint)
 

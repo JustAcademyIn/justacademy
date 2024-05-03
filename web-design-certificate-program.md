@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="Web Design Certificate Program">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="Web Design Certificate Program">
   </a>
 </p>
 ## Web Design Certificate Program
@@ -41,15 +41,15 @@ A web design certificate program is a short-term educational program focused on 
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Machine Learning Microsoft Azure](https://www.linkedin.com/pulse/machine-learning-microsoft-azure-justacademy-las-vegas-chcjf?trackingId=apA%2F18hiSnQMb59693h6rA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BC43SW%2FwVReqozQROb3Gl0A%3D%3D)
+[Java Training Institutes In Bangalore With Projects](https://www.linkedin.com/pulse/java-training-institutes-bangalore-projects-justacademy-delhi-uzrne?trackingId=tLY64ESkySgYvfgFPiWyKA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B3uDtMYf2QJOigjAh01Sv1g%3D%3D)
 
-[Mean Stack Course](https://www.linkedin.com/pulse/mean-stack-course-justacademy-chandigarh-1qjte?trackingId=dcd9ViP4voRntqG7BFwaDw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BWufQlDx4QTmF2D0sEhqzSw%3D%3D)
+[Best Courses To Learn Flutter](https://www.linkedin.com/pulse/best-courses-learn-flutter-justacademy-thane-syysc/)
 
-[Digital Marketing Course in Kanpur](https://medium.com/@shivamja27/digital-marketing-course-in-kanpur-bf7b232028dc)
+[Project Management Certification Uk](https://medium.com/@kumarishimmi99/project-management-certification-uk-b4e6ba672f4c)
 
-[Photoshop Elements Courses Near Me](https://medium.com/@abhidnya.1068/photoshop-elements-courses-near-me-3cf1e82723f1)
+[Oracle Database vs MySQL](https://medium.com/@AkashSingh2052/oracle-database-vs-mysql-2c81cf7f69e2)
 
-[Microsoft Azure Services In Cloud Computing](https://justacademyin.github.io/justacademy/microsoft-azure-services-in-cloud-computing)
+[Full Stack Developer Bootcamp Online](https://justacademyin.github.io/justacademy/full-stack-developer-bootcamp-online)
 
-[Digital Marketing Course in Bathinda](https://justacademyin.github.io/justacademy/digital-marketing-course-in-bathinda)
+[Difference Between Window and Document in JavaScript](https://justacademyin.github.io/justacademy/difference-between-window-and-document-in-javascript)
 

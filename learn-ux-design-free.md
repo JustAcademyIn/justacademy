@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="Learn Ux Design Free">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="Learn Ux Design Free">
   </a>
 </p>
 ## Learn Ux Design Free
@@ -80,15 +80,15 @@ Upon successful completion of the training program, students may receive a certi
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Javascript Programming Language](https://www.linkedin.com/pulse/javascript-programming-language-justacademy-mumbai-fvzpc?trackingId=3qvitkip90TF6XT9lELseQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_showcase_admin%3Bwznj2UNcTieGGkSiw6VF5Q%3D%3D)
+[Free Android App Development Course With Certifica](https://www.linkedin.com/pulse/free-android-app-development-course-certifica-justacademy-kolkata-d43uc/)
 
-[Difference Between Java And Html](https://www.linkedin.com/pulse/difference-between-java-html-justacademy-manchester-2konf?trackingId=p%2F0hbIp%2BmQ74TgVeEs7ajw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BkfEqcIulRv%2Bk695n7CpVww%3D%3D)
+[Net Online Course](https://www.linkedin.com/pulse/net-online-course-justacademy-houston-mf8gf?trackingId=f2w%2F3W2YdZjCHZgLTj8a5Q%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B5RzDF0CIQxuDMHcL3MgYhA%3D%3D)
 
-[Android Beginner Course](https://medium.com/@akanshapatil/android-beginner-course-690234708c45)
+[Java Training Institute Near Tambaram](https://medium.com/@namusn/java-training-institute-near-tambaram-57fd6d975296)
 
-[Lightroom Cc Course](https://medium.com/@mistersumit961/lightroom-cc-course-49248cadb6b7)
+[Html Css Bootstrap Course](https://medium.com/@prempja40/html-css-bootstrap-course-345bb8d4f339)
 
-[Sap Course Abap](https://justacademyin.github.io/justacademy/sap-course-abap)
+[Java Full Stack Development](https://justacademyin.github.io/justacademy/java-full-stack-development)
 
-[GCP Certificate Online](https://justacademyin.github.io/justacademy/gcp-certificate-online)
+[Python Programming Mooc](https://justacademyin.github.io/justacademy/python-programming-mooc)
 

@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="UI UX Courses in Mumbai">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="UI UX Courses in Mumbai">
   </a>
 </p>
 ## UI UX Courses in Mumbai
@@ -41,15 +41,15 @@ There are several UI UX Courses in Mumbai that cater to individuals looking to e
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Java Full Stack Developer Course In Hyderabad](https://www.linkedin.com/pulse/java-full-stack-developer-course-hyderabad-justacademy-jaipur-lmkoe/)
+[Best Php Online Course](https://www.linkedin.com/pulse/best-php-online-course-justacademy-delhi-sahvc?trackingId=%2BjVL5zC6gYUnSQDUhs%2B%2FRA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BXd%2B4Zk9XQtOyhr1jBDUlIA%3D%3D)
 
-[Professional Javascript For Web Developers](https://www.linkedin.com/pulse/professional-javascript-web-developers-justacademy-ahmedabad-uuvje?trackingId=4LKzpEZwKXAGte7%2BKFep9w%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BaDgp3xTAQPe9zxsqrS35EA%3D%3D)
+[Full Stack Coaching Near Me](https://www.linkedin.com/pulse/full-stack-coaching-near-me-justacademy-bay-area-mcrbc/)
 
-[Best Html Css Javascript Course Online](https://medium.com/@akanshapatil/best-html-css-javascript-course-online-8c8cf09aa43e)
+[Best Java Training Institute In Pune](https://medium.com/@kumarishimmi99/best-java-training-institute-in-pune-57dd9a3aa593)
 
-[SAP HANA Certification For Beginners](https://medium.com/@negishivu99/sap-hana-certification-for-beginners-0f03768a38d7)
+[Full Course Of Photoshop](https://medium.com/@negishivu99/full-course-of-photoshop-4cd6de92eef1)
 
-[Php Mysql Course Online](https://justacademyin.github.io/justacademy/php-mysql-course-online)
+[Machine Learning Bookcamp](https://justacademyin.github.io/justacademy/machine-learning-bookcamp)
 
-[SWIFT VS REACT NATIVE](https://justacademyin.github.io/justacademy/swift-vs-react-native)
+[Online Illustration Courses UK](https://justacademyin.github.io/justacademy/online-illustration-courses-uk)
 

@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="Bootcamp UX Design">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="Bootcamp UX Design">
   </a>
 </p>
 ## Bootcamp UX Design
@@ -79,15 +79,15 @@ A UX design bootcamp is an intensive and immersive training program that focuses
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Core Java Training Institutes In Hyderabad](https://www.linkedin.com/pulse/core-java-training-institutes-hyderabad-justacademy-houston-6uj1e?trackingId=YgWehZRChx8pg8OG67Y26Q%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BDrK92nhdT%2BeMCX%2FTk95TlQ%3D%3D)
+[Cloud Computing Aws Tutorial](https://www.linkedin.com/pulse/cloud-computing-aws-tutorial-justacademy-kolkata-q6xre?trackingId=tv4vtg7%2B9PMDrral0QQs0g%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BQDIjHgscSv%2BfE53RTIlzCA%3D%3D)
 
-[Best Php Certification](https://www.linkedin.com/pulse/best-php-certification-software-training-mountain-view-sehge?trackingId=ThZMM1zUiTavmdaWsNmA2A%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BLLr0XlPoQRKsrZpjwzzNmQ%3D%3D)
+[Java Course In Coimbatore](https://www.linkedin.com/pulse/java-course-coimbatore-justacademy-jaipur-ccnle/)
 
-[Selenium Online Classes](https://medium.com/@kumarishimmi99/selenium-online-classes-e30ab307b878)
+[Sap Sd Module Course Content](https://medium.com/@mahi3106/sap-sd-module-course-content-8852082bfeb1)
 
-[Best Java Training Institute In Noida Delhi](https://medium.com/@mistersumit961/best-java-training-institute-in-noida-delhi-0916cf4d1e58)
+[Kotlin Developer Certification](https://medium.com/@namusn/kotlin-developer-certification-d9cfd46ff7f6)
 
-[Digital Marketing in pune](https://justacademyin.github.io/justacademy/digital-marketing-in-pune)
+[Php Backend Course](https://justacademyin.github.io/justacademy/php-backend-course)
 
-[SAP MM Training In Chennai](https://justacademyin.github.io/Articles/SAP-MM-Training-In-Chennai)
+[Digital Marketing Institute in Udaipur](https://justacademyin.github.io/justacademy/digital-marketing-institute-in-udaipur)
 

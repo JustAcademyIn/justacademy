@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="Adobe Illustrator classes online">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="Adobe Illustrator classes online">
   </a>
 </p>
 ## Adobe Illustrator classes online
@@ -41,15 +41,15 @@ Adobe Illustrator classes online offer a convenient and flexible way for individ
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Js Fundamentals](https://www.linkedin.com/pulse/js-fundamentals-justacademy-thane-jqxlc?trackingId=FcbsE3fpg6fc6nBQrW2%2B0w%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bs5%2FTwm7dQuuyZG7uExGaaQ%3D%3D)
+[Best Java Online Training Institutes In Hyderabad](https://www.linkedin.com/pulse/best-java-online-training-institutes-hyderabad-justacademy-zbogc?trackingId=Xn8y%2Bv6aMDDzFK6lGyAoGA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BxUP8vDI1SK6JTwycAY2syQ%3D%3D)
 
-[Android App Development Course Free Download](https://www.linkedin.com/pulse/android-app-development-course-free-download-justacademy-beangaluru-qwt3c/)
+[Angular Best Practices](https://www.linkedin.com/pulse/angular-best-practices-justacademy-bay-area-agofc?trackingId=s6NLudd7PDELzFt4ro5U9w%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BrsnEP2CeSl%2BKYnaEx50m1g%3D%3D)
 
-[Android Studio Kotlin Course](https://medium.com/@shivamja27/android-studio-kotlin-course-f24e478d0506)
+[Tableau Free Course](https://medium.com/@namusn/tableau-free-course-e96ac2fad95f)
 
-[java vs python difference](https://medium.com/@abhidnya.1068/java-vs-python-difference-ee51c34e618f)
+[React js Vs Javascript](https://medium.com/@kumarishimmi99/react-js-vs-javascript-e87e727d1125)
 
-[Java Training Institute In Marathahalli](https://justacademyin.github.io/justacademy/java-training-institute-in-marathahalli)
+[Online Masters Machine Learning](https://justacademyin.github.io/justacademy/online-masters-machine-learning)
 
-[Pmp Certification 100 Pass Guarantee](https://justacademyin.github.io/justacademy/pmp-certification-100-pass-guarantee)
+[Java Course Fees In Chennai](https://justacademyin.github.io/justacademy/java-course-fees-in-chennai)
 

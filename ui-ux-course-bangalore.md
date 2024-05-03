@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="UI UX Course Bangalore">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="UI UX Course Bangalore">
   </a>
 </p>
 ## UI UX Course Bangalore
@@ -60,15 +60,15 @@ The UI/UX course in Bangalore offers a comprehensive curriculum that covers user
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Best Java Training Institute Delhi](https://www.linkedin.com/pulse/best-java-training-institute-delhi-justacademy-chicago-9f8nf?trackingId=pL72SFi56D5XGODI6mw79g%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BXfdKLa%2BZRG%2B541nAJnPQxg%3D%3D)
+[Salesforce Training And Placement](https://www.linkedin.com/pulse/salesforce-training-placement-justacademy-bristol-kkpve?trackingId=6MfSdohzPxump28GjPQ8fA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BuQw2P2SXTeivwplSXi08Jg%3D%3D)
 
-[Php Mysql Web Development](https://www.linkedin.com/pulse/php-mysql-web-development-justacademy-chandigarh-mbxee?trackingId=TTCYbK8baB9JRW0y%2BED%2FjQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BXEu5pmfJRhGyaD1FCv74Lw%3D%3D)
+[Best Django Course](https://www.linkedin.com/pulse/best-django-course-justacademy-brisbane-s9oae?trackingId=bJRZyE1HlKvsdrv0Eh3AxQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B5cPDORNwQlqWF%2BECY5%2Fsgw%3D%3D)
 
-[Tableau Alteryx](https://medium.com/@ranepooja/tableau-alteryx-a30e4a025b41)
+[Sap Abap Cloud](https://medium.com/@negishivu99/sap-abap-cloud-aea763a6ef43)
 
-[Popularity React vs Angular](https://medium.com/@justacademytraining/popularity-react-vs-angular-a1e67c51d839)
+[Java Training Institute New Delhi Delhi](https://medium.com/@kumarishimmi99/java-training-institute-new-delhi-delhi-e0c660ae62b4)
 
-[Python Full Stack Developer Tutorial](https://justacademyin.github.io/justacademy/python-full-stack-developer-tutorial)
+[Complete Php Course](https://justacademyin.github.io/justacademy/complete-php-course)
 
-[React VS Flutter](https://justacademyin.github.io/justacademy/react-vs-flutter)
+[Sap Abap Online Training](https://justacademyin.github.io/justacademy/sap-abap-online-training)
 

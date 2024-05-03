@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="Figma Classes">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="Figma Classes">
   </a>
 </p>
 ## Figma Classes
@@ -41,15 +41,15 @@ Figma classes are a way to organize design elements within a Figma file, making 
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Salesforce Administrator Full Course](https://www.linkedin.com/pulse/salesforce-administrator-full-course-justacademy-san-jose-dkqxf?trackingId=MAucdjClrW1zFNr7MQTghQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BfKLFXm%2FbTECg8F%2B%2F6%2BCWqA%3D%3D)
+[Micro Frontend Architecture Angular](https://www.linkedin.com/pulse/micro-frontend-architecture-angular-justacademy-mumbai-zpsdc?trackingId=rbkAVVnFM%2BxED8Ozygg4Aw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_showcase_admin%3B%2Fp6Xeq9yQHuq%2BIOH7VpqxQ%3D%3D)
 
-[Salesforce Course Melbourne](https://www.linkedin.com/pulse/salesforce-course-melbourne-justacademy-london-gz8ff?trackingId=BuGCOEuVkeWlTZXVCNNWkQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BktV9tJs7QaWTumhj4BQ9XQ%3D%3D)
+[Best Institute For Software Testing In Indore](https://www.linkedin.com/pulse/best-institute-software-testing-indore-justacademy-qzm1c?trackingId=vawgFmPGuxjcszwXOutQqg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BkivWcGmHSBCkKNz13%2FsLDg%3D%3D)
 
-[Difference Between For Loop and While Loop in Python](https://medium.com/@mahi3106/difference-between-for-loop-and-while-loop-in-python-f18df2cd2f11)
+[Python Programming Online Free Course With Certificate](https://medium.com/@prempja40/python-programming-online-free-course-with-certificate-72ae2a107c29)
 
-[Azure Machine Learning Studio Tutorial](https://medium.com/@ranepooja/azure-machine-learning-studio-tutorial-bd1902517a4f)
+[Java Training Institute In Pimpri Chinchwad](https://medium.com/@ranepooja/java-training-institute-in-pimpri-chinchwad-d3daa89348ff)
 
-[Php Programming Course Online Free](https://justacademyin.github.io/justacademy/php-programming-course-online-free)
+[Windows Azure In Cloud Computing](https://justacademyin.github.io/justacademy/windows-azure-in-cloud-computing)
 
-[Full Stack Training Online](https://justacademyin.github.io/justacademy/full-stack-training-online)
+[Salesforce Classes Online](https://justacademyin.github.io/justacademy/salesforce-classes-online)
 

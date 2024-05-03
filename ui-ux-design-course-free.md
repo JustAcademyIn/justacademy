@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="UI UX Design Course Free">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="UI UX Design Course Free">
   </a>
 </p>
 ## UI UX Design Course Free
@@ -41,15 +41,15 @@ A UI UX design course teaches you the essentials of creating user-friendly and v
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Flutter Course For Beginners](https://www.linkedin.com/pulse/flutter-course-beginners-justacademy-6z16c/)
+[Associate Android Developer Certification Course](https://www.linkedin.com/pulse/associate-android-developer-certification-course-0b3mf/)
 
-[Flutter And Firebase Tutorial](https://www.linkedin.com/pulse/flutter-firebase-tutorial-justacademy-delhi-b2v8c/)
+[Abap For Sap Hana 2.0](https://www.linkedin.com/pulse/abap-sap-hana-20-justacademy-thane-vjddc/)
 
-[Important Topics In Python](https://medium.com/@kamblerajas684/important-topics-in-python-c47de6a011f5)
+[Adobe Photoshop Training Course London](https://medium.com/@surajvaishnav5015/adobe-photoshop-training-course-london-ea81d0adea98)
 
-[Java Training Institute In Lucknow](https://medium.com/@roneet705/java-training-institute-in-lucknow-7f554bef50fb)
+[Adobe Course](https://medium.com/@kumarishimmi99/adobe-course-7e169161fb9a)
 
-[Cloud Computing Course Duration And Fee](https://justacademyin.github.io/justacademy/cloud-computing-course-duration-and-fee)
+[Software Testing Course In Bangalore With 100 Placement](https://justacademyin.github.io/justacademy/software-testing-course-in-bangalore-with-100-placement)
 
-[Aws Online Tutorial Free](https://justacademyin.github.io/justacademy/aws-online-tutorial-free)
+[Software Testing Course In Noida](https://justacademyin.github.io/justacademy/software-testing-course-in-noida)
 

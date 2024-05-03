@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="Figma Crash Course">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="Figma Crash Course">
   </a>
 </p>
 ## Figma Crash Course
@@ -41,15 +41,15 @@ A Figma crash course is a quick and intensive introduction to Figma, a popular d
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Java Training And Placement Institutes In Chennai](https://www.linkedin.com/pulse/java-training-placement-institutes-chennai-justacademy-manchester-yauzf?trackingId=vaUalZvtJv46Tm09FTLasw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BonfNNyQQRXKvud4lFfnrRQ%3D%3D)
+[Salesforce Ba](https://www.linkedin.com/pulse/salesforce-ba-justacademy-liverpool-nwrtf?trackingId=6S67DjHwtAwIFD9h8eem8g%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B%2B7NXH4oxSQ2PhivsxtvsGw%3D%3D)
 
-[Pmp Certification Institute In Chennai](https://www.linkedin.com/pulse/pmp-certification-institute-chennai-software-training-mountain-view-tvvae?trackingId=8dgaat%2BxLmbPmhfHYpn9Eg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B8iJAXExGSpWzkSgodJb9Bg%3D%3D)
+[Mm Course Full Form](https://www.linkedin.com/pulse/mm-course-full-form-justacademy-cupertino-bd11c?trackingId=Zv8bKkPi8Qi9GTsAwYC3dQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BgBhGnALRQwW8mE6l8mJTTg%3D%3D)
 
-[Digital Marketing Course in Kolkata Fees](https://medium.com/@prempja40/digital-marketing-course-in-kolkata-fees-52ffddbf2305)
+[React or Angular which is best](https://medium.com/@justacademytraining/react-or-angular-which-is-best-4ea3c1ab0c46)
 
-[Android Dev Course](https://medium.com/@shivamja27/android-dev-course-a803a085ad4c)
+[Is Adobe Illustrator Easy To Use](https://medium.com/@shivamja27/is-adobe-illustrator-easy-to-use-6a5488ba4d53)
 
-[Study Android App Development](https://justacademyin.github.io/justacademy/study-android-app-development)
+[Magento vs WordPress](https://justacademyin.github.io/justacademy/magento-vs-wordpress)
 
-[Digital Marketing Course in Perinthalmanna](https://justacademyin.github.io/justacademy/digital-marketing-course-in-perinthalmanna)
+[Laravel VS Symfony](https://justacademyin.github.io/justacademy/laravel-vs-symfony)
 

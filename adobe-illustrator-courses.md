@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="Adobe Illustrator Courses">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="Adobe Illustrator Courses">
   </a>
 </p>
 ## Adobe Illustrator Courses
@@ -41,15 +41,15 @@ Adobe Illustrator courses are designed to help individuals of all skill levels m
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Software Testing Course Eligibility](https://www.linkedin.com/pulse/software-testing-course-eligibility-justacademy-sunnyvale-2c6nc?trackingId=yPLBo%2B%2FMCspCgN77rZ91Uw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BY8luX3FqRoKvysGk6zzShw%3D%3D)
+[Flutter And Firebase Tutorial](https://www.linkedin.com/pulse/flutter-firebase-tutorial-justacademy-delhi-b2v8c/)
 
-[Road Map Full Stack Developer](https://www.linkedin.com/pulse/road-map-full-stack-developer-justacademy-chennai-wdljc?trackingId=7juyouEObaay4C24zTXDBg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BjPw0ei4cQfe0InHd%2FK206Q%3D%3D)
+[Edge Computing Microsoft](https://www.linkedin.com/pulse/edge-computing-microsoft-justacademy-pune-xmjtc?trackingId=jW8Gatjfk%2B5plWI%2Fj%2BLiLA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BgZlONmXPQ3%2BLxo6frpA8RA%3D%3D)
 
-[Different types of framework in Selenium](https://medium.com/@akanshapatil/different-types-of-framework-in-selenium-b428e4fada47)
+[SAP HANA Cloud](https://medium.com/@kamblerajas684/sap-hana-cloud-20c06c2ac01f)
 
-[Basics Of Flutter](https://medium.com/@justacademytraining/basics-of-flutter-b3aa51408cf0)
+[SAP S4HANA Financial Accounting Certification](https://medium.com/@negishivu99/sap-s4hana-financial-accounting-certification-3844940c60ff)
 
-[Python Training In Bangalore With Placement](https://justacademyin.github.io/justacademy/python-training-in-bangalore-with-placement)
+[Php Training Classes](https://justacademyin.github.io/justacademy/php-training-classes)
 
-[Learn Full Stack Development Free](https://justacademyin.github.io/justacademy/learn-full-stack-development-free)
+[Machine Learning Python Course](https://justacademyin.github.io/justacademy/machine-learning-python-course)
 

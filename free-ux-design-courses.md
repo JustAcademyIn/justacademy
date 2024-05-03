@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="Free UX Design Courses">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="Free UX Design Courses">
   </a>
 </p>
 ## Free UX Design Courses
@@ -41,15 +41,15 @@ There are several free UX design courses available online that provide valuable 
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Best Institute For Software Testing Course In Delhi](https://www.linkedin.com/pulse/best-institute-software-testing-course-delhi-justacademy-thane-0zqtc?trackingId=zsMsjABjhPrkcVM1eOT4hQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B8x4oZRFoSmO4CZ5ThOfedg%3D%3D)
+[Difference Between .Net And Asp.Net Core](https://www.linkedin.com/pulse/difference-between-net-aspnet-core-justacademy-chennai-qstoc?trackingId=ohinTJz2ZPLSlXi5q11mrw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B1CN8b2GFRWqxwCPWd5SbXw%3D%3D)
 
-[Fastest Way To Learn Flutter](https://www.linkedin.com/pulse/fastest-way-learn-flutter-justacademy-thane-rwzrc/)
+[Java Training Institute In Pimpri Chinchwad](https://www.linkedin.com/pulse/java-training-institute-pimpri-chinchwad-justacademy-sunnyvale-vp9qe?trackingId=fgSssQG%2FGonUi8o9OrfB%2FA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B84%2Br3TF5Sai5zePv40hxgg%3D%3D)
 
-[DIGITAL MARKETING IN KOCHI](https://medium.com/@roneet705/digital-marketing-in-kochi-b80c0baea4ef)
+[Sap Abap S 4 Hana Training](https://medium.com/@surajvaishnav5015/sap-abap-s-4-hana-training-d9738b794437)
 
-[Java Core](https://medium.com/@akanshapatil/java-core-b4c54c19d59b)
+[Digital Marketing in Udaipur](https://medium.com/@kumarishimmi99/digital-marketing-in-udaipur-5567004d8da0)
 
-[Top Software Testing Course In Pune With Placement](https://justacademyin.github.io/justacademy/top-software-testing-course-in-pune-with-placement)
+[Digital Marketing Crash Course](https://justacademyin.github.io/justacademy/digital-marketing-crash-course)
 
-[Best Digital Marketing in Delhi](https://justacademyin.github.io/justacademy/best-digital-marketing-in-delhi)
+[Machine Learning Languages](https://justacademyin.github.io/justacademy/machine-learning-languages)
 

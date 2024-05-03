@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="Best UI UX Bootcamps">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="Best UI UX Bootcamps">
   </a>
 </p>
 ## Best UI UX Bootcamps
@@ -41,15 +41,15 @@ The best UI/UX bootcamps offer comprehensive and hands-on training in user inter
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Sap S4 Hana Training](https://www.linkedin.com/pulse/sap-s4-hana-training-justacademy-kolkata-ae5fc/)
+[Best Software Testing Institute In Chennai With Placement](https://www.linkedin.com/pulse/best-software-testing-training-institute-chennai-placement-nxgsc?trackingId=IPgsjo09LdTkKUvtgDD5eA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BxUP8vDI1SK6JTwycAY2syQ%3D%3D)
 
-[Salesforce Developer Certification Price](https://www.linkedin.com/pulse/salesforce-developer-certification-price-ot6qe?trackingId=FRz9E69KOUiUtk02BzwX9Q%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BbQ9qZFjkRLyS67kyvPtamg%3D%3D)
+[Aws Services Javatpoint](https://www.linkedin.com/pulse/aws-services-javatpoint-justacademy-kolkata-oclse?trackingId=YEq95a3UicVz8r12C%2BlAvA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BQDIjHgscSv%2BfE53RTIlzCA%3D%3D)
 
-[Multithreading vs multiprocessing python](https://medium.com/@ranepooja/multithreading-vs-multiprocessing-python-94694ebda623)
+[Best Java Training Institute In Dhaka](https://medium.com/@roneet705/best-java-training-institute-in-dhaka-cc93aae2e443)
 
-[Best Photoshop Course For Beginners](https://medium.com/@prempja40/best-photoshop-course-for-beginners-cb72a196da2a)
+[Salesforce Developer In Hindi](https://medium.com/@justacademytraining/salesforce-developer-in-hindi-de025242c653)
 
-[Best Digital Marketing Institute in Chennai](https://justacademyin.github.io/justacademy/best-digital-marketing-institute-in-chennai)
+[Cucumber vs Selenium](https://justacademyin.github.io/justacademy/cucumber-vs-selenium)
 
-[Html Course Near Me](https://justacademyin.github.io/justacademy/html-course-near-me)
+[Online Masters in Machine Learning](https://justacademyin.github.io/justacademy/online-masters-in-machine-learning)
 

@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="Online Web Design Degrees">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="Online Web Design Degrees">
   </a>
 </p>
 ## Online Web Design Degrees
@@ -41,15 +41,15 @@ Online web design degrees offer students the opportunity to gain knowledge and s
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Bootcamp Full Stack Web Developer](https://www.linkedin.com/pulse/bootcamp-full-stack-web-developer-justacademy-las-vegas-rbdbf?trackingId=iCQWzqLzM6cUVuRrK%2Fwx4A%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B72drtJzFRpOZi%2BIA7t6Uhg%3D%3D)
+[Figma Learning](https://www.linkedin.com/pulse/figma-learning-justacademy-chicago-noeif?trackingId=ef%2Bg%2BPEoiGfWKP9Rrdlvbw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BPE%2BT5WipQcKTfk6GVPUI1w%3D%3D)
 
-[Learn Php From Scratch](https://www.linkedin.com/pulse/learn-php-from-scratch-justacademy-houston-qy2vf?trackingId=rzb%2FDn8BfI0UqKvaD1Pw9A%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BnF3eASk8R%2BOWSu8GAkG%2FXw%3D%3D)
+[Cloud Computing Courses In Bangalore](https://www.linkedin.com/pulse/cloud-computing-courses-bangalore-justacademy-jaipur-xetjc?trackingId=h9wHGQX%2FQEM5PllXPqM8gQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B%2Bj%2BWkU3wSKSQ1R70zcYAcw%3D%3D)
 
-[Full Stack Development Course In Bangalore](https://medium.com/@mistersumit961/full-stack-development-course-in-bangalore-daab54ce4215)
+[Full Stack Developer Course With Placement Free](https://medium.com/@akanshapatil/full-stack-developer-course-with-placement-free-ce508c235fe4)
 
-[Difference Between Map And Foreach In Javascript](https://medium.com/@mahi3106/difference-between-map-and-foreach-in-javascript-4b94e7cf25f7)
+[multiprocessing vs multithreading python](https://medium.com/@namusn/multiprocessing-vs-multithreading-python-4a1f0a482e1a)
 
-[Learn Php Laravel](https://justacademyin.github.io/justacademy/learn-php-laravel)
+[Best Site To Learn Photoshop](https://justacademyin.github.io/justacademy/best-site-to-learn-photoshop)
 
-[Difference between DBMS and SQL](https://justacademyin.github.io/justacademy/difference-between-dbms-and-sql)
+[Aws DevOps Course in Hyderabad](https://justacademyin.github.io/justacademy/aws-devops-course-in-hyderabad)
 

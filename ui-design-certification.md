@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="UI Design Certification">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="UI Design Certification">
   </a>
 </p>
 ## UI Design Certification
@@ -41,15 +41,15 @@ A UI design certification is a credential that demonstrates a designer's profici
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Sap S 4hana Training](https://www.linkedin.com/pulse/sap-4hana-training-justacademy-beangaluru-nnyac/)
+[Free Android Certification Course](https://www.linkedin.com/pulse/free-android-certification-course-justacademy-cupertino-te7sf/)
 
-[Angular Front End Developer Skills](https://www.linkedin.com/pulse/angular-front-end-developer-skills-justacademy-san-jose-wma5f?trackingId=S5w0Tzgg5qx85YefORCmHg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BmFqei9z9R2q6luNOEZ8Z4A%3D%3D)
+[Net Online Course](https://www.linkedin.com/pulse/net-online-course-justacademy-houston-mf8gf?trackingId=f2w%2F3W2YdZjCHZgLTj8a5Q%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B5RzDF0CIQxuDMHcL3MgYhA%3D%3D)
 
-[Java Real Time Projects Training Institutes In Hyderabad](https://medium.com/@akanshapatil/java-real-time-projects-training-institutes-in-hyderabad-ff94af502624)
+[DevOps Course Fees](https://medium.com/@akanshapatil/devops-course-fees-a20df0e6defc)
 
-[Certifications In Software Testing](https://medium.com/@kumarishimmi99/certifications-in-software-testing-413a391fe196)
+[Pmp Course](https://medium.com/@AkashSingh2052/pmp-course-c39b96af1f76)
 
-[devops training in kochi](https://justacademyin.github.io/justacademy/devops-training-in-kochi)
+[Microsoft Azure And Cloud Computing](https://justacademyin.github.io/justacademy/microsoft-azure-and-cloud-computing)
 
-[Digital Marketing Institute in Jaipur](https://justacademyin.github.io/justacademy/digital-marketing-institute-in-jaipur)
+[Java Course In Pune With Placement](https://justacademyin.github.io/justacademy/java-course-in-pune-with-placement)
 

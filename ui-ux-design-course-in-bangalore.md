@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="UI UX design course in Bangalore">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="UI UX design course in Bangalore">
   </a>
 </p>
 ## UI UX design course in Bangalore
@@ -41,15 +41,15 @@ The UI UX design course in Bangalore is a comprehensive program that equips stud
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Best Training Institute For Software Testing In Hyderabad](https://www.linkedin.com/pulse/best-training-institute-software-testing-hyderabad-ohhdc?trackingId=oG4TCnKMypQyx0QcF5nviA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BKQmokhDTSBO4c3m1OKbvVA%3D%3D)
+[Reactive Js](https://www.linkedin.com/pulse/reactive-js-justacademy-mumbai-7jnkc?trackingId=WkBliMRqX2VVyQZXTUYUeQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_showcase_admin%3Bwznj2UNcTieGGkSiw6VF5Q%3D%3D)
 
-[Sap S 4 Hana Training](https://www.linkedin.com/pulse/sap-4-hana-training-software-training-mountain-view-970ic/)
+[Microsoft Azure Pc](https://www.linkedin.com/pulse/microsoft-azure-pc-justacademy-sunnyvale-c3iuc?trackingId=H%2Fuo4p89yF6VXh%2B2Igy48A%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BJVVM%2Fef%2BR3WBKPYq3pagGw%3D%3D)
 
-[Android Bootcamp](https://medium.com/@pzade254/android-bootcamp-153a648af191)
+[Adobe Photoshop Advanced](https://medium.com/@negishivu99/adobe-photoshop-advanced-ef56c99f6e35)
 
-[Difference Between Java and PHP](https://medium.com/@justacademytraining/difference-between-java-and-php-a827ddb5c84e)
+[Free Android Application Development](https://medium.com/@kumarishimmi99/free-android-application-development-bdbbe439a2ea)
 
-[Java Course Syllabus](https://justacademyin.github.io/justacademy/java-course-syllabus)
+[Best Software Testing Institute In Delhi Ncr](https://justacademyin.github.io/justacademy/best-software-testing-institute-in-delhi-ncr)
 
-[ASP NET vs PHP](https://justacademyin.github.io/justacademy/asp-net-vs-php)
+[Machine Learning Engineering with Python](https://justacademyin.github.io/justacademy/machine-learning-engineering-with-python)
 

@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="UX Design Bootcamp">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="UX Design Bootcamp">
   </a>
 </p>
 ## UX Design Bootcamp
@@ -41,15 +41,15 @@ A UX design bootcamp is an intensive and immersive training program that focuses
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Amazon Web Services Tutorial Pdf Free Download](https://www.linkedin.com/pulse/amazon-web-services-tutorial-pdf-free-download-hygke?trackingId=b90hNas73K5soUgdNYpUcA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BgDkJO5giR6GYKSrzSn7zAw%3D%3D)
+[Free Course Laravel](https://www.linkedin.com/pulse/free-course-laravel-justacademy-beangaluru-0lv1c?trackingId=DhEAbTxu2GpFX0ru9T2TZQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BBUakVGECTzaHeYDngAD9NQ%3D%3D)
 
-[Sap Fico Hana Course](0)
+[Java Training Institutes In Kolkata](https://www.linkedin.com/pulse/java-training-institutes-kolkata-justacademy-berlin-dbete?trackingId=GfqkTNG3sY%2BPBAmxyI39EQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bjmi5U8HnRnGuyDtWTpE8KQ%3D%3D)
 
-[Java Full Stack Training Institute](https://medium.com/@justacademytraining/java-full-stack-training-institute-441fa3c37bc3)
+[Asp net vs php](https://medium.com/@namusn/asp-net-vs-php-46093643e7f3)
 
-[Java Couse Training Institute In Chennai](https://medium.com/@surajvaishnav5015/java-couse-training-institute-in-chennai-7b7e418c26f1)
+[Sap Sd Online Training](https://medium.com/@prempja40/sap-sd-online-training-030e255c52d2)
 
-[Best Resources To Learn Python](https://justacademyin.github.io/justacademy/best-resources-to-learn-python)
+[Software Testing Course In Delhi](https://justacademyin.github.io/justacademy/software-testing-course-in-delhi)
 
-[Importance Of Software Testing](https://justacademyin.github.io/justacademy/importance-of-software-testing)
+[Pmp Certification Cost In Hyderabad](https://justacademyin.github.io/justacademy/pmp-certification-cost-in-hyderabad)
 

@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="Free UX UI Course">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="Free UX UI Course">
   </a>
 </p>
 ## Free UX UI Course
@@ -41,15 +41,15 @@ A free UX/UI course is a valuable opportunity to learn the fundamentals of user 
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Sales Force Automation Training](https://www.linkedin.com/pulse/sales-force-automation-training-justacademy-hyderabad-o9ujc?trackingId=QaOYUzKq6c2Aiytkc4IPZw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BDVbRKUgIQU%2Bm75jg%2BU5m6w%3D%3D)
+[Core Java Training Institutes In Hyderabad](https://www.linkedin.com/pulse/core-java-training-institutes-hyderabad-justacademy-houston-6uj1e?trackingId=YgWehZRChx8pg8OG67Y26Q%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BDrK92nhdT%2BeMCX%2FTk95TlQ%3D%3D)
 
-[Angular Best Practices](https://www.linkedin.com/pulse/angular-best-practices-justacademy-bay-area-agofc?trackingId=s6NLudd7PDELzFt4ro5U9w%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BrsnEP2CeSl%2BKYnaEx50m1g%3D%3D)
+[Software Testing Course Information](https://www.linkedin.com/pulse/software-testing-course-information-software-training-mountain-view-nayyc?trackingId=aUwkpaOyvSEX6s5kqaqa2A%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BO6zCmHqaTSmsGbbNTRP%2FeA%3D%3D)
 
-[Digital Marketing Course in Madurai](https://medium.com/@akanshapatil/digital-marketing-course-in-madurai-36e274847bd1)
+[Android Free Certification Course](https://medium.com/@AkashSingh2052/android-free-certification-course-4618b7052f21)
 
-[Full Stack Developer Course Syllabus](https://medium.com/@shivamja27/full-stack-developer-course-syllabus-dd965398ad28)
+[Pmp Uk](https://medium.com/@negishivu99/pmp-uk-0365dac28297)
 
-[Digital Marketing Course in Uttam Nagar](https://justacademyin.github.io/justacademy/digital-marketing-course-in-uttam-nagar)
+[Cloud Networking Azure](https://justacademyin.github.io/justacademy/cloud-networking-azure)
 
-[Best SAP MM Institute In Hyderabad](https://justacademyin.github.io/Articles/Best-SAP-MM-Institute-In-Hyderabad)
+[Free UX Design Courses](https://justacademyin.github.io/justacademy/free-ux-design-courses)
 

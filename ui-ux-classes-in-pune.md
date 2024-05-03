@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="UI UX Classes in Pune">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="UI UX Classes in Pune">
   </a>
 </p>
 ## UI UX Classes in Pune
@@ -41,15 +41,15 @@ In Pune, there are various institutions and organizations offering UI/UX classes
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Learn Android Application Development](https://www.linkedin.com/pulse/learn-android-application-development-justacademy-beangaluru-inu2c/)
+[Reactjs Used For](https://www.linkedin.com/pulse/reactjs-used-justacademy-las-vegas-tywpf?trackingId=SNzZBNFNOxdQV0nlgOhZlQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B72drtJzFRpOZi%2BIA7t6Uhg%3D%3D)
 
-[Sap S 4 Hana Online Training](https://www.linkedin.com/pulse/sap-4-hana-online-training-justacademy-qie2c/)
+[Best Java Training Institute In Tambaram](https://www.linkedin.com/pulse/best-java-training-institute-tambaram-justacademy-thane-d5lme?trackingId=2voLqhrAmy8Tjwhw5D7nKw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B8x4oZRFoSmO4CZ5ThOfedg%3D%3D)
 
-[Java Full Stack Skills](https://medium.com/@akanshapatil/java-full-stack-skills-440ee53ceffc)
+[Digital Marketing Best Institute in Delhi](https://medium.com/@mistersumit961/digital-marketing-best-institute-in-delhi-83b404e8f510)
 
-[Python Programming In Hyderabad](https://medium.com/@sagarawat89/python-programming-in-hyderabad-266c2064b101)
+[Best Websites To Learn Html5 And Css3](https://medium.com/@mistersumit961/best-websites-to-learn-html5-and-css3-6ca8fcd42ca8)
 
-[Java Course In Mumbai](https://justacademyin.github.io/justacademy/java-course-in-mumbai)
+[Free Online Html Course With Certificate](https://justacademyin.github.io/justacademy/free-online-html-course-with-certificate)
 
-[Angular Is Backend Or Frontend](https://justacademyin.github.io/justacademy/angular-is-backend-or-frontend)
+[Automation Testing Courses](https://justacademyin.github.io/justacademy/automation-testing-courses)
 

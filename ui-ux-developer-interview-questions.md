@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="UI UX Developer Interview Questions">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="UI UX Developer Interview Questions">
   </a>
 </p>
 ## UI UX Developer Interview Questions
@@ -80,15 +80,15 @@ During a UI/UX developer interview, candidates may be asked about their design p
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Azure Cloud Strategy](https://www.linkedin.com/pulse/azure-cloud-strategy-justacademy-delhi-brjpc?trackingId=uB591wPEfTdOGtlqtEmSUQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BiK8uaYXISG24DaU4tVx5cA%3D%3D)
+[Javascript Full Stack Tutorial](https://www.linkedin.com/pulse/javascript-full-stack-tutorial-software-training-mountain-view-zmfyc/)
 
-[Automation Testing Courses Online From India](https://www.linkedin.com/pulse/automation-testing-courses-online-from-india-justacademy-belfast-6nkte?trackingId=EzrLz5fTnTkN5kva7ieeHQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BFA4F38QVSYi3Nnx%2BGyQhoA%3D%3D)
+[Java Training Institute In Gurgaon](https://www.linkedin.com/pulse/best-java-training-institute-gurgaon-justacademy-kolkata-w6kze?trackingId=4DibiB4WYxaMrDIwufX%2FDw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BZ3buGVXtSt2MpOd2OMz6cQ%3D%3D)
 
-[Difference Between Constructor and Destructor in PHP](https://medium.com/@abhidnya.1068/difference-between-constructor-and-destructor-in-php-78a9ef70818c)
+[Difference between function and method in python](https://medium.com/@roneet705/difference-between-function-and-method-in-python-5683faf0e123)
 
-[Figma Cost](https://medium.com/@surajvaishnav5015/figma-cost-3b44b332848e)
+[AngularJS vs Angular](https://medium.com/@namusn/angularjs-vs-angular-a527d89fe648)
 
-[Different Between C and Python](https://justacademyin.github.io/justacademy/different-between-c-and-python)
+[Photoshop Free Course For Beginners](https://justacademyin.github.io/justacademy/photoshop-free-course-for-beginners)
 
-[Scala vs Python](https://justacademyin.github.io/justacademy/scala-vs-python)
+[Scope Of Software Testing](https://justacademyin.github.io/justacademy/scope-of-software-testing)
 

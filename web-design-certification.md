@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="Web Design Certification">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="Web Design Certification">
   </a>
 </p>
 ## Web Design Certification
@@ -41,15 +41,15 @@ A web design certification is a credential that demonstrates a designer's profic
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Javascript Tutorial For Java Developers](https://www.linkedin.com/pulse/javascript-tutorial-java-developers-justacademy-chennai-c3qwc?trackingId=KqnrH4MHGQl5wnAb2v9jag%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BjPw0ei4cQfe0InHd%2FK206Q%3D%3D)
+[Software Testing Automation Courses](https://www.linkedin.com/pulse/software-testing-automation-courses-justacademy-thane-prxqc?trackingId=fXcg85GeqzGYo5z272Ck2A%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B8x4oZRFoSmO4CZ5ThOfedg%3D%3D)
 
-[Digital Marketing Course Chicago](https://www.linkedin.com/pulse/digital-marketing-course-chicago-justacademy-boston-vlofe?trackingId=O2YLmnUbwX7cWDP0IGEh6Q%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BJZkpBKQJT0CqKHGVOkLUTQ%3D%3D)
+[Php Web Development Course Free](https://www.linkedin.com/pulse/php-web-development-course-free-justacademy-delhi-vzkvc?trackingId=UUgrFYN3b8RGPyHU5f%2FnPQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B9Q82RDvqR3%2BMiM23X%2B3J5A%3D%3D)
 
-[mysql and oracle difference](https://medium.com/@mahi3106/mysql-and-oracle-difference-9fbfd7ee2147)
+[Best Html Course For Beginners](https://medium.com/@abhidnya.1068/best-html-course-for-beginners-ed3d61adcc62)
 
-[Html Online Training](https://medium.com/@surajvaishnav5015/html-online-training-ca849867f882)
+[Java And Selenium Training Institutions In Bangalore](https://medium.com/@AkashSingh2052/java-and-selenium-training-institutions-in-bangalore-184abc0c19c4)
 
-[The Complete Javascript Course 2023 From Zero To Expert](https://justacademyin.github.io/Articles/The-Complete-Javascript-Course-2023-From-Zero-To-Expert)
+[Php Refresher Course](https://justacademyin.github.io/justacademy/php-refresher-course)
 
-[Best Html Learning Sites](https://justacademyin.github.io/justacademy/best-html-learning-sites)
+[Difference between MySQL and PHP](https://justacademyin.github.io/justacademy/difference-between-mysql-and-php)
 

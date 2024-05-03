@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="UX and UI Design Course">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="UX and UI Design Course">
   </a>
 </p>
 ## UX and UI Design Course
@@ -41,15 +41,15 @@ A user experience (UX) and user interface (UI) design course teaches students th
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Machine Learning Trading Python](https://www.linkedin.com/pulse/machine-learning-trading-python-justacademy-rmqxc?trackingId=NG05PS5ZeltxEs%2FVuoF4qw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B1%2Fxl0s9nR82%2ByDHotTO0eg%3D%3D)
+[Full Android Development Course](https://www.linkedin.com/pulse/full-android-development-course-justacademy-kolkata-8hmvc/)
 
-[Google Machine Learning Certification Free](https://www.linkedin.com/pulse/google-machine-learning-certification-free-justacademy-houston-ldnkf?trackingId=ozdyUmrV%2ByGdf44UqDu3vQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B7JDWY034S6um4RLOpjnAgA%3D%3D)
+[Java Training Institute In Electronic City](https://www.linkedin.com/pulse/java-training-institute-electronic-city-justacademy-mumbai-uj8ze?trackingId=SFgxhd1JSGnc64bvRX9TNA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_showcase_admin%3B4hzOhjOyRsS4BMzXWRzbRw%3D%3D)
 
-[Program Management Certification](https://medium.com/@negishivu99/program-management-certification-b349cb36fbb6)
+[UI UX Design Free Course](https://medium.com/@akanshapatil/ui-ux-design-free-course-5ccaded36ae5)
 
-[Adobe Photoshop Training Course London](https://medium.com/@surajvaishnav5015/adobe-photoshop-training-course-london-ea81d0adea98)
+[Difference Between List and String in Python](https://medium.com/@mistersumit961/difference-between-list-and-string-in-python-a4a30061aef1)
 
-[Js For Beginners](https://justacademyin.github.io/justacademy/js-for-beginners)
+[Python Course In Thrissur](https://justacademyin.github.io/justacademy/python-course-in-thrissur)
 
-[Course Laravel](https://justacademyin.github.io/justacademy/course-laravel)
+[Microsoft Azure IAAS](https://justacademyin.github.io/justacademy/microsoft-azure-iaas)
 

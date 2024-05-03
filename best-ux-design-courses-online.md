@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="best UX design courses online">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="best UX design courses online">
   </a>
 </p>
 ## best UX design courses online
@@ -60,15 +60,15 @@ There are several top-notch UX design courses available online, but a few stand 
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Core Php Course](https://www.linkedin.com/pulse/core-php-course-justacademy-ahmedabad-vgx1e?trackingId=XwW5KCIxfmCSeo6mJFUxNA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BBylBlMTlRO%2BPitwDv%2FJk0g%3D%3D)
+[Node Js Online Classes](https://www.linkedin.com/pulse/node-js-online-classes-justacademy-npdkc?trackingId=5aejZZ8VX%2FRaNYUcbXIAYg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BslXtfIHrQQueVkqQdxGVFw%3D%3D)
 
-[Difference Between Node Js And React Js](https://www.linkedin.com/pulse/difference-between-node-js-react-justacademy-mumbai-sgxwc?trackingId=rw0rX0UABx9gPaYLtc2GEg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_showcase_admin%3BEsFdB2XdSWavw7Lqed%2FH2g%3D%3D)
+[Sap Abap Online Course Free](https://www.linkedin.com/pulse/sap-abap-online-course-free-justacademy-las-vegas-bwexf?trackingId=RP0OD87L6gQW4qcQTGoI%2Fg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BG4Wghg4iTSeMidZTUzwcOQ%3D%3D)
 
-[Sap Sd Determination](https://medium.com/@ranemanish460/sap-sd-determination-46fab96ba108)
+[Full Stack Developer Free Online Course](https://medium.com/@namusn/full-stack-developer-free-online-course-58d40a4caaa0)
 
-[UI UX BEST COURSE](https://medium.com/@kamblerajas684/ui-ux-best-course-dbe05009754d)
+[Best Digital Marketing Institute in Lucknow](https://medium.com/@roneet705/best-digital-marketing-institute-in-lucknow-03cd5c28f4db)
 
-[Ventricular Flutter vs Fibrillation](https://justacademyin.github.io/justacademy/ventricular-flutter-vs-fibrillation)
+[GCP Training in Hyderabad](https://justacademyin.github.io/justacademy/gcp-training-in-hyderabad)
 
-[Best Institute For Full Stack Developer With Placement](https://justacademyin.github.io/justacademy/best-institute-for-full-stack-developer-with-placement)
+[Sap Sd Online Tutorial](https://justacademyin.github.io/justacademy/sap-sd-online-tutorial)
 

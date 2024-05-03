@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="UI UX Design Course Online Free">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="UI UX Design Course Online Free">
   </a>
 </p>
 ## UI UX Design Course Online Free
@@ -60,15 +60,15 @@ A UI UX Design Course Online Free typically covers the fundamentals of user inte
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Salesforce System Administrator Training](https://www.linkedin.com/pulse/salesforce-system-administrator-training-justacademy-liverpool-3mv7f?trackingId=0jwr0MIX2HzV6Y590NS24Q%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B%2B7NXH4oxSQ2PhivsxtvsGw%3D%3D)
+[Best Institute For Software Testing In Bangalore](https://www.linkedin.com/pulse/best-institute-software-testing-bangalore-p0mzc?trackingId=K0BCLfQr%2FTc%2BHkMx8Se8gQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BPMbi7PJsSrOfOFf5jCv3gg%3D%3D)
 
-[Seo Course Sydney](https://www.linkedin.com/pulse/seo-course-sydney-justacademy-chennai-uaekc?trackingId=%2FU3oDgaDkqVz%2BCXadIW0KQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B1CN8b2GFRWqxwCPWd5SbXw%3D%3D)
+[Best Institute For Software Testing Course In India](https://www.linkedin.com/pulse/best-institute-software-testing-course-india-justacademy-coimbatore-0quae?trackingId=64tCY%2B%2FWqZSkQRWXqpr1XA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3By22MVqO%2BQeqrnkw6fmQaIA%3D%3D)
 
-[Difference Between Capm And Pmp](https://medium.com/@namusn/difference-between-capm-and-pmp-18ed43b071e0)
+[Manual Testing Course in Pune](https://medium.com/@surajvaishnav5015/manual-testing-course-in-pune-662c6804cf41)
 
-[Difference Between Manual And Automation Testing](https://medium.com/@abhidnya.1068/difference-between-manual-and-automation-testing-3b8ffa59ee43)
+[SAP For HANA Training](https://medium.com/@surajvaishnav5015/sap-for-hana-training-0da9eb32c093)
 
-[Core And Advanced Java](https://justacademyin.github.io/justacademy/core-and-advanced-java)
+[Best Software Training Institute In Chennai](https://justacademyin.github.io/justacademy/best-software-training-institute-in-chennai)
 
-[Cloud Computing Institutes In Hyderabad](https://justacademyin.github.io/justacademy/cloud-computing-institutes-in-hyderabad)
+[Online Advertising Courses](https://justacademyin.github.io/justacademy/online-advertising-courses)
 

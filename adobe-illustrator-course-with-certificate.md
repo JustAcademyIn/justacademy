@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="Adobe Illustrator course with certificate">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="Adobe Illustrator course with certificate">
   </a>
 </p>
 ## Adobe Illustrator course with certificate
@@ -41,15 +41,15 @@ The Adobe Illustrator Course with Certificate is a comprehensive program designe
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Top Cloud Computing Providers](https://www.linkedin.com/pulse/top-cloud-computing-providers-justacademy-mumbai-yuyyc?trackingId=VGdvQyXDYnJXLkwYzyzbxQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_showcase_admin%3BEsFdB2XdSWavw7Lqed%2FH2g%3D%3D)
+[SAP Mm Online Training](https://www.linkedin.com/pulse/sap-mm-online-training-justacademy-kolkata-ojj4f/)
 
-[Sap S 4 Hana Online Training](https://www.linkedin.com/pulse/sap-4-hana-online-training-justacademy-qie2c/)
+[Best Java Training Institutes In Cochin](https://www.linkedin.com/pulse/best-java-training-institutes-cochin-justacademy-las-vegas-tg34f?trackingId=toGF%2BYRLPIeNPGnL%2F57sUA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BSRVvZqxTRJ2BK3zMbr9wpQ%3D%3D)
 
-[Best Online Html Course](https://medium.com/@akanshapatil/best-online-html-course-6a848d4bbe60)
+[Angular Observable vs Promise](https://medium.com/@mistersumit961/angular-observable-vs-promise-934bad285614)
 
-[DevOps Institute in Bangalore](https://medium.com/@roneet705/devops-institute-in-bangalore-8f0a929f7f7d)
+[Software Testing Courses for Beginners](https://medium.com/@mistersumit961/software-testing-courses-for-beginners-938a0cfc32aa)
 
-[Javascript For Web Developers](https://justacademyin.github.io/Articles/Javascript-For-Web-Developers)
+[Digital Marketing Course in Greater Noida](https://justacademyin.github.io/justacademy/digital-marketing-course-in-greater-noida)
 
-[Learn Press](https://justacademyin.github.io/justacademy/learn-press)
+[Microsoft Azure IAAS](https://justacademyin.github.io/justacademy/microsoft-azure-iaas)
 

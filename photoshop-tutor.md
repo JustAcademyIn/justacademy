@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="PHOTOSHOP Tutor">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="PHOTOSHOP Tutor">
   </a>
 </p>
 ## PHOTOSHOP Tutor
@@ -41,15 +41,15 @@ A Photoshop tutor is a knowledgeable and skilled professional who provides instr
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Core And Advanced Java](https://www.linkedin.com/pulse/core-advanced-java-software-training-mountain-view-3s4pe?trackingId=Rmud9vJOXTZhwTZe4HS2Yw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BRmRTtwAISLyMmFqcBdL04g%3D%3D)
+[Delhi Java Training Institute](https://www.linkedin.com/pulse/delhi-java-training-institute-justacademy-san-jose-dpfje?trackingId=16UWKgpIU1Q44GqOHV07BQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BEWeMkO%2BuSGSAlnCbMCSomw%3D%3D)
 
-[Online Marketing Kurser](https://www.linkedin.com/pulse/online-marketing-kurser-justacademy-cupertino-wobnc?trackingId=%2FxlbwPOo4XJ8Ccg5LJtZbw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BzQv8YsYPTiCPDkVRvYwOog%3D%3D)
+[Angular Is Backend Or Frontend](https://www.linkedin.com/pulse/angular-backend-frontend-justacademy-mumbai-ukxsc?trackingId=1X6Rs%2FPrMCCaqJsbySMkmw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_showcase_admin%3B%2Fp6Xeq9yQHuq%2BIOH7VpqxQ%3D%3D)
 
-[Java Free Certificate Course](https://medium.com/@prempja40/java-free-certificate-course-9b720aa467b1)
+[Html Coding Classes Online](https://medium.com/@prempja40/html-coding-classes-online-a78dac3bd742)
 
-[Javascript For Salesforce Developers](https://medium.com/@kumarishimmi99/javascript-for-salesforce-developers-c9081ecbdce6)
+[Best Android App Development Course Online Free](https://medium.com/@mahi3106/best-android-app-development-course-online-free-047734e063bc)
 
-[Free Online Java Courses With Certificate Of Completion](https://justacademyin.github.io/justacademy/free-online-java-courses-with-certificate-of-completion)
+[Scope Of Software Testing Course](https://justacademyin.github.io/justacademy/scope-of-software-testing-course)
 
-[Best Digital Marketing Institute in Chennai](https://justacademyin.github.io/justacademy/best-digital-marketing-institute-in-chennai)
+[Best institute for Digital Marketing with Placement](https://justacademyin.github.io/justacademy/best-institute-for-digital-marketing-with-placement)
 

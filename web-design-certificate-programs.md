@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="Web Design Certificate Programs">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="Web Design Certificate Programs">
   </a>
 </p>
 ## Web Design Certificate Programs
@@ -41,15 +41,15 @@ Web design certificate programs typically offer courses focused on essential ski
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Programming On Amazon Aws And Microsoft Azure In Cloud Computing](https://www.linkedin.com/pulse/programming-amazon-aws-microsoft-azure-cloud-computing-h1jwe?trackingId=8N3DmMSW0m4FvRCgetKh0g%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B6y121Lb6Rd%2BUFuxjX43O5A%3D%3D)
+[Best Salesforce Certification To Get](https://www.linkedin.com/pulse/best-salesforce-certification-get-justacademy-new-york-1d2ff?trackingId=7k3QdYRv9t56mRbEFGHz%2FA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BwtQD6Pu0R9K1Ka8Wqh4DGA%3D%3D)
 
-[Salesforce Sales Cloud Training](https://www.linkedin.com/pulse/salesforce-sales-cloud-training-justacademy-leicester-lgune?trackingId=pvmSiGEgB1g%2FgRvbkMwB%2BA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BIzRPuTOMRFCGaj50%2BCRC7g%3D%3D)
+[Cloud Computing Classes Near Me](https://www.linkedin.com/pulse/cloud-computing-classes-near-me-justacademy-delhi-lha2c?trackingId=suIo9Gqq6lvhk9POhJnlTQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BCQZL415sSKua%2B2WOwIB%2Fog%3D%3D)
 
-[Figma Course](https://medium.com/@ranepooja/figma-course-fee380f5db86)
+[Html Essential Training Course](https://medium.com/@prempja40/html-essential-training-course-4fe9a9328113)
 
-[Wordpress Main Page](https://medium.com/@AkashSingh2052/wordpress-main-page-0a242a9ba689)
+[Sap Abap Programming Course](https://medium.com/@shivamja27/sap-abap-programming-course-ad37c1fd0cff)
 
-[Software Testing Course Free](https://justacademyin.github.io/justacademy/software-testing-course-free)
+[Software Tester Free Online Course](https://justacademyin.github.io/justacademy/software-tester-free-online-course)
 
-[Photoshop Advanced Course Free](https://justacademyin.github.io/justacademy/photoshop-advanced-course-free)
+[Software Testing Course Fees And Duration](https://justacademyin.github.io/justacademy/software-testing-course-fees-and-duration)
 

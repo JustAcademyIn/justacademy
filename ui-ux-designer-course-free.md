@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="UI UX Designer Course Free">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="UI UX Designer Course Free">
   </a>
 </p>
 ## UI UX Designer Course Free
@@ -60,15 +60,15 @@ A free Ui Ux designer course typically covers topics such as user interface desi
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Kotlin Course For Beginners](https://www.linkedin.com/pulse/kotlin-course-beginners-justacademy-delhi-4rnxf/)
+[Android Beginner Course](https://www.linkedin.com/pulse/android-beginner-course-justacademy-0hlvc/)
 
-[Goals Of Cloud Computing](https://www.linkedin.com/pulse/goals-cloud-computing-software-training-sunnyvale-saw8c?trackingId=xGQSeW283ybHdQgsKWdkkg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BM5QnzWJERjun88GkJ%2BYkdw%3D%3D)
+[Sap Hana For Abap Developers](https://www.linkedin.com/pulse/sap-hana-abap-developers-justacademy-hyderabad-7ybmc/)
 
-[Asp net and mvc difference](https://medium.com/@negishivu99/asp-net-and-mvc-difference-450535577f81)
+[Python Language Classes Near Me](https://medium.com/@justacademytraining/python-language-classes-near-me-df28cf762114)
 
-[Best Site To Learn Python](https://medium.com/@ranepooja/best-site-to-learn-python-7bef7ebb17b3)
+[Ux Design In Figma](https://medium.com/@abhidnya.1068/ux-design-in-figma-b5afedd21893)
 
-[Cloud Computing Certification Courses In Chennai](https://justacademyin.github.io/justacademy/cloud-computing-certification-courses-in-chennai)
+[Kotlin vs Java for Android Development](https://justacademyin.github.io/justacademy/kotlin-vs-java-for-android-development)
 
-[Java Script Splice](https://justacademyin.github.io/justacademy/java-script-splice)
+[Javascript Full Stack Tutorial](https://justacademyin.github.io/Articles/Javascript-Full-Stack-Tutorial)
 

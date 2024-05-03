@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="UI UX Designer Bootcamp">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="UI UX Designer Bootcamp">
   </a>
 </p>
 ## UI UX Designer Bootcamp
@@ -60,15 +60,15 @@ A UI/UX designer bootcamp is an intensive and immersive training program that eq
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Machine Learning C++](https://www.linkedin.com/pulse/machine-learning-c-justacademy-stockport-0ar0e?trackingId=qKJFPoC8%2BlK3l9X9eKOlzg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bjjks6g4uSqSiY706oaUeMg%3D%3D)
+[Amazon Web Services Tutorials](https://www.linkedin.com/pulse/amazon-web-services-tutorials-software-training-mountain-view-epyte?trackingId=WD6G0%2BbLqKdDxPbLVj3g5Q%3D%3D&lipi=urn%3Ali%3Apage%3Aorganization_admin_admin_feed_index%3B396a4c81-0a90-47a5-ad5c-c37fd268bc2b)
 
-[Advanced Java Online Courses](https://www.linkedin.com/pulse/advanced-java-online-courses-justacademy-kolkata-5puae?trackingId=ZcDFIOf%2Blrned6V7vVmDrA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B57ggr4WVTUuBeEA%2FxPy55A%3D%3D)
+[Amazon Web Services Tutorial For Beginners](https://www.linkedin.com/pulse/amazon-web-services-tutorial-beginners-justacademy-ahmedabad-hsmme?trackingId=f5%2FnmuZ8RB48Bby0hmW8bQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BgDkJO5giR6GYKSrzSn7zAw%3D%3D)
 
-[Complete Adobe Photoshop Course](https://medium.com/@kumarishimmi99/complete-adobe-photoshop-course-4339f4d85f89)
+[Digital Marketing Course in Patna](https://medium.com/@namusn/digital-marketing-course-in-patna-24a6615275d7)
 
-[Adobe Photoshop Training London](https://medium.com/@surajvaishnav5015/adobe-photoshop-training-london-06047afd6cb0)
+[Machine Learning Degrees](https://medium.com/@kumarishimmi99/machine-learning-degrees-644fd09e4dcf)
 
-[Digital Marketing Course in dehradun](https://justacademyin.github.io/justacademy/digital-marketing-course-in-dehradun)
+[Best digital marketing institute in Kochi](https://justacademyin.github.io/justacademy/best-digital-marketing-institute-in-kochi)
 
-[Figma Classes](https://justacademyin.github.io/justacademy/figma-classes)
+[Python Course For Ai](https://justacademyin.github.io/justacademy/python-course-for-ai)
 

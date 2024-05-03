@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="Best UI UX Design Course">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="Best UI UX Design Course">
   </a>
 </p>
 ## Best UI UX Design Course
@@ -60,15 +60,15 @@ The Best UI/UX Design Course is a comprehensive program that provides a deep und
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Pmp Training In Navi Mumbai](https://www.linkedin.com/pulse/pmp-training-navi-mumbai-justacademy-portland-vd0mf?trackingId=YAyJW9NogVS%2FcX3ByBXEzg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B4wvQoxRzQS6F4YizGcy96A%3D%3D)
+[Data Science Machine Learning](https://www.linkedin.com/pulse/data-science-machine-learning-justacademy-brisbane-zitxe?trackingId=ss9NVCiA3uWa8X2qqnqf2g%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bvio13MbtTumTY%2Fh1upXELA%3D%3D)
 
-[Php With Mysql Essential Training](https://www.linkedin.com/pulse/php-mysql-essential-training-justacademy-ahmedabad-kxnie?trackingId=T2lTkAsWUBvkRjixU%2Fiiig%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BBylBlMTlRO%2BPitwDv%2FJk0g%3D%3D)
+[Java Training Institute Bengaluru Karnataka](https://www.linkedin.com/pulse/java-training-institute-bengaluru-karnataka-justacademy-bay-area-vob7c?trackingId=PRD4KOmEUitmPP%2BAdh2NOw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BA%2BceJxOfQEyVvKB2rfxduA%3D%3D)
 
-[Sql And Tableau Courses](https://medium.com/@prempja40/sql-and-tableau-courses-285f9b4e629b)
+[Buy Pmp Certification Without Exam](https://medium.com/@justacademytraining/buy-pmp-certification-without-exam-91dc406fc17a)
 
-[Adobe Photoshop Cc Advanced Training Course Free](https://medium.com/@AkashSingh2052/adobe-photoshop-cc-advanced-training-course-free-cd2a2a4a8f75)
+[django VS react](https://medium.com/@mahi3106/django-vs-react-3fa7092cd7a8)
 
-[Free Courses To Learn Photoshop](https://justacademyin.github.io/justacademy/free-courses-to-learn-photoshop)
+[In Javascript](https://justacademyin.github.io/justacademy/in-javascript)
 
-[Adobe Photoshop Elements Training Courses](https://justacademyin.github.io/justacademy/adobe-photoshop-elements-training-courses)
+[Python Training In Kochi](https://justacademyin.github.io/justacademy/python-training-in-kochi)
 

@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="UI UX Course Free">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="UI UX Course Free">
   </a>
 </p>
 ## UI UX Course Free
@@ -60,15 +60,15 @@ A UI/UX course for free typically covers the fundamentals of user interface (UI)
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Php Full Stack Course](https://www.linkedin.com/pulse/php-full-stack-course-justacademy-pune-hz5cc?trackingId=ldbkWiXCycU8wDAoT6ovaw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B29WLpZO4T7eqWsLqmXNgZw%3D%3D)
+[Basic Flutter Tutorial](https://www.linkedin.com/pulse/basic-flutter-tutorial-justacademy-pune-jaiic/)
 
-[S4 Hana Course](https://www.linkedin.com/pulse/s4-hana-course-software-training-mountain-view-u5ouc/)
+[Sap S4 Training](https://www.linkedin.com/pulse/sap-s4-training-justacademy-kolkata-yqudc/)
 
-[Java Online Training Institutes In India](https://medium.com/@abhidnya.1068/java-online-training-institutes-in-india-f0c355702e44)
+[Abap Course](https://medium.com/@surajvaishnav5015/abap-course-5082886838de)
 
-[Java Training Institute In Marathahalli](https://medium.com/@kamblerajas684/java-training-institute-in-marathahalli-f67c6e152095)
+[Pmp Free Course](https://medium.com/@namusn/pmp-free-course-b1a1a81128b5)
 
-[Best Software Testing Institutes In Bangalore](https://justacademyin.github.io/justacademy/best-software-testing-institutes-in-bangalore)
+[Learn Adobe Photoshop Cc](https://justacademyin.github.io/justacademy/learn-adobe-photoshop-cc)
 
-[Html Master Course](https://justacademyin.github.io/justacademy/html-master-course)
+[Find Javascript](https://justacademyin.github.io/justacademy/find-javascript)
 

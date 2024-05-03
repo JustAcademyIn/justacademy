@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="UI Boot Camp">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="UI Boot Camp">
   </a>
 </p>
 ## UI Boot Camp
@@ -41,15 +41,15 @@ A UI boot camp is an intensive and immersive training program designed to teach 
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Seo Training Hong Kong](https://www.linkedin.com/pulse/seo-training-hong-kong-justacademy-chicago-yb4wf?trackingId=AfhSGjQeBVSTf1%2BWwJkkBQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BXfdKLa%2BZRG%2B541nAJnPQxg%3D%3D)
+[Azure Devops Tutorial For Beginners Pdf](https://www.linkedin.com/pulse/azure-devops-tutorial-beginners-pdf-justacademy-iojse?trackingId=RAYTE29K05XDUAvTBY6vqg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BDtPVLJNkTC2k0tm5uH%2FP7w%3D%3D)
 
-[SAP Mm Online Course](https://www.linkedin.com/pulse/sap-mm-online-course-justacademy-hyderabad-5nudf/)
+[Salesforce Crm Certification Free](https://www.linkedin.com/pulse/salesforce-crm-certification-free-justacademy-san-jose-xkatf?trackingId=NY1iIm8jbjZDFKyua1oJ%2Fg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BfKLFXm%2FbTECg8F%2B%2F6%2BCWqA%3D%3D)
 
-[Best Tableau Courses](https://medium.com/@mistersumit961/best-tableau-courses-442d35a84c92)
+[Pmp Without Degree](https://medium.com/@abhidnya.1068/pmp-without-degree-ab77584c3fe0)
 
-[AWS DevOps Professional Certification](https://medium.com/@justacademytraining/aws-devops-professional-certification-3f34ec1ff157)
+[Acp vs asp](https://medium.com/@abhidnya.1068/acp-vs-asp-9b0c82030270)
 
-[Free Software Testing Course In Bangalore](https://justacademyin.github.io/justacademy/free-software-testing-course-in-bangalore)
+[Laravel Advanced](https://justacademyin.github.io/justacademy/laravel-advanced)
 
-[Future Of Software Testing](https://justacademyin.github.io/justacademy/future-of-software-testing)
+[Salesforce training in Jaipur](https://justacademyin.github.io/justacademy/salesforce-training-in-jaipur)
 

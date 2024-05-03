@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="Free Illustrations for UI Design">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="Free Illustrations for UI Design">
   </a>
 </p>
 ## Free Illustrations for UI Design
@@ -61,15 +61,15 @@ Free illustrations for UI design are graphical elements that can be used to enha
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Java Training Institute In South Delhi](https://www.linkedin.com/pulse/java-training-institute-south-delhi-justacademy-jaipur-enq9e?trackingId=lFwEekXa%2Fq2u3mL8szNDWQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BPHZ4e%2FC0SW%2BPbqGLUXrWbQ%3D%3D)
+[Salesforce Flow Course](https://www.linkedin.com/pulse/salesforce-flow-course-justacademy-portland-hqdhf?trackingId=01OfVixdwKIPUWyK6eFG3w%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bis%2Ftn4MqQ4e8qp62a5t3uQ%3D%3D)
 
-[React Js Openings In Chennai](https://www.linkedin.com/pulse/react-js-openings-chennai-justacademy-san-jose-tbnrf?trackingId=0A2lxfRplQ207zB0XZTLKQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BfImeOsNpR2eB0vaAt1OrTg%3D%3D)
+[Best Php Certification](https://www.linkedin.com/pulse/best-php-certification-software-training-mountain-view-sehge?trackingId=ThZMM1zUiTavmdaWsNmA2A%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BLLr0XlPoQRKsrZpjwzzNmQ%3D%3D)
 
-[Learn Tableau](https://medium.com/@namusn/learn-tableau-485273c0b2cb)
+[Figma Training Courses](https://medium.com/@AkashSingh2052/figma-training-courses-fd5abed9556b)
 
-[Adobe Photoshop Training London](https://medium.com/@surajvaishnav5015/adobe-photoshop-training-london-06047afd6cb0)
+[Software Testing Automation Courses](https://medium.com/@akanshapatil/software-testing-automation-courses-53623b96e573)
 
-[Advanced Python Programming Tutorial](https://justacademyin.github.io/justacademy/advanced-python-programming-tutorial)
+[MACHINE LEARNING for KIDS](https://justacademyin.github.io/justacademy/machine-learning-for-kids)
 
-[Mean Vs Mern](https://justacademyin.github.io/justacademy/mean-vs-mern)
+[Learn Full Stack Development Free](https://justacademyin.github.io/justacademy/learn-full-stack-development-free)
 

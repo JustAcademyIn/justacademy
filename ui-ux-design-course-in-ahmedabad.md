@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="UI UX Design Course in Ahmedabad">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="UI UX Design Course in Ahmedabad">
   </a>
 </p>
 ## UI UX Design Course in Ahmedabad
@@ -60,15 +60,15 @@ The UI UX Design Course in Ahmedabad is a comprehensive program that equips stud
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Php Programming Course](https://www.linkedin.com/pulse/php-programming-course-software-training-sunnyvale-fzcxc?trackingId=c3%2Fmv%2BWepn%2FVSIWjm9uTDA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bps8c9B%2FKRMCWHgOgNCOx7w%3D%3D)
+[Online Software Testing Courses](https://www.linkedin.com/pulse/online-software-testing-courses-justacademy-ahmedabad-d5lze?trackingId=ZSuDlsSTOOH3C5ftnvp2TQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BBLvwE5WSQ1yNRcYM20AJ%2Fw%3D%3D)
 
-[Next Js Vs React](https://www.linkedin.com/pulse/next-js-vs-react-justacademy-liverpool-cft6f?trackingId=wuYfC0VPFXzT%2F1y%2BzOICSQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BwUUQsYTGTZy3zMvOP%2FpbFA%3D%3D)
+[Mean In Coding](https://www.linkedin.com/pulse/mean-coding-justacademy-chennai-xsgve?trackingId=n6%2B%2Bd6Uq30lvJkySj53xMg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BY%2BEec76oRFK6%2FI%2F%2BB9X%2Fdw%3D%3D)
 
-[Android App Development Tutorial Free](https://medium.com/@akanshapatil/android-app-development-tutorial-free-16933edaac81)
+[Salesforce Institute in Pune](https://medium.com/@abhidnya.1068/salesforce-institute-in-pune-a654f7e190ba)
 
-[Azure Tutorial Pdf](https://medium.com/@mistersumit961/azure-tutorial-pdf-a6084a96bf38)
+[Sap S 4hana Finance Certification](https://medium.com/@kamblerajas684/sap-s-4hana-finance-certification-372be8845527)
 
-[Adobe Photoshop Learning Course](https://justacademyin.github.io/justacademy/adobe-photoshop-learning-course)
+[Digital Marketing Institute in Faridabad](https://justacademyin.github.io/justacademy/digital-marketing-institute-in-faridabad)
 
-[Online Courses For Html And Css](https://justacademyin.github.io/justacademy/online-courses-for-html-and-css)
+[Continuous Machine Learning](https://justacademyin.github.io/justacademy/continuous-machine-learning)
 

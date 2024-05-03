@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="Free Figma course with certificate">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="Free Figma course with certificate">
   </a>
 </p>
 ## Free Figma course with certificate
@@ -41,15 +41,15 @@ The Free Figma Course with Certificate offers a comprehensive training program t
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Ms Cloud Computing](https://www.linkedin.com/pulse/ms-cloud-computing-justacademy-bay-area-dh9rc?trackingId=ZkEiAHpZ0iFrT2T46eaR8w%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BrsnEP2CeSl%2BKYnaEx50m1g%3D%3D)
+[Machine Learning Website](https://www.linkedin.com/pulse/machine-learning-website-justacademy-london-d4ahf?trackingId=SzXf5Kyidka10EocrU1Sfg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BktV9tJs7QaWTumhj4BQ9XQ%3D%3D)
 
-[Best Software Testing Training Institute In Hyderabad](https://www.linkedin.com/pulse/best-software-testing-training-institute-hyderabad-jkwpc?trackingId=jYqNTfdQUMDvtQjPwEMfFw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BKQmokhDTSBO4c3m1OKbvVA%3D%3D)
+[S4 Hana Finance Certification](https://www.linkedin.com/pulse/s4-hana-finance-certification-software-training-sunnyvale-x9zpc/)
 
-[Full Stack Web Development Course Online](https://medium.com/@justacademytraining/full-stack-web-development-course-online-552544d7558e)
+[Android Developer Associate Certification](https://medium.com/@pzade254/android-developer-associate-certification-679d731ddce2)
 
-[Difference Between Find And Filter Javascript](https://medium.com/@namusn/difference-between-find-and-filter-javascript-2652853cfac4)
+[java vs python which is better](https://medium.com/@abhidnya.1068/java-vs-python-which-is-better-23ca4a1c9425)
 
-[Free Photoshop Learning](https://justacademyin.github.io/justacademy/free-photoshop-learning)
+[Fullstack Coding](https://justacademyin.github.io/justacademy/fullstack-coding)
 
-[Laravel Beginner Course](https://justacademyin.github.io/justacademy/laravel-beginner-course)
+[Full Stack Development With Mern](https://justacademyin.github.io/justacademy/full-stack-development-with-mern)
 

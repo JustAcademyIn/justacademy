@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="Is UI UX Design a Good Career">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="Is UI UX Design a Good Career">
   </a>
 </p>
 ## Is UI UX Design a Good Career
@@ -41,15 +41,15 @@ Yes, UI/UX design is a promising career path with high demand in today's digital
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Java Training Institutes In Dilsukhnagar Hyderabad](https://www.linkedin.com/pulse/java-training-institutes-dilsukhnagar-hyderabad-dbsae?trackingId=Q0y2AJK4XMaAB5GvV7heMQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BvVOqf8C4SxiY2jOCpJpYGg%3D%3D)
+[Salesforce Developer Certification Course](https://www.linkedin.com/pulse/salesforce-developer-certification-course-justacademy-delhi-vgpsc?trackingId=rgjQkIxns88opZLpveKZag%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BhdjIu54YRU6uEj%2BNOpsrpA%3D%3D)
 
-[Tree Testing Software](https://www.linkedin.com/pulse/tree-testing-software-justacademy-ahmedabad-1jyxe?trackingId=EcdIrxxPBIpf%2FLOZWOJjhQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BxdloyrkfRSS2djEHjqFAtQ%3D%3D)
+[Php Web Designing](https://www.linkedin.com/pulse/php-web-designing-justacademy-birmingham-lkrrf?trackingId=i8uifdMymVWH9q37%2FJv14Q%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B%2F1v6Q%2BY3Q3yYLraOs%2BoNCQ%3D%3D)
 
-[Learn Tableau](https://medium.com/@namusn/learn-tableau-485273c0b2cb)
+[Flutter Programming Language Tutorial](https://medium.com/@justacademytraining/flutter-programming-language-tutorial-759aef94625b)
 
-[Complete Web Design Course Html Css Javascript And Jquery](https://medium.com/@roneet705/complete-web-design-course-html-css-javascript-and-jquery-e43052ae270e)
+[React Native vs Native](https://medium.com/@kamblerajas684/react-native-vs-native-68b116ef599b)
 
-[Best Institute For Full Stack Developer](https://justacademyin.github.io/justacademy/best-institute-for-full-stack-developer)
+[ReactJS vs React](https://justacademyin.github.io/justacademy/reactjs-vs-react)
 
-[Angular Course Fees](https://justacademyin.github.io/justacademy/angular-course-fees)
+[React or angular which is best](https://justacademyin.github.io/justacademy/react-or-angular-which-is-best)
 

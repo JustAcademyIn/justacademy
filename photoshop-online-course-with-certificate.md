@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="Photoshop online course with certificate">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="Photoshop online course with certificate">
   </a>
 </p>
 ## Photoshop online course with certificate
@@ -41,15 +41,15 @@ The Photoshop Online Course with Certificate is a comprehensive and interactive 
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Salesforce Training In Delhi Ncr](https://www.linkedin.com/pulse/salesforce-training-delhi-ncr-justacademy-austin-qbinf?trackingId=H3OqIaeU0%2BNJGnRcnLU6RA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BmA9QTMf0RKatDJxEf%2FJ3Jw%3D%3D)
+[Android Studio Certification Course](https://www.linkedin.com/pulse/android-studio-certification-course-justacademy-beangaluru-uaw8f/)
 
-[Best Deep Learning Course](https://www.linkedin.com/pulse/best-deep-learning-course-justacademy-san-jose-aipwf?trackingId=CwIIglLDL01UuuE5r9uDOA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BfKLFXm%2FbTECg8F%2B%2F6%2BCWqA%3D%3D)
+[Free Course Software Testing](https://www.linkedin.com/pulse/free-course-software-testing-justacademy-kolkata-3gw5e?trackingId=LxBuHNKtJ3qe4dDye3rPsA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bar0CqYRcTQWcPsZzz1T%2BLw%3D%3D)
 
-[Best Python Course For Data Analysis](https://medium.com/@abhidnya.1068/best-python-course-for-data-analysis-aa1799d2345a)
+[Android App Development Course With Placement](https://medium.com/@namusn/android-app-development-course-with-placement-8d25c233c946)
 
-[Full Stack Development Course In Delhi](https://medium.com/@mistersumit961/full-stack-development-course-in-delhi-7652d3f1e02c)
+[Android Development Institute Near Me](https://medium.com/@prempja40/android-development-institute-near-me-22e82dbe3952)
 
-[Laravel Trainer](https://justacademyin.github.io/justacademy/laravel-trainer)
+[Php VS NET](https://justacademyin.github.io/justacademy/php-vs-net)
 
-[Java Classes In Indore](https://justacademyin.github.io/justacademy/java-classes-in-indore)
+[Difference between MySQL and PHP](https://justacademyin.github.io/justacademy/difference-between-mysql-and-php)
 

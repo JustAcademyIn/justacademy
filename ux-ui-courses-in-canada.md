@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="UX UI Courses in Canada">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="UX UI Courses in Canada">
   </a>
 </p>
 ## UX UI Courses in Canada
@@ -60,15 +60,15 @@ In Canada, there are various courses available that focus on UX (User Experience
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Cloud Computing Classes Near Me](https://www.linkedin.com/pulse/cloud-computing-classes-near-me-justacademy-delhi-lha2c?trackingId=suIo9Gqq6lvhk9POhJnlTQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BCQZL415sSKua%2B2WOwIB%2Fog%3D%3D)
+[Hosting On Azure Pricing](https://www.linkedin.com/pulse/hosting-azure-pricing-software-training-sunnyvale-xg5vc?trackingId=KQlv0iX4m2CKtfy1ZumkTw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B%2BhR3vy1dRIi%2FxP7UWLS2ww%3D%3D)
 
-[Pmp Certification Cost In Chennai](https://www.linkedin.com/pulse/pmp-certification-cost-chennai-justacademy-thane-ru5qc?trackingId=bsdSonW6nk7xSWRxLW97%2Fw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B8x4oZRFoSmO4CZ5ThOfedg%3D%3D)
+[Flutter Basic To Advanced](https://www.linkedin.com/pulse/flutter-basic-advanced-software-training-sunnyvale-k1zkc/)
 
-[Web Design Online Degrees](https://medium.com/@mistersumit961/web-design-online-degrees-04e5278e835c)
+[Is A Pmp Certification Worth It](https://medium.com/@akanshapatil/is-a-pmp-certification-worth-it-c0abfd4e6f14)
 
-[Android Institute Near Me](https://medium.com/@prempja40/android-institute-near-me-7370545e54df)
+[Difference Between Arrow Function And Normal Function Javascript](https://medium.com/@abhidnya.1068/difference-between-arrow-function-and-normal-function-javascript-9bc63dd7e689)
 
-[Learn Kotlin Android Development](https://justacademyin.github.io/justacademy/learn-kotlin-android-development)
+[Azure DevOps Training Institutes in Hyderabad](https://justacademyin.github.io/justacademy/azure-devops-training-institutes-in-hyderabad)
 
-[Full Stack Website Development Tutorial](https://justacademyin.github.io/justacademy/full-stack-website-development-tutorial)
+[Asp Net And Mvc Difference](https://justacademyin.github.io/justacademy/asp-net-and-mvc-difference)
 

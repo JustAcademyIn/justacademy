@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="UI UX Course in Chennai">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="UI UX Course in Chennai">
   </a>
 </p>
 ## UI UX Course in Chennai
@@ -45,15 +45,15 @@ The UI/UX course in Chennai provides students with a comprehensive understanding
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[What Is SAP Mm Course](https://www.linkedin.com/pulse/wwhat-sap-mm-course-software-training-sunnyvale-rnhhf/)
+[Learn Object Oriented Php](https://www.linkedin.com/pulse/learn-object-oriented-php-justacademy-chicago-mlqkf?trackingId=%2BFbJzdUiuaHF45lD%2FoY%2BsQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BbTJRO6qqRWqOeqPKnJNhBw%3D%3D)
 
-[Java Script React](https://www.linkedin.com/pulse/java-script-react-justacademy-kolkata-48mje?trackingId=UA4FIwb4IwyZhzgdR6nPmw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B57ggr4WVTUuBeEA%2FxPy55A%3D%3D)
+[Php Mysql Course Online](https://www.linkedin.com/pulse/php-mysql-course-online-justacademy-houston-fwuzf?trackingId=OP%2FqhLkNxWhNkhACj22PwA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BnF3eASk8R%2BOWSu8GAkG%2FXw%3D%3D)
 
-[Html Css & Bootstrap Certification Course For Beginners](https://medium.com/@justacademytraining/html-css-bootstrap-certification-course-for-beginners-9c6b7a5128e2)
+[Sap Sd Study Material](https://medium.com/@shivamja27/sap-sd-study-material-2ee45003a037)
 
-[django vs node js](https://medium.com/@namusn/django-vs-node-js-efdcd7b6d2f1)
+[Best Java Training Institutes In Thane](https://medium.com/@kumarishimmi99/best-java-training-institutes-in-thane-1f2850d32c84)
 
-[Node Js Stack](https://justacademyin.github.io/justacademy/node-js-stack)
+[Digital Marketing in Mangalore](https://justacademyin.github.io/justacademy/digital-marketing-in-mangalore)
 
-[Is Angular Backend Or Frontend](https://justacademyin.github.io/justacademy/is-angular-backend-or-frontend)
+[Python Developer Certification](https://justacademyin.github.io/justacademy/python-developer-certification)
 

@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="UX UI Design Bootcamp">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="UX UI Design Bootcamp">
   </a>
 </p>
 ## UX UI Design Bootcamp
@@ -60,15 +60,15 @@ A UX/UI design bootcamp is an intensive training program that equips individuals
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Java Or Python Which Is Best](https://www.linkedin.com/pulse/java-python-which-best-justacademy-bristol-nsqae?trackingId=Zg%2Bbv0Cz1en4ZKJVisBbog%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bp%2BRLZIKZRKmWUfjO4L2gXg%3D%3D)
+[Learn Laravel From Scratch](https://www.linkedin.com/pulse/learn-laravel-from-scratch-justacademy-jaipur-jjxte?trackingId=CCDqurNGsYPMdGfnZde1kQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B6gVpALX0TnilEAnvQeHuDw%3D%3D)
 
-[React Vs Flutter](https://www.linkedin.com/pulse/react-vs-flutter-justacademy-leicester-lwpue?trackingId=KkXrGnDQBesq%2FFuUYsxK1A%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B1N%2B9%2FJq5QI2e255siM24eQ%3D%3D)
+[Java Script This](https://www.linkedin.com/pulse/java-script-software-training-sunnyvale-rsncc?trackingId=5zcOqalpIkWXWNLtcv0RkA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BuOGAPcWcQnScqXWa77%2Fzaw%3D%3D)
 
-[SAP S4 HANA Cloud](https://medium.com/@kamblerajas684/sap-s4-hana-cloud-a623aa051cf6)
+[Tableau Best Courses](https://medium.com/@ranepooja/tableau-best-courses-f200ec883448)
 
-[Figma Classes](https://medium.com/@mistersumit961/figma-classes-67c54c8f66e0)
+[Top 10 Digital Marketing Institute in Delhi](https://medium.com/@akanshapatil/top-10-digital-marketing-institute-in-delhi-d0c0419c750e)
 
-[Top 10 Digital Marketing Institute in Jaipur](https://justacademyin.github.io/justacademy/top-10-digital-marketing-institute-in-jaipur)
+[Java Course In Bhubaneswar](https://justacademyin.github.io/justacademy/java-course-in-bhubaneswar)
 
-[Python For Kids Free](https://justacademyin.github.io/justacademy/python-for-kids-free)
+[Photoshop Boot Camp](https://justacademyin.github.io/justacademy/photoshop-boot-camp)
 

@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="UI UX Free Online Course">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="UI UX Free Online Course">
   </a>
 </p>
 ## UI UX Free Online Course
@@ -60,15 +60,15 @@ A UI UX Free Online Course typically covers the fundamental principles of user i
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Difference Between React Js And Node Js](https://www.linkedin.com/pulse/difference-between-react-js-node-justacademy-birmingham-n3h8f?trackingId=dR0kfju1HsG0khidfQ4KfA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B%2F1v6Q%2BY3Q3yYLraOs%2BoNCQ%3D%3D)
+[Html And Css Course Free](https://www.linkedin.com/pulse/html-css-course-free-justacademy-chennai-odrle?trackingId=G0v0hsYlKTfJRtNSON86Ag%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BY%2BEec76oRFK6%2FI%2F%2BB9X%2Fdw%3D%3D)
 
-[SAP Mm Training In Gurgaon](https://www.linkedin.com/pulse/sap-mm-training-gurgaon-justacademy-bay-area-otpjf/)
+[Master Full Stack](https://www.linkedin.com/pulse/master-full-stack-justacademy-chandigarh-xwgmc/)
 
-[Java Training Institutes In Bangalore Bengaluru Karnataka](https://medium.com/@shivamja27/java-training-institutes-in-bangalore-bengaluru-karnataka-02b2028b7513)
+[Best Course To Learn Html](https://medium.com/@AkashSingh2052/best-course-to-learn-html-690bd120e2a9)
 
-[Java Full Form](https://medium.com/@prempja40/java-full-form-458dad88bedb)
+[Java Training Institute Mehdipatnam](https://medium.com/@abhidnya.1068/java-training-institute-mehdipatnam-c918b607e51f)
 
-[Cloud Computing Courses Syllabus](https://justacademyin.github.io/justacademy/cloud-computing-courses-syllabus)
+[Photoshop Online Class Beauty Editing](https://justacademyin.github.io/justacademy/photoshop-online-class-beauty-editing)
 
-[FastAPI vs Django](https://justacademyin.github.io/justacademy/fastapi-vs-django)
+[SAP PS Online Training](https://justacademyin.github.io/justacademy/sap-ps-online-training)
 

@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="UX and UI Courses">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="UX and UI Courses">
   </a>
 </p>
 ## UX and UI Courses
@@ -41,15 +41,15 @@ UX (User Experience) and UI (User Interface) courses are designed to equip indiv
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Sap Abap Cloud](https://www.linkedin.com/pulse/sap-abap-cloud-software-training-sunnyvale-gcfgc/)
+[Data Science Python Training](https://www.linkedin.com/pulse/data-science-python-training-justacademy-chicago-ucxmf?trackingId=bGADpYhfhUwvuwzbv2TdMw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BPE%2BT5WipQcKTfk6GVPUI1w%3D%3D)
 
-[Laravel Training Malaysia](https://www.linkedin.com/pulse/laravel-training-malaysia-justacademy-ahmedabad-y67me?trackingId=bxLT%2FkNUpGpPnOOmmYNZ0A%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BBylBlMTlRO%2BPitwDv%2FJk0g%3D%3D)
+[Scope Of Cloud Computing](https://www.linkedin.com/pulse/scope-cloud-computing-justacademy-bristol-mhdqe?trackingId=nCoaGpoXpV7WRC8kcPNSMg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B9IEH5La1R2e7WwLGeLcpkg%3D%3D)
 
-[Flutter Web App Tutorial](https://medium.com/@justacademytraining/flutter-web-app-tutorial-4c7ef2bcc028)
+[Java Free Code Camp](https://medium.com/@mistersumit961/java-free-code-camp-8908053c978c)
 
-[Best Website For Html Learning](https://medium.com/@ranemanish460/best-website-for-html-learning-98b151979af9)
+[Free Photoshop Training For Beginners](https://medium.com/@surajvaishnav5015/free-photoshop-training-for-beginners-58a35c13bcfe)
 
-[Fullstack C#](https://justacademyin.github.io/Articles/Fullstack-C#)
+[Difference between filter and map in javascript](https://justacademyin.github.io/justacademy/difference-between-filter-and-map-in-javascript)
 
-[Learn Full Stack Web Development Free](https://justacademyin.github.io/justacademy/learn-full-stack-web-development-free)
+[Full Stack Web Development Online Course](https://justacademyin.github.io/justacademy/full-stack-web-development-online-course)
 

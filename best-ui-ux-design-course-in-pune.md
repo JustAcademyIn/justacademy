@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="Best UI UX Design Course in Pune">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="Best UI UX Design Course in Pune">
   </a>
 </p>
 ## Best UI UX Design Course in Pune
@@ -60,15 +60,15 @@ The best UI/UX design course in Pune offers a comprehensive curriculum that cove
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Mern Certification](https://www.linkedin.com/pulse/mern-certification-justacademy-chandigarh-z6y1e/)
+[Best Laravel Course](https://www.linkedin.com/pulse/best-laravel-course-justacademy-sunnyvale-trtac?trackingId=%2BzzD6vi9b%2BVYuLbBveCIEQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BUjFoUpg3TaeqGUVsU2Vh7w%3D%3D)
 
-[Microsoft Azure Architecture In Cloud Computing](https://www.linkedin.com/pulse/microsoft-azure-architecture-cloud-computing-justacademy-chandigarh-9bg9e?trackingId=QzLK6HgXgAx1nekn0%2FGfkQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B6y121Lb6Rd%2BUFuxjX43O5A%3D%3D)
+[Abap Learning Online](https://www.linkedin.com/pulse/abap-learning-online-justacademy-houston-kdlzf?trackingId=4dNt7IJq8yF9thlrsGeUkw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BbdU8Kb1eTdmC8sV%2Feumusg%3D%3D)
 
-[reactjs vs nextjs](https://medium.com/@surajvaishnav5015/reactjs-vs-nextjs-d3f2ceb8290c)
+[React Native vs Flutter performance](https://medium.com/@namusn/react-native-vs-flutter-performance-cc347829e41a)
 
-[Android Lessons](https://medium.com/@mistersumit961/android-lessons-f479ee2deb62)
+[Learn To Be A Full Stack Developer](https://medium.com/@prempja40/learn-to-be-a-full-stack-developer-26837147cd35)
 
-[Cloud Computing Course Description](https://justacademyin.github.io/justacademy/cloud-computing-course-description)
+[Advanced Digital Marketing](https://justacademyin.github.io/justacademy/advanced-digital-marketing)
 
-[Online ILLUSTRATION Classes](https://justacademyin.github.io/justacademy/online-illustration-classes)
+[React Technology Stack](https://justacademyin.github.io/justacademy/react-technology-stack)
 

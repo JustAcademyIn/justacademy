@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="Web Development Certificate Online">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="Web Development Certificate Online">
   </a>
 </p>
 ## Web Development Certificate Online
@@ -41,15 +41,15 @@ A web development certificate online program provides individuals with the oppor
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Salesforce In Person Training](https://www.linkedin.com/pulse/salesforce-person-training-justacademy-delhi-2myyc?trackingId=d7pfSTvSjo0GLXbY2V8qfg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BhdjIu54YRU6uEj%2BNOpsrpA%3D%3D)
+[Asp.Net Vs React](https://www.linkedin.com/pulse/aspnet-vs-react-justacademy-portland-mlanf?trackingId=Qu%2FpUo5C35324qcfRtzKYg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B4wvQoxRzQS6F4YizGcy96A%3D%3D)
 
-[Android Java Course](https://www.linkedin.com/pulse/android-java-course-justacademy-pune-ibkcc/)
+[Sap Cloud Courses](https://www.linkedin.com/pulse/sap-cloud-courses-justacademy-pune-ztjac/)
 
-[Difference between close and quit in Selenium](https://medium.com/@kumarishimmi99/difference-between-close-and-quit-in-selenium-6a3e4a09a7e8)
+[Manual Testing Course in Bangalore](https://medium.com/@shivamja27/manual-testing-course-in-bangalore-3c8d9f31019b)
 
-[Difference between Selenium 3 and Selenium 4](https://medium.com/@prempja40/difference-between-selenium-3-and-selenium-4-c1f30f6a0cad)
+[Difference Between C C++ Java and Python](https://medium.com/@akanshapatil/difference-between-c-c-java-and-python-6a3ed6957859)
 
-[Scrum Master Certification Vs Pmp](https://justacademyin.github.io/justacademy/scrum-master-certification-vs-pmp)
+[Online Android Course With Certificate](https://justacademyin.github.io/justacademy/online-android-course-with-certificate)
 
-[For and While Loop Difference in Python](https://justacademyin.github.io/justacademy/for-and-while-loop-difference-in-python)
+[Digital Marketing in Amritsar](https://justacademyin.github.io/justacademy/digital-marketing-in-amritsar)
 

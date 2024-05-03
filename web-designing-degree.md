@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="Web Designing Degree">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="Web Designing Degree">
   </a>
 </p>
 ## Web Designing Degree
@@ -41,15 +41,15 @@ A web design degree typically covers the fundamental principles of visual design
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Learn To Code Javascript](https://www.linkedin.com/pulse/learn-code-javascript-software-training-mountain-view-r5ihc?trackingId=DXnlEGcWzwqTE8EeNgGfoQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BZLKrYkZlRCaOOfAKGc47ew%3D%3D)
+[Advanced Java Programming](https://www.linkedin.com/pulse/advanced-java-programming-justacademy-kolkata-q8mge?trackingId=XaJ6NUArsbK5cRjq55foUA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B57ggr4WVTUuBeEA%2FxPy55A%3D%3D)
 
-[Android Studio Online Course Free](https://www.linkedin.com/pulse/android-studio-online-course-free-justacademy-cupertino-ybjwc/)
+[Iant Java Training Institute In Bangalore](https://www.linkedin.com/pulse/iant-java-training-institute-bangalore-justacademy-london-0ihpf?trackingId=S7nThEwdtch4e%2BtetYyMvQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B8bhEAS%2F%2FQ963blIb%2F6qnpA%3D%3D)
 
-[Different types of errors in Python](https://medium.com/@ranepooja/different-types-of-errors-in-python-81e7661901b1)
+[React Crash Course](https://medium.com/@mahi3106/react-crash-course-0012283e74f1)
 
-[Learn Sap Abap](https://medium.com/@kamblerajas684/learn-sap-abap-2816142355ba)
+[Is Pmp Certification Worth It](https://medium.com/@prempja40/is-pmp-certification-worth-it-d86cec04d775)
 
-[Advanced Laravel Course](https://justacademyin.github.io/justacademy/advanced-laravel-course)
+[SAP MM Course Syllabus](https://justacademyin.github.io/Articles/SAP-MM-Course-Syllabus)
 
-[UI UX Designer Course in madurai](https://justacademyin.github.io/justacademy/ui-ux-designer-course-in-madurai)
+[Free Android Course With Certificate](https://justacademyin.github.io/justacademy/free-android-course-with-certificate)
 

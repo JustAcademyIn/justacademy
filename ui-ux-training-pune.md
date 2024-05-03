@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="UI UX Training Pune">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="UI UX Training Pune">
   </a>
 </p>
 ## UI UX Training Pune
@@ -41,15 +41,15 @@ UI UX Training Pune is a reputable training institute in Pune that offers compre
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Web Developer Vs App Developer](https://www.linkedin.com/pulse/web-developer-vs-app-justacademy-adelaide-ihhme?trackingId=VOZ1NGJaqdsxI35LiTU7kQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BjDYsWr0aQR2yHBC6CP6BGg%3D%3D)
+[Java Training Institutes In Bangalore Vijayanagar](https://www.linkedin.com/pulse/java-training-institutes-bangalore-vijayanagar-yngxe?trackingId=PDRM4dI%2FDVddtrdTx2iIEg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BBLvwE5WSQ1yNRcYM20AJ%2Fw%3D%3D)
 
-[Php Mysql Database Class](https://www.linkedin.com/pulse/php-mysql-database-class-justacademy-pune-atvvc?trackingId=6FQjL2lsoLubz5oOR6OW5g%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BRZJmynVWQvykIoY%2BYzCMXQ%3D%3D)
+[Html Course Udemy](https://www.linkedin.com/pulse/html-course-udemy-justacademy-chandigarh-v2tac?trackingId=Kn8uFChwkMLp6v3uFG3nXQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BGsnT7fdrREqkLqUmImc0GQ%3D%3D)
 
-[Adobe Photoshop Training Course](https://medium.com/@roneet705/adobe-photoshop-training-course-12a7329dcdc1)
+[Digital Marketing in Raipur](https://medium.com/@kamblerajas684/digital-marketing-in-raipur-8c2d03b0c5b6)
 
-[Difference between c java and python](https://medium.com/@akanshapatil/difference-between-c-java-and-python-ba23eba9cf64)
+[Best Course For Photoshop](https://medium.com/@ranemanish460/best-course-for-photoshop-18b381cb10b4)
 
-[Adobe Photoshop Free Classes](https://justacademyin.github.io/justacademy/adobe-photoshop-free-classes)
+[Microsoft Azure Cloud Infrastructure](https://justacademyin.github.io/justacademy/microsoft-azure-cloud-infrastructure)
 
-[SAP MM Institutes In Ameerpet](https://justacademyin.github.io/Articles/SAP-MM-Institutes-In-Ameerpet)
+[Best Place to Learn React](https://justacademyin.github.io/justacademy/best-place-to-learn-react)
 

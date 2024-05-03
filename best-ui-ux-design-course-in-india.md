@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="Best UI UX Design Course in India">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="Best UI UX Design Course in India">
   </a>
 </p>
 ## Best UI UX Design Course in India
@@ -41,15 +41,15 @@ The Best UI/UX Design Course in India is designed to equip students with the nec
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Html Css Javascript Tutorial](https://www.linkedin.com/pulse/html-css-javascript-tutorial-justacademy-delhi-zgs7c?trackingId=klrznF9%2BS2cFGF5VKoAzdA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BwYu9zKHBRZajlu4pteaL6Q%3D%3D)
+[Freecode Camp Php](https://www.linkedin.com/pulse/freecode-camp-php-justacademy-pune-k3g0c?trackingId=N4F465C7wiBIetWMmy%2B%2BWQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BRZJmynVWQvykIoY%2BYzCMXQ%3D%3D)
 
-[Learn Php And Mysql Online Free](https://www.linkedin.com/pulse/learn-php-mysql-online-free-justacademy-beangaluru-3qhhc?trackingId=hTK3LoPGtgEg3RRfzJSjdA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BBUakVGECTzaHeYDngAD9NQ%3D%3D)
+[Best Java Training Institutes In Cochin](https://www.linkedin.com/pulse/best-java-training-institutes-cochin-justacademy-las-vegas-tg34f?trackingId=toGF%2BYRLPIeNPGnL%2F57sUA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BSRVvZqxTRJ2BK3zMbr9wpQ%3D%3D)
 
-[Angular vs react vs vue](https://medium.com/@AkashSingh2052/angular-vs-react-vs-vue-f59d26fe6e96)
+[Sap Abap Certification Cost](https://medium.com/@kamblerajas684/sap-abap-certification-cost-061ffc7d1f96)
 
-[Figma Ux Design](https://medium.com/@ranepooja/figma-ux-design-2a00db9b0153)
+[salesforce Free Course](https://medium.com/@prempja40/salesforce-free-course-d515b441ae33)
 
-[Full Stack Developer Course Near Me](https://justacademyin.github.io/justacademy/full-stack-developer-course-near-me)
+[Salesforce Marketing Cloud Training](https://justacademyin.github.io/justacademy/salesforce-marketing-cloud-training)
 
-[Sap Crm Abap Training](https://justacademyin.github.io/justacademy/sap-crm-abap-training)
+[Best Angular Course](https://justacademyin.github.io/justacademy/best-angular-course)
 

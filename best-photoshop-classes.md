@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="Best Photoshop Classes">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="Best Photoshop Classes">
   </a>
 </p>
 ## Best Photoshop Classes
@@ -41,15 +41,15 @@ The best Photoshop classes provide comprehensive and interactive training that c
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Asp.Net Core Certification](https://www.linkedin.com/pulse/aspnet-core-certification-justacademy-stockport-leyle?trackingId=5IkXW9klaBVR%2BL310ko7Lg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bhrs%2FVe6MQa2w%2FxcFE4Py%2Fw%3D%3D)
+[Default Scripting Language In Asp](https://www.linkedin.com/pulse/default-scripting-language-asp-justacademy-cupertino-bqnzc?trackingId=V4kBtDVvArhZWADioheZMw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BgBhGnALRQwW8mE6l8mJTTg%3D%3D)
 
-[Dot Net Training Online Free With Certification](https://www.linkedin.com/pulse/dot-net-training-online-free-certification-justacademy-sunnyvale-bhyjc?trackingId=vjYa%2FxWuz4GAgaZMLT5Cfg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bw3FaZuhqQImafpQ55o%2FftQ%3D%3D)
+[Android Training Institute Near Me](https://www.linkedin.com/pulse/android-training-institute-near-me-justacademy-bay-area-rntmf/)
 
-[Project Manager Education](https://medium.com/@abhidnya.1068/project-manager-education-c1915ff27e51)
+[Android Developer Course With Placement](https://medium.com/@kumarishimmi99/android-developer-course-with-placement-c6594a2e990c)
 
-[Photoshop Online Course with Certificate](https://medium.com/@akanshapatil/photoshop-online-course-with-certificate-48a5acdcf70c)
+[Html Css & Bootstrap Certification Course For Beginners](https://medium.com/@justacademytraining/html-css-bootstrap-certification-course-for-beginners-9c6b7a5128e2)
 
-[Software Testing Course In Kolkata](https://justacademyin.github.io/justacademy/software-testing-course-in-kolkata)
+[Mern Stack Certification Course](https://justacademyin.github.io/justacademy/mern-stack-certification-course)
 
-[Stack Nodejs](https://justacademyin.github.io/justacademy/stack-nodejs)
+[Reactive Js](https://justacademyin.github.io/justacademy/reactive-js)
 

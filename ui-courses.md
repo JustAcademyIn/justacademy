@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="UI Courses">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="UI Courses">
   </a>
 </p>
 ## UI Courses
@@ -41,15 +41,15 @@ User interface (UI) courses are essential for individuals looking to develop ski
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Scope Of Sap](https://www.linkedin.com/pulse/scope-sap-justacademy-coimbatore-p8usc?trackingId=nhFph9zUlJ5JaOlWBbur9Q%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BzebO8%2FdlQdOp%2FzsKprgh%2FA%3D%3D)
+[Free Php Classes](https://www.linkedin.com/pulse/free-php-classes-justacademy-hyderabad-eqmoc?trackingId=gbskYLmIf3NZvIXNE9Mzlw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BIabnSlYPS7K8e0EtwSHvsQ%3D%3D)
 
-[Javascript New](https://www.linkedin.com/pulse/javascript-new-software-training-mountain-view-ktkfe?trackingId=s5y4yZqQlubBEZYpkoa7hw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BRmRTtwAISLyMmFqcBdL04g%3D%3D)
+[Javascript Training](https://www.linkedin.com/pulse/javascript-training-justacademy-chandigarh-oei5c?trackingId=Y8hmk29cgCsViyMWsuIfHQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BGsnT7fdrREqkLqUmImc0GQ%3D%3D)
 
-[Python Training In Dilsukhnagar](https://medium.com/@kamblerajas684/python-training-in-dilsukhnagar-0f8b36258bf5)
+[Best Institute For Full Stack Developer With Placement](https://medium.com/@justacademytraining/best-institute-for-full-stack-developer-with-placement-7c73a3eb5c3b)
 
-[Learn Android App Development Free](https://medium.com/@mistersumit961/learn-android-app-development-free-4c4d73c76e92)
+[Python Crash Course Eric Matthes](https://medium.com/@roneet705/python-crash-course-eric-matthes-627186944537)
 
-[MM SAP Course](https://justacademyin.github.io/Articles/MM-SAP-Course)
+[Salesforce training in Jaipur](https://justacademyin.github.io/justacademy/salesforce-training-in-jaipur)
 
-[Best Place To Learn Laravel](https://justacademyin.github.io/justacademy/best-place-to-learn-laravel)
+[Masters Degree Machine Learning](https://justacademyin.github.io/justacademy/masters-degree-machine-learning)
 

@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="UI UX Design Course In Jaipur">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="UI UX Design Course In Jaipur">
   </a>
 </p>
 ## UI UX Design Course In Jaipur
@@ -60,15 +60,15 @@ The UI/UX Design course in Jaipur is a comprehensive program that equips student
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Php Training Near Me](https://www.linkedin.com/pulse/php-training-near-me-justacademy-houston-3rpgf?trackingId=wQIqSnmfOt1vfvdgEAL9kw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BnF3eASk8R%2BOWSu8GAkG%2FXw%3D%3D)
+[Software Testing Courses Near Me](https://www.linkedin.com/pulse/software-testing-courses-near-me-justacademy-boston-zbqme?trackingId=1QWng31qh6u1pS7Ng3WLVg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BC7wHxoojR%2FG%2BgYiTIGaekw%3D%3D)
 
-[Salesforce Ba Certification](https://www.linkedin.com/pulse/salesforce-ba-certification-justacademy-san-jose-zce0f?trackingId=pXg4Rpj1d2mfKOfxND8uQw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BfKLFXm%2FbTECg8F%2B%2F6%2BCWqA%3D%3D)
+[Javascript Online](https://www.linkedin.com/pulse/javascript-online-justacademy-delhi-5beuc?trackingId=hO0sZ6LI%2B0WWubYRLaUhnw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BwYu9zKHBRZajlu4pteaL6Q%3D%3D)
 
-[Best Flutter Course Free](https://medium.com/@AkashSingh2052/best-flutter-course-free-4b39918b1b0c)
+[Course For Illustrator](https://medium.com/@mahi3106/course-for-illustrator-bdbb121e1535)
 
-[Android Associate Certification](https://medium.com/@pzade254/android-associate-certification-088902f2265b)
+[Python Programming Institute](https://medium.com/@kumarishimmi99/python-programming-institute-5809dc4ebf5e)
 
-[Complete Html Course](https://justacademyin.github.io/justacademy/complete-html-course)
+[Cloud Engineer Bootcamp](https://justacademyin.github.io/justacademy/cloud-engineer-bootcamp)
 
-[Python Classes](https://justacademyin.github.io/justacademy/python-classes)
+[Best Digital Marketing Institute in Jaipur](https://justacademyin.github.io/justacademy/best-digital-marketing-institute-in-jaipur)
 

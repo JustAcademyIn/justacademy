@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="Adobe Illustrator Online Training">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="Adobe Illustrator Online Training">
   </a>
 </p>
 ## Adobe Illustrator Online Training
@@ -41,15 +41,15 @@ Adobe Illustrator Online Training is a comprehensive program designed to teach i
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Best Java Training Institutes In Trivandrum](https://www.linkedin.com/pulse/best-java-training-institutes-trivandrum-justacademy-london-xik1f?trackingId=%2FaEPpbWfzi4eY0pg%2BO17%2Bw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B8bhEAS%2F%2FQ963blIb%2F6qnpA%3D%3D)
+[Salesforce Admin Course](https://www.linkedin.com/pulse/salesforce-admin-course-justacademy-sunnyvale-noetc?trackingId=9R7X0p2AYWi1%2F49iP7pYQg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BNFdqqfBkQamwMdOz7MGZnA%3D%3D)
 
-[Top Software Testing Institute In Chennai](https://www.linkedin.com/pulse/top-software-testing-institute-chennai-justacademy-san-jose-lcrpf?trackingId=QE7vXz3%2F7uZpCfX1mH%2FfCQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BNvzTf3fnQO%2BVBqBGA8b0%2Bw%3D%3D)
+[Java Training Institute In Mohali](https://www.linkedin.com/pulse/java-training-institute-mohali-justacademy-jaipur-no9ae?trackingId=pblSoNveNiFtS3yP%2BQ3%2F9A%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BPHZ4e%2FC0SW%2BPbqGLUXrWbQ%3D%3D)
 
-[Abap Training Course](https://medium.com/@AkashSingh2052/abap-training-course-ed66d76179d0)
+[Difference Between Php And Mysql](https://medium.com/@roneet705/difference-between-php-and-mysql-d3fc74f6da1f)
 
-[Photoshop Instructor](https://medium.com/@negishivu99/photoshop-instructor-f2c1e66e52e8)
+[Adobe Elements Training](https://medium.com/@mistersumit961/adobe-elements-training-27507d5632ef)
 
-[Best Online Python Course With Certificate](https://justacademyin.github.io/justacademy/best-online-python-course-with-certificate)
+[Pmp Course Online Free](https://justacademyin.github.io/justacademy/pmp-course-online-free)
 
-[Full Stack Net Developer Tutorial](https://justacademyin.github.io/Articles/Full-Stack-Net-Developer-Tutorial)
+[Software Testing Full Course](https://justacademyin.github.io/justacademy/software-testing-full-course)
 

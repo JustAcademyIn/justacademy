@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="Best UI Design Courses">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="Best UI Design Courses">
   </a>
 </p>
 ## Best UI Design Courses
@@ -41,15 +41,15 @@ There are numerous UI design courses available, but some of the best ones includ
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Advanced Serverless Architectures With Microsoft Azure](https://www.linkedin.com/pulse/advanced-serverless-architectures-microsoft-azure-justacademy-thane-nt25c?trackingId=RIIOqXNHv0GWt7lTAJTq6g%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BzlEMqIgRRsubBoA3fmTvjQ%3D%3D)
+[Best Flutter Online Course](https://www.linkedin.com/pulse/best-flutter-online-course-justacademy-beangaluru-hj2zc/)
 
-[Blazor Vs Angular](https://www.linkedin.com/pulse/blazor-vs-angular-justacademy-brisbane-jdpae?trackingId=U2s%2F%2F6o%2BupQqM5Eh2ZG96g%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bg2rksucGRY2lUjxOm9ICQw%3D%3D)
+[Machine Learning Using Python](https://www.linkedin.com/pulse/machine-learning-using-python-justacademy-coventry-2cffe?trackingId=nflaHDxjlI3Zn3Ht7r%2FknA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BJZ1BlOL5QLWznvJO1ReiaA%3D%3D)
 
-[Salesforce Dev](https://medium.com/@prempja40/salesforce-dev-48adb7863225)
+[devops vs developer](https://medium.com/@negishivu99/devops-vs-developer-083ac66a2c34)
 
-[Buy Pmp Certification Without Exam](https://medium.com/@justacademytraining/buy-pmp-certification-without-exam-91dc406fc17a)
+[Python Language Certification](https://medium.com/@justacademytraining/python-language-certification-c11caa4187b7)
 
-[Django Online Training](https://justacademyin.github.io/justacademy/django-online-training)
+[Javascript Tutorial For Java Developers](https://justacademyin.github.io/Articles/Javascript-Tutorial-For-Java-Developers)
 
-[Angular Is Backend Or Frontend](https://justacademyin.github.io/justacademy/angular-is-backend-or-frontend)
+[Best Machine Learning Certifications](https://justacademyin.github.io/justacademy/best-machine-learning-certifications)
 

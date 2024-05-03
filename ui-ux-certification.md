@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="UI UX Certification">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="UI UX Certification">
   </a>
 </p>
 ## UI UX Certification
@@ -60,15 +60,15 @@ UI/UX certification programs are designed to provide individuals with the necess
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Cloud Computing Training In Bangalore](https://www.linkedin.com/pulse/cloud-computing-training-bangalore-justacademy-jaipur-renec?trackingId=8yk%2FH56bR8AewPwKiyCliQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BIXUBIWFOQ8%2BPAHGixoaE%2FQ%3D%3D)
+[Mobile Cloud Computing Vs Cloud Computing](https://www.linkedin.com/pulse/mobile-cloud-computing-vs-justacademy-manchester-0qgtf?trackingId=ZRbmvkcFmr%2Fr5PvEQG6y4w%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BkfEqcIulRv%2Bk695n7CpVww%3D%3D)
 
-[Mern And Mean Stack](https://www.linkedin.com/pulse/mern-mean-stack-justacademy-coimbatore-mi1xc/)
+[Laravel Free Course](https://www.linkedin.com/pulse/laravel-free-course-justacademy-coimbatore-vitme?trackingId=PQN8PmVOlzlwlkgPBKzfAQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3ByPDF5Pb2RH67jlf7LdyQxA%3D%3D)
 
-[Basic Html Training](https://medium.com/@prempja40/basic-html-training-4c0cf65495fd)
+[C C++ Java Python Courses](https://medium.com/@mistersumit961/c-c-java-python-courses-f8b63eb369c0)
 
-[Java Training Institute In Btm Layout](https://medium.com/@kumarishimmi99/java-training-institute-in-btm-layout-1fbcdad3a5d0)
+[Java Training Institute In South Delhi](https://medium.com/@roneet705/java-training-institute-in-south-delhi-960906d80142)
 
-[How Does The Mern Stack Work](https://justacademyin.github.io/justacademy/how-does-the-mern-stack-work)
+[Python Programming Tutor](https://justacademyin.github.io/justacademy/python-programming-tutor)
 
-[Lightroom Cc Course](https://justacademyin.github.io/justacademy/lightroom-cc-course)
+[Php Full Course Free](https://justacademyin.github.io/justacademy/php-full-course-free)
 

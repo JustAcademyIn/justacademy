@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="UX Bootcamp Online">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="UX Bootcamp Online">
   </a>
 </p>
 ## UX Bootcamp Online
@@ -41,15 +41,15 @@ A UX bootcamp online is an intensive and immersive program designed to help indi
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Css Vs Javascript](https://www.linkedin.com/pulse/css-vs-javascript-justacademy-ponuc?trackingId=zKdwcZycw6l9PEl0l7K3HA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BtwB7D7uTSjygLpECXwvsug%3D%3D)
+[Software Tester Free Online Course](https://www.linkedin.com/pulse/software-tester-free-online-course-justacademy-boston-efj3e?trackingId=vXwMxzJmL08hgHQ2%2Fc%2B5og%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BC7wHxoojR%2FG%2BgYiTIGaekw%3D%3D)
 
-[Salesforce Admin Training Classes](https://www.linkedin.com/pulse/salesforce-admin-training-classes-justacademy-qrmtc?trackingId=zQtV0sfxXsKbk9vTPiLhxQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B1%2Fxl0s9nR82%2ByDHotTO0eg%3D%3D)
+[Salesforce Training In Hyderabad](https://www.linkedin.com/pulse/salesforce-training-hyderabad-justacademy-bristol-ya9we?trackingId=81MLjcraE1GMKnPTELd4gA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BuQw2P2SXTeivwplSXi08Jg%3D%3D)
 
-[Html Css Full Course](https://medium.com/@surajvaishnav5015/html-css-full-course-b5136eedb202)
+[SAP Accounting Training Online](https://medium.com/@ranemanish460/sap-accounting-training-online-4fbacd18e3cd)
 
-[Asp vs jnt](https://medium.com/@negishivu99/asp-vs-jnt-237145b603b4)
+[Photoshop Composite Course](https://medium.com/@mistersumit961/photoshop-composite-course-f3527587d397)
 
-[Adobe Photoshop Course With Certificate](https://justacademyin.github.io/justacademy/adobe-photoshop-course-with-certificate)
+[Salesforce Developer course](https://justacademyin.github.io/justacademy/salesforce-developer-course)
 
-[C++ VS Java VS Python](https://justacademyin.github.io/justacademy/c++-vs-java-vs-python)
+[Digital Landscapes Photoshop Video Training](https://justacademyin.github.io/justacademy/digital-landscapes-photoshop-video-training)
 

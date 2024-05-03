@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="UI UX Design Course Online Certification Free">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="UI UX Design Course Online Certification Free">
   </a>
 </p>
 ## UI UX Design Course Online Certification Free
@@ -41,15 +41,15 @@ The UI/UX Design Course Online Certification Free provides a comprehensive learn
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Learn Figma](https://www.linkedin.com/pulse/learn-figma-justacademy-chicago-nj2bf?trackingId=M9xMRlMjBDM9tfdRJ1bWog%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BPE%2BT5WipQcKTfk6GVPUI1w%3D%3D)
+[Best Institute In Pune For Software Testing](https://www.linkedin.com/pulse/best-institute-pune-software-testing-justacademy-mumbai-s7oac?trackingId=0mudUow3W1f05mq94GUbtQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_showcase_admin%3BQONBiiZYS52%2BUVT4s6K24g%3D%3D)
 
-[Learn Android App Development Free](https://www.linkedin.com/pulse/learn-android-app-development-free-justacademy-mumbai-frnac/)
+[Best Institute For Cloud Computing In Hyderabad](https://www.linkedin.com/pulse/best-institute-cloud-computing-hyderabad-tnjic?trackingId=71s0%2Bs8Exgr2kMJIyo5jtQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bl%2F2BBmIARsmtdD8COUq0ig%3D%3D)
 
-[Learn Full Stack Web Development Online Free](https://medium.com/@AkashSingh2052/learn-full-stack-web-development-online-free-a405feee9838)
+[Best Digital Marketing Course in Hyderabad](https://medium.com/@justacademytraining/best-digital-marketing-course-in-hyderabad-0da5073e32f7)
 
-[Fees For Software Testing Course](https://medium.com/@sagarawat89/fees-for-software-testing-course-be833423a395)
+[Digital Marketing Course Duration and Fees](https://medium.com/@namusn/digital-marketing-course-duration-and-fees-ee70ff33c50e)
 
-[Python 3 Tutorial Point](https://justacademyin.github.io/justacademy/python-3-tutorial-point)
+[Complete Php Course](https://justacademyin.github.io/justacademy/complete-php-course)
 
-[How Does The Mern Stack Work](https://justacademyin.github.io/justacademy/how-does-the-mern-stack-work)
+[Digitalni Marketing](https://justacademyin.github.io/Articles/Digitalni-Marketing)
 

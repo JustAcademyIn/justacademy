@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="UI UX Course in Bangalore">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="UI UX Course in Bangalore">
   </a>
 </p>
 ## UI UX Course in Bangalore
@@ -41,15 +41,15 @@ The UI UX courses in Bangalore focus on teaching students the principles of user
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Fundamentals Of Salesforce](https://www.linkedin.com/pulse/fundamentals-salesforce-justacademy-birmingham-18oqf?trackingId=iT5q2Bz6ND7iLi8TKNbsRw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BVLUv9mnMT2aZOSnk9lhqAw%3D%3D)
+[Software Testing Courses In India](https://www.linkedin.com/pulse/software-testing-courses-india-justacademy-kolkata-souse?trackingId=OgReJhgLjpi%2BDsBSl8UYdw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BOeUqMA7jRSqcjELAJ6WkNQ%3D%3D)
 
-[Best Java Training Institute In Dhaka](https://www.linkedin.com/pulse/best-java-training-institute-dhaka-justacademy-chennai-zyoee?trackingId=LaO3KsYe9ismex7%2BScXMVw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BKj9O4drgTv6a%2Fs28VD3x9A%3D%3D)
+[Pmp Certification London](https://www.linkedin.com/pulse/pmp-certification-london-justacademy-zqisc?trackingId=P7EtV9AJzk4KR5d2U9LBwA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BxUP8vDI1SK6JTwycAY2syQ%3D%3D)
 
-[Full Stack Developer Best Institute](https://medium.com/@ranepooja/full-stack-developer-best-institute-2be71d3d15a6)
+[Project Manager Education](https://medium.com/@abhidnya.1068/project-manager-education-c1915ff27e51)
 
-[Flutter vs React Native performance](https://medium.com/@kamblerajas684/flutter-vs-react-native-performance-7e8ef7701a62)
+[Illustrator Student](https://medium.com/@prempja40/illustrator-student-171ebd357cfe)
 
-[Software Testing Life Cycle](https://justacademyin.github.io/justacademy/software-testing-life-cycle)
+[Mean In Coding](https://justacademyin.github.io/justacademy/mean-in-coding)
 
-[Best Software Testing Course For Beginners](https://justacademyin.github.io/justacademy/best-software-testing-course-for-beginners)
+[Best Full Stack Developer Course Institute](https://justacademyin.github.io/justacademy/best-full-stack-developer-course-institute)
 

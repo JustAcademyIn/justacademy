@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="Illustrator Training Online">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="Illustrator Training Online">
   </a>
 </p>
 ## Illustrator Training Online
@@ -41,15 +41,15 @@ Illustrator Training Online is a comprehensive program that offers interactive l
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Evolution Of Java](https://www.linkedin.com/pulse/evolution-java-justacademy-london-tviof?trackingId=2aCdWFfWE4acW3bdyrf7xQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BptBDr%2FMJTceKgM04UktdDQ%3D%3D)
+[Train Php](https://www.linkedin.com/pulse/train-php-justacademy-bradford-8wese?trackingId=jXtuzD1U7jOMud9D5f24Fw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BU6qvup%2BkTG%2BWwu84oCWCCA%3D%3D)
 
-[SAP Mm Course Duration](https://www.linkedin.com/pulse/sap-mm-course-duration-software-training-sunnyvale-verff/)
+[Pmp Certification Cost In Hyderabad](https://www.linkedin.com/pulse/pmp-certification-cost-hyderabad-justacademy-ahmedabad-fr36e?trackingId=CQYQU%2BmUKpXWR4HCWz5sFg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BsgxkE5t4R9iHWE9515x%2Fgw%3D%3D)
 
-[Azure Integration Services Tutorial](https://medium.com/@ranepooja/azure-integration-services-tutorial-5997a110e5a4)
+[js vs jquery](https://medium.com/@AkashSingh2052/js-vs-jquery-ee87f8a160c8)
 
-[Flutter Best Course](https://medium.com/@prempja40/flutter-best-course-2979c7e3f76f)
+[S4HANA](https://medium.com/@kamblerajas684/s4hana-3b8bb6927191)
 
-[Best Software Training Institutes In Hyderabad](https://justacademyin.github.io/justacademy/best-software-training-institutes-in-hyderabad)
+[Micro Frontend Architecture Angular](https://justacademyin.github.io/justacademy/micro-frontend-architecture-angular)
 
-[Cloud Aws Tutorial](https://justacademyin.github.io/justacademy/cloud-aws-tutorial)
+[Best Site To Learn Photoshop](https://justacademyin.github.io/justacademy/best-site-to-learn-photoshop)
 

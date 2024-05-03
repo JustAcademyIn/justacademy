@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="Best Web Design Programs">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="Best Web Design Programs">
   </a>
 </p>
 ## Best Web Design Programs
@@ -60,15 +60,15 @@ The best web design programs are those that provide a comprehensive set of tools
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Software Testing Course In Mumbai](https://www.linkedin.com/pulse/software-testing-course-mumbai-justacademy-mumbai-hapac/)
+[Best C C++ Java Training Institutes In Bangalore](https://www.linkedin.com/pulse/best-c-java-training-institutes-bangalore-justacademy-delhi-dnmlc?trackingId=xqNQThgexQ7bVuLvKeI0YA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B3uDtMYf2QJOigjAh01Sv1g%3D%3D)
 
-[Flutter Free Online Course](https://www.linkedin.com/pulse/flutter-free-online-course-justacademy-mumbai-4onoc/)
+[Cloud Computing Classes In Pune](https://www.linkedin.com/pulse/cloud-computing-classes-pune-justacademy-delhi-zqovc?trackingId=0nKMMP8FFO9f3lBTWIEY%2FQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BCQZL415sSKua%2B2WOwIB%2Fog%3D%3D)
 
-[Learn Html Css Online](https://medium.com/@justacademytraining/learn-html-css-online-764e41e74761)
+[Photo Shop Course](https://medium.com/@ranemanish460/photo-shop-course-b50dfedb55be)
 
-[Best Online Course For Html Css Javascript](https://medium.com/@negishivu99/best-online-course-for-html-css-javascript-f19e3d5348f1)
+[Different between C and Python](https://medium.com/@negishivu99/different-between-c-and-python-dd2f65783bdf)
 
-[Figma Training Courses](https://justacademyin.github.io/justacademy/figma-training-courses)
+[Adobe Photoshop Training Near Me](https://justacademyin.github.io/justacademy/adobe-photoshop-training-near-me)
 
-[Python Sql Course](https://justacademyin.github.io/justacademy/python-sql-course)
+[Digital Marketing Course in Kolkata Fees](https://justacademyin.github.io/justacademy/digital-marketing-course-in-kolkata-fees)
 

@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="User Experience Bootcamp">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="User Experience Bootcamp">
   </a>
 </p>
 ## User Experience Bootcamp
@@ -41,15 +41,15 @@ A user experience bootcamp is an intensive training program focused on developin
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Pmp Courses In Uk](https://www.linkedin.com/pulse/pmp-courses-uk-justacademy-chicago-gd9of?trackingId=JI0T8gDpEzo17tgsIj%2F%2BSA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BPE%2BT5WipQcKTfk6GVPUI1w%3D%3D)
+[Best Institute For Software Testing](https://www.linkedin.com/pulse/best-institute-software-testing-justacademy-sunnyvale-9gvyc/)
 
-[Learn To Create Apps For Android](https://www.linkedin.com/pulse/learn-create-apps-android-justacademy-ahmedabad-a3ttc/)
+[Android Development Course For Beginners](https://www.linkedin.com/pulse/android-development-course-beginners-justacademy-my9sc/)
 
-[Best digital marketing course in Chandigarh](https://medium.com/@kumarishimmi99/best-digital-marketing-course-in-chandigarh-4d5f8ba3d6ba)
+[Salesforce course online](https://medium.com/@justacademytraining/salesforce-course-online-3bbc38bb9ac6)
 
-[Salesforce Developer In Hindi](https://medium.com/@justacademytraining/salesforce-developer-in-hindi-de025242c653)
+[Difference Between Map And Foreach In Javascript](https://medium.com/@mahi3106/difference-between-map-and-foreach-in-javascript-4b94e7cf25f7)
 
-[Digital Marketing Course in Dilsukhnagar](https://justacademyin.github.io/justacademy/digital-marketing-course-in-dilsukhnagar)
+[Machine Learning for Engineers](https://justacademyin.github.io/justacademy/machine-learning-for-engineers)
 
-[ASP NET vs MVC](https://justacademyin.github.io/justacademy/asp-net-vs-mvc)
+[Java Course Fees In Chennai](https://justacademyin.github.io/justacademy/java-course-fees-in-chennai)
 

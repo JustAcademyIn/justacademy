@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="Difference Between Photoshop and Corel DRAW">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="Difference Between Photoshop and Corel DRAW">
   </a>
 </p>
 ## Difference Between Photoshop and Corel DRAW
@@ -102,15 +102,15 @@ By offering a comprehensive training program covering all these aspects of Photo
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Crash Course On Seo](https://www.linkedin.com/pulse/crash-course-seo-justacademy-sunnyvale-q8ggc?trackingId=fppWdrvdw3hBPYFFCrOKfQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bw3FaZuhqQImafpQ55o%2FftQ%3D%3D)
+[Sap Abap Development For Hana](https://www.linkedin.com/pulse/sap-abap-development-hana-justacademy-ahmedabad-keq9c/)
 
-[Android Course Kotlin](https://www.linkedin.com/pulse/android-course-kotlin-software-training-sunnyvale-2fjuc/)
+[Best Institute To Learn Software Testing In Chennai](https://www.linkedin.com/pulse/best-institute-learn-software-testing-chennai-justacademy-pune-nc5xc?trackingId=9NaEw%2Fy%2BkZo4NX0UwlKnyg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BGzpHiwsYRr22lJjP82PYtA%3D%3D)
 
-[Python Tutorial For Kids](https://medium.com/@prempja40/python-tutorial-for-kids-0de7326e0eb0)
+[Html Online Course With Certificate](https://medium.com/@roneet705/html-online-course-with-certificate-87f4dbad6e54)
 
-[Artificial Intelligence In Software Testing](https://medium.com/@abhidnya.1068/artificial-intelligence-in-software-testing-56f923a7e634)
+[Android Flutter Tutorial](https://medium.com/@justacademytraining/android-flutter-tutorial-38ee368813d2)
 
-[Python Training In Gurgaon](https://justacademyin.github.io/justacademy/python-training-in-gurgaon)
+[Django vs Laravel](https://justacademyin.github.io/justacademy/django-vs-laravel)
 
-[Difference between list and string in Python](https://justacademyin.github.io/justacademy/difference-between-list-and-string-in-python)
+[Online Courses For Html And Css](https://justacademyin.github.io/justacademy/online-courses-for-html-and-css)
 

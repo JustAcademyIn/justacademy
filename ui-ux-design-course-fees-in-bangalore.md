@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="UI UX Design Course Fees in Bangalore">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="UI UX Design Course Fees in Bangalore">
   </a>
 </p>
 ## UI UX Design Course Fees in Bangalore
@@ -41,15 +41,15 @@ UI/UX design course fees in Bangalore typically range from INR 20,000 to INR 1,5
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Best Website For Php Learning](https://www.linkedin.com/pulse/best-website-php-learning-justacademy-kolkata-hu61e?trackingId=rEpowqWtEbJrMHCdJuFhLw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BhsQsLwqxSU64UKgNHl%2FHuA%3D%3D)
+[Best Java Training Institutes In Hyderabad With Placements](https://www.linkedin.com/pulse/best-java-training-institutes-hyderabad-placements-plzyf?trackingId=tbPDHpXuXOFbVUsSArkZNQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BjwbjXdoOSmefqxJib%2FbqYQ%3D%3D)
 
-[Laravel Api Course](https://www.linkedin.com/pulse/laravel-api-course-justacademy-berlin-5yyre?trackingId=2pJ%2FGTUUSzqtU%2BWX5Rdngg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BTlJqsmxlRpm4BSTOQJNHnA%3D%3D)
+[Test Certificate Software](https://www.linkedin.com/pulse/test-certificate-software-justacademy-austin-iq9ef?trackingId=pAdN0nHt0IQ9BW5RuXy4mQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B1S56YMP3SFiKzh85NFJhiw%3D%3D)
 
-[Online Adobe Illustrator Classes](https://medium.com/@mahi3106/online-adobe-illustrator-classes-548ab9aefd36)
+[Java Online Training Institutes In India](https://medium.com/@abhidnya.1068/java-online-training-institutes-in-india-f0c355702e44)
 
-[Html Complete Course](https://medium.com/@kumarishimmi99/html-complete-course-a5270337d008)
+[Full Stack Developer Course Eligibility](https://medium.com/@ranemanish460/full-stack-developer-course-eligibility-442e7c038381)
 
-[Full Photoshop Course](https://justacademyin.github.io/justacademy/full-photoshop-course)
+[Python Programming Training Course](https://justacademyin.github.io/justacademy/python-programming-training-course)
 
-[Software Testing Life Cycle](https://justacademyin.github.io/justacademy/software-testing-life-cycle)
+[Java Full Stack Developer Course Free](https://justacademyin.github.io/justacademy/java-full-stack-developer-course-free)
 

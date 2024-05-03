@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="UI UX design course in Delhi">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="UI UX design course in Delhi">
   </a>
 </p>
 ## UI UX design course in Delhi
@@ -41,15 +41,15 @@ The UI UX Design Course in Delhi is a comprehensive program that equips students
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Best Software Testing Institutes In Bangalore](https://www.linkedin.com/pulse/best-software-testing-courses-bangalore-justacademy-coimbatore-5egxe?trackingId=5bd%2FJimY0rFCBAmfgUsHHQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B7mNmKz24Tx%2BfRDkV0HwLig%3D%3D)
+[Azure Machine Learning Designer Tutorial](https://www.linkedin.com/pulse/azure-machine-learning-designer-tutorial-justacademy-bay-area-xfxwe?trackingId=w9ql4hzgpSKc5BOjkUHg0w%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BVfd8WVt8TwCvR4GLG%2BU4Hg%3D%3D)
 
-[Salesforce E Learning](https://www.linkedin.com/pulse/salesforce-e-learning-justacademy-ahmedabad-ihfje?trackingId=JTfIHuEQ4aJxdsCXamoCyg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BejZbnVSUSciRC3KGqYoFiw%3D%3D)
+[List Of Java Training Institutes In Bangalore](https://www.linkedin.com/pulse/list-java-training-institutes-bangalore-justacademy-beangaluru-ykpre?trackingId=my5UFIBXqdfPqcqTToQP7A%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BV3sjVNqrQV6LT8YmMJxhFA%3D%3D)
 
-[Flutter Free Online Course](https://medium.com/@mahi3106/flutter-free-online-course-382995149614)
+[Sap S 4hana Course](https://medium.com/@kamblerajas684/sap-s-4hana-course-9883b75cc909)
 
-[Adobe Graphic Design Classes](https://medium.com/@ranemanish460/adobe-graphic-design-classes-3dd0e9817efb)
+[Sap Hana Classes](https://medium.com/@surajvaishnav5015/sap-hana-classes-26131334d59a)
 
-[Java Javascript](https://justacademyin.github.io/justacademy/java-javascript)
+[SAP MM Online Training Institutes In Hyderabad](https://justacademyin.github.io/Articles/SAP-MM-Online-Training-Institutes-In-Hyderabad)
 
-[Full Stack Developer Program](https://justacademyin.github.io/justacademy/full-stack-developer-program)
+[jQuery vs Angular](https://justacademyin.github.io/justacademy/jquery-vs-angular)
 

@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="UI and UX Design Course in Chennai">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="UI and UX Design Course in Chennai">
   </a>
 </p>
 ## UI and UX Design Course in Chennai
@@ -41,15 +41,15 @@ A UI and UX Design Course in Chennai provides comprehensive training on user int
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Java Training Institutes In Ambattur](https://www.linkedin.com/pulse/java-training-institutes-ambattur-software-training-sunnyvale-76h4e?trackingId=mMj7m0276vOMyCNShtinFA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BPMbi7PJsSrOfOFf5jCv3gg%3D%3D)
+[Php Training Online](https://www.linkedin.com/pulse/php-training-online-justacademy-thane-3nimc?trackingId=Y1wzrgdjgEZ7I%2F4pVEHo4g%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BtWGDFb3%2BTIWrNJLdiT%2FfMQ%3D%3D)
 
-[Best Software Training Institute In Chennai With Placement](https://www.linkedin.com/pulse/best-software-training-institute-chennai-placement-ck1tc?trackingId=w9irY56bP4EgtZX5FV9Gcg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BH6KMNh6EQhC0bc0MnOGqbQ%3D%3D)
+[Cloud Computing Syllabus](https://www.linkedin.com/pulse/cloud-computing-syllabus-justacademy-kolkata-tz6pe?trackingId=G35BLnMFnRwQNztlQRUYWA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bar0CqYRcTQWcPsZzz1T%2BLw%3D%3D)
 
-[Sap Distribution](https://medium.com/@justacademytraining/sap-distribution-99278a5b6597)
+[How To Become Java Full Stack Developer](https://medium.com/@ranepooja/how-to-become-java-full-stack-developer-e514ec4e2e1a)
 
-[Best Python Training Institute In Bangalore](https://medium.com/@prempja40/best-python-training-institute-in-bangalore-267c0f1b4650)
+[Best Web Development Course Reddit](https://medium.com/@abhidnya.1068/best-web-development-course-reddit-7912e2b76886)
 
-[How To Learn Java Fast](https://justacademyin.github.io/justacademy/how-to-learn-java-fast)
+[Salesforce courses free](https://justacademyin.github.io/justacademy/salesforce-courses-free)
 
-[Cloud Computing Undergraduate Course](https://justacademyin.github.io/justacademy/cloud-computing-undergraduate-course)
+[Digital Marketing Course in Hisar](https://justacademyin.github.io/justacademy/digital-marketing-course-in-hisar)
 

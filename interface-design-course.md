@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="Interface Design Course">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="Interface Design Course">
   </a>
 </p>
 ## Interface Design Course
@@ -41,15 +41,15 @@ An interface design course typically focuses on teaching students how to create 
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Java Course In Vizag](https://www.linkedin.com/pulse/java-course-vizag-justacademy-boston-wucpc/)
+[Java Course In Chennai](https://www.linkedin.com/pulse/java-course-chennai-justacademy-chandigarh-rlhze/)
 
-[Salesforce Training Courses](https://www.linkedin.com/pulse/salesforce-training-courses-justacademy-austin-pg6hf?trackingId=ugxtY0uRYAUyGja5Fga02A%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BmA9QTMf0RKatDJxEf%2FJ3Jw%3D%3D)
+[Cpp Vs Java](https://www.linkedin.com/pulse/cpp-vs-java-justacademy-belfast-xlole?trackingId=Pb%2F%2Fs8Y8cxUNjsZOqXaHGA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BFA4F38QVSYi3Nnx%2BGyQhoA%3D%3D)
 
-[Android App Course Free](https://medium.com/@akanshapatil/android-app-course-free-92ef84b88206)
+[Best Java Training Institutes In Thane](https://medium.com/@kumarishimmi99/best-java-training-institutes-in-thane-1f2850d32c84)
 
-[SAP HANA Cloud](https://medium.com/@kamblerajas684/sap-hana-cloud-20c06c2ac01f)
+[UI UX Design Course in Delhi](https://medium.com/@roneet705/ui-ux-design-course-in-delhi-648712671e32)
 
-[Azure Cloud Hosting Services](https://justacademyin.github.io/justacademy/azure-cloud-hosting-services)
+[Digital Marketing Goa](https://justacademyin.github.io/justacademy/digital-marketing-goa)
 
-[PHP Net](https://justacademyin.github.io/justacademy/php-net)
+[Software Training Institutes In Kochi](https://justacademyin.github.io/justacademy/software-training-institutes-in-kochi)
 

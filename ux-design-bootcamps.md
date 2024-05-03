@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="UX Design Bootcamps">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="UX Design Bootcamps">
   </a>
 </p>
 ## UX Design Bootcamps
@@ -41,15 +41,15 @@ UX design bootcamps are immersive, intensive training programs that typically la
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Html Full Course](https://www.linkedin.com/pulse/html-full-course-justacademy-chandigarh-9cl7c?trackingId=mDWDC76AIZMk71YRbIbTRw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BKQmokhDTSBO4c3m1OKbvVA%3D%3D)
+[Sap Hana S4 Certification](https://www.linkedin.com/pulse/sap-hana-s4-certification-justacademy-cupertino-gttwc/)
 
-[Advantages Of Stack](https://www.linkedin.com/pulse/advantages-stack-justacademy-jaipur-pxeqe?trackingId=H6SGsc6%2FdV%2FoHd1SDyS2sg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BzoGgv%2F2GTOq26q6ITzj9KQ%3D%3D)
+[Aws Web Services Tutorial](https://www.linkedin.com/pulse/aws-web-services-tutorial-software-training-mountain-view-dcuhe?trackingId=vheMQcweoWZTlaVBcHllBA%3D%3D&lipi=urn%3Ali%3Apage%3Aorganization_admin_admin_feed_index%3B396a4c81-0a90-47a5-ad5c-c37fd268bc2b)
 
-[Digital Marketing Course Ghaziabad](https://medium.com/@mahi3106/digital-marketing-course-ghaziabad-203930bc884f)
+[Wp Main](https://medium.com/@ranemanish460/wp-main-cf7a2611ef92)
 
-[DevOps Course Fees](https://medium.com/@akanshapatil/devops-course-fees-a20df0e6defc)
+[Full Stack Developer Course In Madurai](https://medium.com/@shivamja27/full-stack-developer-course-in-madurai-274bdf91898e)
 
-[Cloud Computing Classes In Pune](https://justacademyin.github.io/justacademy/cloud-computing-classes-in-pune)
+[Online Marketing Certified Professional](https://justacademyin.github.io/justacademy/online-marketing-certified-professional)
 
-[Php Mysql Online](https://justacademyin.github.io/justacademy/php-mysql-online)
+[Best Digital Marketing Courses in Kochi](https://justacademyin.github.io/justacademy/best-digital-marketing-courses-in-kochi)
 

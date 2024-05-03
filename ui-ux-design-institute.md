@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="UI UX Design Institute">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="UI UX Design Institute">
   </a>
 </p>
 ## UI UX Design Institute
@@ -41,15 +41,15 @@ A UI UX Design Institute is a specialized educational institution that offers co
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Best Software Testing Course Institute In Chennai](https://www.linkedin.com/pulse/best-software-testing-course-institute-chennai-uwoyc?trackingId=3sq1XjH7OoaoHF2%2BUru%2BEQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BzThijShxRS6J0WzPkYT7Lg%3D%3D)
+[Software Testing Best Institute In Pune](https://www.linkedin.com/pulse/software-testing-best-institute-pune-software-training-sunnyvale-rhcvc?trackingId=IJBi9Hp4beO2ZgIBIDHQ0Q%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BPMbi7PJsSrOfOFf5jCv3gg%3D%3D)
 
-[S4 Hana Abap Coding](https://www.linkedin.com/pulse/s4-hana-abap-coding-justacademy-ahmedabad-a0doc/)
+[Best Java Training Institute In Sonipat](https://www.linkedin.com/pulse/best-java-training-institute-sonipat-justacademy-new-york-ltpif?trackingId=TfnNsCivZ8BYJIxD2v5Qqg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BXrRubNp2RbuIvhkpU%2BeX0g%3D%3D)
 
-[Full Stack Developer Course In Nagpur](https://medium.com/@abhidnya.1068/full-stack-developer-course-in-nagpur-4d7be32fadb9)
+[Java Fullstack Training Institute In Coimbatore](https://medium.com/@mahi3106/java-fullstack-training-institute-in-coimbatore-29b62458525a)
 
-[Java And Core Java](https://medium.com/@AkashSingh2052/java-and-core-java-5cad4158c9ca)
+[Python Programming Online Free Course With Certificate](https://medium.com/@prempja40/python-programming-online-free-course-with-certificate-72ae2a107c29)
 
-[Cloud Computing Courses Fees In Pune](https://justacademyin.github.io/justacademy/cloud-computing-courses-fees-in-pune)
+[Python Programming Training Course](https://justacademyin.github.io/justacademy/python-programming-training-course)
 
-[Online Illustration Courses UK](https://justacademyin.github.io/justacademy/online-illustration-courses-uk)
+[Tutor Python Online](https://justacademyin.github.io/justacademy/tutor-python-online)
 

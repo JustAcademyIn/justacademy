@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="UI UX Designer Course In Hyderabad">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="UI UX Designer Course In Hyderabad">
   </a>
 </p>
 ## UI UX Designer Course In Hyderabad
@@ -41,15 +41,15 @@ The UI UX Designer Course in Hyderabad is a comprehensive program designed to eq
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Flutter Mobile App Development Tutorial](0)
+[Sales Force Management Course](https://www.linkedin.com/pulse/sales-force-management-course-justacademy-kolkata-u8fpe?trackingId=uFosWLSNbBDxgLbvhOt64A%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bul7GTKO7ThmTI9oLPnZkzg%3D%3D)
 
-[Java Training Institutes In Usa](https://www.linkedin.com/pulse/java-training-institutes-usa-justacademy-chicago-uhige?trackingId=hA3s8BWtYM%2FQInuL0lr%2FwQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BxzhODhyIS1OF3GFeJJCsZw%3D%3D)
+[Azure Machine Learning Tutorial](https://www.linkedin.com/pulse/azure-machine-learning-tutorial-justacademy-sunnyvale-0tenc?trackingId=Xv0PO939DmtNrdj6EcyMFQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BGORVFcjaQo64mY3NY1Wn%2Bw%3D%3D)
 
-[Project Management Courses Uk](https://medium.com/@shivamja27/project-management-courses-uk-3efdf0b4b28a)
+[SAP S4 HANA](https://medium.com/@kamblerajas684/sap-s4-hana-97b0408ad318)
 
-[Java Training Institutes In Bangalore Best](https://medium.com/@ranepooja/java-training-institutes-in-bangalore-best-4e6352db5cd2)
+[Digital Marketing Dubai](https://medium.com/@roneet705/digital-marketing-dubai-317430ef03ae)
 
-[Best Pmp Training Institute In Pune](https://justacademyin.github.io/justacademy/best-pmp-training-institute-in-pune)
+[SAP MM Training In Marathahalli](https://justacademyin.github.io/Articles/SAP-MM-Training-In-Marathahalli)
 
-[Different Types of Exceptions in Selenium](https://justacademyin.github.io/justacademy/different-types-of-exceptions-in-selenium)
+[ASP NET Core vs ASP NET MVC](https://justacademyin.github.io/justacademy/asp-net-core-vs-asp-net-mvc)
 

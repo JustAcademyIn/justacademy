@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="UI UX Design Course in Nashik">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="UI UX Design Course in Nashik">
   </a>
 </p>
 ## UI UX Design Course in Nashik
@@ -41,15 +41,15 @@ The UI UX Design Course in Nashik provides an in-depth understanding of user int
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Full Stack Developer Online Course With Placement](https://www.linkedin.com/pulse/full-stack-developer-online-course-placement-justacademy-coimbatore-wdm8e?trackingId=qt0bwdbWg4c2TtcqrFBCDA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B7mNmKz24Tx%2BfRDkV0HwLig%3D%3D)
+[Flutter Language](https://www.linkedin.com/pulse/flutter-language-justacademy-chennai-vixqc?trackingId=%2Fn6%2BRSnW%2F7d6xjJRIWqQQA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BjPw0ei4cQfe0InHd%2FK206Q%3D%3D)
 
-[Top Software Testing Training Institutes In Bangalore](https://www.linkedin.com/pulse/top-software-testing-training-institutes-bangalore-shajf?trackingId=UVd9dCzU%2BG%2B8KIZRxLj55g%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B72drtJzFRpOZi%2BIA7t6Uhg%3D%3D)
+[Node Js Is Front End Or Backend](https://www.linkedin.com/pulse/node-js-front-end-backend-justacademy-new-york-t1ylf?trackingId=c00zJ8Xhn5SvpwhD4sbKBA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BZk%2BEqLRRSPWLWPbe%2FjHbmQ%3D%3D)
 
-[Sap S 4hana Cloud Training](https://medium.com/@ranemanish460/sap-s-4hana-cloud-training-0d2ce2f7c230)
+[Java Full Stack Logo](https://medium.com/@mistersumit961/java-full-stack-logo-715e77b7d1dc)
 
-[Python Training Institute New Delhi Delhi](https://medium.com/@ranemanish460/python-training-institute-new-delhi-delhi-a18f58092a94)
+[Python Price](https://medium.com/@mahi3106/python-price-d78682dd5d5b)
 
-[Python Tutorial For Kids](https://justacademyin.github.io/justacademy/python-tutorial-for-kids)
+[DevOps training with placement](https://justacademyin.github.io/justacademy/devops-training-with-placement)
 
-[Best Online Course For Html Css Javascript](https://justacademyin.github.io/justacademy/best-online-course-for-html-css-javascript)
+[Python Course Fees](https://justacademyin.github.io/justacademy/python-course-fees)
 

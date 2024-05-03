@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="Best Online UI UX Courses">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="Best Online UI UX Courses">
   </a>
 </p>
 ## Best Online UI UX Courses
@@ -60,15 +60,15 @@ There are several highly recommended online UI/UX courses available that cater t
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Java Couse Training Institute In Chennai](https://www.linkedin.com/pulse/java-couse-training-institute-chennai-justacademy-thane-i5rie?trackingId=o7Tq67BJnf8WZdMkI%2BoE7A%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B8x4oZRFoSmO4CZ5ThOfedg%3D%3D)
+[Mean Vs Mern](https://www.linkedin.com/pulse/mean-vs-mern-justacademy-thane-eqgzc?trackingId=OOIlS4lHd2i2gcsqfNeelA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bs5%2FTwm7dQuuyZG7uExGaaQ%3D%3D)
 
-[Bootstrap Vs Angular Material](vhttps://www.linkedin.com/pulse/bootstrap-vs-angular-material-justacademyderby-4fcxe?trackingId=X2zsjKh%2FifjJzzsMGj4Arw%3D%3D)
+[Best Core Java Training Institutes In Hyderabad](https://www.linkedin.com/pulse/best-core-java-training-institutes-hyderabad-justacademy-mumbai-zeclc?trackingId=G0D9W1Y%2Br8I3kZnIzZ8iqw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_showcase_admin%3BQONBiiZYS52%2BUVT4s6K24g%3D%3D)
 
-[Sap Cloud Courses](https://medium.com/@sagarawat89/sap-cloud-courses-652cb56ceddc)
+[Best Course For Ui Ux Design](https://medium.com/@justacademytraining/best-course-for-ui-ux-design-3c0a408d8777)
 
-[difference function in sql](https://medium.com/@AkashSingh2052/difference-function-in-sql-749ba3ff22b9)
+[Alteryx Meaning](https://medium.com/@ranepooja/alteryx-meaning-d3524b14d069)
 
-[Learn Android Application Development](https://justacademyin.github.io/justacademy/learn-android-application-development)
+[Php Free Code Camp](https://justacademyin.github.io/justacademy/php-free-code-camp)
 
-[Azure Batch Service Tutorial](https://justacademyin.github.io/justacademy/azure-batch-service-tutorial)
+[UI UX Free Online Course](https://justacademyin.github.io/justacademy/ui-ux-free-online-course)
 

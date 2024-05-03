@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="Certificate in Web Design">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="Certificate in Web Design">
   </a>
 </p>
 ## Certificate in Web Design
@@ -41,15 +41,15 @@ A certificate in web design is a specialized program that provides individuals w
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Salesforce Advanced Developer Certification](https://www.linkedin.com/pulse/salesforce-advanced-developer-certification-justacademy-hyderabad-bnpec?trackingId=W9MxUWByD1zkPgz9Pz1wIA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BDVbRKUgIQU%2Bm75jg%2BU5m6w%3D%3D)
+[Java Course In Madurai](https://www.linkedin.com/pulse/java-course-madurai-justacademy-boston-0lkjc/)
 
-[Ascent Software Training Institute Java](https://www.linkedin.com/pulse/ascent-software-training-institute-java-software-training-sunnyvale-5cyjc?trackingId=IZB%2FdmD0Pplr3OfK1UhGDA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BPMbi7PJsSrOfOFf5jCv3gg%3D%3D)
+[React Js Language](https://www.linkedin.com/pulse/react-js-language-justacademy-coimbatore-lirbc?trackingId=CeR5jNoC6iBb3TyydpP0Ng%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BfmlpQlw4RxKd%2FcK9A3mwCQ%3D%3D)
 
-[Tableau Power Bi Course](https://medium.com/@mahi3106/tableau-power-bi-course-09ae78977127)
+[Android Certification Course Online Free](https://medium.com/@akanshapatil/android-certification-course-online-free-cb084a810e29)
 
-[squarespace vs wordpress](https://medium.com/@mahi3106/squarespace-vs-wordpress-0d7ffc14e579)
+[Adobe Illustrator Classes Online](https://medium.com/@prempja40/adobe-illustrator-classes-online-e40241c1be1d)
 
-[Digital Marketing Classes Nyc](https://justacademyin.github.io/Articles/Digital-Marketing-Classes-Nyc)
+[In Java Script](https://justacademyin.github.io/justacademy/in-java-script)
 
-[Selenium Classes in CHENNAI](https://justacademyin.github.io/justacademy/selenium-classes-in-chennai)
+[Difference Between C C++ Java And Python](https://justacademyin.github.io/justacademy/difference-between-c-c++-java-and-python)
 

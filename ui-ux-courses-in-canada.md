@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="UI UX courses in CANADA">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="UI UX courses in CANADA">
   </a>
 </p>
 ## UI UX courses in CANADA
@@ -60,15 +60,15 @@ UI UX courses in Canada offer comprehensive training in the principles, tools, a
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Mm Course Full Form](https://www.linkedin.com/pulse/mm-course-full-form-justacademy-cupertino-bd11c?trackingId=Zv8bKkPi8Qi9GTsAwYC3dQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BgBhGnALRQwW8mE6l8mJTTg%3D%3D)
+[Best Android Kotlin Course](https://www.linkedin.com/pulse/best-android-kotlin-course-software-training-sunnyvale-ipppc/)
 
-[React Js Course Near Me](https://www.linkedin.com/pulse/react-js-course-near-me-software-training-sunnyvale-mgaec?trackingId=3U7fEmSgZiL%2Bul2XQlIumg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BM5QnzWJERjun88GkJ%2BYkdw%3D%3D)
+[Why Java Is Not Fully Object Oriented](https://www.linkedin.com/pulse/why-java-fully-object-oriented-justacademy-houston-a6bjf?trackingId=zSrpyBi1cyld57FdOcW5lg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BbdU8Kb1eTdmC8sV%2Feumusg%3D%3D)
 
-[Photoshop Intermediate Course](https://medium.com/@roneet705/photoshop-intermediate-course-6e39c9dd4864)
+[Java Training Institutes In Bangalore Hsr Layout](https://medium.com/@prempja40/java-training-institutes-in-bangalore-hsr-layout-7c4998a8b328)
 
-[Azure Cognitive Search Tutorial](https://medium.com/@negishivu99/azure-cognitive-search-tutorial-7b7194c587dc)
+[Abap Programming Course](https://medium.com/@surajvaishnav5015/abap-programming-course-5f175f0b2fe4)
 
-[Ionic vs React Native](https://justacademyin.github.io/justacademy/ionic-vs-react-native)
+[Free Courses To Learn Photoshop](https://justacademyin.github.io/justacademy/free-courses-to-learn-photoshop)
 
-[Difference between Undefined and not Defined in JavaScript](https://justacademyin.github.io/justacademy/difference-between-undefined-and-not-defined-in-javascript)
+[Difference between Asp Net and Asp Net Core](https://justacademyin.github.io/justacademy/difference-between-asp-net-and-asp-net-core)
 

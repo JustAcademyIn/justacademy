@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="Online ILLUSTRATION Classes">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="Online ILLUSTRATION Classes">
   </a>
 </p>
 ## Online ILLUSTRATION Classes
@@ -60,15 +60,15 @@ Online illustration classes provide individuals with the opportunity to learn an
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Machine Learning With Aws](https://www.linkedin.com/pulse/machine-learning-aws-justacademy-coventry-e04ae?trackingId=YufClbJ8%2FgbTlbsGVDwbcg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BJZ1BlOL5QLWznvJO1ReiaA%3D%3D)
+[Flutter Web Development Tutorial](https://www.linkedin.com/pulse/flutter-web-development-tutorial-justacademy-delhi-kijjc/)
 
-[Java Full Stack Developer Course Free With Certificate](https://www.linkedin.com/pulse/java-full-stack-developer-course-free-certificate-justacademy-thane-7kauc/)
+[Sap Sap Hana](https://www.linkedin.com/pulse/sap-hana-justacademy-fowrc/)
 
-[Learn Flutter Online Free](https://medium.com/@AkashSingh2052/learn-flutter-online-free-55a66ca8f4c8)
+[Pmp Without Degree](https://medium.com/@abhidnya.1068/pmp-without-degree-ab77584c3fe0)
 
-[Selenium Classes in Chennai](https://medium.com/@shivamja27/selenium-classes-in-chennai-6d9be48a2391)
+[Difference Between Pass and Continue in Python](https://medium.com/@kumarishimmi99/difference-between-pass-and-continue-in-python-8879e3922fe8)
 
-[Dot Net vs Java](https://justacademyin.github.io/justacademy/dot-net-vs-java)
+[Java Intermediate Course](https://justacademyin.github.io/justacademy/java-intermediate-course)
 
-[Software Testing Course Online Free](https://justacademyin.github.io/justacademy/software-testing-course-online-free)
+[Online Masters Programs Machine Learning](https://justacademyin.github.io/justacademy/online-masters-programs-machine-learning)
 

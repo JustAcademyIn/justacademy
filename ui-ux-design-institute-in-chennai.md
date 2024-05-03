@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="UI UX Design Institute in Chennai">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="UI UX Design Institute in Chennai">
   </a>
 </p>
 ## UI UX Design Institute in Chennai
@@ -41,15 +41,15 @@ The UI UX Design Institute in Chennai is a reputable institution that offers com
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[React Native Vs Flutter](https://www.linkedin.com/pulse/react-native-vs-flutter-justacademy-belfast-72cce?trackingId=0dwR2rvA6xgoaCXSXInlJQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BFA4F38QVSYi3Nnx%2BGyQhoA%3D%3D)
+[Flutter Course Duration](https://www.linkedin.com/pulse/flutter-course-duration-justacademy-thane-ejtvc/)
 
-[Php Laravel Training](https://www.linkedin.com/pulse/php-laravel-training-justacademy-thane-w46hc?trackingId=UUtAra0vj9W8tXQKlECRTg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BtWGDFb3%2BTIWrNJLdiT%2FfMQ%3D%3D)
+[Java Training Institute In Kathmandu](https://www.linkedin.com/pulse/java-training-institute-kathmandu-justacademy-boston-a7ube?trackingId=8%2BN3csujkrjbAf%2FZXeIDUg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3ByHVlcoLQTcuBfUU9SYITnA%3D%3D)
 
-[Java Training Institute In Jaipur Mansarovar](https://medium.com/@namusn/java-training-institute-in-jaipur-mansarovar-c5e4f1276b92)
+[jython vs python](https://medium.com/@ranemanish460/jython-vs-python-74da39584cb2)
 
-[Sap Hana Classes](https://medium.com/@surajvaishnav5015/sap-hana-classes-26131334d59a)
+[Tableau Tutorials For Beginners](https://medium.com/@akanshapatil/tableau-tutorials-for-beginners-299509a77e79)
 
-[Azure Edge Cloud](https://justacademyin.github.io/justacademy/azure-edge-cloud)
+[Cloud Computing Courses Near Me](https://justacademyin.github.io/justacademy/cloud-computing-courses-near-me)
 
-[UI UX Course Free](https://justacademyin.github.io/justacademy/ui-ux-course-free)
+[Flutter vs React Native PERFORMANCE](https://justacademyin.github.io/justacademy/flutter-vs-react-native-performance)
 

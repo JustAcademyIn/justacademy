@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="UI UX design course for beginners">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="UI UX design course for beginners">
   </a>
 </p>
 ## UI UX design course for beginners
@@ -60,15 +60,15 @@ A UI/UX design course for beginners is a comprehensive program that covers the f
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Machine Learning Module](https://www.linkedin.com/pulse/machine-learning-module-justacademyderby-s1p1e?trackingId=mZpk2ln8njwzbFWsTGt8fQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BPi8IvO9YQ5y8xQZ23yq6yg%3D%3D)
+[Full Stack Flutter Developer Course](0)
 
-[Robust In Programming](https://www.linkedin.com/pulse/robust-programming-justacademy-chicago-hbskf?trackingId=QATYX%2FkK2KoYhPhVEWmgcw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BPE%2BT5WipQcKTfk6GVPUI1w%3D%3D)
+[Dot Net Training Online Free With Certification](https://www.linkedin.com/pulse/dot-net-training-online-free-certification-justacademy-sunnyvale-bhyjc?trackingId=vjYa%2FxWuz4GAgaZMLT5Cfg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bw3FaZuhqQImafpQ55o%2FftQ%3D%3D)
 
-[Photoshop Training Classes](https://medium.com/@akanshapatil/photoshop-training-classes-631806547bdc)
+[Android Developer Classes Near Me](https://medium.com/@namusn/android-developer-classes-near-me-8278f59b72c8)
 
-[Adobe Photoshop Training Courses London](https://medium.com/@roneet705/adobe-photoshop-training-courses-london-4274be985b55)
+[Best Java Training Institution In Hyderabad](https://medium.com/@justacademytraining/best-java-training-institution-in-hyderabad-f5eaf332d78a)
 
-[Best Advanced Java Training Institutes In Gurgaon](https://justacademyin.github.io/justacademy/best-advanced-java-training-institutes-in-gurgaon)
+[Digital Strategy Training](https://justacademyin.github.io/justacademy/digital-strategy-training)
 
-[Difference between PHP and MySQL](https://justacademyin.github.io/justacademy/difference-between-php-and-mysql)
+[Python Selenium Interview Questions](https://justacademyin.github.io/justacademy/python-selenium-interview-questions)
 

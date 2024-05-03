@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="Design Bootcamp">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="Design Bootcamp">
   </a>
 </p>
 ## Design Bootcamp
@@ -41,15 +41,15 @@ A design bootcamp is an intensive training program that helps individuals develo
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Web Development And Machine Learning](https://www.linkedin.com/pulse/web-development-machine-learning-justacademy-bristol-hgxoe?trackingId=ZS%2BepQNlAmO39FNJUySrCQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BuQw2P2SXTeivwplSXi08Jg%3D%3D)
+[Best Salesforce Training Center In Marathahalli](https://www.linkedin.com/pulse/best-salesforce-training-center-marathahalli-justacademy-leicester-7ifte?trackingId=9CzfSmkoTsqbxeOn%2BeL%2BGA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BIzRPuTOMRFCGaj50%2BCRC7g%3D%3D)
 
-[Pmp Course Online Free](https://www.linkedin.com/pulse/pmp-course-online-free-justacademy-san-jose-loi0f?trackingId=AQ5ROxhciSWbWcguMEm8sw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BNvzTf3fnQO%2BVBqBGA8b0%2Bw%3D%3D)
+[Flutter Institute Near Me](https://www.linkedin.com/pulse/flutter-institute-near-me-justacademy-kw86c/)
 
-[Full Stack Developer Training](https://medium.com/@justacademytraining/full-stack-developer-training-5b27d3871a6c)
+[digital marketing in Trivandrum](https://medium.com/@ranemanish460/digital-marketing-in-trivandrum-4a8c151e9ef6)
 
-[Difference Between Mutable and Immutable in Python](https://medium.com/@abhidnya.1068/difference-between-mutable-and-immutable-in-python-7be7d34fddca)
+[Python Tutorial For Beginners](https://medium.com/@roneet705/python-tutorial-for-beginners-eb5f9c0eb75f)
 
-[Best digital marketing institute in Kolkata](https://justacademyin.github.io/justacademy/best-digital-marketing-institute-in-kolkata)
+[Software Testing Online Course List](https://justacademyin.github.io/justacademy/software-testing-online-course-list)
 
-[Adobe Illustrator Courses](https://justacademyin.github.io/justacademy/adobe-illustrator-courses)
+[SAP MM Online Course](https://justacademyin.github.io/Articles/SAP-MM-Online-Course)
 

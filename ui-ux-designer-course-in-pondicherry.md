@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="UI UX Designer Course in Pondicherry">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="UI UX Designer Course in Pondicherry">
   </a>
 </p>
 ## UI UX Designer Course in Pondicherry
@@ -41,15 +41,15 @@ The UI UX Designer Course in Pondicherry is a comprehensive program that equips 
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Java Classes In Pune](https://www.linkedin.com/pulse/java-classes-pune-justacademy-hyderabad-0ysnc/)
+[Digital Marketing Schools Near Me](https://www.linkedin.com/pulse/digital-marketing-schools-near-me-justacademy-vinmc?trackingId=APGQoXP78r0kJxApCVwJqA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BWbxQ1A18RaaLg4c2WwaK8w%3D%3D)
 
-[Best Certification For Android Developer](https://www.linkedin.com/pulse/best-certification-android-developer-justacademy-tekhf/)
+[Flutter For Angular Developers](https://www.linkedin.com/pulse/flutter-angular-developers-justacademy-hyderabad-fakfc?trackingId=ENxhmiyi27llWCl0kLPUgg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BepomL552S36dZH34vwpA2w%3D%3D)
 
-[Flutter Step By Step Tutorial](https://medium.com/@justacademytraining/flutter-step-by-step-tutorial-0febd28350b1)
+[For loop and while loop difference in python](https://medium.com/@abhidnya.1068/for-loop-and-while-loop-difference-in-python-e9c5863604d4)
 
-[Digital Marketing Training in Hyderabad](https://medium.com/@roneet705/digital-marketing-training-in-hyderabad-1bf5d59f2316)
+[Adobe Photoshop Cs Training](https://medium.com/@akanshapatil/adobe-photoshop-cs-training-473be9e98bab)
 
-[Best Software Training Institute In Chennai With Placement](https://justacademyin.github.io/justacademy/best-software-training-institute-in-chennai-with-placement)
+[Python Course Uk](https://justacademyin.github.io/justacademy/python-course-uk)
 
-[Software Testing Full Course](https://justacademyin.github.io/justacademy/software-testing-full-course)
+[Digital Marketing Course in Bhubaneswar](https://justacademyin.github.io/justacademy/digital-marketing-course-in-bhubaneswar)
 

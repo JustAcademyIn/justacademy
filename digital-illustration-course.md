@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="Digital Illustration Course">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="Digital Illustration Course">
   </a>
 </p>
 ## Digital Illustration Course
@@ -41,15 +41,15 @@ A digital illustration course is a creative learning program that teaches studen
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Software Testing Course In Kolkata](https://www.linkedin.com/pulse/software-testing-course-kolkata-justacademy-sunnyvale-yvvgc?trackingId=A%2BMAzOLppCC4YxzGz%2FL3zw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BY8luX3FqRoKvysGk6zzShw%3D%3D)
+[Online Marketing Kurser](https://www.linkedin.com/pulse/online-marketing-kurser-justacademy-cupertino-wobnc?trackingId=%2FxlbwPOo4XJ8Ccg5LJtZbw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BzQv8YsYPTiCPDkVRvYwOog%3D%3D)
 
-[Salesforce Sales Cloud Course](https://www.linkedin.com/pulse/salesforce-sales-cloud-course-justacademy-houston-5yxdf?trackingId=1dF2YrBgJaUff5E%2BzjV6Gg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B7JDWY034S6um4RLOpjnAgA%3D%3D)
+[Sap Mm Basics](https://www.linkedin.com/pulse/sap-mm-basics-justacademy-sunnyvale-lxgyc?trackingId=VmURMiHg1tvj0H1ERhyOqA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bw3FaZuhqQImafpQ55o%2FftQ%3D%3D)
 
-[Associate Android Developer Certification Preparat](https://medium.com/@namusn/associate-android-developer-certification-preparat-a6221240b5cb)
+[Illustration Courses Online](https://medium.com/@abhidnya.1068/illustration-courses-online-aeaa7fff367c)
 
-[Sap Abap Course](https://medium.com/@ranemanish460/sap-abap-course-44d411f97d11)
+[Is Wordpress Hard To Learn](https://medium.com/@mistersumit961/is-wordpress-hard-to-learn-c3630a9b9406)
 
-[Software Testing Course In Hyderabad](https://justacademyin.github.io/justacademy/software-testing-course-in-hyderabad)
+[Advance Java Summer Training](https://justacademyin.github.io/justacademy/advance-java-summer-training)
 
-[Java Classes Near Me](https://justacademyin.github.io/justacademy/java-classes-near-me)
+[Best DevOps Course](https://justacademyin.github.io/justacademy/best-devops-course)
 

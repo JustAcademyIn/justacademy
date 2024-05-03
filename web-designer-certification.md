@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="Web Designer Certification">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="Web Designer Certification">
   </a>
 </p>
 ## Web Designer Certification
@@ -41,15 +41,15 @@ A web designer certification typically signifies that an individual has complete
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Sales Force Developer Training](https://www.linkedin.com/pulse/sales-force-developer-training-justacademy-2qhgc?trackingId=705FfJ9HfuBWwFwVKeFzLQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B1%2Fxl0s9nR82%2ByDHotTO0eg%3D%3D)
+[Bootcamp Full Stack Web Developer](https://www.linkedin.com/pulse/bootcamp-full-stack-web-developer-justacademy-las-vegas-rbdbf?trackingId=iCQWzqLzM6cUVuRrK%2Fwx4A%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B72drtJzFRpOZi%2BIA7t6Uhg%3D%3D)
 
-[Pmp Training In Trivandrum](https://www.linkedin.com/pulse/pmp-training-trivandrum-software-training-sunnyvale-e41yc?trackingId=DUgkPiUiVB3TmmVMKw8jWA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BPMbi7PJsSrOfOFf5jCv3gg%3D%3D)
+[Data Analyst Vs Web Developer](https://www.linkedin.com/pulse/data-analyst-vs-web-developer-justacademyderby-gmcle?trackingId=%2FLNuLr0VUG8EbiGCUheq9Q%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bdwb%2Fkl1wRBCVgbShptxZfw%3D%3D)
 
-[Project Management Training Uk](https://medium.com/@kumarishimmi99/project-management-training-uk-8b8054a66bf3)
+[Is Java Hard To Learn](https://medium.com/@roneet705/is-java-hard-to-learn-668624e6a98d)
 
-[Automation Testing Institute in Noida](https://medium.com/@mahi3106/automation-testing-institute-in-noida-4d87f179fcea)
+[node vs django](https://medium.com/@ranepooja/node-vs-django-f8258825054c)
 
-[Learn Php Online](https://justacademyin.github.io/justacademy/learn-php-online)
+[Cloud Computing Courses In Chennai](https://justacademyin.github.io/justacademy/cloud-computing-courses-in-chennai)
 
-[Stack Learner Javascript](https://justacademyin.github.io/Articles/Stack-Learner-Javascript)
+[Complete Html Course](https://justacademyin.github.io/justacademy/complete-html-course)
 

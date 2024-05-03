@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="UX and UI design software">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="UX and UI design software">
   </a>
 </p>
 ## UX and UI design software
@@ -41,15 +41,15 @@ User Experience (UX) design software focuses on creating meaningful and intuitiv
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Best Java Training Institute](https://www.linkedin.com/pulse/best-java-training-institute-justacademy-san-jose-8uxkf?trackingId=nR%2Bu7v3tLwmP7a134rapIg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BNvzTf3fnQO%2BVBqBGA8b0%2Bw%3D%3D)
+[Agile Scrum Training London](https://www.linkedin.com/pulse/agile-scrum-training-london-justacademy-belfast-bb3ze?trackingId=O9ZDMl6WifL9OEhTEPvqOA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BFA4F38QVSYi3Nnx%2BGyQhoA%3D%3D)
 
-[Benefits Of Having A Pmp Certification](https://www.linkedin.com/pulse/benefits-having-pmp-certification-justacademy-beangaluru-ynrpc?trackingId=1yGeXmyJMd%2Fa7lj%2FJoh6lw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bx8y7hAo2S%2Fe2HLe3couk6g%3D%3D)
+[Developing Android Apps With Kotlin Udacity](https://www.linkedin.com/pulse/developing-android-apps-kotlin-udacity-justacademy-delhi-conmc/)
 
-[Java Full Stack Projects](https://medium.com/@kumarishimmi99/java-full-stack-projects-3608f203cbe8)
+[Cost For Pmp](https://medium.com/@AkashSingh2052/cost-for-pmp-04d8a284848a)
 
-[Net Core vs ASP Net Core](https://medium.com/@prempja40/net-core-vs-asp-net-core-cc5a5b8356bf)
+[Android Mobile Application Development Training](https://medium.com/@pzade254/android-mobile-application-development-training-e891df5ca55e)
 
-[Salesforce VS DevOps](https://justacademyin.github.io/justacademy/salesforce-vs-devops)
+[Best Photoshop Course](https://justacademyin.github.io/justacademy/best-photoshop-course)
 
-[Php Training For Beginners](https://justacademyin.github.io/justacademy/php-training-for-beginners)
+[Free Figma courses](https://justacademyin.github.io/justacademy/free-figma-courses)
 

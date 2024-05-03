@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="Best UI UX Courses Online">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="Best UI UX Courses Online">
   </a>
 </p>
 ## Best UI UX Courses Online
@@ -60,15 +60,15 @@ There are several highly rated UI/UX courses available online that provide compr
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[What Is Java Full Stack](https://www.linkedin.com/pulse/what-java-full-stack-justacademy-d9cqc?trackingId=567DewzWA2CEAGnv1Eakcw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BWbxQ1A18RaaLg4c2WwaK8w%3D%3D)
+[Associate Android Developer Certification Price](https://www.linkedin.com/pulse/associate-android-developer-certification-price-qt2of/)
 
-[Best Java Training Institute In Dwarka](https://www.linkedin.com/pulse/best-java-training-institute-dwarka-justacademy-sunnyvale-vee3e?trackingId=AltOHpzr9NBHbb1RekhLOg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B84%2Br3TF5Sai5zePv40hxgg%3D%3D)
+[Best Software Testing Institute In Delhi Ncr](https://www.linkedin.com/pulse/best-software-testing-institute-delhi-ncr-justacademy-boston-dp1me?trackingId=nRX9DAfg%2BC%2BsrurOkaQoRA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BC7wHxoojR%2FG%2BgYiTIGaekw%3D%3D)
 
-[Java Training Institute In Ranchi](https://medium.com/@shivamja27/java-training-institute-in-ranchi-b4b0b964badf)
+[Pmp Training Near Me](https://medium.com/@ranepooja/pmp-training-near-me-654a8e941191)
 
-[Adobe Photoshop Training Courses London](https://medium.com/@roneet705/adobe-photoshop-training-courses-london-4274be985b55)
+[Learn Flutter Online Free](https://medium.com/@AkashSingh2052/learn-flutter-online-free-55a66ca8f4c8)
 
-[Full Stack Developer Certification Cost](https://justacademyin.github.io/justacademy/full-stack-developer-certification-cost)
+[Learn To Create Apps For Android](https://justacademyin.github.io/justacademy/learn-to-create-apps-for-android)
 
-[What Is Core Java And Advanced Java](https://justacademyin.github.io/justacademy/what-is-core-java-and-advanced-java)
+[Salesforce Institute in Pune](https://justacademyin.github.io/justacademy/salesforce-institute-in-pune)
 

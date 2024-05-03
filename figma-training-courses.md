@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="Figma Training Courses">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="Figma Training Courses">
   </a>
 </p>
 ## Figma Training Courses
@@ -41,15 +41,15 @@ Figma Training Courses are designed to equip individuals with the essential skil
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Best Java Training Institute In Jaipur](https://www.linkedin.com/pulse/best-java-training-institute-jaipur-justacademy-san-jose-e6sxe?trackingId=hvqfC75DzGpmOoKXpNACJg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BEWeMkO%2BuSGSAlnCbMCSomw%3D%3D)
+[Best Institute For SAP Mm](https://www.linkedin.com/pulse/best-instibest-institute-sap-mm-software-training-mountain-view-2ji6f/)
 
-[Software Testing Certification Course](https://www.linkedin.com/pulse/software-testing-certification-course-justacademy-london-p3rtf?trackingId=%2Fo3pDrgC2cdnPzqNB7r5hQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BosK2%2F2EMSuK0OJgUxbYcDg%3D%3D)
+[Online Php Certification Courses Free](https://www.linkedin.com/pulse/online-php-certification-courses-free-justacademy-houston-l7aef?trackingId=3obRfPeZTu2%2FqiKWXBz8hw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BnF3eASk8R%2BOWSu8GAkG%2FXw%3D%3D)
 
-[Best Java Training Institute In Gurgaon](https://medium.com/@AkashSingh2052/best-java-training-institute-in-gurgaon-8b3e289d70f8)
+[Adobe Photoshop Workshop](https://medium.com/@negishivu99/adobe-photoshop-workshop-23eb4ab1b727)
 
-[jquery and javascript difference](https://medium.com/@abhidnya.1068/jquery-and-javascript-difference-2833d375b9e6)
+[magento VS wordpress](https://medium.com/@prempja40/magento-vs-wordpress-c7b26d8298c4)
 
-[SAP MM Training In Chennai](https://justacademyin.github.io/Articles/SAP-MM-Training-In-Chennai)
+[Software Testing Course In Chennai With Placement](https://justacademyin.github.io/justacademy/software-testing-course-in-chennai-with-placement)
 
-[Python Classes In Pune Fees](https://justacademyin.github.io/justacademy/python-classes-in-pune-fees)
+[Best Platform To Learn Html And Css](https://justacademyin.github.io/justacademy/best-platform-to-learn-html-and-css)
 

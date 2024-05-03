@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="UI UX COURSE in Hyderabad">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="UI UX COURSE in Hyderabad">
   </a>
 </p>
 ## UI UX COURSE in Hyderabad
@@ -41,15 +41,15 @@ The UI/UX course in Hyderabad is designed to provide comprehensive training on u
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[React Js Openings In Chennai](https://www.linkedin.com/pulse/react-js-openings-chennai-justacademy-san-jose-tbnrf?trackingId=0A2lxfRplQ207zB0XZTLKQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BfImeOsNpR2eB0vaAt1OrTg%3D%3D)
+[Google Python Class](https://www.linkedin.com/pulse/google-python-class-justacademy-coventry-ctfte?trackingId=mD9TcVEGQ3h%2Bz3yY1gPPww%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BJZ1BlOL5QLWznvJO1ReiaA%3D%3D)
 
-[Sales Force Developer Training](https://www.linkedin.com/pulse/sales-force-developer-training-justacademy-2qhgc?trackingId=705FfJ9HfuBWwFwVKeFzLQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B1%2Fxl0s9nR82%2ByDHotTO0eg%3D%3D)
+[Advanced Javascript](https://www.linkedin.com/pulse/advanced-javascript-justacademy-ahmedabad-kc5oe?trackingId=XB%2FaEjKtHA56E5LnkOfLvg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BaDgp3xTAQPe9zxsqrS35EA%3D%3D)
 
-[Selenium Course Free](https://medium.com/@justacademytraining/selenium-course-free-b96c5259be7e)
+[Flutter Advanced Tutorial Pdf](https://medium.com/@AkashSingh2052/flutter-advanced-tutorial-pdf-beb1ff21ad42)
 
-[Adobe Photoshop For Beginners Training Course](https://medium.com/@mahi3106/adobe-photoshop-for-beginners-training-course-3e676c5c33cb)
+[Sap Cloud Courses](https://medium.com/@sagarawat89/sap-cloud-courses-652cb56ceddc)
 
-[Javascript Training Online](https://justacademyin.github.io/justacademy/javascript-training-online)
+[PLAYWRIGHT vs SELENIUM](https://justacademyin.github.io/justacademy/playwright-vs-selenium)
 
-[No Js](https://justacademyin.github.io/justacademy/no-js)
+[Digital Marketing Training Jaipur](https://justacademyin.github.io/justacademy/digital-marketing-training-jaipur)
 

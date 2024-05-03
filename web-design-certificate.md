@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="Web Design Certificate">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="Web Design Certificate">
   </a>
 </p>
 ## Web Design Certificate
@@ -60,15 +60,15 @@ A web design certificate program typically provides students with a comprehensiv
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Best Java Training Institute In Sonipat](https://www.linkedin.com/pulse/best-java-training-institute-sonipat-justacademy-new-york-ltpif?trackingId=TfnNsCivZ8BYJIxD2v5Qqg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BXrRubNp2RbuIvhkpU%2BeX0g%3D%3D)
+[Full Stack Web Development Course In Delhi](https://www.linkedin.com/pulse/full-stack-web-development-course-delhi-justacademy-austin-vnm2f?trackingId=F5dh5v3QqFVvHQnrqSN9gQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B6mOngjoRSHaPxoHR8xdeBw%3D%3D)
 
-[Essentials Of Cloud Computing](https://www.linkedin.com/pulse/essentials-cloud-computing-justacademy-new-york-6d0bf?trackingId=d1NGJTzFnpLPCSbqUtUyAg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BZk%2BEqLRRSPWLWPbe%2FjHbmQ%3D%3D)
+[Javascript Classes](https://www.linkedin.com/pulse/javascript-classes-software-training-mountain-view-zc6ce?trackingId=CFK%2BUc3d9nK1isCuK%2FLgfA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BRmRTtwAISLyMmFqcBdL04g%3D%3D)
 
-[Html For Beginners Course](https://medium.com/@negishivu99/html-for-beginners-course-2cecb00fbf76)
+[Software Testing Course And Placement](https://medium.com/@surajvaishnav5015/software-testing-course-and-placement-e0287f85b47a)
 
-[Learn Android Kotlin](https://medium.com/@prempja40/learn-android-kotlin-45e60a78f208)
+[Difference between Flutter and React Native](https://medium.com/@ranemanish460/difference-between-flutter-and-react-native-e462e949c0a0)
 
-[Amazon Web Services Tutorials](https://justacademyin.github.io/justacademy/amazon-web-services-tutorials)
+[Learn Php From Beginner To Advanced](https://justacademyin.github.io/justacademy/learn-php-from-beginner-to-advanced)
 
-[Difference between MongoDB and RDBMS](https://justacademyin.github.io/justacademy/difference-between-mongodb-and-rdbms)
+[Javascript Free Code Camp](https://justacademyin.github.io/justacademy/javascript-free-code-camp)
 

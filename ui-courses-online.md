@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="UI Courses Online">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="UI Courses Online">
   </a>
 </p>
 ## UI Courses Online
@@ -41,15 +41,15 @@ UI courses online equip individuals with the skills and knowledge necessary to d
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Advanced Java Full Course](https://www.linkedin.com/pulse/advanced-java-full-course-justacademy-delhi-lwh7c?trackingId=6nZRNuIotAuEYvtE%2BFNNGA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BwYu9zKHBRZajlu4pteaL6Q%3D%3D)
+[Salesforce Free Classes](https://www.linkedin.com/pulse/salesforce-free-classes-justacademy-new-york-fm7af?trackingId=sy7c4J2TQ93KkQ4ug%2BGegw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BwtQD6Pu0R9K1Ka8Wqh4DGA%3D%3D)
 
-[Php Bootcamp Online](https://www.linkedin.com/pulse/php-bootcamp-online-justacademy-boston-4ozpe?trackingId=mv7MGI6mN%2BjXpM6V35B34w%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BJZkpBKQJT0CqKHGVOkLUTQ%3D%3D)
+[Machine Learning For Free](https://www.linkedin.com/pulse/machine-learning-free-justacademy-london-8rklf?trackingId=oXQGn%2BwBu%2BA%2Flku1MEW3yg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BktV9tJs7QaWTumhj4BQ9XQ%3D%3D)
 
-[Associates Degree In Project Management](https://medium.com/@mistersumit961/associates-degree-in-project-management-fe8e25ec336e)
+[Machine Learning Degrees](https://medium.com/@kumarishimmi99/machine-learning-degrees-644fd09e4dcf)
 
-[Project Management Short Course](https://medium.com/@mahi3106/project-management-short-course-97d3500daedf)
+[Abap Programming Training](https://medium.com/@negishivu99/abap-programming-training-90e57f0ef749)
 
-[Software Testing Course In Aurangabad](https://justacademyin.github.io/justacademy/software-testing-course-in-aurangabad)
+[WEB DEVELOPMENT in PHP](https://justacademyin.github.io/justacademy/web-development-in-php)
 
-[Full Stack Software Developer Free Course](https://justacademyin.github.io/justacademy/full-stack-software-developer-free-course)
+[Advanced Machine Learning](https://justacademyin.github.io/justacademy/advanced-machine-learning)
 

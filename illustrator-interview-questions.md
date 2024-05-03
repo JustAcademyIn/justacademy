@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="Illustrator Interview Questions">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="Illustrator Interview Questions">
   </a>
 </p>
 ## Illustrator Interview Questions
@@ -60,15 +60,15 @@ Illustrator interview questions may cover a range of topics, including technical
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Sap S4 Training](https://www.linkedin.com/pulse/sap-s4-training-justacademy-kolkata-yqudc/)
+[Software Testing Course In Chandigarh](https://www.linkedin.com/pulse/software-testing-course-chandigarh-justacademy-pune-guhhc?trackingId=sOXjler7vdK3pb7dVLKUJA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BlnT71xOrSKqY%2FaAG0BEpww%3D%3D)
 
-[Full Stack Mern Developer](https://www.linkedin.com/pulse/full-stack-mern-developer-justacademy-berlin-njboc/)
+[Django Vs React Vs Angular](https://www.linkedin.com/pulse/django-vs-react-angular-justacademy-jaipur-cznxc?trackingId=QbVzIYpzfVlCK2%2B%2BPkWjgQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BAVJRhwTBSMSM%2FVRCHlBI2Q%3D%3D)
 
-[Azure Aks Tutorial](https://medium.com/@ranepooja/azure-aks-tutorial-a24f28d399de)
+[Photoshop Cc Training](https://medium.com/@namusn/photoshop-cc-training-fb7d850bac08)
 
-[Python Full Stack Developer Course Free](https://medium.com/@mahi3106/python-full-stack-developer-course-free-b4db4e1e5406)
+[Python Programming In Hyderabad](https://medium.com/@sagarawat89/python-programming-in-hyderabad-266c2064b101)
 
-[What Is Difference Between C And Python](https://justacademyin.github.io/justacademy/what-is-difference-between-c-and-python)
+[Javascript For Beginners](https://justacademyin.github.io/justacademy/javascript-for-beginners)
 
-[Difference between JavaScript and AngularJS](https://justacademyin.github.io/justacademy/difference-between-javascript-and-angularjs)
+[DevOps Training in Delhi NCR](https://justacademyin.github.io/justacademy/devops-training-in-delhi-ncr)
 

@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="figma training">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="figma training">
   </a>
 </p>
 ## figma training
@@ -41,15 +41,15 @@ Figma Training is a comprehensive program designed to teach individuals how to e
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Asp.Net Certification](https://www.linkedin.com/pulse/aspnet-certification-justacademy-jaipur-pubnc?trackingId=Ov5erLZSFHTcXDmq1fYiSQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BIXUBIWFOQ8%2BPAHGixoaE%2FQ%3D%3D)
+[SAP Mm Training In Hyderabad](https://www.linkedin.com/pulse/sap-mm-training-hyderabad-software-training-mountain-view-w1huf/)
 
-[Java Training Institute In Btm Layout](https://www.linkedin.com/pulse/java-training-institute-btm-layout-justacademy-kolkata-ohjke?trackingId=NcAuf1JeA2Og4IvykW84jw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BZ3buGVXtSt2MpOd2OMz6cQ%3D%3D)
+[Learn Php Free](https://www.linkedin.com/pulse/learn-php-free-justacademy-beangaluru-ekqhc?trackingId=MOpUejyEYy3Iwf3TcRNEvg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bx8y7hAo2S%2Fe2HLe3couk6g%3D%3D)
 
-[Digital Marketing Course with Job Guarantee](https://medium.com/@abhidnya.1068/digital-marketing-course-with-job-guarantee-1a340c0bf8d6)
+[Java Training Institutes In Chennai](https://medium.com/@kumarishimmi99/java-training-institutes-in-chennai-5336b0dc2846)
 
-[Python Programming Institute](https://medium.com/@kumarishimmi99/python-programming-institute-5809dc4ebf5e)
+[Photoshop For Social Media Course](https://medium.com/@prempja40/photoshop-for-social-media-course-85074ba46e31)
 
-[Javascript Free Code Camp](https://justacademyin.github.io/justacademy/javascript-free-code-camp)
+[Java Html](https://justacademyin.github.io/justacademy/java-html)
 
-[Software Testing Course Syllabus](https://justacademyin.github.io/justacademy/software-testing-course-syllabus)
+[Best Adobe Illustrator Course](https://justacademyin.github.io/justacademy/best-adobe-illustrator-course)
 

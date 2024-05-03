@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="UI Design Classes">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="UI Design Classes">
   </a>
 </p>
 ## UI Design Classes
@@ -60,15 +60,15 @@ UI design classes are educational courses that cover various aspects of user int
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Asp.Net Vs C#.Net](https://www.linkedin.com/pulse/aspnet-vs-cnet-software-training-mountain-view-osxye?trackingId=eql4XjBiAePRz6R%2B2AFvog%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BmPS%2BIVBvQs6ee2jjU4LMiw%3D%3D)
+[Mern Full Stack Developer](https://www.linkedin.com/pulse/mern-full-stack-developer-justacademy-mumbai-rlskf/)
 
-[Android Development Bootcamp](https://www.linkedin.com/pulse/android-development-bootcamp-justacademy-cupertino-cfx1f/)
+[Best Way to Learn iOS Development](0)
 
-[Digital Marketing Course in Patiala](https://medium.com/@negishivu99/digital-marketing-course-in-patiala-d7e91689fb16)
+[Project Management Course Near Me](https://medium.com/@mistersumit961/project-management-course-near-me-b1b93827bd8c)
 
-[Digital Marketing Course in Jammu](https://medium.com/@akanshapatil/digital-marketing-course-in-jammu-9b67358a7777)
+[About Salesforce Course](https://medium.com/@kumarishimmi99/about-salesforce-course-1f9638b29cb3)
 
-[Top Digital Marketing Courses in India](https://justacademyin.github.io/justacademy/top-digital-marketing-courses-in-india)
+[Difference between CorelDRAW and Photoshop](https://justacademyin.github.io/justacademy/difference-between-coreldraw-and-photoshop)
 
-[Programming Language Classes Near Me](https://justacademyin.github.io/justacademy/programming-language-classes-near-me)
+[Adobe Illustrator classes online](https://justacademyin.github.io/justacademy/adobe-illustrator-classes-online)
 

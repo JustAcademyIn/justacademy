@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="UI UX Bootcamp">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="UI UX Bootcamp">
   </a>
 </p>
 ## UI UX Bootcamp
@@ -60,15 +60,15 @@ A UI/UX bootcamp is an intensive and immersive training program that focuses on 
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Angular Vs React Vs Vue](https://www.linkedin.com/pulse/angular-vs-react-vue-justacademy-chennai-ovlqc?trackingId=pLHwinEvP8Qz4K5PPBSCFA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BjPw0ei4cQfe0InHd%2FK206Q%3D%3D)
+[Introduction To Java Script](https://www.linkedin.com/pulse/introduction-java-script-justacademy-cupertino-kdczc?trackingId=jjRtUeGvRSbfHvAPczmhUw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BnS5tGyG4QnikczaDjz%2F1LQ%3D%3D)
 
-[.Net Cms](https://www.linkedin.com/pulse/net-cms-justacademy-houston-bc7wf?trackingId=brUV8aRoF7w%2BEHveqMGmCw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B5RzDF0CIQxuDMHcL3MgYhA%3D%3D)
+[Flutter Developer Course Fees](https://www.linkedin.com/pulse/flutter-developer-course-fees-justacademy-thane-7b2uc/)
 
-[Salesforce Developer Beginner](https://medium.com/@namusn/salesforce-developer-beginner-e64c376aa903)
+[Best Certification For Android Developer](https://medium.com/@justacademytraining/best-certification-for-android-developer-c710593d0aac)
 
-[Pmp Certificacion](https://medium.com/@akanshapatil/pmp-certificacion-ea47559ae485)
+[Digital Marketing Agency in Mumbai](https://medium.com/@mistersumit961/digital-marketing-agency-in-mumbai-248630f55f4e)
 
-[Best Java Training Institute In Chandigarh](https://justacademyin.github.io/justacademy/best-java-training-institute-in-chandigarh)
+[Machine Learning 101](https://justacademyin.github.io/justacademy/machine-learning-101)
 
-[Difference between C and Python with example](https://justacademyin.github.io/justacademy/difference-between-c-and-python-with-example)
+[Best Photoshop Course](https://justacademyin.github.io/justacademy/best-photoshop-course)
 

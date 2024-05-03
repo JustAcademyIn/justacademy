@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="UI UX Designer course in Bangalore">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="UI UX Designer course in Bangalore">
   </a>
 </p>
 ## UI UX Designer course in Bangalore
@@ -41,15 +41,15 @@ The UI UX Designer Course in Bangalore is a comprehensive program designed to tr
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[C Machine Learning](https://www.linkedin.com/pulse/c-machine-learning-justacademy-brisbane-wn3ge?trackingId=p9IcoP7eR73p1%2FMeSFcgNQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bvio13MbtTumTY%2Fh1upXELA%3D%3D)
+[Learn Php Wordpress](https://www.linkedin.com/pulse/learn-php-wordpress-software-training-mountain-view-0auif?trackingId=NjVoaaMH%2BaGkZpgy1lFqnQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BLLr0XlPoQRKsrZpjwzzNmQ%3D%3D)
 
-[Best React Native Course](0)
+[.Net Front End](https://www.linkedin.com/pulse/net-front-end-justacademy-bristol-p40ee?trackingId=zEb6Cz30yDXn6LdnNFFHiw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B9IEH5La1R2e7WwLGeLcpkg%3D%3D)
 
-[SAP HANA Cloud](https://medium.com/@kamblerajas684/sap-hana-cloud-20c06c2ac01f)
+[Html Complete Course](https://medium.com/@kumarishimmi99/html-complete-course-a5270337d008)
 
-[Java For Programmers](https://medium.com/@shivamja27/java-for-programmers-28ec7551bb56)
+[DevOps Course for Beginners](https://medium.com/@prempja40/devops-course-for-beginners-f0d03dd3ba54)
 
-[SAP MM Course Fees](https://justacademyin.github.io/Articles/SAP-MM-Course-Fees)
+[Software Development Certificate Programs](https://justacademyin.github.io/justacademy/software-development-certificate-programs)
 
-[Course In Html](https://justacademyin.github.io/justacademy/course-in-html)
+[Php With Mysql Essential Training](https://justacademyin.github.io/justacademy/php-with-mysql-essential-training)
 

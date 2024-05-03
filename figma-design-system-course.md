@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="Figma Design System Course">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="Figma Design System Course">
   </a>
 </p>
 ## Figma Design System Course
@@ -41,15 +41,15 @@ The Figma Design System Course is a comprehensive program that helps designers m
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Best Coaching For Flutter](https://www.linkedin.com/pulse/best-coaching-flutter-justacademy-beangaluru-6pzyc/)
+[Kotlin Vs Flutter](https://www.linkedin.com/pulse/kotlin-vs-flutter-justacademy-liverpool-2tzbf?trackingId=qPnNTxZyyLIQWZ%2B92o%2FN8Q%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B%2BRh84RwXRCKiuQa1zvWVyQ%3D%3D)
 
-[Best Java Training Institute In Navi Mumbai](https://www.linkedin.com/pulse/best-java-training-institute-navi-mumbai-justacademy-jaipur-dmd5e?trackingId=Fz1kOdjeodIpTspcukVIfg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BPHZ4e%2FC0SW%2BPbqGLUXrWbQ%3D%3D)
+[Best Core Java Training Institutes In Chennai](https://www.linkedin.com/pulse/best-core-java-training-institutes-chennai-justacademy-hyderabad-hzfjc?trackingId=hRceEWg2vIkhk0ExoTSGrw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BHOARzOn6RjSLHiGUJj0uqA%3D%3D)
 
-[Flutter And Dart Course Fees](https://medium.com/@mahi3106/flutter-and-dart-course-fees-cd4d48694095)
+[Android Tutorial Free](https://medium.com/@mahi3106/android-tutorial-free-6e13d29f1874)
 
-[Az 900 Tutorial](https://medium.com/@kumarishimmi99/az-900-tutorial-d8f1c523d6a2)
+[Learn Android App Development Step By Step](https://medium.com/@mistersumit961/learn-android-app-development-step-by-step-6088a9e9556d)
 
-[Angular vs AngularJS](https://justacademyin.github.io/justacademy/angular-vs-angularjs)
+[Top 10 Digital Marketing Institute in Mumbai](https://justacademyin.github.io/justacademy/top-10-digital-marketing-institute-in-mumbai)
 
-[Java Stack](https://justacademyin.github.io/justacademy/java-stack)
+[Advanced Digital Marketing Course](https://justacademyin.github.io/justacademy/advanced-digital-marketing-course)
 

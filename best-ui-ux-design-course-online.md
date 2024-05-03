@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="Best UI UX Design Course Online">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="Best UI UX Design Course Online">
   </a>
 </p>
 ## Best UI UX Design Course Online
@@ -41,15 +41,15 @@ The best UI/UX design course online provides a comprehensive curriculum that cov
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Best Advanced Java Training Institutes In Gurgaon](https://www.linkedin.com/pulse/best-advanced-java-training-institutes-gurgaon-justacademy-chicago-uyoif?trackingId=GjxQw5Tuqq4m%2Bs6y42qk%2Bg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BCp0x2GOYQ7yuHLQJq%2Fwubg%3D%3D)
+[Coaching Digital Marketing](https://www.linkedin.com/pulse/coaching-digital-marketing-justacademy-san-jose-ie25f?trackingId=%2BjM5PYZKXtBmBcWFUw7XCw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BmFqei9z9R2q6luNOEZ8Z4A%3D%3D)
 
-[Android Development Tutorial Kotlin](https://www.linkedin.com/pulse/android-development-tutorial-kotlin-justacademy-beangaluru-livrc/)
+[Cloud Computing Courses Melbourne](https://www.linkedin.com/pulse/cloud-computing-courses-melbourne-justacademy-mumbai-ashuc?trackingId=PWxsHQdWFSYVdB%2Fo6qNfIA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_showcase_admin%3Bd7Lyhom7ShKzEAWk1fq2Tw%3D%3D)
 
-[Digital Marketing Courses in Jammu](https://medium.com/@kumarishimmi99/digital-marketing-courses-in-jammu-8d8d56c0e7f5)
+[Is Figma Easy To Learn](https://medium.com/@mahi3106/is-figma-easy-to-learn-7572fb0f6840)
 
-[Scope Of Automation In Software Testing](https://medium.com/@surajvaishnav5015/scope-of-automation-in-software-testing-29c3703710f2)
+[python vs java vs c++](https://medium.com/@mistersumit961/python-vs-java-vs-c-b37bc6c139ac)
 
-[Cloud Computing Classes Near Me](https://justacademyin.github.io/justacademy/cloud-computing-classes-near-me)
+[Performance Testing Course](https://justacademyin.github.io/justacademy/performance-testing-course)
 
-[Software Testing Course In Chennai](https://justacademyin.github.io/justacademy/software-testing-course-in-chennai)
+[Geeksforgeeks Python Course](https://justacademyin.github.io/justacademy/geeksforgeeks-python-course)
 

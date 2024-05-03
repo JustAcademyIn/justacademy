@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="UI UX design Classes in Pune">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="UI UX design Classes in Pune">
   </a>
 </p>
 ## UI UX design Classes in Pune
@@ -41,15 +41,15 @@ In Pune, there are several institutions and academies offering UI/UX design clas
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Php And Mysql Training](https://www.linkedin.com/pulse/php-mysql-training-software-training-mountain-view-z9xff?trackingId=%2FnDURW1pTHhBy2%2Bswxq80Q%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BLLr0XlPoQRKsrZpjwzzNmQ%3D%3D)
+[Kotlin Full Stack](https://www.linkedin.com/pulse/kotlin-full-stack-justacademy-bay-area-nubmc/)
 
-[Java Source Code](https://www.linkedin.com/pulse/java-source-code-software-training-sunnyvale-rjwbe?trackingId=pTFEkwEcBjOXaFeFs%2FVtHA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BgNIctfNSRRalW%2Bl%2FNV6xXQ%3D%3D)
+[Software Testing Institutes In Bangalore](https://www.linkedin.com/pulse/software-testing-institutes-bangalore-justacademy-delhi-h7ndc/)
 
-[Python Finance Courses](https://medium.com/@abhidnya.1068/python-finance-courses-e4b6ec6534d8)
+[Oracle Database vs MySQL](https://medium.com/@AkashSingh2052/oracle-database-vs-mysql-2c81cf7f69e2)
 
-[Sap S 4hana Training](https://medium.com/@surajvaishnav5015/sap-s-4hana-training-c6117dbcd9d2)
+[Android Application Development Training](https://medium.com/@justacademytraining/android-application-development-training-ef5af7bab6e4)
 
-[Software Testing Trends](https://justacademyin.github.io/justacademy/software-testing-trends)
+[Digital Marketing Course in Shimla](https://justacademyin.github.io/justacademy/digital-marketing-course-in-shimla)
 
-[React Javascript](https://justacademyin.github.io/justacademy/react-javascript)
+[Full Stack Developer Course Near Me](https://justacademyin.github.io/justacademy/full-stack-developer-course-near-me)
 

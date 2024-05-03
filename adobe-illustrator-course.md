@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="Adobe Illustrator course">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="Adobe Illustrator course">
   </a>
 </p>
 ## Adobe Illustrator course
@@ -61,15 +61,15 @@ An Adobe Illustrator course is designed to teach individuals how to use the indu
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Best Java Online Training Institutes In Hyderabad](https://www.linkedin.com/pulse/best-java-online-training-institutes-hyderabad-justacademy-zbogc?trackingId=Xn8y%2Bv6aMDDzFK6lGyAoGA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BxUP8vDI1SK6JTwycAY2syQ%3D%3D)
+[Best Java Training Institute In Jaipur](https://www.linkedin.com/pulse/best-java-training-institute-jaipur-justacademy-san-jose-e6sxe?trackingId=hvqfC75DzGpmOoKXpNACJg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BEWeMkO%2BuSGSAlnCbMCSomw%3D%3D)
 
-[Bootcamp Android Developer](https://www.linkedin.com/pulse/bootcamp-android-developer-justacademy-cupertino-8p1pf/)
+[Machine Learning With Aws](https://www.linkedin.com/pulse/machine-learning-aws-justacademy-coventry-e04ae?trackingId=YufClbJ8%2FgbTlbsGVDwbcg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BJZ1BlOL5QLWznvJO1ReiaA%3D%3D)
 
-[node js vs angular](https://medium.com/@mahi3106/node-js-vs-angular-cd44d27e8a5e)
+[Full Stack Web Development Online Course](https://medium.com/@mahi3106/full-stack-web-development-online-course-cf2a723d4786)
 
-[Html Course For Beginners](https://medium.com/@kamblerajas684/html-course-for-beginners-d1bbc3f4dc46)
+[Abap Online Classes](https://medium.com/@roneet705/abap-online-classes-aebbf9d65d22)
 
-[What is difference between MSSQL and MySQL](https://justacademyin.github.io/justacademy/what-is-difference-between-mssql-and-mysql)
+[DevOps Course in Hyderabad](https://justacademyin.github.io/justacademy/devops-course-in-hyderabad)
 
-[React Js Language](https://justacademyin.github.io/Articles/React-Js-Language)
+[Courses For Full Stack Developer](https://justacademyin.github.io/justacademy/courses-for-full-stack-developer)
 

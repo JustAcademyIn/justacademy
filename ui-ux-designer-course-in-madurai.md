@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="UI UX Designer Course in madurai">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="UI UX Designer Course in madurai">
   </a>
 </p>
 ## UI UX Designer Course in madurai
@@ -60,15 +60,15 @@ The UI UX Designer Course in Madurai is designed to equip individuals with the k
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Sap S4 Hana Pricing](https://www.linkedin.com/pulse/sap-s4-hana-pricing-justacademy-mumbai-kuqec/)
+[Android Development Institute Near Me](https://www.linkedin.com/pulse/android-development-institute-near-me-justacademy-sunnyvale-vdqbf/)
 
-[Android Development Course Free Download](https://www.linkedin.com/pulse/android-development-course-free-download-justacademy-sunnyvale-1hryc/)
+[Full Stack Web Dev Bootcamp](https://www.linkedin.com/pulse/full-stack-web-dev-bootcamp-justacademy-beangaluru-tlnwc/)
 
-[Android Studio Free Course](https://medium.com/@negishivu99/android-studio-free-course-af4530902ded)
+[Difference Between Argument and Parameter in Python](https://medium.com/@shivamja27/difference-between-argument-and-parameter-in-python-d3bfd48c5ee1)
 
-[Pmp Fees](https://medium.com/@kamblerajas684/pmp-fees-fdcb11ccab04)
+[Figma Lessons](https://medium.com/@ranemanish460/figma-lessons-e03d7d1b63dc)
 
-[Microsoft Azure Cloud Computing Platform](https://justacademyin.github.io/justacademy/microsoft-azure-cloud-computing-platform)
+[Road Map Of Full Stack Developer](https://justacademyin.github.io/Articles/Road-Map-Of-Full-Stack-Developer)
 
-[Software Testing Courses](https://justacademyin.github.io/justacademy/software-testing-courses)
+[Digital Marketing Training in Lucknow](https://justacademyin.github.io/justacademy/digital-marketing-training-in-lucknow)
 

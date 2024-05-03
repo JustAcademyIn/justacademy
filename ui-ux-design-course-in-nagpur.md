@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="UI UX Design Course in Nagpur">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="UI UX Design Course in Nagpur">
   </a>
 </p>
 ## UI UX Design Course in Nagpur
@@ -41,15 +41,15 @@ The UI/UX Design Course in Nagpur covers the principles and practices of designi
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Php Free Code Camp](https://www.linkedin.com/pulse/php-free-code-camp-justacademy-chennai-1js8f?trackingId=QbJanz9UIXlN%2FmwjgRxHkg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BmbbduqyAR32m%2BKWos2V1hw%3D%3D)
+[Best Institute For Java Training In Delhi](https://www.linkedin.com/pulse/best-institute-java-training-delhi-justacademy-delhi-zxbxc?trackingId=KDWe%2FOcF%2FvNuN2j66pTiBA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B9Q82RDvqR3%2BMiM23X%2B3J5A%3D%3D)
 
-[Learn Javascript From Scratch](https://www.linkedin.com/pulse/learn-javascript-from-scratch-justacademy-boston-cszte?trackingId=ONNSY2%2F4eNLhnwlhx%2FGSyA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BJZkpBKQJT0CqKHGVOkLUTQ%3D%3D)
+[Asp Core Vs Asp.Net](https://www.linkedin.com/pulse/asp-core-vs-aspnet-justacademy-stockport-x3pme?trackingId=jl277kAGs6Cj17qBV0SnUw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bhrs%2FVe6MQa2w%2FxcFE4Py%2Fw%3D%3D)
 
-[Android Dev Certification](https://medium.com/@namusn/android-dev-certification-b3c25a8c7d6c)
+[Flutter Training Institute](https://medium.com/@mahi3106/flutter-training-institute-1d0ffe0b9f84)
 
-[Sap Abap Free Course](https://medium.com/@prempja40/sap-abap-free-course-5fbf9b0f2160)
+[Digital Marketing in Meerut](https://medium.com/@justacademytraining/digital-marketing-in-meerut-bb8ac02deed4)
 
-[Best Training Institute In Delhi For Java](https://justacademyin.github.io/justacademy/best-training-institute-in-delhi-for-java)
+[Adobe Illustrator course with certificate](https://justacademyin.github.io/justacademy/adobe-illustrator-course-with-certificate)
 
-[Photoshop online course with certificate](https://justacademyin.github.io/justacademy/photoshop-online-course-with-certificate)
+[Java Stack](https://justacademyin.github.io/justacademy/java-stack)
 

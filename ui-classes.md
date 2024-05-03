@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="UI Classes">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="UI Classes">
   </a>
 </p>
 ## UI Classes
@@ -41,15 +41,15 @@ UI classes, short for User Interface classes, are often used in programming to c
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Best Core Java Training Institute In Hyderabad](https://www.linkedin.com/pulse/best-core-java-training-institute-hyderabad-slaae?trackingId=o6MrETJA7UP4JS13biqUtQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Buc3eZLF6QYysxJ31cjrhRA%3D%3D)
+[Salesforce Training Classes](https://www.linkedin.com/pulse/salesforce-training-classes-justacademy-chicago-dkw0f?trackingId=MpNDkqrynnXrW0uJKiLaUQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BJKbgFmdjTiWIqbluH0xCXQ%3D%3D)
 
-[Software Training Institutes In Kochi](https://www.linkedin.com/pulse/software-training-institutes-kochi-justacademy-ahmedabad-5whdc?trackingId=okHBN5sh1xP%2BS7P2FODgGA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B3%2BtJc%2BpNTTerSF3IjNFs1w%3D%3D)
+[Machine Learning Freecodecamp](https://www.linkedin.com/pulse/machine-learning-freecodecamp-justacademy-bradford-ykvje?trackingId=DQ0lxb%2FpYNZb0KOwhrlbrA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BU6qvup%2BkTG%2BWwu84oCWCCA%3D%3D)
 
-[Alteryx Tableau](https://medium.com/@ranepooja/alteryx-tableau-6ed5180342f0)
+[Tableau Alteryx](https://medium.com/@ranepooja/tableau-alteryx-a30e4a025b41)
 
-[How Much Does A Pmp Cost](https://medium.com/@roneet705/how-much-does-a-pmp-cost-0bd094c290a9)
+[Mobile Automation Testing Training](https://medium.com/@prempja40/mobile-automation-testing-training-43e8ed3ee50a)
 
-[CodeIgniter vs laravel](https://justacademyin.github.io/justacademy/codeigniter-vs-laravel)
+[Degree in Web Development](https://justacademyin.github.io/justacademy/degree-in-web-development)
 
-[Mern Stack Course With Placement](https://justacademyin.github.io/justacademy/mern-stack-course-with-placement)
+[Advanced Java Programming Course](https://justacademyin.github.io/justacademy/advanced-java-programming-course)
 

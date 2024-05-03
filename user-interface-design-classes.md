@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="User Interface Design Classes">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="User Interface Design Classes">
   </a>
 </p>
 ## User Interface Design Classes
@@ -61,15 +61,15 @@ User interface design classes focus on teaching students how to create effective
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Best Php Training](https://www.linkedin.com/pulse/best-php-training-justacademy-pune-fd72c?trackingId=TnunCcx36OuTa6ttaqGxyA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BRZJmynVWQvykIoY%2BYzCMXQ%3D%3D)
+[React Native Course Free](0)
 
-[Full Stack Tutorialspoint](https://www.linkedin.com/pulse/full-stack-tutorialspoint-software-training-mountain-view-tr6gc/)
+[Machine Learning With Azure](https://www.linkedin.com/pulse/machine-learning-azure-justacademy-coventry-aslwe?trackingId=5PbK2lHvhFE%2BwcovXhmCVA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BJZ1BlOL5QLWznvJO1ReiaA%3D%3D)
 
-[SAP S4 HANA Training Online](https://medium.com/@surajvaishnav5015/sap-s4-hana-training-online-05c6df0875e5)
+[Python Important Concepts](https://medium.com/@negishivu99/python-important-concepts-b5ee7e37f84f)
 
-[DevOps Training in Marathahalli](https://medium.com/@namusn/devops-training-in-marathahalli-58db9a24ca6a)
+[In Person Photoshop Classes](https://medium.com/@justacademytraining/in-person-photoshop-classes-f00cd0a3b5ca)
 
-[Aws Training Tutorial](https://justacademyin.github.io/justacademy/aws-training-tutorial)
+[Difference between Lightroom and Photoshop](https://justacademyin.github.io/justacademy/difference-between-lightroom-and-photoshop)
 
-[Asp Net Vs Net](https://justacademyin.github.io/justacademy/asp-net-vs-net)
+[DIGITAL MARKETING COURSE in Noida](https://justacademyin.github.io/justacademy/digital-marketing-course-in-noida)
 

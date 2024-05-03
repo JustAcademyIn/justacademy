@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="Free UX Courses">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="Free UX Courses">
   </a>
 </p>
 ## Free UX Courses
@@ -41,15 +41,15 @@ There are numerous free UX courses available online that cover a range of topics
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Machine Learning Data Camp](https://www.linkedin.com/pulse/machine-learning-data-camp-justacademy-bristol-ngwie?trackingId=lZoGJtQVMd3rNHwFih7SyA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BuQw2P2SXTeivwplSXi08Jg%3D%3D)
+[Dj Ango](https://www.linkedin.com/pulse/dj-ango-justacademy-hyderabad-juncc?trackingId=N3cVZJ57vcW8Ef8Yoq5LHg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BIgbA%2F28BQMiUW8Q%2FkWRJzw%3D%3D)
 
-[Full Stack Java Developer Course In Hyderabad](https://www.linkedin.com/pulse/full-stack-java-developer-course-hyderabad-justacademy-coimbatore-6khxc/)
+[Android Development Course Free Download](https://www.linkedin.com/pulse/android-development-course-free-download-justacademy-sunnyvale-1hryc/)
 
-[Digital Marketing Best Institute in Delhi](https://medium.com/@mistersumit961/digital-marketing-best-institute-in-delhi-83b404e8f510)
+[Adobe Course Photoshop](https://medium.com/@surajvaishnav5015/adobe-course-photoshop-5e7785c0d70c)
 
-[UI UX DESIGNER COURSE IN MADURAI](https://medium.com/@roneet705/ui-ux-designer-course-in-madurai-419fc475fd63)
+[Photoshop Free Certification Course](https://medium.com/@AkashSingh2052/photoshop-free-certification-course-e78455f2fa9b)
 
-[Full Stack Web Developer Course](https://justacademyin.github.io/justacademy/full-stack-web-developer-course)
+[Salesforce course for beginners](https://justacademyin.github.io/justacademy/salesforce-course-for-beginners)
 
-[Fullstack Web Development](https://justacademyin.github.io/justacademy/fullstack-web-development)
+[Learn Angular from Scratch](https://justacademyin.github.io/justacademy/learn-angular-from-scratch)
 

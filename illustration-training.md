@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="Illustration Training">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="Illustration Training">
   </a>
 </p>
 ## Illustration Training
@@ -80,15 +80,15 @@ Ultimately, illustration training programs aim not only to teach technical skill
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Sap 4 Hana Course](https://www.linkedin.com/pulse/sap-4-hana-course-justacademy-sunnyvale-04kbc/)
+[Machine Learning Programs](https://www.linkedin.com/pulse/machine-learning-programs-justacademy-thane-fzk7c?trackingId=3PEjnjS1hy0p8Gi3ZXM5%2BA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B5LFFxHfxSIO4W925HATEJA%3D%3D)
 
-[Best Java Training Institutes In Hyderabad With 100 Placement](https://www.linkedin.com/pulse/best-java-training-institutes-hyderabad-100-placement-udine?trackingId=vMs9AGaib6MeAxxmAQ2sSA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BxzhODhyIS1OF3GFeJJCsZw%3D%3D)
+[Javascript Lessons](https://www.linkedin.com/pulse/javascript-lessons-justacademy-e7ndc?trackingId=uATcjNNqK0J32ECRozV58Q%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BI8wAi6m6RHmFDIiqUS2smQ%3D%3D)
 
-[Figma Vs Xd](https://medium.com/@mahi3106/figma-vs-xd-6913a6587917)
+[Flutter Free Online Course](https://medium.com/@mahi3106/flutter-free-online-course-382995149614)
 
-[Certification For Python Programming](https://medium.com/@ranepooja/certification-for-python-programming-a1f9706257e1)
+[Software Testing Course Free](https://medium.com/@namusn/software-testing-course-free-da392e1ad93a)
 
-[Best Site To Learn Html Css Javascript](https://justacademyin.github.io/justacademy/best-site-to-learn-html-css-javascript)
+[Best digital marketing institute in Calicut](https://justacademyin.github.io/justacademy/best-digital-marketing-institute-in-calicut)
 
-[Javascript With](https://justacademyin.github.io/justacademy/javascript-with)
+[Machine Learning DevOps](https://justacademyin.github.io/justacademy/machine-learning-devops)
 

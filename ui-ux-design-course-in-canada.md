@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="UI UX Design Course in canada">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="UI UX Design Course in canada">
   </a>
 </p>
 ## UI UX Design Course in canada
@@ -41,15 +41,15 @@ The UI/UX Design course in Canada focuses on teaching students the principles of
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Learning Php For Beginners](https://www.linkedin.com/pulse/learning-php-beginners-justacademy-chennai-yp2ef?trackingId=Y99B8eFU0YBuW8dsksxlPw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BmbbduqyAR32m%2BKWos2V1hw%3D%3D)
+[Object-Oriented Programming Java Course](https://www.linkedin.com/pulse/object-oriented-programming-java-course-justacademy-thane-tr01c/)
 
-[Salesforce Training Software](https://www.linkedin.com/pulse/salesforce-training-software-justacademy-beangaluru-1bdyc?trackingId=XA8NxwRMjZqWFyWIo6jIxw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bhb2UV31rSJSFfTYND6hNBw%3D%3D)
+[Best Institute For Software Testing In Pune](https://www.linkedin.com/pulse/best-institute-software-testing-pune-justacademy-san-jose-7k06f?trackingId=Rq3PelX5BuCjtNCyy7CDKg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BNvzTf3fnQO%2BVBqBGA8b0%2Bw%3D%3D)
 
-[Difference between SQL and RDBMS](https://medium.com/@justacademytraining/difference-between-sql-and-rdbms-fc5516d3d267)
+[Photoshop Paid Course](https://medium.com/@namusn/photoshop-paid-course-f4a61fb1143c)
 
-[Project Management Short Course](https://medium.com/@mahi3106/project-management-short-course-97d3500daedf)
+[Selenide vs Selenium](https://medium.com/@mistersumit961/selenide-vs-selenium-b9ac74ab6c9c)
 
-[Best Core Java Training Institutes In Ameerpet Hyderabad](https://justacademyin.github.io/justacademy/best-core-java-training-institutes-in-ameerpet-hyderabad)
+[Python Full Syllabus](https://justacademyin.github.io/justacademy/python-full-syllabus)
 
-[Angular Front End Developer](https://justacademyin.github.io/Articles/Angular-Front-End-Developer)
+[Java Developer Certificate](https://justacademyin.github.io/justacademy/java-developer-certificate)
 

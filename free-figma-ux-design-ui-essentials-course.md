@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="Free Figma UX Design UI Essentials Course">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="Free Figma UX Design UI Essentials Course">
   </a>
 </p>
 ## Free Figma UX Design UI Essentials Course
@@ -41,15 +41,15 @@ The Free Figma UX Design UI Essentials Course is a comprehensive online learning
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Digital Marketing Course Content](https://www.linkedin.com/pulse/digital-marketing-course-content-software-training-mountain-view-f7ljf?trackingId=5W30N2%2FKWIhfRfvssnhd3A%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BLLr0XlPoQRKsrZpjwzzNmQ%3D%3D)
+[Best Institute For Cloud Computing In Hyderabad](https://www.linkedin.com/pulse/best-institute-cloud-computing-hyderabad-tnjic?trackingId=71s0%2Bs8Exgr2kMJIyo5jtQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bl%2F2BBmIARsmtdD8COUq0ig%3D%3D)
 
-[React Js Course In Hyderabad](https://www.linkedin.com/pulse/react-js-course-hyderabad-justacademy-liverpool-ylatf?trackingId=OeVCtbmAbt%2Fj9XVxrOkZDw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BwUUQsYTGTZy3zMvOP%2FpbFA%3D%3D)
+[Fullstack Academy Free](https://www.linkedin.com/pulse/fullstack-academy-free-justacademy-chandigarh-vjaic/)
 
-[Full Stack Developer Online Course Free](https://medium.com/@surajvaishnav5015/full-stack-developer-online-course-free-f884bc4b43f6)
+[Hana S 4](https://medium.com/@roneet705/hana-s-4-c69456dcb46b)
 
-[Java Training Institute In Nepal](https://medium.com/@AkashSingh2052/java-training-institute-in-nepal-3e4902e554ae)
+[Asp Net and Net Difference](https://medium.com/@mistersumit961/asp-net-and-net-difference-c5d0ab432852)
 
-[Learn Php Backend](https://justacademyin.github.io/justacademy/learn-php-backend)
+[Software Testing Course Fees in Hyderabad](https://justacademyin.github.io/justacademy/software-testing-course-fees-in-hyderabad)
 
-[Cloud Computing Training Institute In Pune](https://justacademyin.github.io/justacademy/cloud-computing-training-institute-in-pune)
+[Best DevOps Course](https://justacademyin.github.io/justacademy/best-devops-course)
 

@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="UI Design Lessons">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="UI Design Lessons">
   </a>
 </p>
 ## UI Design Lessons
@@ -80,15 +80,15 @@ UI design lessons focus on understanding the principles and best practices of de
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Advance Java Institute](https://www.linkedin.com/pulse/advance-java-institute-justacademy-coimbatore-rmcse?trackingId=D8dhHVu4jTVpNb%2ByWAKRwg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BQ21fTVlsQ6eRatiOukp9mA%3D%3D)
+[Salesforce Admin Certification Training](https://www.linkedin.com/pulse/salesforce-admin-certification-training-software-training-sunnyvale-oehkc?trackingId=DxvNBUhrgl4ctozzgoR52w%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BviNdRu1RQq6I56HA85%2BzdA%3D%3D)
 
-[Js Ide Online](https://www.linkedin.com/pulse/js-ide-online-justacademy-jaipur-7dtjc?trackingId=sy8pEAyL8FsgKdRKnVFMoQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BAVJRhwTBSMSM%2FVRCHlBI2Q%3D%3D)
+[Abap On Hana Topics](https://www.linkedin.com/pulse/abap-hana-topics-justacademy-delhi-ecadc/)
 
-[VB Net Vs ASP Net](https://medium.com/@abhidnya.1068/vb-net-vs-asp-net-1931f7ff94f9)
+[aspx VS php](https://medium.com/@kumarishimmi99/aspx-vs-php-b0eec9edcfee)
 
-[Observable vs Promise in Angular](https://medium.com/@mistersumit961/observable-vs-promise-in-angular-9a63a848d130)
+[Salesforcedx](https://medium.com/@mistersumit961/salesforcedx-b27a8390ac16)
 
-[Java Full Stack Developer Course In Chennai](https://justacademyin.github.io/justacademy/java-full-stack-developer-course-in-chennai)
+[Digital Marketing Course Fees](https://justacademyin.github.io/justacademy/digital-marketing-course-fees)
 
-[Learn Android Application Development](https://justacademyin.github.io/justacademy/learn-android-application-development)
+[Microsoft Azure Pc](https://justacademyin.github.io/justacademy/microsoft-azure-pc)
 

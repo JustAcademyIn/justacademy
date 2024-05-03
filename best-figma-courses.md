@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="Best Figma courses">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="Best Figma courses">
   </a>
 </p>
 ## Best Figma courses
@@ -60,15 +60,15 @@ There are several highly recommended Figma courses available online that cater t
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Java Training And Placement Institutes In Hyderabad](https://www.linkedin.com/pulse/java-training-placement-institutes-hyderabad-justacademy-san-jose-npebe?trackingId=ENQnYmkcGJqCBpYxImhlgQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BEWeMkO%2BuSGSAlnCbMCSomw%3D%3D)
+[Best Java Training Institutes In Guntur](https://www.linkedin.com/pulse/best-java-training-institutes-guntur-justacademy-jaipur-nbeee?trackingId=n%2BKB1eujOZXxGM3VPu5Nzw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BPHZ4e%2FC0SW%2BPbqGLUXrWbQ%3D%3D)
 
-[Google Cloud Computing Foundation Course](https://www.linkedin.com/pulse/google-cloud-computing-foundation-course-justacademy-belfast-bwu4e?trackingId=Ny2dcHL%2Fd366ZxHXLuLyWg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BZ5ESut9VQxyQx%2BjF%2F1FLaA%3D%3D)
+[Java Training Institutes In Whitefield Bangalore](https://www.linkedin.com/pulse/java-training-institutes-whitefield-bangalore-justacademy-delhi-4jrne?trackingId=TdSryPt1BbxFUx28s0kAPw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B3uDtMYf2QJOigjAh01Sv1g%3D%3D)
 
-[Java Online Practice](https://medium.com/@justacademytraining/java-online-practice-0f7cc3320850)
+[Difference Between Join And Concat In Javascript](https://medium.com/@AkashSingh2052/difference-between-join-and-concat-in-javascript-9fb050880f79)
 
-[Salesforce Training Institutes in Hyderabad](https://medium.com/@kamblerajas684/salesforce-training-institutes-in-hyderabad-53b26854c898)
+[Digital Marketing Course in Kolkata](https://medium.com/@mistersumit961/digital-marketing-course-in-kolkata-9c736e5bf7f0)
 
-[Difference between SQLite and MySQL](https://justacademyin.github.io/justacademy/difference-between-sqlite-and-mysql)
+[SAP MM Consultant Course](https://justacademyin.github.io/Articles/SAP-MM-Consultant-Course)
 
-[Html Css Training Course](https://justacademyin.github.io/justacademy/html-css-training-course)
+[Cloud Computing Bootcamp](https://justacademyin.github.io/justacademy/cloud-computing-bootcamp)
 

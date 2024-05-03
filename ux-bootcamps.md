@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="UX Bootcamps">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="UX Bootcamps">
   </a>
 </p>
 ## UX Bootcamps
@@ -41,15 +41,15 @@ UX bootcamps are immersive and intensive training programs designed to equip ind
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Importance Of Software Testing](https://www.linkedin.com/pulse/importance-software-testing-justacademy-bay-area-pzyce?trackingId=r%2FlWxEurzXs5R0nbGkSMmA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BHwi3ScwdQ6uj9eEjcHUcxQ%3D%3D)
+[Sap 4 Hana Cloud](https://www.linkedin.com/pulse/sap-4-hana-cloud-justacademy-thane-cu7nc/)
 
-[Amazon Web Services Tutorial The Ultimate Beginners Guide Pdf](https://www.linkedin.com/pulse/amazon-web-services-tutorial-ultimate-beginners-l0kve?trackingId=Ezd5392E6uU2bcELt%2Fdslw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BgDkJO5giR6GYKSrzSn7zAw%3D%3D)
+[Salesforce E Learning](https://www.linkedin.com/pulse/salesforce-e-learning-justacademy-ahmedabad-ihfje?trackingId=JTfIHuEQ4aJxdsCXamoCyg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BejZbnVSUSciRC3KGqYoFiw%3D%3D)
 
-[Pmp Certification San Antonio](https://medium.com/@negishivu99/pmp-certification-san-antonio-8c660ca2f328)
+[sql vs sql server](https://medium.com/@prempja40/sql-vs-sql-server-97e05b3f2d0c)
 
-[Pmp Near Me](https://medium.com/@kumarishimmi99/pmp-near-me-6be9b6c99420)
+[Digital Marketing Courses in Borivali](https://medium.com/@ranepooja/digital-marketing-courses-in-borivali-44e17cab4054)
 
-[Python Practice Websites](https://justacademyin.github.io/justacademy/python-practice-websites)
+[Photoshop Paid Course](https://justacademyin.github.io/justacademy/photoshop-paid-course)
 
-[Azure Machine Learning Designer Tutorial](https://justacademyin.github.io/justacademy/azure-machine-learning-designer-tutorial)
+[GCP Cloud SQL Pricing](https://justacademyin.github.io/justacademy/gcp-cloud-sql-pricing)
 

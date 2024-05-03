@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="Free UX Course">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="Free UX Course">
   </a>
 </p>
 ## Free UX Course
@@ -41,15 +41,15 @@ There are numerous free UX courses available online that provide valuable insigh
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Java Training Institutes In Bangalore Near Me](https://www.linkedin.com/pulse/java-training-institutes-bangalore-near-me-justacademy-thane-wjpje?trackingId=kMu0sntxSAijo2eBPQjYhQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B8x4oZRFoSmO4CZ5ThOfedg%3D%3D)
+[Php Training Uk](https://www.linkedin.com/pulse/php-training-uk-justacademy-cupertino-zfhcc?trackingId=4giy69EvcEAkQMCA3IuaVg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BNP%2FlhOodSumKT6PSkBvdbw%3D%3D)
 
-[Java Course In Mumbai](https://www.linkedin.com/pulse/java-course-mumbai-justacademy-chandigarh-as6ee/)
+[Software Testing Courses Online](https://www.linkedin.com/pulse/software-testing-courses-online-justacademy-ahmedabad-plyye?trackingId=qRNSOs9Dc34vXIRG%2FBe9fw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BsgxkE5t4R9iHWE9515x%2Fgw%3D%3D)
 
-[Java Training Institute In Dehradun](https://medium.com/@abhidnya.1068/java-training-institute-in-dehradun-04e0216fb072)
+[Best Software Testing Institute in Chennai](https://medium.com/@roneet705/best-software-testing-institute-in-chennai-782a95a7f80f)
 
-[jquery and javascript difference](https://medium.com/@abhidnya.1068/jquery-and-javascript-difference-2833d375b9e6)
+[Photoshop Complete Course In Urdu](https://medium.com/@ranepooja/photoshop-complete-course-in-urdu-7b8093b7180b)
 
-[Html And Javascript](https://justacademyin.github.io/justacademy/html-and-javascript)
+[Best Software Testing Training Institutes In Tambaram](https://justacademyin.github.io/justacademy/best-software-testing-training-institutes-in-tambaram)
 
-[Adobe Photoshop Course With Certificate](https://justacademyin.github.io/justacademy/adobe-photoshop-course-with-certificate)
+[Sap Abap S4 Hana](https://justacademyin.github.io/justacademy/sap-abap-s4-hana)
 

@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="Best UI UX Design Software">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="Best UI UX Design Software">
   </a>
 </p>
 ## Best UI UX Design Software
@@ -41,15 +41,15 @@ The best UI/UX design software offers a combination of powerful tools and intuit
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Learn Php From Scratch](https://www.linkedin.com/pulse/learn-php-from-scratch-justacademy-houston-qy2vf?trackingId=rzb%2FDn8BfI0UqKvaD1Pw9A%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BnF3eASk8R%2BOWSu8GAkG%2FXw%3D%3D)
+[Flutter Advanced Concepts](https://www.linkedin.com/pulse/flutter-advanced-concepts-justacademy-hyderabad-zmcjc/)
 
-[Cloud Computing Syllabus](https://www.linkedin.com/pulse/cloud-computing-syllabus-justacademy-kolkata-tz6pe?trackingId=G35BLnMFnRwQNztlQRUYWA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bar0CqYRcTQWcPsZzz1T%2BLw%3D%3D)
+[Learning Salesforce Lightning Application Development](https://www.linkedin.com/pulse/learning-salesforce-lightning-application-development-jwxdc?trackingId=Vxru5gNqJNFh4H6z4jNjDw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_showcase_admin%3BJUoY9p%2BbQrqxVPWmOWmq6Q%3D%3D)
 
-[Difference Between Find And Filter Javascript](https://medium.com/@namusn/difference-between-find-and-filter-javascript-2652853cfac4)
+[Python Oop Course](https://medium.com/@shivamja27/python-oop-course-6d8279511f52)
 
-[Free Tableau Training](https://medium.com/@negishivu99/free-tableau-training-0576f3e4fc55)
+[Java Training Institute In Velachery](https://medium.com/@mahi3106/java-training-institute-in-velachery-795944aa9781)
 
-[Sap Abap S4 Hana](https://justacademyin.github.io/justacademy/sap-abap-s4-hana)
+[Digital Marketing Certification Philippines](https://justacademyin.github.io/justacademy/digital-marketing-certification-philippines)
 
-[QTP vs Selenium](https://justacademyin.github.io/justacademy/qtp-vs-selenium)
+[Html Course Full](https://justacademyin.github.io/justacademy/html-course-full)
 

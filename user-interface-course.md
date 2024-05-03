@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="User Interface Course">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="User Interface Course">
   </a>
 </p>
 ## User Interface Course
@@ -80,15 +80,15 @@ The course culminates in a capstone project where students showcase their compre
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Php Developer Course Online Free](https://www.linkedin.com/pulse/php-developer-course-online-free-software-training-sunnyvale-jfmvc?trackingId=QocKSMaDAZn%2FnMnS6qxR3w%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bps8c9B%2FKRMCWHgOgNCOx7w%3D%3D)
+[Web Development Machine Learning](https://www.linkedin.com/pulse/web-development-machine-learning-justacademy-pune-ta70c?trackingId=lUy8Uz4Gpy0QrxEDOvPAMg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BdDdMc5iZRQyVFQUn28yu5g%3D%3D)
 
-[Salesforce Flow Course](https://www.linkedin.com/pulse/salesforce-flow-course-justacademy-portland-hqdhf?trackingId=01OfVixdwKIPUWyK6eFG3w%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bis%2Ftn4MqQ4e8qp62a5t3uQ%3D%3D)
+[Sap 4 Hana Training](https://www.linkedin.com/pulse/sap-4-hana-training-justacademy-kolkata-l5jxc/)
 
-[Online Illustration Courses UK](https://medium.com/@namusn/online-illustration-courses-uk-b7a3dc79417d)
+[Photoshop Boot Camp](https://medium.com/@kumarishimmi99/photoshop-boot-camp-5f822c2cd72f)
 
-[Best Digital Marketing Institute in Delhi with Placement](https://medium.com/@negishivu99/best-digital-marketing-institute-in-delhi-with-placement-fecb78c93fcd)
+[React and Reactjs Difference](https://medium.com/@abhidnya.1068/react-and-reactjs-difference-d0e547693ec1)
 
-[Mobile App Development Course In Hyderabad](https://justacademyin.github.io/justacademy/mobile-app-development-course-in-hyderabad)
+[Javascript Topics](https://justacademyin.github.io/justacademy/javascript-topics)
 
-[Salesforce course for beginners](https://justacademyin.github.io/justacademy/salesforce-course-for-beginners)
+[Software Testing Course List](https://justacademyin.github.io/justacademy/software-testing-course-list)
 

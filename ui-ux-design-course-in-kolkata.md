@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="UI UX Design Course in Kolkata">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="UI UX Design Course in Kolkata">
   </a>
 </p>
 ## UI UX Design Course in Kolkata
@@ -41,15 +41,15 @@ The UI UX Design Course in Kolkata is a comprehensive program that equips studen
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Angular Dart Vs Flutter](https://www.linkedin.com/pulse/angular-dart-vs-flutter-justacademy-beangaluru-vtyhc?trackingId=HogaALkIMjzatq1wJCaGMg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BpD6q2VILS9qcBdXR1J94fw%3D%3D)
+[Sql Azure In Cloud Computing](https://www.linkedin.com/pulse/sql-azure-cloud-computing-justacademy-sunnyvale-8hidc?trackingId=PLILPZRui%2FwV%2BuDFrsHC4A%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3ByTizpCHaSmePt%2FuSXmEhoA%3D%3D)
 
-[Software Testing Courses For Beginner](https://www.linkedin.com/pulse/software-testing-courses-beginner-justacademy-mumbai-ntmbc?trackingId=c1SW3h37ezLL9ZK6P8DJSg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_showcase_admin%3BQONBiiZYS52%2BUVT4s6K24g%3D%3D)
+[Selenium With Java Course](https://www.linkedin.com/pulse/selenium-java-course-justacademy-coimbatore-rdhbc/)
 
-[Photoshop Training London](https://medium.com/@roneet705/photoshop-training-london-85070b0564d7)
+[BigQuery Cost](https://medium.com/@namusn/bigquery-cost-4b8fb6ad27b5)
 
-[Python Training In Noida](https://medium.com/@ranemanish460/python-training-in-noida-20958315ec32)
+[Flutter Class Advance](https://medium.com/@AkashSingh2052/flutter-class-advance-c9793bc359ee)
 
-[Important Topics In Python](https://justacademyin.github.io/justacademy/important-topics-in-python)
+[Java Javascript](https://justacademyin.github.io/justacademy/java-javascript)
 
-[Best Software Testing Institute In Trivandrum](https://justacademyin.github.io/justacademy/best-software-testing-institute-in-trivandrum)
+[Laravel VS PHP](https://justacademyin.github.io/justacademy/laravel-vs-php)
 

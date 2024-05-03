@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="Free UI Design Courses">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="Free UI Design Courses">
   </a>
 </p>
 ## Free UI Design Courses
@@ -60,15 +60,15 @@ Free UI design courses are perfect for individuals looking to learn the fundamen
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Free Illustrator Courses Online](https://www.linkedin.com/pulse/free-illustrator-courses-online-justacademy-brisbane-ajafe?trackingId=Ci7jPm9eFgeTqfzv9mF8iw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bg2rksucGRY2lUjxOm9ICQw%3D%3D)
+[Java And Selenium Training Institutions In Bangalore](https://www.linkedin.com/pulse/java-selenium-training-institutions-bangalore-justacademy-chicago-j9rbe?trackingId=M5yGIViB7tgr2WcMJ%2BRk1g%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BxzhODhyIS1OF3GFeJJCsZw%3D%3D)
 
-[Cloud Computing Topics](https://www.linkedin.com/pulse/cloud-computing-topics-justacademy-thane-5csxc?trackingId=7g9C4ccL%2BJ7qXdVTCgQT6Q%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BQUUDXGyzQlqUHLkfVC%2F2FQ%3D%3D)
+[Cloud Computing Certification Courses In Bangalore](https://www.linkedin.com/pulse/cloud-computing-certification-courses-bangalore-justacademy-mumbai-2yh7c?trackingId=gC4wmDZnfd3YzAm8OdHVhg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_showcase_admin%3Bd7Lyhom7ShKzEAWk1fq2Tw%3D%3D)
 
-[java ee VS node js](https://medium.com/@prempja40/java-ee-vs-node-js-68e6d7b48bea)
+[Top 10 Digital Marketing Institute in Chennai](https://medium.com/@kumarishimmi99/top-10-digital-marketing-institute-in-chennai-fdbe6fd98910)
 
-[Digital Marketing Courses in Mumbai](https://medium.com/@ranepooja/digital-marketing-courses-in-mumbai-349e630ab2f2)
+[Digital Marketing in Ahmedabad](https://medium.com/@shivamja27/digital-marketing-in-ahmedabad-fdd8a5513531)
 
-[UX Design Bootcamps](https://justacademyin.github.io/justacademy/ux-design-bootcamps)
+[ReactJS Certification](https://justacademyin.github.io/justacademy/reactjs-certification)
 
-[Case Study On Microsoft Azure In Cloud Computing](https://justacademyin.github.io/justacademy/case-study-on-microsoft-azure-in-cloud-computing)
+[Java Script Splice](https://justacademyin.github.io/justacademy/java-script-splice)
 

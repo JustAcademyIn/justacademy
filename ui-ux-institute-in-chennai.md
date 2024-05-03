@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="UI UX Institute In Chennai">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="UI UX Institute In Chennai">
   </a>
 </p>
 ## UI UX Institute In Chennai
@@ -41,15 +41,15 @@ There are several UI/UX institutes in Chennai that offer courses focusing on use
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Angular Full Stack Developer](https://www.linkedin.com/pulse/angular-full-stack-developer-justacademy-pune-aifgf/)
+[Best Software Testing Training Institutes In Marathahalli](https://www.linkedin.com/pulse/best-software-testing-training-institutes-chule?trackingId=j8LnQyraRiGjW5mJE273Xw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B8iJAXExGSpWzkSgodJb9Bg%3D%3D)
 
-[Full Stack Javascript Bootcamp](https://www.linkedin.com/pulse/full-stack-javascript-bootcamp-justacademy-delhi-fkopf/)
+[Best Software Testing Classes In Pune](https://www.linkedin.com/pulse/best-software-testing-classes-pune-justacademy-coimbatore-lmxye?trackingId=mAIJVW9wMgXQqcKgnP0sew%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B7mNmKz24Tx%2BfRDkV0HwLig%3D%3D)
 
-[Java Programming Crash Course](https://medium.com/@shivamja27/java-programming-crash-course-300003a82880)
+[Pmp Near Me](https://medium.com/@kumarishimmi99/pmp-near-me-6be9b6c99420)
 
-[Java Training Institute In Rohini](https://medium.com/@kamblerajas684/java-training-institute-in-rohini-5c98d0713546)
+[selenium sulfide vs ketoconazole](https://medium.com/@abhidnya.1068/selenium-sulfide-vs-ketoconazole-1ae0b03fd5cd)
 
-[Short Stack Vs Full Stack](https://justacademyin.github.io/justacademy/short-stack-vs-full-stack)
+[Top 100 manual testing interview questions](https://justacademyin.github.io/justacademy/top-100-manual-testing-interview-questions)
 
-[Best Software Testing Certification](https://justacademyin.github.io/justacademy/best-software-testing-certification)
+[Full Stack Engineer](https://justacademyin.github.io/Articles/Full-Stack-Engineer)
 

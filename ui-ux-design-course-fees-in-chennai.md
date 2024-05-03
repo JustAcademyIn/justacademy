@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="UI UX Design Course Fees in Chennai">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="UI UX Design Course Fees in Chennai">
   </a>
 </p>
 ## UI UX Design Course Fees in Chennai
@@ -41,15 +41,15 @@ In Chennai, the fees for UI/UX design courses can vary depending on the institut
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Sap 4 Hana](https://www.linkedin.com/pulse/sap-4-hana-justacademy-delhi-qy7nc/)
+[Javascript Language](https://www.linkedin.com/pulse/javascript-language-justacademy-hyderabad-xkcsc?trackingId=jJXdc1pBlPfem26I4l0JHg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BepomL552S36dZH34vwpA2w%3D%3D)
 
-[Full Stack Javascript Tutorial](https://www.linkedin.com/pulse/full-stack-javascript-tutorial-justacademy-beangaluru-ebl4c/)
+[Best Free Flutter Course](https://www.linkedin.com/pulse/best-free-flutter-course-justacademy-beangaluru-x8adc/)
 
-[Sap Sd Process Flow](https://medium.com/@ranepooja/sap-sd-process-flow-35cbf32cc9ae)
+[Sap Sd Salary](https://medium.com/@abhidnya.1068/sap-sd-salary-83d5c9c77d33)
 
-[what is difference between angular and angularjs](https://medium.com/@abhidnya.1068/what-is-difference-between-angular-and-angularjs-b4f996266cbc)
+[Adobe Photoshop Cc Essentials Training Course Download](https://medium.com/@mistersumit961/adobe-photoshop-cc-essentials-training-course-download-e54539ac025d)
 
-[Developer Javascript](https://justacademyin.github.io/justacademy/developer-javascript)
+[Figma Education](https://justacademyin.github.io/justacademy/figma-education)
 
-[Photoshop Web Design Course](https://justacademyin.github.io/justacademy/photoshop-web-design-course)
+[Selenium Training in Hyderabad](https://justacademyin.github.io/justacademy/selenium-training-in-hyderabad)
 

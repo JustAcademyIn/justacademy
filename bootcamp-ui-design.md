@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="Bootcamp UI Design">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="Bootcamp UI Design">
   </a>
 </p>
 ## Bootcamp UI Design
@@ -41,15 +41,15 @@ A bootcamp in UI design is a comprehensive program that helps individuals learn 
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Android App Development Course With Placement](https://www.linkedin.com/pulse/android-app-development-course-placement-justacademy-bay-area-wecgf/)
+[Mern Full Stack Developer](https://www.linkedin.com/pulse/mern-full-stack-developer-justacademy-mumbai-rlskf/)
 
-[Software Testing Course In Chinchwad](https://www.linkedin.com/pulse/software-testing-course-chinchwad-justacademy-bay-area-vfjfc?trackingId=hNRfn%2Fb82K%2FJNIiDmgyaZg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bs5%2FvGqECTA%2BmpH%2FwcWkKiQ%3D%3D)
+[Flutter Mobile App Tutorial](0)
 
-[Hana Abap Tutorials](https://medium.com/@AkashSingh2052/hana-abap-tutorials-10d3d346ddb0)
+[SAP S4 HANA](https://medium.com/@kamblerajas684/sap-s4-hana-97b0408ad318)
 
-[Html Coding Classes Online](https://medium.com/@prempja40/html-coding-classes-online-a78dac3bd742)
+[Digital Marketing Agency in Mumbai](https://medium.com/@mistersumit961/digital-marketing-agency-in-mumbai-248630f55f4e)
 
-[Digital Marketing course in Hyderabad with Placement](https://justacademyin.github.io/justacademy/digital-marketing-course-in-hyderabad-with-placement)
+[Cloud Computing Course With Placement](https://justacademyin.github.io/justacademy/cloud-computing-course-with-placement)
 
-[Py-3](https://justacademyin.github.io/justacademy/py-3)
+[HTML CSS Interview Questions](https://justacademyin.github.io/justacademy/html-css-interview-questions)
 

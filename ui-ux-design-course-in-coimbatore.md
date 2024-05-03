@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="UI UX Design Course in Coimbatore">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="UI UX Design Course in Coimbatore">
   </a>
 </p>
 ## UI UX Design Course in Coimbatore
@@ -60,15 +60,15 @@ The UI UX Design Course in Coimbatore offers a comprehensive training program th
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Mobile App Development Course In Hyderabad](https://www.linkedin.com/pulse/mobile-app-development-course-hyderabad-justacademy-chicago-32npf?trackingId=yXPvPAm%2BJKBqpXU9go5uBw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BbTJRO6qqRWqOeqPKnJNhBw%3D%3D)
+[Apple App Training](0)
 
-[List Of Java Training Institutes In Bangalore](https://www.linkedin.com/pulse/list-java-training-institutes-bangalore-justacademy-beangaluru-ykpre?trackingId=my5UFIBXqdfPqcqTToQP7A%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BV3sjVNqrQV6LT8YmMJxhFA%3D%3D)
+[Learn Vue Js With Laravel](https://www.linkedin.com/pulse/learn-vue-js-laravel-justacademy-bay-area-tw69c?trackingId=Kdki8anzIiRfMWI8afrxcA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BF16vFVlwTBq9N188C2SLQg%3D%3D)
 
-[ionic vs flutter](https://medium.com/@shivamja27/ionic-vs-flutter-c6f942aea78a)
+[Salesforce Vlocity Developer](https://medium.com/@prempja40/salesforce-vlocity-developer-92b5c8df2f42)
 
-[Figma Cost](https://medium.com/@surajvaishnav5015/figma-cost-3b44b332848e)
+[Alteryx Solution](https://medium.com/@namusn/alteryx-solution-0bc30eaf2d93)
 
-[Python Training Institute In Kolkata](https://justacademyin.github.io/justacademy/python-training-institute-in-kolkata)
+[Digital Marketing Course in Ahmedabad](https://justacademyin.github.io/justacademy/digital-marketing-course-in-ahmedabad)
 
-[Wordpress Introduction](https://justacademyin.github.io/justacademy/wordpress-introduction)
+[Html Computer Course](https://justacademyin.github.io/justacademy/html-computer-course)
 

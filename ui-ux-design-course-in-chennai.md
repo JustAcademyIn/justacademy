@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="UI UX Design Course in Chennai">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="UI UX Design Course in Chennai">
   </a>
 </p>
 ## UI UX Design Course in Chennai
@@ -41,15 +41,15 @@ The UI/UX Design Course in Chennai offers a comprehensive and practical learning
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Sap Abap On Hana Tutorials](https://www.linkedin.com/pulse/sap-abap-hana-tutorials-justacademy-kolkata-n6csc/)
+[Javascript Courses Online Free](https://www.linkedin.com/pulse/javascript-courses-online-free-justacademy-ahmedabad-dhqpc?trackingId=WDCJRoBPugD8Z4mRL%2BzqwQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BG0jd%2Fn72TAC0suNcPZMgHQ%3D%3D)
 
-[Java Course In Noida](https://www.linkedin.com/pulse/java-course-noida-justacademy-beangaluru-xmhqc/)
+[If Javascript](https://www.linkedin.com/pulse/javascript-justacademy-boston-cbbuc?trackingId=g6bdPtYHc3a3mBvFz7edSw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BXwxjEqEYSnilOOgoWtEIiA%3D%3D)
 
-[Best SOFTWARE Testing COURSE in Noida](https://medium.com/@AkashSingh2052/best-software-testing-course-in-noida-a490f33597f8)
+[Abap Development For Hana](https://medium.com/@negishivu99/abap-development-for-hana-83f006c9ec7c)
 
-[Learn Python In Hindi](https://medium.com/@namusn/learn-python-in-hindi-18ceab25c2dc)
+[Google Photoshop Course](https://medium.com/@namusn/google-photoshop-course-375a0f5df20f)
 
-[Python Programming Training Course](https://justacademyin.github.io/justacademy/python-programming-training-course)
+[Cloud Engineer Bootcamp](https://justacademyin.github.io/justacademy/cloud-engineer-bootcamp)
 
-[Best Free Php Course](https://justacademyin.github.io/justacademy/best-free-php-course)
+[Laravel Training Near Me](https://justacademyin.github.io/justacademy/laravel-training-near-me)
 

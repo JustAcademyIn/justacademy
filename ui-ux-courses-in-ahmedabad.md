@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="UI UX Courses in ahmedabad">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="UI UX Courses in ahmedabad">
   </a>
 </p>
 ## UI UX Courses in ahmedabad
@@ -42,15 +42,15 @@ In Ahmedabad, several institutes and learning platforms offer UI/UX courses for 
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Sap S 4 Hana Online Training](https://www.linkedin.com/pulse/sap-4-hana-online-training-justacademy-qie2c/)
+[Figma Ui Ux Design Templates](https://www.linkedin.com/pulse/figma-ui-ux-design-templates-justacademy-liverpool-67nnf?trackingId=2%2F3qC%2BEtrEEeSbjD2Ijphw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B%2BRh84RwXRCKiuQa1zvWVyQ%3D%3D)
 
-[Full Stack Java Developer Course In Pune](https://www.linkedin.com/pulse/full-stack-java-developer-course-pune-justacademy-jaipur-aztve/)
+[Kotlin Learn Online](https://www.linkedin.com/pulse/kotlin-learn-online-justacademy-thane-8zxaf/)
 
-[Digital Marketing Institute in South Delhi](https://medium.com/@negishivu99/digital-marketing-institute-in-south-delhi-54e05edb351b)
+[Python Full Syllabus](https://medium.com/@prempja40/python-full-syllabus-dd4dc41e64c9)
 
-[What is difference between C and Python](https://medium.com/@surajvaishnav5015/what-is-difference-between-c-and-python-90e0f45a0218)
+[Java For Web Development](https://medium.com/@ranepooja/java-for-web-development-fac2ede2d10f)
 
-[Fullstack Web Development](https://justacademyin.github.io/justacademy/fullstack-web-development)
+[Java Full Stack Development Tutorial](https://justacademyin.github.io/justacademy/java-full-stack-development-tutorial)
 
-[Photoshop Full Course](https://justacademyin.github.io/justacademy/photoshop-full-course)
+[Digital Marketing Course in Bhopal](https://justacademyin.github.io/justacademy/digital-marketing-course-in-bhopal)
 

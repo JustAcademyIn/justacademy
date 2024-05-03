@@ -1,8 +1,8 @@
 # UX Bootcamp
 
 <p align="center">
-  <a href="https://justacademy.co/program-detail/software-testing">
-    <img src="https://justacademy.co/storage2/program_images/1704700438.webp" alt="UX Bootcamp">
+  <a href="https://justacademy.co/all-courses">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="UX Bootcamp">
   </a>
 </p>
 ## UX Bootcamp
@@ -41,15 +41,15 @@ A UX bootcamp is an intensive, immersive training program designed to teach part
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Best Institute For Java Training In Bangalore](https://www.linkedin.com/pulse/best-institute-java-training-bangalore-justacademy-kolkata-9lqpe?trackingId=QWvxQfDMFlby9rsYQl%2FZ4g%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BZ3buGVXtSt2MpOd2OMz6cQ%3D%3D)
+[Free Salesforce Developer Training](https://www.linkedin.com/pulse/free-salesforce-developer-training-justacademy-san-jose-glpsf?trackingId=B5nU85eGQbItSFaduQH%2B5A%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BfKLFXm%2FbTECg8F%2B%2F6%2BCWqA%3D%3D)
 
-[Kotlin Vs Flutter](https://www.linkedin.com/pulse/kotlin-vs-flutter-justacademy-liverpool-2tzbf?trackingId=qPnNTxZyyLIQWZ%2B92o%2FN8Q%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B%2BRh84RwXRCKiuQa1zvWVyQ%3D%3D)
+[London Seo Training](https://www.linkedin.com/pulse/london-seo-training-justacademy-hyderabad-cmjrc?trackingId=r6KqHrgwV86hKMj4tW%2BN1A%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BIgbA%2F28BQMiUW8Q%2FkWRJzw%3D%3D)
 
-[Java Training Institutes In Ameerpet](https://medium.com/@namusn/java-training-institutes-in-ameerpet-38292650afd8)
+[GCP DevOps](https://medium.com/@ranepooja/gcp-devops-d7386da9562f)
 
-[node js VS vue js](https://medium.com/@justacademytraining/node-js-vs-vue-js-03ecccf8fb50)
+[Full Stack Development Training](https://medium.com/@mahi3106/full-stack-development-training-4d5bb297d5f1)
 
-[Photoshop Workshop Near Me](https://justacademyin.github.io/justacademy/photoshop-workshop-near-me)
+[Java Programming Free Online Course](https://justacademyin.github.io/justacademy/java-programming-free-online-course)
 
-[Best Coding Practices In Angular](https://justacademyin.github.io/justacademy/best-coding-practices-in-angular)
+[Photoshop Illustrator Indesign Course](https://justacademyin.github.io/justacademy/photoshop-illustrator-indesign-course)
 

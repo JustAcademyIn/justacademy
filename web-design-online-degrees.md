@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="Web Design Online Degrees">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="Web Design Online Degrees">
   </a>
 </p>
 ## Web Design Online Degrees
@@ -60,15 +60,15 @@ Web design online degrees provide students with the knowledge and skills needed 
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Laravel Daily Courses](https://www.linkedin.com/pulse/laravel-daily-courses-justacademy-beangaluru-sgzbc?trackingId=FkI%2B1mA8oat5R4%2F1L5p2eg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BBUakVGECTzaHeYDngAD9NQ%3D%3D)
+[Microsoft Devops Training](https://www.linkedin.com/pulse/microsoft-devops-training-justacademy-kua2e?trackingId=joBAC3FDaszQqT4r3K4LKQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BDtPVLJNkTC2k0tm5uH%2FP7w%3D%3D)
 
-[Manual Testing And Automation Testing](https://www.linkedin.com/pulse/manual-testing-automation-justacademy-las-vegas-o9eof?trackingId=%2FORUtzWbag6PgpzTJ0pR4Q%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BG4Wghg4iTSeMidZTUzwcOQ%3D%3D)
+[Asp.Net Vs .Net](https://www.linkedin.com/pulse/aspnet-vs-net-justacademy-brisbane-1zeve?trackingId=UnZ6CQl6o8SYuFwxUazPJQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B5cPDORNwQlqWF%2BECY5%2Fsgw%3D%3D)
 
-[Java For Kids](https://medium.com/@kumarishimmi99/java-for-kids-0a553b4bcdc3)
+[Salesforce Marketing Cloud Developer](https://medium.com/@roneet705/salesforce-marketing-cloud-developer-5393a8018181)
 
-[Mastering Python](https://medium.com/@mistersumit961/mastering-python-9356df688f02)
+[Adobe Illustrator 2023 Full](https://medium.com/@prempja40/adobe-illustrator-2023-full-f6c6f8cfcd19)
 
-[Digital Marketing Training in Navi Mumbai](https://justacademyin.github.io/justacademy/digital-marketing-training-in-navi-mumbai)
+[Udemy Html Course](https://justacademyin.github.io/justacademy/udemy-html-course)
 
-[Php Bootcamp Online Free](https://justacademyin.github.io/justacademy/php-bootcamp-online-free)
+[Digital Marketing Institute in Gwalior](https://justacademyin.github.io/justacademy/digital-marketing-institute-in-gwalior)
 

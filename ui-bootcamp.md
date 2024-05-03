@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="UI Bootcamp">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="UI Bootcamp">
   </a>
 </p>
 ## UI Bootcamp
@@ -41,15 +41,15 @@ A UI bootcamp is an intensive and focused training program designed to teach ind
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Software Training And Placement Institutes In Hyderabad](https://www.linkedin.com/pulse/software-training-placement-institutes-hyderabad-0dvqc?trackingId=L7VBnhGE0h66X3H%2B7SP4nA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BH6KMNh6EQhC0bc0MnOGqbQ%3D%3D)
+[Cloud Computing Courses In Mumbai](https://www.linkedin.com/pulse/cloud-computing-courses-mumbai-justacademy-coimbatore-5ovhc?trackingId=kWYkKj4kJpuiEEm0UvXiuQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B2xJLL00LStCBWjG%2FybzIxQ%3D%3D)
 
-[Sap Cloud Courses](https://www.linkedin.com/pulse/sap-cloud-courses-justacademy-pune-ztjac/)
+[Amazon Web Services Tutorial The Ultimate Beginners Guide Pdf](https://www.linkedin.com/pulse/amazon-web-services-tutorial-ultimate-beginners-l0kve?trackingId=Ezd5392E6uU2bcELt%2Fdslw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BgDkJO5giR6GYKSrzSn7zAw%3D%3D)
 
-[Fees For Software Testing Course](https://medium.com/@sagarawat89/fees-for-software-testing-course-be833423a395)
+[SAP 4 HANA Cloud](https://medium.com/@kamblerajas684/sap-4-hana-cloud-a4957d83dd08)
 
-[Learn Full Stack Web Development For Free](https://medium.com/@AkashSingh2052/learn-full-stack-web-development-for-free-8eaaee41d738)
+[Sap Abap Course Free](https://medium.com/@roneet705/sap-abap-course-free-a5c6111e8c31)
 
-[Lightroom Cc Training](https://justacademyin.github.io/justacademy/lightroom-cc-training)
+[Digital Marketing Course Offline](https://justacademyin.github.io/justacademy/digital-marketing-course-offline)
 
-[Certified Android App Developer Training Course](https://justacademyin.github.io/justacademy/certified-android-app-developer-training-course)
+[Cloud Computing Courses In Canada](https://justacademyin.github.io/justacademy/cloud-computing-courses-in-canada)
 

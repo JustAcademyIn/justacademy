@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="UI UX Designer Course in Chennai">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="UI UX Designer Course in Chennai">
   </a>
 </p>
 ## UI UX Designer Course in Chennai
@@ -60,15 +60,15 @@ A UI UX designer course in Chennai focuses on developing the necessary skills to
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Js Vs Node Js](https://www.linkedin.com/pulse/js-vs-node-justacademy-coimbatore-miyoc?trackingId=nYgOOO6hedundD5NCh1JBQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BzebO8%2FdlQdOp%2FzsKprgh%2FA%3D%3D)
+[Best Java Training Institutes In Hyderabad Dilsukhnagar](https://www.linkedin.com/pulse/best-java-training-institutes-hyderabad-dilsukhnagar-60iie?trackingId=jMiXJ20R8L4uNCd0ckrjaw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BDrK92nhdT%2BeMCX%2FTk95TlQ%3D%3D)
 
-[Salesforce Virtual Training](https://www.linkedin.com/pulse/salesforce-virtual-training-software-training-mountain-view-wnybe?trackingId=g62xcOyQzhMx8wKkqteqWg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BbQ9qZFjkRLyS67kyvPtamg%3D%3D)
+[Difference Between React And Javascript](https://www.linkedin.com/pulse/difference-between-react-javascript-justacademy-brisbane-v5mte?trackingId=cVEuIDukqBigjRgL77lIxw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bg2rksucGRY2lUjxOm9ICQw%3D%3D)
 
-[Learn Sap Abap For Free](https://medium.com/@akanshapatil/learn-sap-abap-for-free-eee35ce0ee2c)
+[Sap For Sale](https://medium.com/@akanshapatil/sap-for-sale-1a977c88e517)
 
-[devops vs data science](https://medium.com/@ranemanish460/devops-vs-data-science-e553cc461eb2)
+[Python Language Course Near Me](https://medium.com/@negishivu99/python-language-course-near-me-e4a7b99dc3d7)
 
-[Full Stack Programming Course](https://justacademyin.github.io/justacademy/full-stack-programming-course)
+[Machine Learning Framework](https://justacademyin.github.io/justacademy/machine-learning-framework)
 
-[Learn Php Wordpress](https://justacademyin.github.io/justacademy/learn-php-wordpress)
+[Training Courses For Software Testing](https://justacademyin.github.io/justacademy/training-courses-for-software-testing)
 

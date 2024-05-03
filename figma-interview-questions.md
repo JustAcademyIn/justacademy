@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="Figma INTERVIEW QUESTIONS">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="Figma INTERVIEW QUESTIONS">
   </a>
 </p>
 ## Figma INTERVIEW QUESTIONS
@@ -62,15 +62,15 @@ These points offer a comprehensive overview of potential Figma interview questio
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Best Software Testing Training Institutes In Tambaram](https://www.linkedin.com/pulse/best-software-testing-training-institutes-tambaram-xiw0f?trackingId=1akWBM%2FcP%2FjYMY4veOMnVQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BCp0x2GOYQ7yuHLQJq%2Fwubg%3D%3D)
+[Best Java Certification](https://www.linkedin.com/pulse/best-java-certification-justacademy-mumbai-p8smc/)
 
-[Android Compose Course](https://www.linkedin.com/pulse/android-compose-course-justacademy-rct1c/)
+[Advanced Php Course](https://www.linkedin.com/pulse/advanced-php-course-justacademy-chennai-ulgjf?trackingId=4gNh5vqy2PIqMtSQ7LQKyw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BmbbduqyAR32m%2BKWos2V1hw%3D%3D)
 
-[Selenium Classes in Hyderabad](https://medium.com/@mistersumit961/selenium-classes-in-hyderabad-d14d51b76ab3)
+[Android App Development Course With Certificate](https://medium.com/@justacademytraining/android-app-development-course-with-certificate-56246f95015e)
 
-[Photoshop Corel Draw Course](https://medium.com/@mahi3106/photoshop-corel-draw-course-6c18700036b0)
+[Learn Photoshop Full Course](https://medium.com/@shivamja27/learn-photoshop-full-course-7cb1309577a4)
 
-[Html Web Design Course](https://justacademyin.github.io/justacademy/html-web-design-course)
+[Best Website To Learn Html And Css](https://justacademyin.github.io/justacademy/best-website-to-learn-html-and-css)
 
-[Microsoft Azure Operating System](https://justacademyin.github.io/justacademy/microsoft-azure-operating-system)
+[Ventricular Flutter vs Fibrillation](https://justacademyin.github.io/justacademy/ventricular-flutter-vs-fibrillation)
 

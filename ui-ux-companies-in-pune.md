@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="UI UX companies in Pune">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="UI UX companies in Pune">
   </a>
 </p>
 ## UI UX companies in Pune
@@ -42,15 +42,15 @@ These companies in Pune offer diverse options for students to gain valuable trai
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Java Training Institute In Patna](https://www.linkedin.com/pulse/java-training-institute-patna-justacademy-manchester-xrhuf?trackingId=g%2BkKQH9x1ffH4yVoBOQhwA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BonfNNyQQRXKvud4lFfnrRQ%3D%3D)
+[Best Java Full Stack Developer Course](https://www.linkedin.com/pulse/best-java-full-stack-developer-course-justacademy-lvfgc?trackingId=3JFnV%2BVNcbIX1mjk2aU1cQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BKTN3ka3yQeC%2FJuvG1YVg3Q%3D%3D)
 
-[Angular Developer Skills](https://www.linkedin.com/pulse/angular-developer-skills-justacademy-coimbatore-cftrc?trackingId=0dsjV9Nep1Kj%2BuPpitIyqQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BfmlpQlw4RxKd%2FcK9A3mwCQ%3D%3D)
+[Serverless Architecture In Azure](https://www.linkedin.com/pulse/serverless-architecture-azure-justacademy-thane-2nd2c?trackingId=J4f7yXTRkfk%2BdNiQnwFv6Q%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BzlEMqIgRRsubBoA3fmTvjQ%3D%3D)
 
-[Digital Marketing Course Fee in Kerala](https://medium.com/@abhidnya.1068/digital-marketing-course-fee-in-kerala-6897b7eaac3d)
+[Best Photoshop Training](https://medium.com/@roneet705/best-photoshop-training-3313e478677c)
 
-[Tableau Training Certification](https://medium.com/@surajvaishnav5015/tableau-training-certification-049191a2309d)
+[Azure Step By Step Tutorial](https://medium.com/@ranepooja/azure-step-by-step-tutorial-7b2c4b4b4a5f)
 
-[React Native vs Kotlin](https://justacademyin.github.io/justacademy/react-native-vs-kotlin)
+[Kotlin vs React Native](https://justacademyin.github.io/justacademy/kotlin-vs-react-native)
 
-[Php Programming Course](https://justacademyin.github.io/justacademy/php-programming-course)
+[Digital Marketing in Chandigarh](https://justacademyin.github.io/justacademy/digital-marketing-in-chandigarh)
 

@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="UI Design Courses">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="UI Design Courses">
   </a>
 </p>
 ## UI Design Courses
@@ -60,15 +60,15 @@ UI design courses teach students how to create visually appealing and user-frien
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Salesforce Partner Training](https://www.linkedin.com/pulse/salesforce-partner-training-justacademy-houston-n53uf?trackingId=lq75JbRyw%2BkVzZ88blIfhA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B7JDWY034S6um4RLOpjnAgA%3D%3D)
+[Best Software Testing Institute In Gurgaon](https://www.linkedin.com/pulse/best-software-testing-institute-gurgaon-dyxye?trackingId=raa2BV5MmVnv8VQifKS9MQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Buc3eZLF6QYysxJ31cjrhRA%3D%3D)
 
-[Full Stack Web Development Roadmap](https://www.linkedin.com/pulse/full-stack-web-development-roadmap-justacademy-manchester-xrtkf?trackingId=Qa4Qgi3qoB0Ak4IZYSH1cg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BjwbjXdoOSmefqxJib%2FbqYQ%3D%3D)
+[Redis Cache Tutorial](https://www.linkedin.com/pulse/redis-cache-tutorial-justacademy-vykde?trackingId=0bdKD9hZq8lUtuKIsSDZmw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BDtPVLJNkTC2k0tm5uH%2FP7w%3D%3D)
 
-[Figma 101](https://medium.com/@mahi3106/figma-101-b24686b82a5a)
+[DevOps Classes in Bangalore](https://medium.com/@akanshapatil/devops-classes-in-bangalore-0b1fb7961e71)
 
-[Free Azure Devops Training](https://medium.com/@negishivu99/free-azure-devops-training-b0e088f33ad5)
+[Best Java Training Institutes In Guntur](https://medium.com/@kumarishimmi99/best-java-training-institutes-in-guntur-37d271dcb37b)
 
-[Best Photoshop Learning Websites](https://justacademyin.github.io/justacademy/best-photoshop-learning-websites)
+[Best Website To Learn Python](https://justacademyin.github.io/justacademy/best-website-to-learn-python)
 
-[Azure DevOps vs AWS DevOps](https://justacademyin.github.io/justacademy/azure-devops-vs-aws-devops)
+[devsecops VS devops](https://justacademyin.github.io/justacademy/devsecops-vs-devops)
 

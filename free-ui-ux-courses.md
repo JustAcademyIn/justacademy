@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="Free UI UX Courses">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="Free UI UX Courses">
   </a>
 </p>
 ## Free UI UX Courses
@@ -80,15 +80,15 @@ Smashing Magazine offers free articles and resources on design topics, including
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Seo Course Melbourne](https://www.linkedin.com/pulse/seo-course-melbourne-justacademy-birmingham-9ccgf?trackingId=EvtEU86LcoJHmG66N5sulw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B%2F1v6Q%2BY3Q3yYLraOs%2BoNCQ%3D%3D)
+[Java Developer Training Institute In Pune](https://www.linkedin.com/pulse/java-developer-training-institute-pune-justacademy-liverpool-7yh6f?trackingId=iUkNUfSMAw0zLyHAYrC9cA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BeTOZKBOtR5Sz3gxxSDhWug%3D%3D)
 
-[Node Js Syllabus](https://www.linkedin.com/pulse/node-js-syllabus-justacademy-cupertino-v1clc?trackingId=bKu%2Bx%2BKYLXCEKo3Zv41oKg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BgBhGnALRQwW8mE6l8mJTTg%3D%3D)
+[Free Java Certification](https://www.linkedin.com/pulse/free-java-certification-justacademy-beangaluru-mwl7c/)
 
-[Full Stack Developer Tutorial For Beginners](https://medium.com/@akanshapatil/full-stack-developer-tutorial-for-beginners-493bfa148187)
+[GCP Developer](https://medium.com/@mistersumit961/gcp-developer-5d8bf57aae59)
 
-[Digital Marketing Course in Mohali](https://medium.com/@prempja40/digital-marketing-course-in-mohali-30ecbb731368)
+[WordPress VS PHP](https://medium.com/@justacademytraining/wordpress-vs-php-7035173eadae)
 
-[WordPress vs PHP](https://justacademyin.github.io/justacademy/wordpress-vs-php)
+[SAP MM Courses In Pune](https://justacademyin.github.io/Articles/SAP-MM-Courses-In-Pune)
 
-[Devops And Cloud Computing Course](https://justacademyin.github.io/justacademy/devops-and-cloud-computing-course)
+[Difference Between Photoshop and Corel DRAW](https://justacademyin.github.io/justacademy/difference-between-photoshop-and-corel-draw)
 

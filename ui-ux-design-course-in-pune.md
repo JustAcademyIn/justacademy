@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="UI UX Design Course in Pune">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="UI UX Design Course in Pune">
   </a>
 </p>
 ## UI UX Design Course in Pune
@@ -41,15 +41,15 @@ The UI/UX Design Course in Pune is a comprehensive program that focuses on both 
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Pmp Certification Free Online](https://www.linkedin.com/pulse/pmp-certification-free-online-software-training-sunnyvale-0xmzc?trackingId=iaafqqyi%2FIvJwqx8AK%2BKVQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BPMbi7PJsSrOfOFf5jCv3gg%3D%3D)
+[SAP Mm Training](https://www.linkedin.com/pulse/sap-mm-training-justacademy-kolkata-elbbf/)
 
-[Seo Course Melbourne](https://www.linkedin.com/pulse/seo-course-melbourne-justacademy-birmingham-9ccgf?trackingId=EvtEU86LcoJHmG66N5sulw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B%2F1v6Q%2BY3Q3yYLraOs%2BoNCQ%3D%3D)
+[Asp.Net Core Roadmap 2023](https://www.linkedin.com/pulse/aspnet-core-roadmap-2023-justacademy-delhi-kxlrc?trackingId=SIY2%2BPE%2B1Qb6DSIvVhsruQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B9Q82RDvqR3%2BMiM23X%2B3J5A%3D%3D)
 
-[Flutter Online Coaching](https://medium.com/@mahi3106/flutter-online-coaching-fa03cc6302bf)
+[BEST DIGITAL MARKETING COURSE IN NOIDA](https://medium.com/@mahi3106/best-digital-marketing-course-in-noida-efbbc7dc40b9)
 
-[Flutter Course Period](https://medium.com/@AkashSingh2052/flutter-course-period-ac8c8c04dc2b)
+[Machine Learning Guide](https://medium.com/@kamblerajas684/machine-learning-guide-4edb132e17e1)
 
-[React Native VS React](https://justacademyin.github.io/justacademy/react-native-vs-react)
+[Java in Machine Learning](https://justacademyin.github.io/justacademy/java-in-machine-learning)
 
-[Full Stack Web Developer Course With Placement Guarantee](https://justacademyin.github.io/justacademy/full-stack-web-developer-course-with-placement-guarantee)
+[Photoshop And Illustrator Course Near Me](https://justacademyin.github.io/justacademy/photoshop-and-illustrator-course-near-me)
 

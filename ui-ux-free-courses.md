@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="UI UX Free Courses">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="UI UX Free Courses">
   </a>
 </p>
 ## UI UX Free Courses
@@ -41,15 +41,15 @@ UI UX free courses are educational resources that provide a comprehensive unders
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Aws Online Tutorial](https://www.linkedin.com/pulse/aws-online-tutorial-justacademy-ahmedabad-dcy3e?trackingId=bQuigslFUDx4mIprbCzfxw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BgDkJO5giR6GYKSrzSn7zAw%3D%3D)
+[Cloud Computing Azure Microsoft](https://www.linkedin.com/pulse/cloud-computing-azure-microsoft-justacademy-hyderabad-62b1c?trackingId=YgnN4MWF8fkPtW42tJnmQg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B21p%2FmdWOSTyqjrKANsKvxw%3D%3D)
 
-[Php Language For Beginners](https://www.linkedin.com/pulse/php-language-beginners-justacademy-chicago-l8ltf?trackingId=K3cTOm0TnBwRKg2wwy7S9w%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BbTJRO6qqRWqOeqPKnJNhBw%3D%3D)
+[Mobile App Development Course Melbourne](https://www.linkedin.com/pulse/mobile-app-development-course-melbourne-justacademy-chandigarh-ljiic?trackingId=ZXd5PEUBJ9ZjgxPHcW3vVw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BGsnT7fdrREqkLqUmImc0GQ%3D%3D)
 
-[Digital Marketing Course with Placement Guarantee](https://medium.com/@justacademytraining/digital-marketing-course-with-placement-guarantee-2e2022ebf6e3)
+[Digital Marketing Course Names](https://medium.com/@ranepooja/digital-marketing-course-names-88a1f03466ee)
 
-[Photoshop Composite Course](https://medium.com/@mistersumit961/photoshop-composite-course-f3527587d397)
+[Tableau Training Near Me](https://medium.com/@prempja40/tableau-training-near-me-ec43ac5cd35e)
 
-[Javascript React Js](https://justacademyin.github.io/justacademy/javascript-react-js)
+[Software Testing Course In Pimpri Chinchwad](https://justacademyin.github.io/justacademy/software-testing-course-in-pimpri-chinchwad)
 
-[Microsoft Azure And Cloud Computing](https://justacademyin.github.io/justacademy/microsoft-azure-and-cloud-computing)
+[Automation Testing Courses in Hyderabad](https://justacademyin.github.io/justacademy/automation-testing-courses-in-hyderabad)
 

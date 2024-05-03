@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="UX UI Degree">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="UX UI Degree">
   </a>
 </p>
 ## UX UI Degree
@@ -80,15 +80,15 @@ A UX/UI degree prepares individuals to design user-friendly digital interfaces t
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[How To Learn Mern Stack](https://www.linkedin.com/pulse/how-learn-mern-stack-justacademy-boston-d3lkc/)
+[Animation In React Js](https://www.linkedin.com/pulse/animation-react-js-justacademy-belfast-2r29e?trackingId=PmnpBhbsYLkkCuWHu9kImQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BZ5ESut9VQxyQx%2BjF%2F1FLaA%3D%3D)
 
-[Web Development Machine Learning](https://www.linkedin.com/pulse/web-development-machine-learning-justacademy-pune-ta70c?trackingId=lUy8Uz4Gpy0QrxEDOvPAMg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BdDdMc5iZRQyVFQUn28yu5g%3D%3D)
+[Mern Stack Developer Course](https://www.linkedin.com/pulse/mern-stack-developer-course-justacademy-coimbatore-sfm3c/)
 
-[Best Html Learning Sites](https://medium.com/@surajvaishnav5015/best-html-learning-sites-85072558cd6d)
+[UI UX Courses in Ahmedabad](https://medium.com/@roneet705/ui-ux-courses-in-ahmedabad-ce486e82db7d)
 
-[Introducing Python](https://medium.com/@namusn/introducing-python-4d451219e744)
+[Python Classes In Pune](https://medium.com/@namusn/python-classes-in-pune-2f8d20065cd0)
 
-[Python Course Fees In Indore](https://justacademyin.github.io/justacademy/python-course-fees-in-indore)
+[Machine Learning Guide](https://justacademyin.github.io/justacademy/machine-learning-guide)
 
-[Best Java J2ee Training Institute In Hyderabad](https://justacademyin.github.io/justacademy/best-java-j2ee-training-institute-in-hyderabad)
+[Digital Marketing Course For Small Business Owners](https://justacademyin.github.io/justacademy/digital-marketing-course-for-small-business-owners)
 

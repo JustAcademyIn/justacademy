@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="UX Boot Camp">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="UX Boot Camp">
   </a>
 </p>
 ## UX Boot Camp
@@ -41,15 +41,15 @@ A UX boot camp is an intensive training program designed to teach participants t
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Html Course](https://www.linkedin.com/pulse/html-course-justacademy-thane-jubac?trackingId=PFTLotsQ8AB6nSq550F1Ow%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bs5%2FTwm7dQuuyZG7uExGaaQ%3D%3D)
+[Best Institute For Cloud Computing](https://www.linkedin.com/pulse/best-institute-cloud-computing-software-training-sunnyvale-xx7kc?trackingId=xX2kLerZkNDtsl9MdUZFsA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bl%2F2BBmIARsmtdD8COUq0ig%3D%3D)
 
-[Machine Learning From Scratch](https://www.linkedin.com/pulse/machine-learning-from-scratch-justacademy-brisbane-hgcce?trackingId=cxATdsHHr45Li9plP6ywhQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bvio13MbtTumTY%2Fh1upXELA%3D%3D)
+[Core Java Training Institutes In Ameerpet](https://www.linkedin.com/pulse/core-java-training-institutes-ameerpet-justacademy-chandigarh-2lpae?trackingId=5%2FY7D4P%2BpigakA7a8N%2FcLA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BihWdGtFLSGiUoHftbcLC7g%3D%3D)
 
-[Java Training Institute In Trivandrum](https://medium.com/@namusn/java-training-institute-in-trivandrum-e59046b536c9)
+[Best Digital Marketing Course in Jalandhar](https://medium.com/@akanshapatil/best-digital-marketing-course-in-jalandhar-075d2deb965c)
 
-[Full Stack Bootcamp Online](https://medium.com/@mahi3106/full-stack-bootcamp-online-db9c8ce77272)
+[Kotlin Course For Beginners](https://medium.com/@ranepooja/kotlin-course-for-beginners-e00b8b27a46d)
 
-[Top digital marketing courses in Bangalore](https://justacademyin.github.io/justacademy/top-digital-marketing-courses-in-bangalore)
+[Learn Javascript For Web Development](https://justacademyin.github.io/justacademy/learn-javascript-for-web-development)
 
-[Digital Marketing Training Jaipur](https://justacademyin.github.io/justacademy/digital-marketing-training-jaipur)
+[Python Benefits Over Java](https://justacademyin.github.io/justacademy/python-benefits-over-java)
 

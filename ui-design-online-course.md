@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="UI Design Online Course">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="UI Design Online Course">
   </a>
 </p>
 ## UI Design Online Course
@@ -41,15 +41,15 @@ A UI design online course is a comprehensive program that teaches students how t
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Seo Courses Uk](https://www.linkedin.com/pulse/seo-courses-uk-justacademy-beangaluru-shlac?trackingId=cIIzOlrhqTlITkh2PDIA1w%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BV%2FJdwEmZTiK5hNIeM20IVA%3D%3D)
+[Salesforce Learning Course](https://www.linkedin.com/pulse/salesforce-learning-course-justacademy-ahmedabad-kkdqe?trackingId=L93Z%2BY8TtPGX84LxT87NgQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BejZbnVSUSciRC3KGqYoFiw%3D%3D)
 
-[Advanced Php Training](https://www.linkedin.com/pulse/advanced-php-training-justacademy-delhi-wkhgc?trackingId=SPCNwP%2FgCvS%2FKEvN8zUr7w%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B3uDtMYf2QJOigjAh01Sv1g%3D%3D)
+[How To Use Jav Codes](https://www.linkedin.com/pulse/how-use-jav-codes-justacademy-mumbai-oeolc/)
 
-[Stanford Python Course](https://medium.com/@shivamja27/stanford-python-course-565603c62127)
+[vue vs react](https://medium.com/@AkashSingh2052/vue-vs-react-064df106e31a)
 
-[Advanced Flutter Interview Questions](https://medium.com/@AkashSingh2052/advanced-flutter-interview-questions-a338e6c0f8e8)
+[Top 10 Software Testing Institute in Pune](https://medium.com/@roneet705/top-10-software-testing-institute-in-pune-d75eb586229e)
 
-[Digital Marketing in Chandigarh](https://justacademyin.github.io/justacademy/digital-marketing-in-chandigarh)
+[Best Salesforce Online Training](https://justacademyin.github.io/justacademy/best-salesforce-online-training)
 
-[Digital Marketing Corporate Training](https://justacademyin.github.io/Articles/Digital-Marketing-Corporate-Training)
+[Aws Web Hosting Tutorial](https://justacademyin.github.io/justacademy/aws-web-hosting-tutorial)
 

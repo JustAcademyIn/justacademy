@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="Online PHOTOSHOP Classes">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="Online PHOTOSHOP Classes">
   </a>
 </p>
 ## Online PHOTOSHOP Classes
@@ -41,15 +41,15 @@ Online Photoshop classes provide individuals with the opportunity to learn and e
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Java Training Institute Bangalore](https://www.linkedin.com/pulse/java-training-institute-bangalore-justacademy-bay-area-wruye?trackingId=GYvcmWGcZqer0dRmnfOorg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BHcd7BaCMQFaWbBih5QcMnA%3D%3D)
+[Java Training Institute In Marathahalli](https://www.linkedin.com/pulse/java-training-institute-marathahalli-justacademy-chandigarh-1ka5e?trackingId=whOqpN9hghNQDHdjtM49DA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BihWdGtFLSGiUoHftbcLC7g%3D%3D)
 
-[Dot Net Course Fees](https://www.linkedin.com/pulse/dot-net-course-fees-justacademy-boston-orjkc?trackingId=bjrmoecjh0hoyLu771Egjw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BA1nZ1nP9T4epQeiwVmNY3A%3D%3D)
+[Java Training Institute](https://www.linkedin.com/pulse/java-training-institute-software-training-sunnyvale-3z3me?trackingId=yaI%2B89ShqgolqsD5F3GFiQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BPMbi7PJsSrOfOFf5jCv3gg%3D%3D)
 
-[AngularJS Online Training](https://medium.com/@AkashSingh2052/angularjs-online-training-c3ca5f73d80c)
+[Adobe Photoshop Workshop](https://medium.com/@negishivu99/adobe-photoshop-workshop-23eb4ab1b727)
 
-[Best Free Online Course For Android App Developmen](https://medium.com/@mahi3106/best-free-online-course-for-android-app-developmen-76e4c7729288)
+[Best Digital Marketing Institute in Hyderabad](https://medium.com/@namusn/best-digital-marketing-institute-in-hyderabad-a43a5685ee80)
 
-[Best Way To Learn Js](https://justacademyin.github.io/justacademy/best-way-to-learn-js)
+[Difference Between C and Java and Python](https://justacademyin.github.io/justacademy/difference-between-c-and-java-and-python)
 
-[Difference between method and function in JavaScript](https://justacademyin.github.io/justacademy/difference-between-method-and-function-in-javascript)
+[Bootcamp Machine Learning](https://justacademyin.github.io/justacademy/bootcamp-machine-learning)
 

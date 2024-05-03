@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="UI UX Design course in Chandigarh">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="UI UX Design course in Chandigarh">
   </a>
 </p>
 ## UI UX Design course in Chandigarh
@@ -41,15 +41,15 @@ The UI UX Design Course in Chandigarh focuses on teaching students the principle
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Java Training Institute In Noida](https://www.linkedin.com/pulse/java-training-institute-noida-justacademy-sunnyvale-r0uke?trackingId=ciRIr9dOGe5yFQXGvIziJg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B84%2Br3TF5Sai5zePv40hxgg%3D%3D)
+[Felight Java & Testing Training Institute](https://www.linkedin.com/pulse/felight-java-testing-training-institute-justacademy-boston-mpq3e?trackingId=D4%2Fb7xsXrIxohNzs%2Bp5XhQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3ByHVlcoLQTcuBfUU9SYITnA%3D%3D)
 
-[SAP Mm Course](https://www.linkedin.com/pulse/sap-mm-course-justacademy-beangaluru-qxjaf/)
+[Azure Serverless Computing](https://www.linkedin.com/pulse/azure-serverless-computing-justacademy-bay-area-nnojc?trackingId=5A3M0M9j%2BTgwRBtonstz7g%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BrsnEP2CeSl%2BKYnaEx50m1g%3D%3D)
 
-[Python Course Fees In Hyderabad](https://medium.com/@ranemanish460/python-course-fees-in-hyderabad-44f598fca9d1)
+[Android Basic Course](https://medium.com/@akanshapatil/android-basic-course-23a3610ffd77)
 
-[Java Training Institutes In Chandigarh](https://medium.com/@shivamja27/java-training-institutes-in-chandigarh-c39486ea6359)
+[UI UX Design Course in Canada](https://medium.com/@justacademytraining/ui-ux-design-course-in-canada-239ebcce9b39)
 
-[Javascript Topics](https://justacademyin.github.io/justacademy/javascript-topics)
+[Best Institute for Digital Marketing Course](https://justacademyin.github.io/justacademy/best-institute-for-digital-marketing-course)
 
-[Difference between C and Python with example](https://justacademyin.github.io/justacademy/difference-between-c-and-python-with-example)
+[Django vs Express](https://justacademyin.github.io/justacademy/django-vs-express)
 

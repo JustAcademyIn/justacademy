@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="Difference between CorelDRAW and Photoshop">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="Difference between CorelDRAW and Photoshop">
   </a>
 </p>
 ## Difference between CorelDRAW and Photoshop
@@ -62,15 +62,15 @@ Photoshop is a raster-based graphic design software that is used for editing and
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Flutter Basics Tutorial](https://www.linkedin.com/pulse/flutter-basics-tutorial-justacademy-pune-mz4ic?trackingId=NvS4KvKCfcu2sKeNyFd0Yw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BkSdz4uVbRn2Dzpfhctvkdw%3D%3D)
+[Software Testing Course In Coimbatore With Placement](https://www.linkedin.com/pulse/software-testing-course-coimbatore-placement-justacademy-kolkata-iejac?trackingId=WsKkddzQb5dCLbVppw9F%2Fg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BiAa60KZ1TYi9BxLlFQwGgg%3D%3D)
 
-[Best Software Testing Course In Online](https://www.linkedin.com/pulse/best-software-testing-course-online-software-training-mountain-view-e7nge?trackingId=xJ6Ai%2FPG5MYCoKfPVyG0cA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Buc3eZLF6QYysxJ31cjrhRA%3D%3D)
+[Ascent Software Training Institute Java](https://www.linkedin.com/pulse/ascent-software-training-institute-java-software-training-sunnyvale-5cyjc?trackingId=IZB%2FdmD0Pplr3OfK1UhGDA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BPMbi7PJsSrOfOFf5jCv3gg%3D%3D)
 
-[DevOps vs data engineer](https://medium.com/@kamblerajas684/devops-vs-data-engineer-9dd336d21b57)
+[Best Way To Learn Salesforce](https://medium.com/@mahi3106/best-way-to-learn-salesforce-95d789e023c8)
 
-[Difference Between Python and C Programming](https://medium.com/@ranepooja/difference-between-python-and-c-programming-e65dc417a84d)
+[Learn Sap Abap Online](https://medium.com/@mistersumit961/learn-sap-abap-online-2daa3077beb3)
 
-[PYTHON AND C DIFFERENCE](https://justacademyin.github.io/justacademy/python-and-c-difference)
+[Full Stack Wordpress Developer](https://justacademyin.github.io/justacademy/full-stack-wordpress-developer)
 
-[Full Stack Developer Tutorial For Beginners](https://justacademyin.github.io/justacademy/full-stack-developer-tutorial-for-beginners)
+[Digital Marketing Institute in Laxmi Nagar](https://justacademyin.github.io/justacademy/digital-marketing-institute-in-laxmi-nagar)
 

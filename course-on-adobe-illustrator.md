@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="Course on Adobe Illustrator">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="Course on Adobe Illustrator">
   </a>
 </p>
 ## Course on Adobe Illustrator
@@ -41,15 +41,15 @@ The course on Adobe Illustrator is designed to equip individuals with the essent
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Mm SAP Course](https://www.linkedin.com/pulse/mm-sap-course-software-training-sunnyvale-go0pf/)
+[Full Stack Development With Mern](https://www.linkedin.com/pulse/full-stack-development-mern-justacademy-ahmedabad-aclff/)
 
-[How Angular Works](https://www.linkedin.com/pulse/how-angular-works-justacademy-canberra-la1pe?trackingId=J1CWOgVC%2FnAWTp1UhKCbLw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B7%2Ffp9SMgRFS7eU%2BK9qPCHw%3D%3D)
+[Java Training Institute In Velachery](https://www.linkedin.com/pulse/java-training-institute-velachery-justacademy-kolkata-bn7ze?trackingId=wO3PxZZO9uyFW0Fo%2BUna4w%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BZ3buGVXtSt2MpOd2OMz6cQ%3D%3D)
 
-[Adobe Photoshop Cc Basic Photoshop Training](https://medium.com/@ranepooja/adobe-photoshop-cc-basic-photoshop-training-a271ffc0a256)
+[How To Learn Figma](https://medium.com/@ranepooja/how-to-learn-figma-fdcc5e486681)
 
-[Best Java Training Institutes In Hyderabad Dilsukhnagar](https://medium.com/@mahi3106/best-java-training-institutes-in-hyderabad-dilsukhnagar-f18b739b5bb4)
+[Illustrator Courses Online](https://medium.com/@namusn/illustrator-courses-online-91ae03b405b6)
 
-[Php And Laravel Course](https://justacademyin.github.io/justacademy/php-and-laravel-course)
+[DevOps training and placement in Bangalore](https://justacademyin.github.io/justacademy/devops-training-and-placement-in-bangalore)
 
-[Difference between SQLite and MySQL](https://justacademyin.github.io/justacademy/difference-between-sqlite-and-mysql)
+[Free Full Stack Bootcamp](https://justacademyin.github.io/justacademy/free-full-stack-bootcamp)
 

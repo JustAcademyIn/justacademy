@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="UI UX Best Course">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="UI UX Best Course">
   </a>
 </p>
 ## UI UX Best Course
@@ -41,15 +41,15 @@ UI/UX design plays a crucial role in shaping user experiences, and a good course
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Pmp Course Duration In India](https://www.linkedin.com/pulse/pmp-course-duration-india-software-training-sunnyvale-en06c?trackingId=bONIlkWPgTvPozrXuNI1Xg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BzThijShxRS6J0WzPkYT7Lg%3D%3D)
+[Great Learning Cloud Computing](https://www.linkedin.com/pulse/great-learning-cloud-computing-justacademy-thane-pnjwc?trackingId=5bDEbJoX4TGpqpu5newjAg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BrywBFcmPR%2Fa2AS7mF8zFDQ%3D%3D)
 
-[Learn Android Studio Free](https://www.linkedin.com/pulse/learn-android-studio-free-justacademy-delhi-3gfzf/)
+[Software Testing Course In Chandigarh](https://www.linkedin.com/pulse/software-testing-course-chandigarh-justacademy-pune-guhhc?trackingId=sOXjler7vdK3pb7dVLKUJA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BlnT71xOrSKqY%2FaAG0BEpww%3D%3D)
 
-[Best Java Full Stack Developer Course](https://medium.com/@prempja40/best-java-full-stack-developer-course-48f53c6b1c4f)
+[Digital Marketing Course in Malappuram](https://medium.com/@namusn/digital-marketing-course-in-malappuram-7927aa19bd0f)
 
-[Software Testing Course in Ahmedabad](https://medium.com/@prempja40/software-testing-course-in-ahmedabad-00dec9cf20d3)
+[Digital Marketing Classes in Thane](https://medium.com/@shivamja27/digital-marketing-classes-in-thane-cc27a1b1b371)
 
-[Adobe Photoshop Training London](https://justacademyin.github.io/justacademy/adobe-photoshop-training-london)
+[Java Training Institute In India](https://justacademyin.github.io/justacademy/java-training-institute-in-india)
 
-[Difference Between Photoshop and Corel DRAW](https://justacademyin.github.io/justacademy/difference-between-photoshop-and-corel-draw)
+[digital marketing MADURAI](https://justacademyin.github.io/justacademy/digital-marketing-madurai)
 

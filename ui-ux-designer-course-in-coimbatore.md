@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="UI UX Designer Course in Coimbatore">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="UI UX Designer Course in Coimbatore">
   </a>
 </p>
 ## UI UX Designer Course in Coimbatore
@@ -41,15 +41,15 @@ The UI UX Designer course in Coimbatore provides comprehensive training in user 
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Testing In Programming](https://www.linkedin.com/pulse/testing-programming-justacademy-belfast-obhme?trackingId=cCD3%2F%2BwOrJQwJpImPgwIGg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BFA4F38QVSYi3Nnx%2BGyQhoA%3D%3D)
+[Hana Abap Tutorials](https://www.linkedin.com/pulse/hana-abap-tutorials-justacademy-delhi-m1i1c/)
 
-[Online Software Testing Courses](https://www.linkedin.com/pulse/online-software-testing-courses-justacademy-ahmedabad-d5lze?trackingId=ZSuDlsSTOOH3C5ftnvp2TQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BBLvwE5WSQ1yNRcYM20AJ%2Fw%3D%3D)
+[Azure Cloud Computing Platform](https://www.linkedin.com/pulse/azure-cloud-networking-justacademy-delhi-yxltc?trackingId=8S7QwWHkLra%2BILoLTrDzqA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bk8IJzSQ1SgaTocSNLknCMQ%3D%3D)
 
-[GCP Certification Cost in India](https://medium.com/@AkashSingh2052/gcp-certification-cost-in-india-61df19e161ac)
+[SAP HANA Cloud](https://medium.com/@kamblerajas684/sap-hana-cloud-20c06c2ac01f)
 
-[UI UX Designer Course in Delhi](https://medium.com/@mahi3106/ui-ux-designer-course-in-delhi-e26191189747)
+[Sql And Tableau Courses](https://medium.com/@prempja40/sql-and-tableau-courses-285f9b4e629b)
 
-[Best Software Testing Adavanced Courses](https://justacademyin.github.io/justacademy/best-software-testing-adavanced-courses)
+[Pmp Certification Cost In Bangalore](https://justacademyin.github.io/justacademy/pmp-certification-cost-in-bangalore)
 
-[Basic Html Training](https://justacademyin.github.io/justacademy/basic-html-training)
+[Difference between Python and Other Languages](https://justacademyin.github.io/justacademy/difference-between-python-and-other-languages)
 

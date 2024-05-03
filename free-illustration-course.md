@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="Free illustration course">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="Free illustration course">
   </a>
 </p>
 ## Free illustration course
@@ -41,15 +41,15 @@ The Free Illustration Course is a comprehensive online program designed to help 
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Best Institute For Software Testing Course In Delhi](https://www.linkedin.com/pulse/best-institute-software-testing-course-delhi-justacademy-thane-0zqtc?trackingId=zsMsjABjhPrkcVM1eOT4hQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B8x4oZRFoSmO4CZ5ThOfedg%3D%3D)
+[Top Software Testing Training Institute](https://www.linkedin.com/pulse/top-software-testing-training-institute-justacademy-boston-jadqc?trackingId=ePfYRsK4WW4q2tqYx9NA%2FQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BA1nZ1nP9T4epQeiwVmNY3A%3D%3D)
 
-[Sap Hana Course](https://www.linkedin.com/pulse/sap-hana-course-justacademy-ahmedabad-498pc/)
+[React Basic Concepts](https://www.linkedin.com/pulse/react-basic-concepts-justacademy-jaipur-gdbxc?trackingId=o7oX87OWkyyCWf%2FwrAXnXw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BIXUBIWFOQ8%2BPAHGixoaE%2FQ%3D%3D)
 
-[DevOps and AWS Training in Bangalore](https://medium.com/@negishivu99/devops-and-aws-training-in-bangalore-2946756d67f7)
+[Digital Marketing Institute in Hyderabad](https://medium.com/@surajvaishnav5015/digital-marketing-institute-in-hyderabad-48c3cfbe15bf)
 
-[Best Project Management Courses](https://medium.com/@mahi3106/best-project-management-courses-93d80ae32fde)
+[Py-3](https://medium.com/@roneet705/py-3-50bba60054b8)
 
-[Full Stack Developer Tutorial For Beginners](https://justacademyin.github.io/justacademy/full-stack-developer-tutorial-for-beginners)
+[Difference between JS and Python](https://justacademyin.github.io/justacademy/difference-between-js-and-python)
 
-[Free Php Classes Online](https://justacademyin.github.io/justacademy/free-php-classes-online)
+[Digital Marketing Course in Agra](https://justacademyin.github.io/justacademy/digital-marketing-course-in-agra)
 

@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="UI UX Design Courses in Hyderabad">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="UI UX Design Courses in Hyderabad">
   </a>
 </p>
 ## UI UX Design Courses in Hyderabad
@@ -41,15 +41,15 @@ UI UX design courses in Hyderabad offer comprehensive training on user interface
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Google Cloud Computing Foundation Course](https://www.linkedin.com/pulse/google-cloud-computing-foundation-course-justacademy-belfast-bwu4e?trackingId=Ny2dcHL%2Fd366ZxHXLuLyWg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BZ5ESut9VQxyQx%2BjF%2F1FLaA%3D%3D)
+[Cloud Computing Courses Syllabus](https://www.linkedin.com/pulse/cloud-computing-courses-syllabus-justacademy-coimbatore-y5cdc?trackingId=qA93LlbZe7ND3gEzrxerTg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B2xJLL00LStCBWjG%2FybzIxQ%3D%3D)
 
-[Flutter Course With Placement](https://www.linkedin.com/pulse/flutter-course-placement-justacademy-mumbai-a4hyc/)
+[SAP Mm Course In Hyderabad](https://www.linkedin.com/pulse/sap-mm-course-hyderabad-justacademy-hyderabad-s3xwf/)
 
-[Android Course Kotlin](https://medium.com/@shivamja27/android-course-kotlin-61fdaea18b62)
+[Learn Sap Sd](https://medium.com/@ranemanish460/learn-sap-sd-f5d6af68f648)
 
-[C C++ Java Python](https://medium.com/@ranemanish460/c-c-java-python-131aadb02be2)
+[selenium and qtp difference](https://medium.com/@ranepooja/selenium-and-qtp-difference-8ce4a867c5d2)
 
-[Azure Clouding](https://justacademyin.github.io/justacademy/azure-clouding)
+[Html Course Near Me](https://justacademyin.github.io/justacademy/html-course-near-me)
 
-[Figma Training Courses](https://justacademyin.github.io/justacademy/figma-training-courses)
+[Digital Marketing Course in Delhi with Placement](https://justacademyin.github.io/justacademy/digital-marketing-course-in-delhi-with-placement)
 

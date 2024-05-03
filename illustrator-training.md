@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="Illustrator training">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="Illustrator training">
   </a>
 </p>
 ## Illustrator training
@@ -41,15 +41,15 @@ Illustrator training is a structured program designed to teach individuals how t
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Best Android Developer Course](https://www.linkedin.com/pulse/best-android-developer-course-software-training-sunnyvale-ewjxc/)
+[Java Course In Coimbatore](https://www.linkedin.com/pulse/java-course-coimbatore-justacademy-jaipur-ccnle/)
 
-[Free Android App Development Course With Certifica](https://www.linkedin.com/pulse/free-android-app-development-course-certifica-justacademy-kolkata-d43uc/)
+[Android Mobile App Development Course](https://www.linkedin.com/pulse/android-mobile-app-development-course-justacademy-beangaluru-hzzac/)
 
-[Html 5 Full Course](https://medium.com/@kumarishimmi99/html-5-full-course-e9c970e91758)
+[Py-3](https://medium.com/@roneet705/py-3-50bba60054b8)
 
-[Python First](https://medium.com/@ranepooja/python-first-0b7d458ee710)
+[Free Illustrator Courses](https://medium.com/@ranepooja/free-illustrator-courses-ad6ad832ef2d)
 
-[SAP MM Course](https://justacademyin.github.io/Articles/SAP-MM-Course)
+[Best Software Training Institute In Chennai](https://justacademyin.github.io/justacademy/best-software-training-institute-in-chennai)
 
-[Different Types of Framework in Selenium](https://justacademyin.github.io/justacademy/different-types-of-framework-in-selenium)
+[Html Course Udemy](https://justacademyin.github.io/Articles/Html-Course-Udemy)
 

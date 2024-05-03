@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="UI Design Bootcamp">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="UI Design Bootcamp">
   </a>
 </p>
 ## UI Design Bootcamp
@@ -41,15 +41,15 @@ A UI design bootcamp is an intensive and immersive training program that helps b
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Test Certificate Software](https://www.linkedin.com/pulse/test-certificate-software-justacademy-austin-iq9ef?trackingId=pAdN0nHt0IQ9BW5RuXy4mQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B1S56YMP3SFiKzh85NFJhiw%3D%3D)
+[Digital Marketing Certification Philippines](https://www.linkedin.com/pulse/digital-marketing-certification-philippines-justacademy-chennai-ymwlf?trackingId=h1rcSigI%2Fw5QkU4%2FfSWYWQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BmbbduqyAR32m%2BKWos2V1hw%3D%3D)
 
-[Digital Marketing Institute](https://www.linkedin.com/pulse/digital-marketing-institute-justacademy-sunnyvale-n8bvc?trackingId=o1prXKY0dsSLS%2FmvbvpFYg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BUjFoUpg3TaeqGUVsU2Vh7w%3D%3D)
+[Certificate Php Developer](https://www.linkedin.com/pulse/certificate-php-developer-justacademy-vwiuc?trackingId=z%2FZ8Qv2zCYNcrKx26Tr3wA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BWbxQ1A18RaaLg4c2WwaK8w%3D%3D)
 
-[mlops VS devops](https://medium.com/@akanshapatil/mlops-vs-devops-29462cf33d77)
+[Python Language Certification](https://medium.com/@justacademytraining/python-language-certification-c11caa4187b7)
 
-[Difference Between Js And Python](https://medium.com/@ranepooja/difference-between-js-and-python-9b83abd5a8d9)
+[Machine Learning in Supply Chain](https://medium.com/@kumarishimmi99/machine-learning-in-supply-chain-e75f1c0266ec)
 
-[Python Training In Delhi](https://justacademyin.github.io/justacademy/python-training-in-delhi)
+[Php Developer Course Online Free](https://justacademyin.github.io/justacademy/php-developer-course-online-free)
 
-[UX and UI design software](https://justacademyin.github.io/justacademy/ux-and-ui-design-software)
+[SAP MM Courses In Pune](https://justacademyin.github.io/Articles/SAP-MM-Courses-In-Pune)
 

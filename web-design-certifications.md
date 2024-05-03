@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="Web Design Certifications">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="Web Design Certifications">
   </a>
 </p>
 ## Web Design Certifications
@@ -41,15 +41,15 @@ Web design certifications are credentials that demonstrate a person's skills and
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Digital Marketing Birmingham](https://www.linkedin.com/pulse/digital-marketing-birmingham-justacademy-boston-e3twe?trackingId=JJQV9zRhqRStUC2A2EABxQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BJZkpBKQJT0CqKHGVOkLUTQ%3D%3D)
+[Best Java Training Institute In Ahmedabad](https://www.linkedin.com/pulse/best-java-training-institute-ahmedabad-justacademy-delhi-tnurc?trackingId=QoE0bzGZf9EfnbgtotR5bg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B3uDtMYf2QJOigjAh01Sv1g%3D%3D)
 
-[C C++ And Java Training Institute In Paschim Vihar](https://www.linkedin.com/pulse/c-java-training-institute-paschim-vihar-justacademy-mumbai-a3zhe?trackingId=i1Idm%2FkwMv%2BAmkVtPLzWqg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_showcase_admin%3B4hzOhjOyRsS4BMzXWRzbRw%3D%3D)
+[Mern Bootcamp](https://www.linkedin.com/pulse/mern-bootcamp-justacademy-chandigarh-0v1re?trackingId=VouaWxJ2UyyDB7UuWEjVfQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BWufQlDx4QTmF2D0sEhqzSw%3D%3D)
 
-[Sales Process In Sap Sd](https://medium.com/@ranemanish460/sales-process-in-sap-sd-ef0f4d990b73)
+[ionic vs flutter](https://medium.com/@shivamja27/ionic-vs-flutter-c6f942aea78a)
 
-[Java Training Institute In Vijayawada](https://medium.com/@AkashSingh2052/java-training-institute-in-vijayawada-d37b48acb6e3)
+[Design Digital Marketing](https://medium.com/@ranepooja/design-digital-marketing-c39c0800b23b)
 
-[Photoshop 2022 Course](https://justacademyin.github.io/justacademy/photoshop-2022-course)
+[Best Institute For SAP MM](https://justacademyin.github.io/Articles/Best-Institute-For-SAP-MM)
 
-[Software Testing Course Fees In Mumbai](https://justacademyin.github.io/justacademy/software-testing-course-fees-in-mumbai)
+[Mooc Java](https://justacademyin.github.io/justacademy/mooc-java)
 

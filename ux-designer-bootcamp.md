@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="UX Designer Bootcamp">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="UX Designer Bootcamp">
   </a>
 </p>
 ## UX Designer Bootcamp
@@ -60,15 +60,15 @@ A UX designer bootcamp is an intensive and immersive training program that equip
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Android Development Course Free Download](https://www.linkedin.com/pulse/android-development-course-free-download-justacademy-sunnyvale-1hryc/)
+[Software Testing Course In Trichy](https://www.linkedin.com/pulse/software-testing-course-trichy-justacademy-cupertino-nr6ic?trackingId=BQBbMLozaKC0jxyZIo9z%2FQ%3D%3D&lipi=urn%3Ali%3Apage%3Aorganization_admin_admin_feed_index%3Babd448d8-1be1-4398-bb48-8047ae43b925)
 
-[Flutter Online Coaching](https://www.linkedin.com/pulse/flutter-online-coaching-justacademy-hyderabad-dtnlc/)
+[SAP Mm Training](https://www.linkedin.com/pulse/sap-mm-training-justacademy-kolkata-elbbf/)
 
-[Top Full Stack Developer Course](https://medium.com/@akanshapatil/top-full-stack-developer-course-336f16e5a372)
+[Python Training In Bangalore](https://medium.com/@sagarawat89/python-training-in-bangalore-05f667360229)
 
-[drupal vs wordpress](https://medium.com/@surajvaishnav5015/drupal-vs-wordpress-3c06afc0d20c)
+[Microsoft Azure Devops Training Courses](https://medium.com/@ranepooja/microsoft-azure-devops-training-courses-f49999a4a061)
 
-[Digital MARKETING Institute in CALICUT](https://justacademyin.github.io/justacademy/digital-marketing-institute-in-calicut)
+[Advanced Python Course](https://justacademyin.github.io/justacademy/advanced-python-course)
 
-[Difference between Python and C Language](https://justacademyin.github.io/justacademy/difference-between-python-and-c-language)
+[Azure Cloud Computing Platform](https://justacademyin.github.io/justacademy/azure-cloud-computing-platform)
 

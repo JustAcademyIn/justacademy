@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="Web Design Certificates">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="Web Design Certificates">
   </a>
 </p>
 ## Web Design Certificates
@@ -41,15 +41,15 @@ Web design certificates are credentials that validate an individual's skills and
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Android Application Development Training](https://www.linkedin.com/pulse/android-application-development-training-justacademy-sunnyvale-5mwbf/)
+[Dot Net Backend](https://www.linkedin.com/pulse/dot-net-backend-justacademy-coventry-mnhbe?trackingId=PL4bM1Cxwz81Z7l7XtCryg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BvasO6SUGTP2oKUhUaDM59w%3D%3D)
 
-[Free Android App Development Course With Certifica](https://www.linkedin.com/pulse/free-android-app-development-course-certifica-justacademy-kolkata-d43uc/)
+[Advance Java Training Institute In Delhi](https://www.linkedin.com/pulse/advance-java-training-institute-delhi-justacademy-delhi-yxqzc?trackingId=2efNP6yjz3xbMtqp7NpyIA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B9Q82RDvqR3%2BMiM23X%2B3J5A%3D%3D)
 
-[Figma Training Courses](https://medium.com/@AkashSingh2052/figma-training-courses-fd5abed9556b)
+[Python Course In Dehradun](https://medium.com/@mistersumit961/python-course-in-dehradun-1207c4769a10)
 
-[Kotlin Beginner Course](https://medium.com/@ranepooja/kotlin-beginner-course-d27ff9ff7edc)
+[Top 10 Digital Marketing Institute in Chennai](https://medium.com/@kumarishimmi99/top-10-digital-marketing-institute-in-chennai-fdbe6fd98910)
 
-[Classes For Photoshop Near Me](https://justacademyin.github.io/justacademy/classes-for-photoshop-near-me)
+[Digital Marketing Classes in Mumbai](https://justacademyin.github.io/justacademy/digital-marketing-classes-in-mumbai)
 
-[Java Developer Course Duration](https://justacademyin.github.io/justacademy/java-developer-course-duration)
+[Advance Java Full Course](https://justacademyin.github.io/justacademy/advance-java-full-course)
 

@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="UI UX Courses in Pune">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="UI UX Courses in Pune">
   </a>
 </p>
 ## UI UX Courses in Pune
@@ -32,15 +32,15 @@ In Pune, there are various UI UX courses offered by reputable institutes and tra
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[React Js Learning](https://www.linkedin.com/pulse/react-js-learning-justacademy-berlin-y38je?trackingId=Bf4eDBUvLO095qOJ9IF6xg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bc6fFeBAPTsmTPnAO4CV7Tw%3D%3D)
+[Online Digital Marketing Courses Uk](https://www.linkedin.com/pulse/online-digital-marketing-courses-uk-justacademy-birmingham-9ewuf?trackingId=U1e%2BRXRvoE5t5fHKOjA%2FXQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B%2F1v6Q%2BY3Q3yYLraOs%2BoNCQ%3D%3D)
 
-[Best Training Institute For Java In Kolkata](https://www.linkedin.com/pulse/best-training-institute-java-kolkata-justacademy-manchester-onmjf?trackingId=SpcriL0RFKDgyREq9LfrhQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BonfNNyQQRXKvud4lFfnrRQ%3D%3D)
+[Machine Learning With C++](https://www.linkedin.com/pulse/machine-learning-c-justacademy-stockport-rblde?trackingId=ttKVd2Zrh6MwwGMtQ11Vug%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bjjks6g4uSqSiY706oaUeMg%3D%3D)
 
-[Best Project Management Certifications](https://medium.com/@negishivu99/best-project-management-certifications-81b1b6e4cab6)
+[Hana Certification For Abap](https://medium.com/@AkashSingh2052/hana-certification-for-abap-7ab0adf68373)
 
-[Semantic Html Course](https://medium.com/@namusn/semantic-html-course-1caedef86e5b)
+[java vs python difference](https://medium.com/@abhidnya.1068/java-vs-python-difference-ee51c34e618f)
 
-[Full Stack Developer React](https://justacademyin.github.io/justacademy/full-stack-developer-react)
+[Best Software Testing Classes In Pune](https://justacademyin.github.io/justacademy/best-software-testing-classes-in-pune)
 
-[Java Developer Certificate](https://justacademyin.github.io/justacademy/java-developer-certificate)
+[Digital Marketing Institute in Noida](https://justacademyin.github.io/justacademy/digital-marketing-institute-in-noida)
 

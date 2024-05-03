@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="UI UX Design Course Fees in Pune">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="UI UX Design Course Fees in Pune">
   </a>
 </p>
 ## UI UX Design Course Fees in Pune
@@ -41,15 +41,15 @@ UI UX design courses in Pune typically range in fees from INR 20,000 to INR 1,50
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Class Database Php](https://www.linkedin.com/pulse/class-database-php-software-training-mountain-view-5zsre?trackingId=dj4ZarP7AjrYYIHEc91SMA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Buc3eZLF6QYysxJ31cjrhRA%3D%3D)
+[What Is Asp Net In Hindi](https://www.linkedin.com/pulse/what-asp-net-hindi-justacademy-pune-cspdc?trackingId=S7oqokuwMgllFigxGXF%2BgA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B29WLpZO4T7eqWsLqmXNgZw%3D%3D)
 
-[Php Essential Training](https://www.linkedin.com/pulse/php-essential-training-justacademy-chicago-7vtof?trackingId=CugI3kfc1fwNsY8w96Jm6w%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BbTJRO6qqRWqOeqPKnJNhBw%3D%3D)
+[Best Salesforce Admin Training](https://www.linkedin.com/pulse/best-salesforce-admin-training-justacademy-chicago-rzvnf?trackingId=X3Am8gkjMrGdhFeQAL9d6A%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BJKbgFmdjTiWIqbluH0xCXQ%3D%3D)
 
-[Java J2ee Training Institutes In Chennai](https://medium.com/@namusn/java-j2ee-training-institutes-in-chennai-68baab4afbd9)
+[Core Java Topics](https://medium.com/@namusn/core-java-topics-4841337c1f66)
 
-[Sap Cloud Training](https://medium.com/@ranemanish460/sap-cloud-training-0b51ea751be8)
+[Java Training Institutes In Bangalore Electronic City](https://medium.com/@mahi3106/java-training-institutes-in-bangalore-electronic-city-649cdbb89234)
 
-[What Is The Difference Between Sql Server And Mysql](https://justacademyin.github.io/justacademy/what-is-the-difference-between-sql-server-and-mysql)
+[Digital Marketing Institute in Navi Mumbai](https://justacademyin.github.io/justacademy/digital-marketing-institute-in-navi-mumbai)
 
-[Difference between NET and ASP NET](https://justacademyin.github.io/justacademy/difference-between-net-and-asp-net)
+[Machine Learning Tutor](https://justacademyin.github.io/justacademy/machine-learning-tutor)
 

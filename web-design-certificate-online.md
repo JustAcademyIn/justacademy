@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="Web Design Certificate Online">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="Web Design Certificate Online">
   </a>
 </p>
 ## Web Design Certificate Online
@@ -60,15 +60,15 @@ A web design certificate online program is a structured curriculum that provides
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Online Laravel Course](https://www.linkedin.com/pulse/online-laravel-course-justacademy-kolkata-9lzke?trackingId=cvTY4gDsF0wMKuD%2BzbSowA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BhsQsLwqxSU64UKgNHl%2FHuA%3D%3D)
+[Advance Java Full Courses](https://www.linkedin.com/pulse/advance-java-full-courses-justacademy-berlin-wwzlc?trackingId=kAsnHggC%2BKBl%2BBUHODNGIA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B9LRf%2B9vgRJ%2BRyqfmHudhjA%3D%3D)
 
-[Sap S4 Hana Abap Training](https://www.linkedin.com/pulse/sap-s4-hana-abap-training-justacademy-bay-area-wg0jc/)
+[Java Full Course](https://www.linkedin.com/pulse/java-full-course-justacademy-c9oxc/)
 
-[sql time difference](https://medium.com/@prempja40/sql-time-difference-944129d648fa)
+[Free Illustrator Courses](https://medium.com/@ranepooja/free-illustrator-courses-ad6ad832ef2d)
 
-[Tableau Training Certification](https://medium.com/@surajvaishnav5015/tableau-training-certification-049191a2309d)
+[Adobe Photoshop Cc Essentials Training Course Download](https://medium.com/@mistersumit961/adobe-photoshop-cc-essentials-training-course-download-e54539ac025d)
 
-[Learn Javascript For Web Development](https://justacademyin.github.io/justacademy/learn-javascript-for-web-development)
+[Online Software Testing Course In India](https://justacademyin.github.io/justacademy/online-software-testing-course-in-india)
 
-[Software Testing Life Cycle](https://justacademyin.github.io/justacademy/software-testing-life-cycle)
+[Java Developer Course In Pune](https://justacademyin.github.io/justacademy/java-developer-course-in-pune)
 

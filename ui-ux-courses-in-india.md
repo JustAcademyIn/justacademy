@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="UI UX Courses in India">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="UI UX Courses in India">
   </a>
 </p>
 ## UI UX Courses in India
@@ -41,15 +41,15 @@ UI UX courses in India are designed to equip students with the skills and knowle
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Full Stack Developer Certification Online](https://www.linkedin.com/pulse/full-stack-developer-certification-online-justacademy-ahmedabad-42gac/)
+[Mern Stack Developer Skills](https://www.linkedin.com/pulse/mern-stack-developer-skills-justacademy-berlin-vox2c/)
 
-[Salesforce Training In Jaipur](https://www.linkedin.com/pulse/salesforce-training-jaipur-justacademy-london-0pygf?trackingId=LG4oGIZoKYz74DdN5rFAAg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BktV9tJs7QaWTumhj4BQ9XQ%3D%3D)
+[Is Asp.Net Worth Learning 2023](https://www.linkedin.com/pulse/aspnet-worth-learning-2023-justacademy-coventry-zmrle?trackingId=tOut443yReWEnxv5%2FpicOw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BvasO6SUGTP2oKUhUaDM59w%3D%3D)
 
-[Html Css Training](https://medium.com/@kumarishimmi99/html-css-training-ce4c66d292c1)
+[GCP Developer](https://medium.com/@mistersumit961/gcp-developer-5d8bf57aae59)
 
-[React Classes](https://medium.com/@ranemanish460/react-classes-6886b40f7b46)
+[Adobe Photoshop Complete Course](https://medium.com/@kumarishimmi99/adobe-photoshop-complete-course-7d4b1d428525)
 
-[Cython vs Python](https://justacademyin.github.io/justacademy/cython-vs-python)
+[Learn Photoshop Classes](https://justacademyin.github.io/justacademy/learn-photoshop-classes)
 
-[Selenium Javascript](https://justacademyin.github.io/justacademy/selenium-javascript)
+[Develop Ios Apps On Windows](https://justacademyin.github.io/justacademy/develop-ios-apps-on-windows)
 

@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="Best Course for UI UX Design">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="Best Course for UI UX Design">
   </a>
 </p>
 ## Best Course for UI UX Design
@@ -80,15 +80,15 @@ MIT OpenCourseWare offers free online courses in design and development, includi
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Java Training Institute In Ambattur](https://www.linkedin.com/pulse/java-training-institute-ambattur-justacademy-manchester-u40if?trackingId=I9PzJKWmuDD5Pc7Q8TVGzA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BjwbjXdoOSmefqxJib%2FbqYQ%3D%3D)
+[Machine Learning Fundamentals](https://www.linkedin.com/pulse/machine-learning-fundamentals-justacademy-manchester-xhrnf?trackingId=JT2dmMzIB5G7LGhygF330g%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BRPj7cFFBTbicPRo%2F8FQZQw%3D%3D)
 
-[React Js India](https://www.linkedin.com/pulse/react-js-india-justacademy-cupertino-2qvkc?trackingId=qWU8RxBdhK4l4INyjTT1gw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BgBhGnALRQwW8mE6l8mJTTg%3D%3D)
+[Aws Web App Tutorial](https://www.linkedin.com/pulse/aws-web-app-tutorial-software-training-mountain-view-b2a0e?trackingId=g743AyeYamF9CmkLf%2FgCvw%3D%3D&lipi=urn%3Ali%3Apage%3Aorganization_admin_admin_feed_index%3B396a4c81-0a90-47a5-ad5c-c37fd268bc2b)
 
-[Pmp Certification Cost In Usa](https://medium.com/@abhidnya.1068/pmp-certification-cost-in-usa-a566a6bee238)
+[Manual Testing Course Hyderabad](https://medium.com/@abhidnya.1068/manual-testing-course-hyderabad-833dcd35b384)
 
-[Html Javascript & Bootstrap Certification Course](https://medium.com/@mahi3106/html-javascript-bootstrap-certification-course-37340714f7a7)
+[Android Studio Training](https://medium.com/@shivamja27/android-studio-training-6254963f357a)
 
-[Software Testing Course Online Free](https://justacademyin.github.io/justacademy/software-testing-course-online-free)
+[Digital Marketing Corporate Training](https://justacademyin.github.io/Articles/Digital-Marketing-Corporate-Training)
 
-[Java Developer Course In Pune](https://justacademyin.github.io/justacademy/java-developer-course-in-pune)
+[Photoshop Cs Course](https://justacademyin.github.io/justacademy/photoshop-cs-course)
 

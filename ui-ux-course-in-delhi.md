@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="UI UX course in Delhi">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="UI UX course in Delhi">
   </a>
 </p>
 ## UI UX course in Delhi
@@ -41,15 +41,15 @@ The UI UX Course in Delhi provides comprehensive training in User Interface (UI)
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Best Software Testing Training Institute In Chennai](https://www.linkedin.com/pulse/best-software-testing-training-institute-chennai-csj8e?trackingId=GUQYXBgJQzOVxAOp9W46Yg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bk9oA%2BVOQTPioabiM45wXSA%3D%3D)
+[Java J2ee Training Institutes In Ameerpet](https://www.linkedin.com/pulse/java-j2ee-training-institutes-ameerpet-justacademy-san-jose-l6b3e?trackingId=NVBFsXoIY9VxETzZxnIn%2Bw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BEWeMkO%2BuSGSAlnCbMCSomw%3D%3D)
 
-[Sap Fico Hana Course](0)
+[Best Java Training Institutes In Vizag](https://www.linkedin.com/pulse/best-java-training-institutes-vizag-justacademy-mumbai-l6pce?trackingId=X9B4POt2wVG4I5TEvT7%2F0A%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_showcase_admin%3B4hzOhjOyRsS4BMzXWRzbRw%3D%3D)
 
-[Java Training Institute In Kolkata](https://medium.com/@AkashSingh2052/java-training-institute-in-kolkata-b4da567ba076)
+[Top Digital Marketing Courses in Bangalore](https://medium.com/@justacademytraining/top-digital-marketing-courses-in-bangalore-4f99b0e27044)
 
-[Machine Learning Certifications](https://medium.com/@kamblerajas684/machine-learning-certifications-2b6e2bed0191)
+[Sap Certification Abap On Hana](https://medium.com/@ranepooja/sap-certification-abap-on-hana-632bb1b64ae3)
 
-[Flutter Install](https://justacademyin.github.io/Articles/Flutter-Install)
+[Mainframe To Azure](https://justacademyin.github.io/justacademy/mainframe-to-azure)
 
-[React Stack](https://justacademyin.github.io/Articles/React-Stack)
+[PHP vs JS](https://justacademyin.github.io/justacademy/php-vs-js)
 

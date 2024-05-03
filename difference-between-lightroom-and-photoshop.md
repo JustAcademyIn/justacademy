@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="Difference between Lightroom and Photoshop">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="Difference between Lightroom and Photoshop">
   </a>
 </p>
 ## Difference between Lightroom and Photoshop
@@ -50,15 +50,15 @@ Overall, understanding the differences between Lightroom and Photoshop can help 
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Master Javascript](https://www.linkedin.com/pulse/master-javascript-justacademy-delhi-4xz6c?trackingId=fY6fDRgbLEisPDPTggMUHA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BXd%2B4Zk9XQtOyhr1jBDUlIA%3D%3D)
+[Software Testing Best Practices](https://www.linkedin.com/pulse/software-testing-best-practices-justacademy-coimbatore-qksie?trackingId=vxnYqhhHkgri%2BtKe%2BoEggQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B7mNmKz24Tx%2BfRDkV0HwLig%3D%3D)
 
-[Java Training Institute In Tambaram](https://www.linkedin.com/pulse/java-training-institute-tambaram-justacademy-las-vegas-8hakf?trackingId=sw0lI4Bu7LjCLR%2FsCosMjg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BSRVvZqxTRJ2BK3zMbr9wpQ%3D%3D)
+[Best Software Testing Traning Institute In Noida](https://www.linkedin.com/pulse/best-software-testing-traning-institute-noida-justacademy-kolkata-rjque?trackingId=lWrDIVtlijOr7vPzNae%2ByA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BZ3buGVXtSt2MpOd2OMz6cQ%3D%3D)
 
-[cucumber vs selenium](https://medium.com/@prempja40/cucumber-vs-selenium-abe5ebd1978b)
+[Azure DevOps Training](https://medium.com/@ranemanish460/azure-devops-training-5bd1e8a0f28f)
 
-[BEST DIGITAL MARKETING COURSE IN NOIDA](https://medium.com/@mahi3106/best-digital-marketing-course-in-noida-efbbc7dc40b9)
+[Illustration Courses Online](https://medium.com/@abhidnya.1068/illustration-courses-online-aeaa7fff367c)
 
-[Julia vs PYTHON](https://justacademyin.github.io/justacademy/julia-vs-python)
+[Prerequisite For Software Testing Course](https://justacademyin.github.io/justacademy/prerequisite-for-software-testing-course)
 
-[Javascript Concepts](https://justacademyin.github.io/justacademy/javascript-concepts)
+[Microsoft Cloud Applications](https://justacademyin.github.io/justacademy/microsoft-cloud-applications)
 

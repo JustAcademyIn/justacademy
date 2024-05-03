@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="Free UI UX Design Course">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="Free UI UX Design Course">
   </a>
 </p>
 ## Free UI UX Design Course
@@ -60,15 +60,15 @@ Sure! A free UI/UX design course is a learning program that provides comprehensi
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Java Training Institute Pune](https://www.linkedin.com/pulse/java-training-institute-pune-justacademy-jaipur-dlffe?trackingId=VF7Zg01EZxkZbTY6de33ig%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BPHZ4e%2FC0SW%2BPbqGLUXrWbQ%3D%3D)
+[Cloud Computing Azure Microsoft](https://www.linkedin.com/pulse/cloud-computing-azure-microsoft-justacademy-hyderabad-62b1c?trackingId=YgnN4MWF8fkPtW42tJnmQg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B21p%2FmdWOSTyqjrKANsKvxw%3D%3D)
 
-[Cloud Computing Courses Fees](https://www.linkedin.com/pulse/cloud-computing-courses-fees-justacademy-jaipur-09tuc?trackingId=BqKP0BDQXjXquQ7j41GKiw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B%2Bj%2BWkU3wSKSQ1R70zcYAcw%3D%3D)
+[Java Training Institute In Anna Nagar](https://www.linkedin.com/pulse/java-training-institute-anna-nagar-justacademy-mumbai-b4s7e?trackingId=w60FO8754x8kN0upNp2PZg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_showcase_admin%3B4hzOhjOyRsS4BMzXWRzbRw%3D%3D)
 
-[Adobe Photoshop Certification Training](https://medium.com/@shivamja27/adobe-photoshop-certification-training-40ce0c61e278)
+[Photoshop Training Classes](https://medium.com/@akanshapatil/photoshop-training-classes-631806547bdc)
 
-[Html Training For Beginners](https://medium.com/@negishivu99/html-training-for-beginners-b55d92e42add)
+[Learn SAP S4 HANA](https://medium.com/@negishivu99/learn-sap-s4-hana-33ebcde10b04)
 
-[Java Script Course](https://justacademyin.github.io/justacademy/java-script-course)
+[SAP MM Training In Chennai](https://justacademyin.github.io/Articles/SAP-MM-Training-In-Chennai)
 
-[Full Photoshop Course](https://justacademyin.github.io/justacademy/full-photoshop-course)
+[Digital Marketing in Ranchi](https://justacademyin.github.io/justacademy/digital-marketing-in-ranchi)
 

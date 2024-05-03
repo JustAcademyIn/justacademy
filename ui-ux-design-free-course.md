@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="UI UX design FREE course">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="UI UX design FREE course">
   </a>
 </p>
 ## UI UX design FREE course
@@ -41,15 +41,15 @@ A UI/UX Design Free Course covers the fundamentals of user interface (UI) and us
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Java Html](https://www.linkedin.com/pulse/java-html-justacademy-bjbpc/)
+[Javascript On Line](https://www.linkedin.com/pulse/javascript-line-justacademy-cupertino-jr6pc?trackingId=o1r7HoUuxJmP6P%2BC55Q6bA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BnS5tGyG4QnikczaDjz%2F1LQ%3D%3D)
 
-[Net Developer Certification](https://www.linkedin.com/pulse/net-developer-certification-justacademy-leicester-2m9ae?trackingId=rJ%2FgkuVPucd3Pf1wb8WOcA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BPIc21Xd3RP6vIx4zw3ky%2FQ%3D%3D)
+[Meta Android Developer Certificate](https://www.linkedin.com/pulse/meta-android-developer-certificate-justacademy-m7v5f/)
 
-[Pmp Training And Certification Cost](https://medium.com/@roneet705/pmp-training-and-certification-cost-c7ffda435405)
+[Android Coding Course](https://medium.com/@kumarishimmi99/android-coding-course-e02016ed03a5)
 
-[Python For Data Science And Machine Learning Bootcamp Course](https://medium.com/@shivamja27/python-for-data-science-and-machine-learning-bootcamp-course-15f6ae344864)
+[Html Css Training Online](https://medium.com/@AkashSingh2052/html-css-training-online-e8e85efbf545)
 
-[Software Testing Course In Bangalore With 100 Placement](https://justacademyin.github.io/justacademy/software-testing-course-in-bangalore-with-100-placement)
+[digital marketing MADURAI](https://justacademyin.github.io/justacademy/digital-marketing-madurai)
 
-[Online Advertising Courses](https://justacademyin.github.io/justacademy/online-advertising-courses)
+[Learn Javascript Step By Step](https://justacademyin.github.io/Articles/Learn-Javascript-Step-By-Step)
 

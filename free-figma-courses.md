@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="Free Figma courses">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="Free Figma courses">
   </a>
 </p>
 ## Free Figma courses
@@ -41,15 +41,15 @@ There are a variety of free Figma courses available online, offering beginner-fr
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Modern Javascript Tutorial](https://www.linkedin.com/pulse/modern-javascript-tutorial-justacademy-sunnyvale-ruzgc?trackingId=LayAgwhP%2BNWdGQhj3gckfg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BUjFoUpg3TaeqGUVsU2Vh7w%3D%3D)
+[Full Stack Java Developer Course Free](https://www.linkedin.com/pulse/full-stack-java-developer-course-free-justacademy-coimbatore-zkkac/)
 
-[Seo Training In Denver](https://www.linkedin.com/pulse/seo-training-denver-justacademy-sunnyvale-lqpcc?trackingId=Bu0MCyBFrENuGDOjPdxN9A%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bw3FaZuhqQImafpQ55o%2FftQ%3D%3D)
+[Advanced Machine Learning](https://www.linkedin.com/pulse/advanced-machine-learning-justacademy-bristol-iqjie?trackingId=%2B4dfWBUPE3rfX6XXiDj6%2Bw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BuQw2P2SXTeivwplSXi08Jg%3D%3D)
 
-[Salesforce course online](https://medium.com/@justacademytraining/salesforce-course-online-3bbc38bb9ac6)
+[Training For Project Management](https://medium.com/@mahi3106/training-for-project-management-fa2b7566d458)
 
-[Flutter Tutorial Beginner To Advanced](https://medium.com/@AkashSingh2052/flutter-tutorial-beginner-to-advanced-f8879c1e4bc9)
+[Scope Of Software Testing](https://medium.com/@surajvaishnav5015/scope-of-software-testing-cfb5ab297d8b)
 
-[Free Adobe Photoshop Classes](https://justacademyin.github.io/justacademy/free-adobe-photoshop-classes)
+[Online Figma](https://justacademyin.github.io/justacademy/online-figma)
 
-[Java Course In Coimbatore](https://justacademyin.github.io/justacademy/java-course-in-coimbatore)
+[Python Training Institute In Kolkata](https://justacademyin.github.io/justacademy/python-training-institute-in-kolkata)
 

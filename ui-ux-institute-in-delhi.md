@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="UI UX Institute in Delhi">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="UI UX Institute in Delhi">
   </a>
 </p>
 ## UI UX Institute in Delhi
@@ -41,15 +41,15 @@ The UI UX Institute in Delhi is a premier institution focused on providing compr
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Full Stack Developer Certification Online](https://www.linkedin.com/pulse/full-stack-developer-certification-online-justacademy-ahmedabad-42gac/)
+[Figma Learning](https://www.linkedin.com/pulse/figma-learning-justacademy-chicago-noeif?trackingId=ef%2Bg%2BPEoiGfWKP9Rrdlvbw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BPE%2BT5WipQcKTfk6GVPUI1w%3D%3D)
 
-[Advanced Php Course](https://www.linkedin.com/pulse/advanced-php-course-justacademy-chennai-ulgjf?trackingId=4gNh5vqy2PIqMtSQ7LQKyw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BmbbduqyAR32m%2BKWos2V1hw%3D%3D)
+[Learn Azure Machine Learning](https://www.linkedin.com/pulse/learn-azure-machine-learning-justacademy-belfast-f8fbe?trackingId=3yz6scfIYbtyPwvJrraF8A%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BOulg0aX4Sr2isWcwcbyj2w%3D%3D)
 
-[Best Illustrators 2023](https://medium.com/@mahi3106/best-illustrators-2023-b79cf2f4c3f7)
+[Java Training Institute In Jaipur Mansarovar](https://medium.com/@namusn/java-training-institute-in-jaipur-mansarovar-c5e4f1276b92)
 
-[Photoshop Online Course with Certificate](https://medium.com/@akanshapatil/photoshop-online-course-with-certificate-48a5acdcf70c)
+[Selenium Training in Tambaram](https://medium.com/@mahi3106/selenium-training-in-tambaram-f68c62af129e)
 
-[Scope Of Software Testing](https://justacademyin.github.io/justacademy/scope-of-software-testing)
+[Software Testing Classes in Mumbai](https://justacademyin.github.io/justacademy/software-testing-classes-in-mumbai)
 
-[Adobe Photoshop Cc Training](https://justacademyin.github.io/justacademy/adobe-photoshop-cc-training)
+[Java Courses In Hyderabad With Fees](https://justacademyin.github.io/justacademy/java-courses-in-hyderabad-with-fees)
 

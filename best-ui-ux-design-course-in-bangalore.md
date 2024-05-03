@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="Best UI UX Design Course in Bangalore">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="Best UI UX Design Course in Bangalore">
   </a>
 </p>
 ## Best UI UX Design Course in Bangalore
@@ -80,15 +80,15 @@ Upon completing the course, students will join an extensive alumni network of UI
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Sap S 4hana Training](https://www.linkedin.com/pulse/sap-4hana-training-justacademy-beangaluru-nnyac/)
+[Cloud Computing Bootcamp](https://www.linkedin.com/pulse/cloud-computing-bootcamp-justacademy-berlin-abvoc?trackingId=dnJVXDl2%2BoR%2BOdm9YDRjMA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BYf0bh%2BAUR9ioxIsyYDfCpA%3D%3D)
 
-[IT Software Testing Courses](https://www.linkedin.com/pulse/software-testing-courses-justacademy-kolkata-walme?trackingId=Dcb6fJJkuRzSYeVxgtVYCA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BZ3buGVXtSt2MpOd2OMz6cQ%3D%3D)
+[Java Training Institutes In Jayanagar Bangalore](https://www.linkedin.com/pulse/java-training-institutes-jayanagar-bangalore-justacademy-hyderabad-yhv3e?trackingId=eXfTKAKwH1q%2FUUPxJNGprA%3D%3D)
 
-[Adobe Photoshop Cc Course](https://medium.com/@AkashSingh2052/adobe-photoshop-cc-course-55c8d93c21c0)
+[Salesforce Marketing Cloud Developer](https://medium.com/@roneet705/salesforce-marketing-cloud-developer-5393a8018181)
 
-[Photoshop Cc Course](https://medium.com/@shivamja27/photoshop-cc-course-4157b4ec2f4d)
+[Python For Geeks](https://medium.com/@negishivu99/python-for-geeks-65ef9c3d562f)
 
-[Programming Classes Near Me](https://justacademyin.github.io/justacademy/programming-classes-near-me)
+[Php Object Oriented Programming With Databases](https://justacademyin.github.io/justacademy/php-object-oriented-programming-with-databases)
 
-[Angular Or React For Net Developers](https://justacademyin.github.io/justacademy/angular-or-react-for-net-developers)
+[ASP VS PHP](https://justacademyin.github.io/justacademy/asp-vs-php)
 

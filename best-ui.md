@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="Best Ui">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="Best Ui">
   </a>
 </p>
 ## Best Ui
@@ -41,15 +41,15 @@ The best user interface (UI) is one that is visually appealing, intuitive, and e
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Cloud Computing Courses In Hyderabad](https://www.linkedin.com/pulse/cloud-computing-courses-hyderabad-justacademy-jaipur-k6sjc?trackingId=Bj0EeXyQanB%2BGKIGl3Jp3Q%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B%2Bj%2BWkU3wSKSQ1R70zcYAcw%3D%3D)
+[Dot Net Course Fees](https://www.linkedin.com/pulse/dot-net-course-fees-justacademy-boston-orjkc?trackingId=bjrmoecjh0hoyLu771Egjw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BA1nZ1nP9T4epQeiwVmNY3A%3D%3D)
 
-[Sap S 4 Hana Course Fees](https://www.linkedin.com/pulse/sap-4-hana-course-fees-justacademy-sunnyvale-ufapc/)
+[Best Training Institute In Pune For Java](https://www.linkedin.com/pulse/best-training-institute-pune-java-justacademy-beangaluru-50toe?trackingId=431hyb%2Bkny%2F1EWX8V15uAA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BV3sjVNqrQV6LT8YmMJxhFA%3D%3D)
 
-[Pmp Certification California](https://medium.com/@mahi3106/pmp-certification-california-2d4337f1f45e)
+[Sap Abap S4 Hana Certification](https://medium.com/@akanshapatil/sap-abap-s4-hana-certification-530583161920)
 
-[Pmp Certification San Antonio](https://medium.com/@negishivu99/pmp-certification-san-antonio-8c660ca2f328)
+[Java Project Training Institutes In Bangalore](https://medium.com/@roneet705/java-project-training-institutes-in-bangalore-140e2b53676f)
 
-[Java Training Institute Near Tambaram](https://justacademyin.github.io/justacademy/java-training-institute-near-tambaram)
+[Cloud Computing Institutes In Hyderabad](https://justacademyin.github.io/justacademy/cloud-computing-institutes-in-hyderabad)
 
-[Simple Javascript](https://justacademyin.github.io/justacademy/simple-javascript)
+[Illustrator Training Online](https://justacademyin.github.io/justacademy/illustrator-training-online)
 

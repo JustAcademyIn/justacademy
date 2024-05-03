@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="UI UX Designer Course in Delhi">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="UI UX Designer Course in Delhi">
   </a>
 </p>
 ## UI UX Designer Course in Delhi
@@ -60,15 +60,15 @@ The UI UX Designer course in Delhi focuses on teaching students the principles o
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Find Javascript](https://www.linkedin.com/pulse/find-javascript-software-training-sunnyvale-lqegc?trackingId=hpH6XqvzJGE9k4hfql1VEQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BuOGAPcWcQnScqXWa77%2Fzaw%3D%3D)
+[Angular Basic Concepts](https://www.linkedin.com/pulse/angular-basic-concepts-justacademy-canberra-ksxqe?trackingId=o%2F8GHxrFlheK4psb6DCkmA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B7%2Ffp9SMgRFS7eU%2BK9qPCHw%3D%3D)
 
-[Java Training Institutes In Mysore](https://www.linkedin.com/pulse/java-training-institutes-mysore-justacademy-leicester-appke?trackingId=Ype%2FdM9rQQxqFrCZsJbHoQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BPIc21Xd3RP6vIx4zw3ky%2FQ%3D%3D)
+[Best Certifications For Digital Marketing](https://www.linkedin.com/pulse/best-certifications-digital-marketing-justacademy-hyderabad-nveuc?trackingId=ng6cpM0AkRJyknApmNrNXg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BIabnSlYPS7K8e0EtwSHvsQ%3D%3D)
 
-[Full Stack Developer Certification Free](https://medium.com/@prempja40/full-stack-developer-certification-free-37e7c4a551d1)
+[Android App Course Free](https://medium.com/@akanshapatil/android-app-course-free-92ef84b88206)
 
-[Android Certification Free](https://medium.com/@akanshapatil/android-certification-free-996f5514caf4)
+[Sap S 4 Hana Course Fees](https://medium.com/@ranemanish460/sap-s-4-hana-course-fees-e949dfb607cc)
 
-[Training Workshops](https://justacademyin.github.io/justacademy/training-workshops)
+[Selenium and Appium](https://justacademyin.github.io/justacademy/selenium-and-appium)
 
-[Python Training In Delhi](https://justacademyin.github.io/justacademy/python-training-in-delhi)
+[AngularJS vs JavaScript](https://justacademyin.github.io/justacademy/angularjs-vs-javascript)
 

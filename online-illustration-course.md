@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="Online Illustration Course">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="Online Illustration Course">
   </a>
 </p>
 ## Online Illustration Course
@@ -41,15 +41,15 @@ An online illustration course is a valuable opportunity for aspiring artists to 
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Best Software Testing Training Institutes In India](https://www.linkedin.com/pulse/best-software-testing-training-institutes-india-justacademy-mumbai-2wvyc?trackingId=HSPQ%2FRUOtywDndelJN%2BzNQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_showcase_admin%3B4hzOhjOyRsS4BMzXWRzbRw%3D%3D)
+[Php 8 Course](https://www.linkedin.com/pulse/php-8-course-justacademy-hyderabad-a5abc?trackingId=YSFsF9qkvt5yN8I%2BmFqJPg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BIabnSlYPS7K8e0EtwSHvsQ%3D%3D)
 
-[Aws Online Tutorial Free](https://www.linkedin.com/pulse/aws-online-tutorial-free-justacademy-chandigarh-e69pe?trackingId=FJ7PWSnadSOlGLQ4%2Bh0Cig%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B6y121Lb6Rd%2BUFuxjX43O5A%3D%3D)
+[Cloud Computing In India](https://www.linkedin.com/pulse/cloud-computing-india-justacademy-belfast-oaine?trackingId=8R%2FtGDRgS7cC7iLAD33qrw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BZ5ESut9VQxyQx%2BjF%2F1FLaA%3D%3D)
 
-[Photoshop And Lightroom Courses Near Me](https://medium.com/@shivamja27/photoshop-and-lightroom-courses-near-me-0c4118f3fb78)
+[Software Testing Course in Chennai with Placement](https://medium.com/@prempja40/software-testing-course-in-chennai-with-placement-8dbf67a1043d)
 
-[Best Java Training Institute In Thane](https://medium.com/@ranepooja/best-java-training-institute-in-thane-a01bf60b91f8)
+[Android Certification Online Free](https://medium.com/@AkashSingh2052/android-certification-online-free-1130040d4917)
 
-[Asp Net Vs Net Core](https://justacademyin.github.io/justacademy/asp-net-vs-net-core)
+[Cloud Computing Bootcamp](https://justacademyin.github.io/justacademy/cloud-computing-bootcamp)
 
-[Software Testing Course Eligibility](https://justacademyin.github.io/justacademy/software-testing-course-eligibility)
+[Digital Marketing Course in Pitampura](https://justacademyin.github.io/justacademy/digital-marketing-course-in-pitampura)
 

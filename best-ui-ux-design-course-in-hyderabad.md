@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="Best UI UX Design Course In Hyderabad">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="Best UI UX Design Course In Hyderabad">
   </a>
 </p>
 ## Best UI UX Design Course In Hyderabad
@@ -41,15 +41,15 @@ The best UI/UX design course in Hyderabad should offer a comprehensive curriculu
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Full Stack App Developer](https://www.linkedin.com/pulse/full-stack-app-developer-justacademy-thane-mkwxf/)
+[Interactive Learning Machine Learning](https://www.linkedin.com/pulse/interactive-learning-machine-justacademy-bradford-reyge?trackingId=W1758jfO0JFWXveQNqP0Bg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BU6qvup%2BkTG%2BWwu84oCWCCA%3D%3D)
 
-[Software Testing Courses For Freshers](https://www.linkedin.com/pulse/software-testing-course-freshers-justacademy-pune-hvloc?trackingId=g7tK%2FT0ft5qqw%2B3c%2BG%2B02g%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BlnT71xOrSKqY%2FaAG0BEpww%3D%3D)
+[SAP Mm Course In Chennai](https://www.linkedin.com/pulse/sap-mm-course-chennai-justacademy-beangaluru-lwesf/)
 
-[Benefits of Machine Learning](https://medium.com/@kamblerajas684/benefits-of-machine-learning-ca8aa3bdb9f9)
+[Java Training Institute In Delhi](https://medium.com/@surajvaishnav5015/java-training-institute-in-delhi-ed526311c79f)
 
-[Best Java Training Institute In Kanpur](https://medium.com/@kamblerajas684/best-java-training-institute-in-kanpur-b8ea6530db9c)
+[Python Bootcamp Online](https://medium.com/@surajvaishnav5015/python-bootcamp-online-fd0437269cc4)
 
-[Free Php Classes Online](https://justacademyin.github.io/justacademy/free-php-classes-online)
+[Core Java Online Course](https://justacademyin.github.io/justacademy/core-java-online-course)
 
-[Advanced Java Tutorial](https://justacademyin.github.io/justacademy/advanced-java-tutorial)
+[Digital Marketing Courses in Mumbai with Placement](https://justacademyin.github.io/justacademy/digital-marketing-courses-in-mumbai-with-placement)
 

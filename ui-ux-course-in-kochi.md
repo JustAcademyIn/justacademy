@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="UI UX course in kochi">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="UI UX course in kochi">
   </a>
 </p>
 ## UI UX course in kochi
@@ -41,15 +41,15 @@ The UI UX course in Kochi is a comprehensive program that focuses on user interf
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Aws Online Tutorial Free](https://www.linkedin.com/pulse/aws-online-tutorial-free-justacademy-chandigarh-e69pe?trackingId=FJ7PWSnadSOlGLQ4%2Bh0Cig%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B6y121Lb6Rd%2BUFuxjX43O5A%3D%3D)
+[How To Become Java Full Stack Developer](https://www.linkedin.com/pulse/how-become-java-full-stack-developer-justacademy-adelaide-myqwe?trackingId=3BwYc9rJmlJ5X39uIG5S8Q%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BjDYsWr0aQR2yHBC6CP6BGg%3D%3D)
 
-[Introduction Machine Learning With Python](https://www.linkedin.com/pulse/introduction-machine-learning-python-justacademy-brisbane-hrwse?trackingId=JraYsIb6008qYOnoy2EfPA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bvio13MbtTumTY%2Fh1upXELA%3D%3D)
+[Advanced Seo Training](https://www.linkedin.com/pulse/advanced-seo-training-justacademy-london-ix8ef?trackingId=Ys24V8AabINruNbVskK9hQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BosK2%2F2EMSuK0OJgUxbYcDg%3D%3D)
 
-[Java Training Institute In Indore](https://medium.com/@negishivu99/java-training-institute-in-indore-eea77c3a9690)
+[Adobe Photoshop Learning Course](https://medium.com/@abhidnya.1068/adobe-photoshop-learning-course-e583317c7152)
 
-[Selenium Course Free](https://medium.com/@justacademytraining/selenium-course-free-b96c5259be7e)
+[Kotlin Boot Camp](https://medium.com/@ranepooja/kotlin-boot-camp-edc3224779e5)
 
-[Best Software Testing Institutes In Chennai](https://justacademyin.github.io/justacademy/best-software-testing-institutes-in-chennai)
+[Best Machine Learning Certifications](https://justacademyin.github.io/justacademy/best-machine-learning-certifications)
 
-[Software Developer Certification](https://justacademyin.github.io/justacademy/software-developer-certification)
+[GCP Training and Certification](https://justacademyin.github.io/justacademy/gcp-training-and-certification)
 

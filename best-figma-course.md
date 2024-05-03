@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://justacademy.co/all-courses">
-    <img src="https://ibb.co/CngWr2j" alt="Best figma course">
+    <img src="https://i.ibb.co/P5KtSQ2/ui-ux.png" alt="Best figma course">
   </a>
 </p>
 ## Best figma course
@@ -41,15 +41,15 @@ The best Figma course is one that covers the fundamentals of the design tool com
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=919987184296)
 ### Email id: [info@justacademy.co](mailto:info@justacademy.co)
                 
-[Cloud Computing Roadmap](https://www.linkedin.com/pulse/cloud-computing-roadmap-justacademy-leicester-ca8fe?trackingId=cttyDx9eviJBCLetvDGt4A%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BPIc21Xd3RP6vIx4zw3ky%2FQ%3D%3D)
+[Sap Abap On Hana Certification](https://www.linkedin.com/pulse/sap-abap-hana-certification-software-training-sunnyvale-dkvjc/)
 
-[Sap S4 Hana Cloud Training](https://www.linkedin.com/pulse/sap-s4-hana-cloud-training-justacademy-pune-tmsoc/)
+[Node Js Advanced Topics](https://www.linkedin.com/pulse/node-js-advanced-topics-justacademy-bay-area-v1ycc?trackingId=00A6ljLQ0mll2nZSLLyZ6g%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BA%2BceJxOfQEyVvKB2rfxduA%3D%3D)
 
-[Sap Abap Programming For Beginners](https://medium.com/@mahi3106/sap-abap-programming-for-beginners-7b7a3b2e73f2)
+[DevOps Training in Pune](https://medium.com/@roneet705/devops-training-in-pune-44a4ab9cac7e)
 
-[Free Pmp Course](https://medium.com/@ranepooja/free-pmp-course-c764ab3c4a2a)
+[Difference between map and object in javascript](https://medium.com/@akanshapatil/difference-between-map-and-object-in-javascript-291c321c2d15)
 
-[Chris Orwig Training](https://justacademyin.github.io/justacademy/chris-orwig-training)
+[Best Advanced Java Training Institutes In Gurgaon](https://justacademyin.github.io/justacademy/best-advanced-java-training-institutes-in-gurgaon)
 
-[Adobe Illustrator classes online](https://justacademyin.github.io/justacademy/adobe-illustrator-classes-online)
+[Digital Marketing Training in Noida](https://justacademyin.github.io/justacademy/digital-marketing-training-in-noida)
 
